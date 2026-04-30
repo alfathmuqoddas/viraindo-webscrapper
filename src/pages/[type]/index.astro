@@ -1,10 +1,9 @@
 ---
-import { getAllData } from "@/lib/scrapper.ts";
+import data from "@/data.json";
 import AppLayout from "@/layout/AppLayout.astro";
 import MainLayout from "@/layout/MainLayout.astro";
 
 export async function getStaticPaths() {
-  const data = await getAllData();
   
   // Create a unique list of lowercase types
   const types = [...new Set(data.map(item => item.type.toLowerCase()))];
@@ -32,7 +31,7 @@ const { brands } = Astro.props;
     <MainLayout>
         <div class="max-w-xl mx-auto">
         <button class="text-sm rounded-full bg-white px-4 py-1 hover:underline underline-offset-4 active:underline border mb-4 cursor-pointer">
-            <a class="" href={`/`}>
+            <a class="" href={`${import.meta.env.BASE_URL}`}>
                 👈 Back
             </a>
         </button>
@@ -42,7 +41,7 @@ const { brands } = Astro.props;
             const isLast = brands.indexOf(brand) === brands.length - 1;
             return (
             <li class={`p-4 ${!isLast ? 'border-b' : ''}`}>
-            <a class="font-bold tracking-tighter hover:underline active:underline" href={`${type}/${brand.toLowerCase()}`}>{brand}</a>
+            <a class="font-bold tracking-tighter hover:underline active:underline" href={`${import.meta.env.BASE_URL}/${type}/${brand.toLowerCase()}`}>{brand}</a>
             </li>
             )
         })}
