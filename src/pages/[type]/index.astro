@@ -5,15 +5,19 @@ import MainLayout from "@/layout/MainLayout.astro";
 
 export async function getStaticPaths() {
   const data = await getAllData();
-  const types = [...new Set(data.map(item => item.type))];
+  
+  // Create a unique list of lowercase types
+  const types = [...new Set(data.map(item => item.type.toLowerCase()))];
 
-  return types.map(type => {
-    const brands = [...new Set(data.filter(i => i.type === type).map(i => i.brand))];
-    return {
-      params: { type },
-      props: { brands }
-    };
-  });
+  return types.map(type => ({
+    params: { type },
+    props: { 
+      // Filter brands that belong to this type
+      brands: [...new Set(data
+        .filter(i => i.type.toLowerCase() === type)
+        .map(i => i.brand.toUpperCase()))] 
+    }
+  }));
 }
 
 const { type } = Astro.params;

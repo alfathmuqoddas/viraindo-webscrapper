@@ -3,21 +3,51 @@ import { getAllData } from "@/lib/scrapper.ts";
 import AppLayout from "@/layout/AppLayout.astro";
 import MainLayout from "@/layout/MainLayout.astro";
 
+interface Product {
+  type: string;
+  brand: string;
+  model: string;
+  price: string;
+}
+
+// 2. Define the props this page expects
+interface Props {
+  products: Product[];
+  brandName: string;
+}
+
 export async function getStaticPaths() {
   const data = await getAllData();
-  
-  // Create a unique set of type + brand combinations
-  return data.map((item) => ({
-    params: { type: item.type, brand: item.brand.toLowerCase() },
-    props: { 
-      brandName: item.brand,
-      products: data.filter(i => i.type === item.type && i.brand === item.brand) 
-    },
-  }));
+  const pathsMap = new Map();
+
+  data.forEach((item) => {
+    const type = item.type.toLowerCase();
+    const brand = item.brand.toLowerCase();
+    
+    // Safety check: skip if brand is missing or just whitespace
+    if (!brand || brand.trim() === "") return;
+
+    const key = `${type}/${brand}`;
+
+    if (!pathsMap.has(key)) {
+      pathsMap.set(key, {
+        params: { type, brand },
+        props: {
+          brandName: item.brand,
+          products: data.filter(i => 
+            i.type.toLowerCase() === type && 
+            i.brand.toLowerCase() === brand
+          )
+        }
+      });
+    }
+  });
+
+  return Array.from(pathsMap.values()) 
 }
 
 const { type, brand } = Astro.params;
-const { products, brandName } = Astro.props;
+const { products, brandName } = Astro.props as Props
 ---
 
 <AppLayout>
