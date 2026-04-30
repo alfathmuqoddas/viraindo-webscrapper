@@ -19,7 +19,7 @@ import {SOURCES} from "../lib/scrapper";
             const isLast = SOURCES.indexOf(source) === SOURCES.length - 1;
             return (
             <li class={`p-4 ${!isLast ? 'border-b' : ''}`}>
-              <a class="font-bold tracking-tighter hover:underline active:underline" href={`${import.meta.env.BASE_URL}/${source.type}`}>{source.type.toUpperCase() + " " + source.icon}</a>
+              <a class="font-bold tracking-tighter hover:underline active:underline" href={`${source.type}`}>{source.type.toUpperCase() + " " + source.icon}</a>
             </li>
             )
         })}
