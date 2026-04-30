@@ -20,10 +20,15 @@ const { type } = Astro.params;
 const { brands } = Astro.props;
 ---
 <AppLayout>
+    <title slot="head">Select {type} brand | By Alfath Muqoddas</title>
+    <meta name="description" slot="head" content="Viraindo Webscrapper is a simple Astro project that scrapes the Viraindo website and then generate a static website with the scraped data." />
+    <meta name="keywords" slot="head" content="Astro, AstroJS, Astro Website, Astro Webscrapper, Viraindo, Viraindo Webscrapper, Alfath Muqoddas, Alfath, Muqoddas" />
+    <meta name="author" slot="head" content="Alfath Muqoddas" />
+    <meta name="robots" slot="head" content="index, follow" />
     <MainLayout>
         <div class="max-w-xl mx-auto">
         <button class="text-sm rounded-full bg-white px-4 py-1 hover:underline underline-offset-4 active:underline border mb-4 cursor-pointer">
-            <a class="" href={`/`}>
+            <a class="" href={`${import.meta.env.BASE_URL}`}>
                 👈 Back
             </a>
         </button>
@@ -33,7 +38,7 @@ const { brands } = Astro.props;
             const isLast = brands.indexOf(brand) === brands.length - 1;
             return (
             <li class={`p-4 ${!isLast ? 'border-b' : ''}`}>
-            <a class="font-bold tracking-tighter hover:underline active:underline" href={`/${type}/${brand.toLowerCase()}`}>{brand}</a>
+            <a class="font-bold tracking-tighter hover:underline active:underline" href={`${import.meta.env.BASE_URL}/${type}/${brand.toLowerCase()}`}>{brand}</a>
             </li>
             )
         })}

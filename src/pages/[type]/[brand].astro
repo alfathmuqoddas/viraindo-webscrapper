@@ -21,9 +21,14 @@ const { products, brandName } = Astro.props;
 ---
 
 <AppLayout>
+    <title slot="head">{brandName} {type}s | By Alfath Muqoddas</title>
+    <meta name="description" slot="head" content="Viraindo Webscrapper is a simple Astro project that scrapes the Viraindo website and then generate a static website with the scraped data." />
+    <meta name="keywords" slot="head" content="Astro, AstroJS, Astro Website, Astro Webscrapper, Viraindo, Viraindo Webscrapper, Alfath Muqoddas, Alfath, Muqoddas" />
+    <meta name="author" slot="head" content="Alfath Muqoddas" />
+    <meta name="robots" slot="head" content="index, follow" />
     <MainLayout>
         <button class="text-sm rounded-full bg-white px-4 py-1 hover:underline underline-offset-4 active:underline border mb-4">
-            <a class="" href={`/${type}`}>
+            <a class="" href={`${import.meta.env.BASE_URL}/${type}`}>
                 👈 Back
             </a>
         </button>
