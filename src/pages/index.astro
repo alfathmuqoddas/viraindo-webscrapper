@@ -1,17 +1,25 @@
 ---
+import AppLayout from "../layout/AppLayout.astro"
+import MainLayout from "../layout/MainLayout.astro"
+import {SOURCES} from "../lib/scrapper";
+
 
 ---
+<AppLayout>
+  <MainLayout>
+    <div class="max-w-xl mx-auto">
+    <h1 class="mb-4 uppercase font-bold text-xl tracking-tighter">ViraIndo Price List</h1>
+    <ul class="border bg-white">
+      {SOURCES.map(source => {
+            const isLast = SOURCES.indexOf(source) === SOURCES.length - 1;
+            return (
+            <li class={`p-4 ${!isLast ? 'border-b' : ''}`}>
+              <a class="font-bold tracking-tighter hover:underline active:underline" href={`/${source.type}`}>{source.type.toUpperCase() + " " + source.icon}</a>
+            </li>
+            )
+        })}
+    </ul>
+    </div>
+  </MainLayout>
+</AppLayout>
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>

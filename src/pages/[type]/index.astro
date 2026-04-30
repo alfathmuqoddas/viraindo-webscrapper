@@ -1,0 +1,43 @@
+---
+import { getAllData } from "../../lib/scrapper";
+import AppLayout from "@/layout/AppLayout.astro";
+import MainLayout from "@/layout/MainLayout.astro";
+
+export async function getStaticPaths() {
+  const data = await getAllData();
+  const types = [...new Set(data.map(item => item.type))];
+
+  return types.map(type => {
+    const brands = [...new Set(data.filter(i => i.type === type).map(i => i.brand))];
+    return {
+      params: { type },
+      props: { brands }
+    };
+  });
+}
+
+const { type } = Astro.params;
+const { brands } = Astro.props;
+---
+<AppLayout>
+    <MainLayout>
+        <div class="max-w-xl mx-auto">
+        <button class="text-sm rounded-full bg-white px-4 py-1 hover:underline underline-offset-4 active:underline border mb-4 cursor-pointer">
+            <a class="" href={`/`}>
+                👈 Back
+            </a>
+        </button>
+        <h1 class="mb-4 uppercase font-bold text-xl tracking-tighter">Select a Brand for {type}</h1>
+        <ul class="border bg-white">
+        {brands.map(brand => {
+            const isLast = brands.indexOf(brand) === brands.length - 1;
+            return (
+            <li class={`p-4 ${!isLast ? 'border-b' : ''}`}>
+            <a class="font-bold tracking-tighter hover:underline active:underline" href={`/${type}/${brand.toLowerCase()}`}>{brand}</a>
+            </li>
+            )
+        })}
+        </ul>
+        </div>
+    </MainLayout>
+</AppLayout>

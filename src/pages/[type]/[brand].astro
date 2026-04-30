@@ -1,0 +1,53 @@
+---
+import { getAllData } from "../../lib/scrapper";
+import AppLayout from "@/layout/AppLayout.astro";
+import MainLayout from "@/layout/MainLayout.astro";
+
+export async function getStaticPaths() {
+  const data = await getAllData();
+  
+  // Create a unique set of type + brand combinations
+  return data.map((item) => ({
+    params: { type: item.type, brand: item.brand.toLowerCase() },
+    props: { 
+      brandName: item.brand,
+      products: data.filter(i => i.type === item.type && i.brand === item.brand) 
+    },
+  }));
+}
+
+const { type, brand } = Astro.params;
+const { products, brandName } = Astro.props;
+---
+
+<AppLayout>
+    <MainLayout>
+        <button class="text-sm rounded-full bg-white px-4 py-1 hover:underline underline-offset-4 active:underline border mb-4">
+            <a class="" href={`/${type}`}>
+                👈 Back
+            </a>
+        </button>
+        <h1 class="mb-4 font-bold uppercase text-xl tracking-tight">{brandName} {type}s</h1>
+        <div class="overflow-x-auto w-full border">
+        <table class="w-full min-w-xl bg-white">
+            <thead>
+                <tr class="uppercase tracking-tight border-b">
+                    <th class="p-2">No</th>
+                    <th>Model</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                {products.map((p, index) => {
+                    const isLast = products.indexOf(p) === products.length - 1;
+                    return (<tr class={`${!isLast ? "border-b" : ""} font-mono`}>
+                        <td class="p-2 flex items-center justify-center">{index+1}</td>
+                        <td class="p-2">{p.model}</td>
+                        <td class="p-2 ">Rp. {p.price}</td>
+                    </tr>)
+                })}
+            </tbody>
+        </table>
+        </div>
+    </MainLayout>
+</AppLayout>
