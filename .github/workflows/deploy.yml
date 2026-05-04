@@ -20,6 +20,8 @@ jobs:
     steps:
       - name: Checkout your repository using git
         uses: actions/checkout@v6
+      - name: Set Build Date
+        run: echo "PUBLIC_BUILD_DATE=$(date -u +'%e %B %Y')" >> $GITHUB_ENV
       - name: Install, build, and upload your site
         uses: withastro/action@v6
         # with:
