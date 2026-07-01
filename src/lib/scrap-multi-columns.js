@@ -105,11 +105,18 @@ export const urlToFetch = [
   },
 ];
 
-for (const url of urlToFetch) {
-  const data = await scrapeTable(url.url);
-  writeFileSync(`./${url.type}-data.json`, JSON.stringify(data, null, 2));
+for (const source of urlToFetch) {
+  const data = await scrapeTable(source.url);
+
+  const finalData = data.map((item) => ({
+    type: source.type,
+    ...item,
+  }));
+
+  writeFileSync(
+    `./${source.type}-data.json`,
+    JSON.stringify(finalData, null, 2),
+  );
 }
 
-console.log(
-  "✅ Data successfully sorted mathematically and saved (without brand context).",
-);
+console.log("✅ Data correctly mapped, filtered, and saved safely!");
