@@ -64,6 +64,8 @@ async function scrapeTable(url) {
 
         // Assign explicitly to the exact calculated index position (storing just model and price)
         result[newRowIndex] = {
+          //type: type of the item (notebook, processor, memory, etc.)
+          //brand: brand name of the item (INTEL, AMD, Apple, Dell, MSI, Corsair, Cooler Master, Be Quiet!, etc.)
           model: description,
           price: price,
         };
@@ -78,26 +80,34 @@ async function scrapeTable(url) {
   }
 }
 
-const urlToFetch = [
-  { productName: "processor", url: "https://www.viraindo.com/proc.html" },
+export const urlToFetch = [
+  // { type: "processor", url: "https://www.viraindo.com/proc.html" },
+  // {
+  //   type: "motherboard",
+  //   url: "https://www.viraindo.com/motherboard.html",
+  // },
+  // { type: "storage", url: "https://www.viraindo.com/storage.html" },
+  // { type: "RAM", url: "https://www.viraindo.com/memory.html" },
+  // { type: "GPU", url: "https://www.viraindo.com/vga.html" },
+  // { type: "psu", url: "https://www.viraindo.com/psu.html" },
+  // { type: "display", url: "https://www.viraindo.com/lcd.html" },
+  // { type: "case", url: "https://www.viraindo.com/casing.html" },
+  // {
+  //   type: "pc-branded",
+  //   url: "https://www.viraindo.com/pcbranded.html",
+  //   icon: "🖥️",
+  // },
+  // { type: "gadget", url: "https://www.viraindo.com/gadget.html", icon: "📱" },
   {
-    productName: "motherboard",
-    url: "https://www.viraindo.com/motherboard.html",
+    type: "notebook",
+    url: "https://www.viraindo.com/notebook.html",
+    icon: "💻",
   },
-  { productName: "storage", url: "https://www.viraindo.com/storage.html" },
-  { productName: "RAM", url: "https://www.viraindo.com/memory.html" },
-  { productName: "GPU", url: "https://www.viraindo.com/vga.html" },
-  { productName: "psu", url: "https://www.viraindo.com/psu.html" },
-  { productName: "display", url: "https://www.viraindo.com/lcd.html" },
-  { productName: "case", url: "https://www.viraindo.com/casing.html" },
 ];
 
 for (const url of urlToFetch) {
   const data = await scrapeTable(url.url);
-  writeFileSync(
-    `./${url.productName}-data.json`,
-    JSON.stringify(data, null, 2),
-  );
+  writeFileSync(`./${url.type}-data.json`, JSON.stringify(data, null, 2));
 }
 
 console.log(
