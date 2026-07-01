@@ -146,6 +146,6 @@ for (const source of urlToFetch) {
   allDataCombined.push(...perfectlyCleanData);
 }
 
-writeFileSync("./data.json", JSON.stringify(allDataCombined, null, 2));
+writeFileSync("./src/data.json", JSON.stringify(allDataCombined, null, 2));
 
 console.log("✅ Data correctly mapped, filtered, and saved safely!");
