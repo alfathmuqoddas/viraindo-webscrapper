@@ -81,28 +81,28 @@ async function scrapeTable(url) {
 }
 
 export const urlToFetch = [
-  // { type: "processor", url: "https://www.viraindo.com/proc.html" },
-  // {
-  //   type: "motherboard",
-  //   url: "https://www.viraindo.com/motherboard.html",
-  // },
-  // { type: "storage", url: "https://www.viraindo.com/storage.html" },
-  // { type: "RAM", url: "https://www.viraindo.com/memory.html" },
-  // { type: "GPU", url: "https://www.viraindo.com/vga.html" },
-  // { type: "psu", url: "https://www.viraindo.com/psu.html" },
-  // { type: "display", url: "https://www.viraindo.com/lcd.html" },
-  // { type: "case", url: "https://www.viraindo.com/casing.html" },
-  // {
-  //   type: "pc-branded",
-  //   url: "https://www.viraindo.com/pcbranded.html",
-  //   icon: "🖥️",
-  // },
-  // { type: "gadget", url: "https://www.viraindo.com/gadget.html", icon: "📱" },
+  { type: "processor", url: "https://www.viraindo.com/proc.html" },
   {
-    type: "notebook",
-    url: "https://www.viraindo.com/notebook.html",
-    icon: "💻",
+    type: "motherboard",
+    url: "https://www.viraindo.com/motherboard.html",
   },
+  { type: "storage", url: "https://www.viraindo.com/storage.html" },
+  { type: "RAM", url: "https://www.viraindo.com/memory.html" },
+  { type: "GPU", url: "https://www.viraindo.com/vga.html" },
+  { type: "psu", url: "https://www.viraindo.com/psu.html" },
+  { type: "display", url: "https://www.viraindo.com/lcd.html" },
+  { type: "case", url: "https://www.viraindo.com/casing.html" },
+  {
+    type: "pc-branded",
+    url: "https://www.viraindo.com/pcbranded.html",
+    icon: "🖥️",
+  },
+  { type: "gadget", url: "https://www.viraindo.com/gadget.html", icon: "📱" },
+  // {
+  //   type: "notebook",
+  //   url: "https://www.viraindo.com/notebook.html",
+  //   icon: "💻",
+  // },
 ];
 
 for (const source of urlToFetch) {
