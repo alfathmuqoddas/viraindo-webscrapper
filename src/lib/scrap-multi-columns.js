@@ -144,6 +144,8 @@ for (const source of urlToFetch) {
   // );
 
   allDataCombined.push(...perfectlyCleanData);
+
+  console.log(`✅ Scraped ${source.type} data from ${source.url}`);
 }
 
 writeFileSync("./src/data.json", JSON.stringify(allDataCombined, null, 2));
