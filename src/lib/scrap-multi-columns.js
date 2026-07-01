@@ -1,5 +1,56 @@
 import * as cheerio from "cheerio";
 import { writeFileSync } from "fs";
+import { COMPONENT_BRANDS, SOURCES as urlToFetch } from "./constant.mjs";
+
+export function cleanAndNormalizeData(rawItems, productType) {
+  const dictionary = COMPONENT_BRANDS[productType] || [];
+  const genericHeaders = [
+    "CASING",
+    "VGA CARD",
+    "VGA",
+    "MOTHERBOARD",
+    "OTHERS",
+    "UNKNOWN",
+    "HARDDISK",
+  ];
+
+  return rawItems.map((item) => {
+    let cleanBrand = item.brand ? item.brand.trim() : "UNKNOWN";
+    let upperBrand = cleanBrand.toUpperCase();
+    const upperModel = item.model.toUpperCase();
+
+    // Condition A: If the header is missing, general, or generic, find the real brand inside the text
+    if (
+      !cleanBrand ||
+      genericHeaders.some((g) => upperBrand.includes(g)) ||
+      upperBrand === "UNKNOWN"
+    ) {
+      // Look for a known brand keyword inside the item string
+      const matchedBrand = dictionary.find((brand) =>
+        upperModel.includes(brand),
+      );
+
+      if (matchedBrand) {
+        cleanBrand = matchedBrand;
+      } else {
+        // Fallback: If no dictionary brand matches, use the first word as a fallback
+        cleanBrand = item.model.split(" ")[0].toUpperCase();
+      }
+    }
+
+    // Condition B: Standardize common brand typos/variations to uniform casing
+    if (cleanBrand.toUpperCase().startsWith("INTEL")) cleanBrand = "INTEL";
+    if (cleanBrand.toUpperCase().startsWith("AMD")) cleanBrand = "AMD";
+    if (cleanBrand.toUpperCase().includes("GIGABYTE")) cleanBrand = "GIGABYTE";
+
+    return {
+      type: productType,
+      brand: cleanBrand,
+      model: item.model,
+      price: item.price,
+    };
+  });
+}
 
 async function scrapeTable(url) {
   try {
@@ -80,43 +131,21 @@ async function scrapeTable(url) {
   }
 }
 
-export const urlToFetch = [
-  { type: "processor", url: "https://www.viraindo.com/proc.html" },
-  {
-    type: "motherboard",
-    url: "https://www.viraindo.com/motherboard.html",
-  },
-  { type: "storage", url: "https://www.viraindo.com/storage.html" },
-  { type: "RAM", url: "https://www.viraindo.com/memory.html" },
-  { type: "GPU", url: "https://www.viraindo.com/vga.html" },
-  { type: "psu", url: "https://www.viraindo.com/psu.html" },
-  { type: "display", url: "https://www.viraindo.com/lcd.html" },
-  { type: "case", url: "https://www.viraindo.com/casing.html" },
-  {
-    type: "pc-branded",
-    url: "https://www.viraindo.com/pcbranded.html",
-    icon: "🖥️",
-  },
-  { type: "gadget", url: "https://www.viraindo.com/gadget.html", icon: "📱" },
-  // {
-  //   type: "notebook",
-  //   url: "https://www.viraindo.com/notebook.html",
-  //   icon: "💻",
-  // },
-];
+const allDataCombined = [];
 
 for (const source of urlToFetch) {
-  const data = await scrapeTable(source.url);
+  const rawData = await scrapeTable(source.url);
 
-  const finalData = data.map((item) => ({
-    type: source.type,
-    ...item,
-  }));
+  const perfectlyCleanData = cleanAndNormalizeData(rawData, source.type);
 
-  writeFileSync(
-    `./${source.type}-data.json`,
-    JSON.stringify(finalData, null, 2),
-  );
+  // writeFileSync(
+  //   `./${source.type}-data.json`,
+  //   JSON.stringify(perfectlyCleanData, null, 2),
+  // );
+
+  allDataCombined.push(...perfectlyCleanData);
 }
+
+writeFileSync("./data.json", JSON.stringify(allDataCombined, null, 2));
 
 console.log("✅ Data correctly mapped, filtered, and saved safely!");
