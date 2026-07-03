@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "node ./src/lib/scrap-multi-columns.js && astro build",
+    "build": "astro build",
     "preview": "pnpm run build && wrangler dev",
     "astro": "astro"
   },
