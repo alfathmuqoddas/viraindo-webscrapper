@@ -102764,32 +102764,44 @@
   {
     "type": "notebook",
     "brand": "ADVAN",
-    "model": "Advan 2in1 Evo-X 13 N150 Memori 12 GB SSD 512 GB GB Win 11 / Advan EVO-X 13 2-in-1 N150 / ADVAN 2IN1 EVO-X 13 N150 12GB 512GB W11 (Intel N150, RAM 12 GB, SSD 512 GB, Vga Intel, LED 13 3K IPS Touchscreen, Win 11 Home) Ready Stock",
+    "model": "Advan EVO-X 13 2-in-1 N150 (Intel N150, RAM 12 GB, SSD 512 GB, Vga Intel, LED 13 3K IPS Touchscreen, Win 11 Home)",
     "price": "5.900.000"
   },
   {
     "type": "notebook",
     "brand": "ADVAN",
-    "model": "Advan 2in1 Evo-X 13 N150 Memori 12 GB SSD 512 GB GB Win 11 Pro (Intel N150, RAM 12 GB, SSD 512 GB, Vga Intel, LED 13 3K IPS Touchscreen, Windows 11 Profesional) Ready Stock",
+    "model": "Advan 2in1 Evo-X 13 6500Y Memori 12 GB SSD 256 GB GB Win 11 (Intel Pentium Gold 6500Y, RAM 12 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 13 3K IPS Touchscreen, Win 11 Home) Ready Stock",
+    "price": "6.000.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ADVAN",
+    "model": "Advan 2in1 Evo-X 13 6500Y Memori 12 GB SSD 256 GB GB Win 11 Pro (Intel Pentium Gold 6500Y, RAM 12 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 13 3K IPS Touchscreen, Windows 11 Profesional) Ready Stock",
     "price": "6.900.000"
   },
   {
     "type": "notebook",
     "brand": "ADVAN",
-    "model": "Advan 2in1 Evo-X 13 N150 Memori 12 GB SSD 1 TB GB Win 11 Pro (Intel N150, RAM 12 GB, SSD 1 TB, Vga Intel, LED 13 3K IPS Touchscreen, Windows 11 Profesional) Ready Stock",
+    "model": "Advan 2in1 Evo-X 13 6500Y Memori 12 GB SSD 512 GB GB Win 11 Pro (Intel Pentium Gold 6500Y, RAM 12 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 13 3K IPS Touchscreen, Windows 11 Profesional) Ready Stock",
     "price": "7.900.000"
   },
   {
     "type": "notebook",
     "brand": "ADVAN",
-    "model": "Advan 2in1 Evo-X 13 N150 Memori 12 GB SSD 2 TB GB Win 11 Pro (Intel N150, RAM 12 GB, SSD 2 TB, Vga Intel, LED 13 3K IPS Touchscreen, Windows 11 Profesional) Ready Stock",
+    "model": "Advan 2in1 Evo-X 13 6500Y Memori 12 GB SSD 1 TB GB Win 11 Pro (Intel Pentium Gold 6500Y, RAM 12 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 13 3K IPS Touchscreen, Windows 11 Profesional) Ready Stock",
     "price": "9.900.000"
   },
   {
     "type": "notebook",
     "brand": "ADVAN",
-    "model": "Advan 2in1 Evo-X 13 N150 Memori 12 GB SSD 4 TB GB Win 11 Pro (Intel N150, RAM 12 GB, SSD 4 TB, Vga Intel, LED 13 3K IPS Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "13.900.000"
+    "model": "Advan 2in1 Evo-X 13 6500Y Memori 12 GB SSD 2 TB GB Win 11 Pro (Intel Pentium Gold 6500Y, RAM 12 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 13 3K IPS Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": "12.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ADVAN",
+    "model": "Advan 2in1 Evo-X 13 6500Y Memori 12 GB SSD 4 TB GB Win 11 Pro (Intel Pentium Gold 6500Y, RAM 12 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 13 3K IPS Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": "15.900.000"
   },
   {
     "type": "notebook",
@@ -134918,56 +134930,8 @@
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP Victus 15 Ryzen 7 8845HS Memori 16 GB SSD 512 GB RTX4060 Win 11 + OHS / HP Victus 15-FB2111AX / HP Victus 15-FB2112AX / HP Victus 15-FB2114AX / HP VICTUS 15 RYZEN 7 8845HS 16GB 512GB RTX4060 8GB W11+OHS (AMD Ryzen 7 8845HS, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX4060 8 GB, LED 15.6\" FHD 144Hz, Win 11 Home + Office Home Student) Ready Stock (Mica Silver, Performance Blue, Ceramic White)",
+    "model": "HP Victus 15-FB2111AX / HP Victus 15-FB2112AX / HP Victus 15-FB2114AX (AMD Ryzen 7 8845HS, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX4060 8 GB, LED 15.6\" FHD 144Hz, Win 11 Home + Office Home Student) Mica Silver, Performance Blue, Ceramic White",
     "price": "16.200.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Ryzen 7 8845HS Memori 16 GB SSD 512 GB RTX4060 Win 11 Pro + OHS (AMD Ryzen 7 8845HS, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX4060 8 GB, LED 15.6\" FHD 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "17.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Ryzen 7 8845HS Memori 16 GB SSD 1 TB RTX4060 Win 11 Pro + OHS (AMD Ryzen 7 8845HS, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX4060 8 GB, LED 15.6\" FHD 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "18.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Ryzen 7 8845HS Memori 16 GB SSD 2 TB RTX4060 Win 11 Pro + OHS (AMD Ryzen 7 8845HS, RAM 16 GB, SSD 2 TB, Vga Nvidia Geforce RTX4060 8 GB, LED 15.6\" FHD 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "19.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Ryzen 7 8845HS Memori 16 GB SSD 4 TB RTX4060 Win 11 Pro + OHS (AMD Ryzen 7 8845HS, RAM 16 GB, SSD 4 TB, Vga Nvidia Geforce RTX4060 8 GB, LED 15.6\" FHD 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "20.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Ryzen 7 8845HS Memori 32 GB SSD 512 GB RTX4060 Win 11 Pro + OHS (AMD Ryzen 7 8845HS, RAM 32 GB, SSD 512 GB, Vga Nvidia Geforce RTX4060 8 GB, LED 15.6\" FHD 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "18.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Ryzen 7 8845HS Memori 32 GB SSD 1 TB RTX4060 Win 11 Pro + OHS (AMD Ryzen 7 8845HS, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX4060 8 GB, LED 15.6\" FHD 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "19.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Ryzen 7 8845HS Memori 32 GB SSD 2 TB RTX4060 Win 11 Pro + OHS (AMD Ryzen 7 8845HS, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX4060 8 GB, LED 15.6\" FHD 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "20.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Ryzen 7 8845HS Memori 32 GB SSD 4 TB RTX4060 Win 11 Pro + OHS (AMD Ryzen 7 8845HS, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX4060 8 GB, LED 15.6\" FHD 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "21.900.000"
   },
   {
     "type": "notebook",
@@ -135452,30 +135416,6 @@
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP Spectre X360 14 OLED Core Ultra 7 155H Memori 16 GB SSD 1 TB Win 11 / HP SPECTRE X360 14 OLED TOUCH ULTRA 7 155H 16GB 1TB W11 (Intel Core Ultra 7 155H, RAM 16 GB, SSD 1 TB, Vga Intel Arc Graphics, LED 14 2.8K OLED Touchscreen, Win 11 Home) Ready Stock",
-    "price": "17.600.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Spectre X360 14 OLED Core Ultra 7 155H Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core Ultra 7 155H, RAM 16 GB, SSD 1 TB, Vga Intel Arc Graphics, LED 14 2.8K OLED Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "18.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Spectre X360 14 OLED Core Ultra 7 155H Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core Ultra 7 155H, RAM 16 GB, SSD 2 TB, Vga Intel Arc Graphics, LED 14 2.8K OLED Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "20.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Spectre X360 14 OLED Core Ultra 7 155H Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core Ultra 7 155H, RAM 16 GB, SSD 4 TB, Vga Intel Arc Graphics, LED 14 2.8K OLED Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "22.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
     "model": "HP Victus 16-D0108TX (Intel Core i7-11800H, RAM 16GB, SSD 512GB, Vga Nvidia GeForce RTX 3050 4GB, LED 16.1\" FHD 144Hz, Win 10 Home + Office Home Student)",
     "price": "17.700.000"
   },
@@ -135488,44 +135428,8 @@
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP Victus 16 Ryzen 7 8845HS Memori 16 GB SSD 1 TB RTX4060 Win 11 + OHS / HP Victus 16-S1221AX / HP Victus 16-S1222AX / HP Victus 16-S1223AX / HP Victus 16-S1005AX / HP Victus 16-S1006AX / HP Victus 16-S1007AX / HP VICTUS 16 RYZEN 7 8845HS 16GB 1TB RTX4060 8GB W11+OHS (AMD Ryzen 7 8845HS, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX4060 8 GB, LED 16.1\" FHD 144Hz IPS, Win 11 Home + Office Home Student) Ready Stock (Performance Blue, Mica Silver, Ceramic White, Mica Silver, Blue, White)",
+    "model": "HP Victus 16-S1221AX / HP Victus 16-S1222AX / HP Victus 16-S1223AX / HP Victus 16-S1005AX / HP Victus 16-S1006AX / HP Victus 16-S1007AX (AMD Ryzen 7 8845HS, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX4060 8 GB, LED 16.1\" FHD 144Hz IPS, Win 11 Home + Office Home Student) Performance Blue, Mica Silver, Ceramic White, Mica Silver, Blue, White",
     "price": "17.700.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 16 Ryzen 7 8845HS Memori 16 GB SSD 1 TB RTX4060 Win 11 Pro + OHS (AMD Ryzen 7 8845HS, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX4060 8 GB, LED 16.1\" FHD 144Hz IPS, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "18.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 16 Ryzen 7 8845HS Memori 16 GB SSD 2 TB RTX4060 Win 11 Pro + OHS (AMD Ryzen 7 8845HS, RAM 16 GB, SSD 2 TB, Vga Nvidia Geforce RTX4060 8 GB, LED 16.1\" FHD 144Hz IPS, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "20.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 16 Ryzen 7 8845HS Memori 16 GB SSD 4 TB RTX4060 Win 11 Pro + OHS (AMD Ryzen 7 8845HS, RAM 16 GB, SSD 4 TB, Vga Nvidia Geforce RTX4060 8 GB, LED 16.1\" FHD 144Hz IPS, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "22.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 16 Ryzen 7 8845HS Memori 32 GB SSD 1 TB RTX4060 Win 11 Pro + OHS (AMD Ryzen 7 8845HS, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX4060 8 GB, LED 16.1\" FHD 144Hz IPS, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "19.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 16 Ryzen 7 8845HS Memori 32 GB SSD 2 TB RTX4060 Win 11 Pro + OHS (AMD Ryzen 7 8845HS, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX4060 8 GB, LED 16.1\" FHD 144Hz IPS, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "21.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 16 Ryzen 7 8845HS Memori 32 GB SSD 4 TB RTX4060 Win 11 Pro + OHS (AMD Ryzen 7 8845HS, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX4060 8 GB, LED 16.1\" FHD 144Hz IPS, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "23.400.000"
   },
   {
     "type": "notebook",
@@ -143456,84 +143360,6 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo V14 G3 Core i7 1255U Memori 16 GB SSD 512 GB Win 11 + OHS / Lenovo V14 G3 IAP K3ID (82TS00K3ID) (Intel Core i7 1255U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 FHD, Win 11 Home + Office Home Student) Ready Stock (Iron Grey)",
-    "price": "10.800.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G3 Core i7 1255U Memori 16 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "11.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G3 Core i7 1255U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 16 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "13.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G3 Core i7 1255U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 16 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "16.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G3 Core i7 1255U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 16 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "20.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G3 Core i7 1255U Memori 24 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 24 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "13.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G3 Core i7 1255U Memori 24 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 24 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "15.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G3 Core i7 1255U Memori 24 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 24 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "18.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G3 Core i7 1255U Memori 24 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 24 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "22.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G3 Core i7 1255U Memori 40 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 40 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "16.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G3 Core i7 1255U Memori 40 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 40 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "18.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G3 Core i7 1255U Memori 40 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 40 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "21.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G3 Core i7 1255U Memori 40 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 40 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "25.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
     "model": "Lenovo V14 G4 49ID (Intel Core i5 1335U, RAM 8 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 FHD, DOS) Black",
     "price": "7.450.000"
   },
@@ -143806,6 +143632,84 @@
     "brand": "LENOVO",
     "model": "Lenovo V14 G3 IAP-NAID (82TS00NAID) / Lenovo V14 G3 IAP-ARID (82TS00ARID) / Lenovo V14 G3 IAP-EMID (82TS00EMID) (Intel Core i7-1255U, RAM 8 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 FHD, Win 11 Home + Office Home Student) Iron Grey, Iron Grey, Iron Grey",
     "price": "10.100.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo V14 G3 Core i7 1255U Memori 16 GB SSD 512 GB Win 11 + OHS / Lenovo V14 G3 IAP K3ID (82TS00K3ID) (Intel Core i7 1255U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 FHD, Win 11 Home + Office Home Student) Ready Stock (Iron Grey)",
+    "price": "10.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo V14 G3 Core i7 1255U Memori 16 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "11.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo V14 G3 Core i7 1255U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 16 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "13.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo V14 G3 Core i7 1255U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 16 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "16.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo V14 G3 Core i7 1255U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 16 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "20.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo V14 G3 Core i7 1255U Memori 24 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 24 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "13.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo V14 G3 Core i7 1255U Memori 24 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 24 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "15.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo V14 G3 Core i7 1255U Memori 24 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 24 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "18.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo V14 G3 Core i7 1255U Memori 24 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 24 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "22.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo V14 G3 Core i7 1255U Memori 40 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 40 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "16.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo V14 G3 Core i7 1255U Memori 40 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 40 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "18.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo V14 G3 Core i7 1255U Memori 40 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 40 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "21.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo V14 G3 Core i7 1255U Memori 40 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 40 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "25.400.000"
   },
   {
     "type": "notebook",
@@ -144518,62 +144422,14 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Flex 5 14ABR8 Ryzen 5 5625U Memori 16 GB SSD 512 GB Win 11 + OH / Lenovo IdeaPad Flex 5 14ABR8 HXID (82XX00HXID) / Lenovo IdeaPad Flex 5 14ABR8 HVID (82XX00HVID) (AMD Ryzen 5 5625U, RAM 16 GB, SSD 512 GB, Vga Ati Radeon Vega 7, LED 14 WUXGA IPS Touchscreen, Win 11 Home + Office Home) Ready Stock (Arctic Grey, Abyss Blue)",
+    "model": "Lenovo IdeaPad Flex 5 14ABR8 HXID (82XX00HXID) / Lenovo IdeaPad Flex 5 14ABR8 HVID (82XX00HVID) (AMD Ryzen 5 5625U, RAM 16 GB, SSD 512 GB, Vga Ati Radeon Vega 7, LED 14 WUXGA IPS Touchscreen, Win 11 Home + Office Home) Arctic Grey, Abyss Blue",
     "price": "12.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Flex 5 14ABR8 Ryzen 5 5625U Memori 16 GB SSD 512 GB Win 11 Pro + OH (AMD Ryzen 5 5625U, RAM 16 GB, SSD 512 GB, Vga Ati Radeon Vega 7, LED 14 WUXGA IPS Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "13.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Flex 5 14ABR8 Ryzen 5 5625U Memori 16 GB SSD 1 TB Win 11 Pro + OH (AMD Ryzen 5 5625U, RAM 16 GB, SSD 1 TB, Vga Ati Radeon Vega 7, LED 14 WUXGA IPS Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "15.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Flex 5 14ABR8 Ryzen 5 5625U Memori 16 GB SSD 2 TB Win 11 Pro + OH (AMD Ryzen 5 5625U, RAM 16 GB, SSD 2 TB, Vga Ati Radeon Vega 7, LED 14 WUXGA IPS Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "18.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Flex 5 14ABR8 Ryzen 5 5625U Memori 16 GB SSD 4 TB Win 11 Pro + OH (AMD Ryzen 5 5625U, RAM 16 GB, SSD 4 TB, Vga Ati Radeon Vega 7, LED 14 WUXGA IPS Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "22.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Flex 5 14ABR8 Ryzen 7 5825U Memori 16 GB SSD 512 GB Win 11 + OH / Lenovo IdeaPad Flex 5 14ABR8 HWID (82XX00HWID) / Lenovo IdeaPad Flex 5 14ABR8 HYID (82XX00HYID) / Lenovo IdeaPad Flex 5 14ABR8 EHID (82XX00EHID) / Lenovo IdeaPad Flex 5 14ABR8 EJID (82XX00EJID) (AMD Ryzen 7 5825U, RAM 16 GB, SSD 512 GB, Vga Ati Radeon Vega 8, LED 14 WUXGA IPS Touchscreen, Win 11 Home + Office Home) Ready Stock (Arctic Grey, Abyss Blue, Arctic Grey, Abyss Blue)",
+    "model": "Lenovo IdeaPad Flex 5 14ABR8 HWID (82XX00HWID) / Lenovo IdeaPad Flex 5 14ABR8 HYID (82XX00HYID) / Lenovo IdeaPad Flex 5 14ABR8 EHID (82XX00EHID) / Lenovo IdeaPad Flex 5 14ABR8 EJID (82XX00EJID) (AMD Ryzen 7 5825U, RAM 16 GB, SSD 512 GB, Vga Ati Radeon Vega 8, LED 14 WUXGA IPS Touchscreen, Win 11 Home + Office Home) Arctic Grey, Abyss Blue, Arctic Grey, Abyss Blue",
     "price": "13.800.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Flex 5 14ABR8 Ryzen 7 5825U Memori 16 GB SSD 512 GB Win 11 Pro + OH (AMD Ryzen 7 5825U, RAM 16 GB, SSD 512 GB, Vga Ati Radeon Vega 8, LED 14 WUXGA IPS Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "14.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Flex 5 14ABR8 Ryzen 7 5825U Memori 16 GB SSD 1 TB Win 11 Pro + OH (AMD Ryzen 7 5825U, RAM 16 GB, SSD 1 TB, Vga Ati Radeon Vega 8, LED 14 WUXGA IPS Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "16.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Flex 5 14ABR8 Ryzen 7 5825U Memori 16 GB SSD 2 TB Win 11 Pro + OH (AMD Ryzen 7 5825U, RAM 16 GB, SSD 2 TB, Vga Ati Radeon Vega 8, LED 14 WUXGA IPS Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "19.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Flex 5 14ABR8 Ryzen 7 5825U Memori 16 GB SSD 4 TB Win 11 Pro + OH (AMD Ryzen 7 5825U, RAM 16 GB, SSD 4 TB, Vga Ati Radeon Vega 8, LED 14 WUXGA IPS Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "23.900.000"
   },
   {
     "type": "notebook",
@@ -144614,104 +144470,146 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo Flex 5 14 Core i3 1115G4 Memori 4 GB SSD 128 GB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 128 GB, Vga Intel, LED 14\" FHD Touchscreen, Win 11 Home) Ready Stock",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 128 GB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 128 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
     "price": "7.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo Flex 5 14 Core i3 1115G4 Memori 4 GB SSD 256 GB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 256 GB, Vga Intel, LED 14\" FHD Touchscreen, Win 11 Home) Ready Stock",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 256 GB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
     "price": "8.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo Flex 5 14 Core i3 1115G4 Memori 4 GB SSD 512 GB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 512 GB, Vga Intel, LED 14\" FHD Touchscreen, Win 11 Home) Ready Stock",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 512 GB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
     "price": "8.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo Flex 5 14 Core i3 1115G4 Memori 4 GB SSD 1 TB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 1 TB, Vga Intel, LED 14\" FHD Touchscreen, Win 11 Home) Ready Stock",
-    "price": "10.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 14 Core i3 1115G4 Memori 4 GB SSD 2 TB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 2 TB, Vga Intel, LED 14\" FHD Touchscreen, Win 11 Home) Ready Stock",
-    "price": "12.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 14 Core i3 1115G4 Memori 4 GB SSD 4 TB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 4 TB, Vga Intel, LED 14\" FHD Touchscreen, Win 11 Home) Ready Stock",
-    "price": "15.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 14 Core i3 1115G4 Memori 4 GB SSD 128 GB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 128 GB, Vga Intel, LED 14\" FHD Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "8.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 14 Core i3 1115G4 Memori 4 GB SSD 256 GB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 256 GB, Vga Intel, LED 14\" FHD Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "8.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 14 Core i3 1115G4 Memori 4 GB SSD 512 GB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 512 GB, Vga Intel, LED 14\" FHD Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "9.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 14 Core i3 1115G4 Memori 4 GB SSD 1 TB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 1 TB, Vga Intel, LED 14\" FHD Touchscreen, Windows 11 Profesional) Ready Stock",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 1 TB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
     "price": "10.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo Flex 5 14 Core i3 1115G4 Memori 4 GB SSD 2 TB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 2 TB, Vga Intel, LED 14\" FHD Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "13.400.000"
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 2 TB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
+    "price": "13.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo Flex 5 14 Core i3 1115G4 Memori 4 GB SSD 4 TB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 4 TB, Vga Intel, LED 14\" FHD Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "16.400.000"
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 4 TB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
+    "price": "17.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo Flex 5 14 Core i3 1115G4 Memori 4 GB SSD 256 GB Win 11 Pro + OHS (Intel Core i3 1115G4, RAM 4 GB, SSD 256 GB, Vga Intel, LED 14\" FHD Touchscreen, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 128 GB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 128 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": "8.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 256 GB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": "9.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 512 GB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
     "price": "9.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo Flex 5 14 Core i3 1115G4 Memori 4 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i3 1115G4, RAM 4 GB, SSD 512 GB, Vga Intel, LED 14\" FHD Touchscreen, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "10.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 14 Core i3 1115G4 Memori 4 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i3 1115G4, RAM 4 GB, SSD 1 TB, Vga Intel, LED 14\" FHD Touchscreen, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 1 TB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
     "price": "11.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo Flex 5 14 Core i3 1115G4 Memori 4 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i3 1115G4, RAM 4 GB, SSD 2 TB, Vga Intel, LED 14\" FHD Touchscreen, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "14.400.000"
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 2 TB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": "14.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo Flex 5 14 Core i3 1115G4 Memori 4 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i3 1115G4, RAM 4 GB, SSD 4 TB, Vga Intel, LED 14\" FHD Touchscreen, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "17.400.000"
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 4 TB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": "18.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 128 GB Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 128 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
+    "price": "8.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 256 GB Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
+    "price": "9.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 512 GB Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
+    "price": "9.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 1 TB Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
+    "price": "11.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 2 TB Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
+    "price": "14.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 4 TB Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
+    "price": "18.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 128 GB Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 128 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "9.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 256 GB Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "10.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 512 GB Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "10.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 1 TB Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "12.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 2 TB Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "15.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 4 TB Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "19.900.000"
   },
   {
     "type": "notebook",
@@ -146475,7 +146373,7 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15AKP10 Ryzen AI 7 350 Memori 16 GB SSD 512 GB RTX5060 Win 11 + OH / Legion 5 15AKP10 23ID (83F10023ID) / LENOVO LEGION 5 15 OLED RYZEN AI 7 350 16GB 512GB RTX5060 8GB W11+OHS (AMD Ryzen AI 7 350, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.1 WQXGA OLED, Win 11 Home + Office Home) Ready Stock (Eclipse Black)",
-    "price": "26.800.000"
+    "price": "26.900.000"
   },
   {
     "type": "notebook",
@@ -146678,6 +146576,90 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
+    "model": "Lenovo Legion 5 15AGP11 1DID (83Q6001DID) / LENOVO LEGION 5 15 OLED RYZEN AI 7 450 16GB 512GB RTX5060 8GB W11+OHS (AMD Ryzen AI 7 450, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.3 WQXGA OLED, Win 11 Home + Office Home) Eclipse Black",
+    "price": "31.500.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion 5 15AGP11 Ryzen AI 9 465 Memori 32 GB SSD 1 TB RTX5060 Win 11 + OH / Lenovo Legion 5 15AGP11 1EID (83Q6001EID) / LENOVO LEGION 5 15 OLED RYZEN AI 9 465 32GB 1TB RTX5060 8GB W11+OHS (AMD Ryzen AI 9 465, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.3 WQXGA OLED, Win 11 Home + Office Home) Ready Stock (Eclipse Black)",
+    "price": "40.600.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion 5 15AGP11 Ryzen AI 9 465 Memori 32 GB SSD 1 TB RTX5060 Win 11 Pro + OH (AMD Ryzen AI 9 465, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.3 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "41.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion 5 15AGP11 Ryzen AI 9 465 Memori 32 GB SSD 2 TB RTX5060 Win 11 Pro + OH (AMD Ryzen AI 9 465, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.3 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "46.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion 5 15AGP11 Ryzen AI 9 465 Memori 32 GB SSD 4 TB RTX5060 Win 11 Pro + OH (AMD Ryzen AI 9 465, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.3 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "50.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion 5 15AGP11 Ryzen AI 9 465 Memori 64 GB SSD 1 TB RTX5060 Win 11 Pro + OH (AMD Ryzen AI 9 465, RAM 64 GB, SSD 1 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.3 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "48.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion 5 15AGP11 Ryzen AI 9 465 Memori 64 GB SSD 2 TB RTX5060 Win 11 Pro + OH (AMD Ryzen AI 9 465, RAM 64 GB, SSD 2 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.3 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "53.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion 5 15AGP11 Ryzen AI 9 465 Memori 64 GB SSD 4 TB RTX5060 Win 11 Pro + OH (AMD Ryzen AI 9 465, RAM 64 GB, SSD 4 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.3 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "57.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion 5 15AGP11 Ryzen AI 9 465 Memori 96 GB SSD 1 TB RTX5060 Win 11 Pro + OH (AMD Ryzen AI 9 465, RAM 96 GB, SSD 1 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.3 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "55.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion 5 15AGP11 Ryzen AI 9 465 Memori 96 GB SSD 2 TB RTX5060 Win 11 Pro + OH (AMD Ryzen AI 9 465, RAM 96 GB, SSD 2 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.3 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "60.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion 5 15AGP11 Ryzen AI 9 465 Memori 96 GB SSD 4 TB RTX5060 Win 11 Pro + OH (AMD Ryzen AI 9 465, RAM 96 GB, SSD 4 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.3 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "64.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion 5 15AGP11 Ryzen AI 9 465 Memori 128 GB SSD 1 TB RTX5060 Win 11 Pro + OH (AMD Ryzen AI 9 465, RAM 128 GB, SSD 1 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.3 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "62.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion 5 15AGP11 Ryzen AI 9 465 Memori 128 GB SSD 2 TB RTX5060 Win 11 Pro + OH (AMD Ryzen AI 9 465, RAM 128 GB, SSD 2 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.3 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "67.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion 5 15AGP11 Ryzen AI 9 465 Memori 128 GB SSD 4 TB RTX5060 Win 11 Pro + OH (AMD Ryzen AI 9 465, RAM 128 GB, SSD 4 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.3 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "71.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IAH7-3LID (Intel Core i5 12500H, RAM 16 GB, SSD 512 GB, Vga Nvidia GeForce RTX 3050 4GB, LED 15.6\" FHD 165Hz, Win 11 Home + Office Home Student)",
     "price": "16.900.000"
   },
@@ -146721,127 +146703,127 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 16 GB SSD 512 GB RTX5050 Win 11 + OH / Lenovo Legion 5 15IRX10 E9ID (83LY00E9ID) / LENOVO LEGION 5I 15 I7 13650HX 16GB 512GB RTX5050 8GB W11+OHS (Intel Core i7 13650HX, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Win 11 Home + Office Home) Ready Stock (Eclipse Black)",
-    "price": "25.000.000"
+    "price": "25.300.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 16 GB SSD 512 GB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "25.900.000"
+    "price": "26.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 16 GB SSD 1 TB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "27.900.000"
+    "price": "28.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 16 GB SSD 2 TB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 16 GB, SSD 2 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "30.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 16 GB SSD 4 TB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 16 GB, SSD 4 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "34.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 32 GB SSD 512 GB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 32 GB, SSD 512 GB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "29.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 32 GB SSD 1 TB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
     "price": "31.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
+    "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 16 GB SSD 4 TB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 16 GB, SSD 4 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "35.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 32 GB SSD 512 GB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 32 GB, SSD 512 GB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "29.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 32 GB SSD 1 TB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "31.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 32 GB SSD 2 TB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "34.400.000"
+    "price": "34.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 32 GB SSD 4 TB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "38.400.000"
+    "price": "38.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 64 GB SSD 512 GB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 64 GB, SSD 512 GB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "36.400.000"
+    "price": "36.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 64 GB SSD 1 TB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 64 GB, SSD 1 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "38.400.000"
+    "price": "38.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 64 GB SSD 2 TB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 64 GB, SSD 2 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "41.400.000"
+    "price": "41.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 64 GB SSD 4 TB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 64 GB, SSD 4 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "45.400.000"
+    "price": "45.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 96 GB SSD 512 GB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 96 GB, SSD 512 GB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "43.400.000"
+    "price": "43.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 96 GB SSD 1 TB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 96 GB, SSD 1 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "45.400.000"
+    "price": "45.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 96 GB SSD 2 TB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 96 GB, SSD 2 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "48.400.000"
+    "price": "48.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 96 GB SSD 4 TB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 96 GB, SSD 4 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "52.400.000"
+    "price": "52.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 128 GB SSD 512 GB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 128 GB, SSD 512 GB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "50.400.000"
+    "price": "50.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 128 GB SSD 1 TB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 128 GB, SSD 1 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "52.400.000"
+    "price": "52.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 128 GB SSD 2 TB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 128 GB, SSD 2 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "55.400.000"
+    "price": "55.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 13650HX Memori 128 GB SSD 4 TB RTX5050 Win 11 Pro + OH (Intel Core i7 13650HX, RAM 128 GB, SSD 4 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.3 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "59.400.000"
+    "price": "59.900.000"
   },
   {
     "type": "notebook",
@@ -146877,31 +146859,31 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 14700HX Memori 24 GB SSD 512 GB RTX5050 Win 11 + OH / Lenovo Legion 5 15IRX10 4RID (83LY004RID) / LENOVO LEGION 5I 15 OLED I7 14700HX 24GB 512GB RTX5050 8GB W11+OHS (Intel Core i7 14700HX, RAM 24 GB, SSD 512 GB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.1 WQXGA OLED, Win 11 Home + Office Home) Ready Stock (Eclipse Black)",
-    "price": "26.800.000"
+    "price": "27.200.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 14700HX Memori 24 GB SSD 512 GB RTX5050 Win 11 Pro + OH (Intel Core i7 14700HX, RAM 24 GB, SSD 512 GB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.1 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "27.900.000"
+    "price": "28.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 14700HX Memori 24 GB SSD 1 TB RTX5050 Win 11 Pro + OH (Intel Core i7 14700HX, RAM 24 GB, SSD 1 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.1 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "29.900.000"
+    "price": "30.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 14700HX Memori 24 GB SSD 2 TB RTX5050 Win 11 Pro + OH (Intel Core i7 14700HX, RAM 24 GB, SSD 2 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.1 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "32.900.000"
+    "price": "33.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 14700HX Memori 24 GB SSD 4 TB RTX5050 Win 11 Pro + OH (Intel Core i7 14700HX, RAM 24 GB, SSD 4 TB, Vga Nvidia Geforce RTX5050 8 GB, LED 15.1 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "36.900.000"
+    "price": "37.400.000"
   },
   {
     "type": "notebook",
@@ -147003,37 +146985,37 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 14700HX Memori 16 GB SSD 512 GB RTX5060 Win 11 + OH / Lenovo Legion 5 15IRX10 HKID (83LY00HKID) / LENOVO LEGION 5I 15 OLED I7 14700HX 16GB 512GB RTX5060 8GB W11+OHS (Intel Core i7 14700HX, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.1 WQXGA OLED, Win 11 Home + Office Home) Ready Stock (Eclipse Black)",
-    "price": "26.900.000"
+    "price": "27.300.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 14700HX Memori 16 GB SSD 512 GB RTX5060 Win 11 Pro + OH (Intel Core i7 14700HX, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.1 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "27.900.000"
+    "price": "28.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 14700HX Memori 16 GB SSD 1 TB RTX5060 Win 11 Pro + OH (Intel Core i7 14700HX, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.1 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "29.900.000"
+    "price": "30.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 14700HX Memori 16 GB SSD 2 TB RTX5060 Win 11 Pro + OH (Intel Core i7 14700HX, RAM 16 GB, SSD 2 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.1 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "32.900.000"
+    "price": "33.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 14700HX Memori 16 GB SSD 4 TB RTX5060 Win 11 Pro + OH (Intel Core i7 14700HX, RAM 16 GB, SSD 4 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.1 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "36.900.000"
+    "price": "37.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IRX10 Core i7 14700HX Memori 24 GB SSD 512 GB RTX5060 Win 11 + OH / Lenovo Legion 5 15IRX10 43ID (83LY0043ID) / LENOVO LEGION 5I 15 OLED I7 14700HX 24GB 512GB RTX5060 8GB W11+OHS (Intel Core i7 14700HX, RAM 24 GB, SSD 512 GB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.1 WQXGA OLED, Win 11 Home + Office Home) Ready Stock (Eclipse Black)",
-    "price": "27.700.000"
+    "price": "28.000.000"
   },
   {
     "type": "notebook",
@@ -147429,7 +147411,7 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IAX10 Core Ultra 7 255HX Memori 32 GB SSD 512 GB RTX5060 Win 11 + OH / Lenovo Legion 5 15IAX10 65ID (83F00065ID) / LENOVO LEGION 5I 15 OLED ULTRA 7 255HX 32GB 512GB RTX5060 8GB W11+OHS (Intel Core Ultra 7 255HX, RAM 32 GB, SSD 512 GB, Vga Nvidia Geforce RTX5060 8 GB, LED 15.1 WQXGA OLED, Win 11 Home + Office Home) Ready Stock",
-    "price": "29.500.000"
+    "price": "29.200.000"
   },
   {
     "type": "notebook",
@@ -147531,7 +147513,7 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 5 15IAX10 Core Ultra 7 255HX Memori 32 GB SSD 512 GB RTX5070 Win 11 + OH / Lenovo Legion 5 15IAX10 64ID (83F00064ID) / LENOVO LEGION 5I 15 OLED ULTRA 7 255HX 32GB 512GB RTX5070 8GB W11+OHS (Intel Core Ultra 7 255HX, RAM 32 GB, SSD 512 GB, Vga Nvidia Geforce RTX5070 8 GB, LED 15.1 WQXGA OLED, Win 11 Home + Office Home) Ready Stock (Eclipse Black)",
-    "price": "30.900.000"
+    "price": "30.800.000"
   },
   {
     "type": "notebook",
@@ -147633,253 +147615,163 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16AFR10 Ryzen 9 9955HX Memori 32 GB SSD 1 TB RTX5070 Win 11 + OH / Legion Pro 5 16AFR10 2FID (83F2002FID) / LENOVO LEGION PRO 5 16 OLED RYZEN 9 9955HX 32GB 1TB RTX5070 8GB W11+OHS (AMD Ryzen 9 9955HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA, Win 11 Home + Office Home) Ready Stock (Eclipse Black)",
-    "price": "35.600.000"
+    "price": "36.200.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16AFR10 Ryzen 9 9955HX Memori 32 GB SSD 1 TB RTX5070 Win 11 Pro + OH (AMD Ryzen 9 9955HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "36.900.000"
+    "price": "37.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16AFR10 Ryzen 9 9955HX Memori 32 GB SSD 2 TB RTX5070 Win 11 Pro + OH (AMD Ryzen 9 9955HX, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "41.900.000"
+    "price": "42.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16AFR10 Ryzen 9 9955HX Memori 32 GB SSD 4 TB RTX5070 Win 11 Pro + OH (AMD Ryzen 9 9955HX, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "45.900.000"
+    "price": "46.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16AFR10 Ryzen 9 9955HX Memori 64 GB SSD 1 TB RTX5070 Win 11 Pro + OH (AMD Ryzen 9 9955HX, RAM 64 GB, SSD 1 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "43.900.000"
+    "price": "44.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16AFR10 Ryzen 9 9955HX Memori 64 GB SSD 2 TB RTX5070 Win 11 Pro + OH (AMD Ryzen 9 9955HX, RAM 64 GB, SSD 2 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "48.900.000"
+    "price": "49.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16AFR10 Ryzen 9 9955HX Memori 64 GB SSD 4 TB RTX5070 Win 11 Pro + OH (AMD Ryzen 9 9955HX, RAM 64 GB, SSD 4 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "52.900.000"
+    "price": "53.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16AFR10 Ryzen 9 9955HX Memori 96 GB SSD 1 TB RTX5070 Win 11 Pro + OH (AMD Ryzen 9 9955HX, RAM 96 GB, SSD 1 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "50.900.000"
+    "price": "51.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16AFR10 Ryzen 9 9955HX Memori 96 GB SSD 2 TB RTX5070 Win 11 Pro + OH (AMD Ryzen 9 9955HX, RAM 96 GB, SSD 2 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "55.900.000"
+    "price": "56.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16AFR10 Ryzen 9 9955HX Memori 96 GB SSD 4 TB RTX5070 Win 11 Pro + OH (AMD Ryzen 9 9955HX, RAM 96 GB, SSD 4 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "59.900.000"
+    "price": "60.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16AFR10 Ryzen 9 9955HX Memori 128 GB SSD 1 TB RTX5070 Win 11 Pro + OH (AMD Ryzen 9 9955HX, RAM 128 GB, SSD 1 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "57.900.000"
+    "price": "58.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16AFR10 Ryzen 9 9955HX Memori 128 GB SSD 2 TB RTX5070 Win 11 Pro + OH (AMD Ryzen 9 9955HX, RAM 128 GB, SSD 2 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "62.900.000"
+    "price": "63.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16AFR10 Ryzen 9 9955HX Memori 128 GB SSD 4 TB RTX5070 Win 11 Pro + OH (AMD Ryzen 9 9955HX, RAM 128 GB, SSD 4 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "66.900.000"
+    "price": "67.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 16 GB SSD 1 TB RTX5060 Win 11 + OH / Lenovo Legion Pro 5 16IAX10 35ID (83F30035ID) / LENOVO LEGION PRO 5I 16 OLED ULTRA 7 255HX 16GB 1TB RTX5060 8GB W11+OHS (Intel Core Ultra 7 255HX, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 16 WQXGA OLED, Win 11 Home + Office Home) Ready Stock (Eclipse Black)",
+    "model": "Lenovo Legion Pro 5 16IAX10 35ID (83F30035ID) (Intel Core Ultra 7 255HX, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 16 WQXGA OLED, Win 11 Home + Office Home) Eclipse Black",
     "price": "28.300.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 16 GB SSD 1 TB RTX5060 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "29.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 16 GB SSD 2 TB RTX5060 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 16 GB, SSD 2 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "34.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 16 GB SSD 4 TB RTX5060 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 16 GB, SSD 4 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "38.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 32 GB SSD 1 TB RTX5060 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "32.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 32 GB SSD 2 TB RTX5060 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "37.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 32 GB SSD 4 TB RTX5060 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "41.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 64 GB SSD 1 TB RTX5060 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 64 GB, SSD 1 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "39.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 64 GB SSD 2 TB RTX5060 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 64 GB, SSD 2 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "44.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 64 GB SSD 4 TB RTX5060 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 64 GB, SSD 4 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "48.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 96 GB SSD 1 TB RTX5060 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 96 GB, SSD 1 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "46.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 96 GB SSD 2 TB RTX5060 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 96 GB, SSD 2 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "51.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 96 GB SSD 4 TB RTX5060 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 96 GB, SSD 4 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "55.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 128 GB SSD 1 TB RTX5060 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 128 GB, SSD 1 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "53.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 128 GB SSD 2 TB RTX5060 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 128 GB, SSD 2 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "58.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 128 GB SSD 4 TB RTX5060 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 128 GB, SSD 4 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "62.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 32 GB SSD 1 TB RTX5070 Win 11 + OH / Lenovo Legion Pro 5 16IAX10 (83F30039ID) / LENOVO LEGION PRO 5I 16 OLED ULTRA 7 255HX 32GB 1TB RTX5070 8GB W11+OHS (Intel Core Ultra 7 255HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA OLED, Win 11 Home + Office Home) Ready Stock (Eclipse Black)",
-    "price": "33.900.000"
+    "price": "34.200.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 32 GB SSD 1 TB RTX5070 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "34.900.000"
+    "price": "35.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 32 GB SSD 2 TB RTX5070 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "39.900.000"
+    "price": "40.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 32 GB SSD 4 TB RTX5070 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "43.900.000"
+    "price": "44.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 64 GB SSD 1 TB RTX5070 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 64 GB, SSD 1 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "41.900.000"
+    "price": "42.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 64 GB SSD 2 TB RTX5070 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 64 GB, SSD 2 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "46.900.000"
+    "price": "47.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 64 GB SSD 4 TB RTX5070 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 64 GB, SSD 4 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "50.900.000"
+    "price": "51.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 96 GB SSD 1 TB RTX5070 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 96 GB, SSD 1 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "48.900.000"
+    "price": "49.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 96 GB SSD 2 TB RTX5070 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 96 GB, SSD 2 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "53.900.000"
+    "price": "54.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 96 GB SSD 4 TB RTX5070 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 96 GB, SSD 4 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "57.900.000"
+    "price": "58.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 128 GB SSD 1 TB RTX5070 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 128 GB, SSD 1 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "55.900.000"
+    "price": "56.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 128 GB SSD 2 TB RTX5070 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 128 GB, SSD 2 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "60.900.000"
+    "price": "61.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16IAX10 Core Ultra 7 255HX Memori 128 GB SSD 4 TB RTX5070 Win 11 Pro + OH (Intel Core Ultra 7 255HX, RAM 128 GB, SSD 4 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "64.900.000"
+    "price": "65.400.000"
   },
   {
     "type": "notebook",
@@ -147945,7 +147837,7 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 5 16IAX10H Core Ultra 9 275HX Memori 32 GB SSD 1 TB RTX5070Ti Win 11 + OH / Lenovo Legion Pro 5 16IAX10H 1LID (83LU001LID) / LENOVO LEGION PRO 5I 16 OLED ULTRA 9 275HX 32GB 1TB RTX5070TI 12GB W11+OHS (Intel Core Ultra 9 275HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX5070 Ti 12 GB, LED 16 WQXGA OLED, Win 11 Home + Office Home) Ready Stock (Eclipse Black)",
-    "price": "41.900.000"
+    "price": "42.100.000"
   },
   {
     "type": "notebook",
@@ -148262,6 +148154,84 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
+    "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 32 GB SSD 1 TB RTX5070Ti Win 11 + OH / Lenovo Legion Pro 7 16IAX10H HSID (83F500HSID) / LENOVO LEGION PRO 7I 16 OLED FIFA WORLD CUP 26 EDITION ULTRA 9 275HX 32GB 1TB RTX5070TI 12GB W11+OHS (Intel Core Ultra 9 275HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX5070Ti 12 GB, LED 16 WQXGA OLED, Win 11 Home + Office Home) Ready Stock (Eclipse Black)",
+    "price": "60.800.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 32 GB SSD 1 TB RTX5070Ti Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX5070Ti 12 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "61.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 32 GB SSD 2 TB RTX5070Ti Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX5070Ti 12 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "66.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 32 GB SSD 4 TB RTX5070Ti Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX5070Ti 12 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "71.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 64 GB SSD 1 TB RTX5070Ti Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 64 GB, SSD 1 TB, Vga Nvidia Geforce RTX5070Ti 12 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "68.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 64 GB SSD 2 TB RTX5070Ti Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 64 GB, SSD 2 TB, Vga Nvidia Geforce RTX5070Ti 12 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "73.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 64 GB SSD 4 TB RTX5070Ti Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 64 GB, SSD 4 TB, Vga Nvidia Geforce RTX5070Ti 12 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "77.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 96 GB SSD 1 TB RTX5070Ti Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 96 GB, SSD 1 TB, Vga Nvidia Geforce RTX5070Ti 12 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "75.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 96 GB SSD 2 TB RTX5070Ti Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 96 GB, SSD 2 TB, Vga Nvidia Geforce RTX5070Ti 12 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "80.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 96 GB SSD 4 TB RTX5070Ti Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 96 GB, SSD 4 TB, Vga Nvidia Geforce RTX5070Ti 12 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "84.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 128 GB SSD 1 TB RTX5070Ti Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 128 GB, SSD 1 TB, Vga Nvidia Geforce RTX5070Ti 12 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "82.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 128 GB SSD 2 TB RTX5070Ti Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 128 GB, SSD 2 TB, Vga Nvidia Geforce RTX5070Ti 12 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "87.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 128 GB SSD 4 TB RTX5070Ti Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 128 GB, SSD 4 TB, Vga Nvidia Geforce RTX5070Ti 12 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "91.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
     "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 32 GB SSD 1 TB RTX5080 Win 11 + OH / Lenovo Legion Pro 7 16IAX10H 8YID (83F5008YID) / LENOVO LEGION PRO 7I 16 OLED ULTRA 9 275HX 32GB 1TB RTX5080 16GB W11+OHS (Intel Core Ultra 9 275HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX5080 16 GB, LED 16 WQXGA OLED, Win 11 Home + Office Home) Ready Stock (Eclipse Black)",
     "price": "53.500.000"
   },
@@ -148425,13 +148395,13 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 9 18IAX10 Core Ultra 9 275HX Memori 64 GB SSD 2 TB RTX5090 Win 11 + OH / Lenovo Legion 9 18IAX10 49ID (83EY0049ID) LENOVO LEGION 9I 16 ULTRA 9 275HX 64GB 2TB RTX5090 24GB W11+OHS (Intel Core Ultra 9 275HX, RAM 64 GB, SSD 2 TB, Vga Nvidia Geforce RTX5090 24 GB, LED 18 WQUXGA, Win 11 Home + Office Home) Ready Stock (Eclipse Black)",
-    "price": "109.900.000"
+    "price": "110.500.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 9 18IAX10 Core Ultra 9 275HX Memori 64 GB SSD 2 TB RTX5090 Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 64 GB, SSD 2 TB, Vga Nvidia Geforce RTX5090 24 GB, LED 18 WQUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "110.900.000"
+    "price": "111.900.000"
   },
   {
     "type": "notebook",
@@ -148443,25 +148413,25 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 9 18IAX10 Core Ultra 9 275HX Memori 96 GB SSD 2 TB RTX5090 Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 96 GB, SSD 2 TB, Vga Nvidia Geforce RTX5090 24 GB, LED 18 WQUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "117.900.000"
+    "price": "118.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 9 18IAX10 Core Ultra 9 275HX Memori 96 GB SSD 4 TB RTX5090 Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 96 GB, SSD 4 TB, Vga Nvidia Geforce RTX5090 24 GB, LED 18 WQUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "126.900.000"
+    "price": "127.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 9 18IAX10 Core Ultra 9 275HX Memori 128 GB SSD 2 TB RTX5090 Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 128 GB, SSD 2 TB, Vga Nvidia Geforce RTX5090 24 GB, LED 18 WQUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "124.900.000"
+    "price": "125.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion 9 18IAX10 Core Ultra 9 275HX Memori 128 GB SSD 4 TB RTX5090 Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 128 GB, SSD 4 TB, Vga Nvidia Geforce RTX5090 24 GB, LED 18 WQUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "133.900.000"
+    "price": "134.900.000"
   },
   {
     "type": "notebook",
@@ -160544,8 +160514,74 @@
   {
     "type": "notebook",
     "brand": "SPC",
-    "model": "SPC Style 5 Ryzen 5 3500U Memori 8 GB SSD 256 GB DOS / SPC STYLE 5 RYZEN 5 3500 8GB 256GB DOS / SPC STYLE 5 VIBE RYZEN 5 3500U 8GB 256GB DOS (AMD Ryzen 5 3500U, RAM 8 GB, SSD 256 GB, Vga Ati Radeon Vega 8, LED 14 FHD IPS, DOS) Ready Stock",
-    "price": "5.400.000"
+    "model": "SPC Style 3 Ryzen 3 3200U Memori 8 GB SSD 256 GB DOS / SPC STYLE 3 RYZEN 3 3200 8GB 256GB DOS (AMD Ryzen 3 3200U, RAM 8 GB, SSD 256 GB, Vga Ati Radeon Vega 8, LED 14 FHD IPS, DOS) Ready Stock (Grey, Blue)",
+    "price": "4.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "SPC",
+    "model": "SPC Style 3 Ryzen 3 3200U Memori 8 GB SSD 256 GB Win 11 Pro (AMD Ryzen 3 3200U, RAM 8 GB, SSD 256 GB, Vga Ati Radeon Vega 8, LED 14 FHD IPS, Windows 11 Profesional) Ready Stock",
+    "price": "5.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "SPC",
+    "model": "SPC Style 3 Ryzen 3 3200U Memori 8 GB SSD 512 GB Win 11 Pro (AMD Ryzen 3 3200U, RAM 8 GB, SSD 512 GB, Vga Ati Radeon Vega 8, LED 14 FHD IPS, Windows 11 Profesional) Ready Stock",
+    "price": "6.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "SPC",
+    "model": "SPC Style 3 Ryzen 3 3200U Memori 8 GB SSD 1 TB Win 11 Pro (AMD Ryzen 3 3200U, RAM 8 GB, SSD 1 TB, Vga Ati Radeon Vega 8, LED 14 FHD IPS, Windows 11 Profesional) Ready Stock",
+    "price": "8.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "SPC",
+    "model": "SPC Style 3 Ryzen 3 3200U Memori 8 GB SSD 2 TB Win 11 Pro (AMD Ryzen 3 3200U, RAM 8 GB, SSD 2 TB, Vga Ati Radeon Vega 8, LED 14 FHD IPS, Windows 11 Profesional) Ready Stock",
+    "price": "11.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "SPC",
+    "model": "SPC Style 3 Ryzen 3 3200U Memori 8 GB SSD 4 TB Win 11 Pro (AMD Ryzen 3 3200U, RAM 8 GB, SSD 4 TB, Vga Ati Radeon Vega 8, LED 14 FHD IPS, Windows 11 Profesional) Ready Stock",
+    "price": "15.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "SPC",
+    "model": "SPC Style 3 Ryzen 3 3200U Memori 16 GB SSD 256 GB Win 11 Pro (AMD Ryzen 3 3200U, RAM 16 GB, SSD 256 GB, Vga Ati Radeon Vega 8, LED 14 FHD IPS, Windows 11 Profesional) Ready Stock",
+    "price": "7.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "SPC",
+    "model": "SPC Style 3 Ryzen 3 3200U Memori 16 GB SSD 512 GB Win 11 Pro (AMD Ryzen 3 3200U, RAM 16 GB, SSD 512 GB, Vga Ati Radeon Vega 8, LED 14 FHD IPS, Windows 11 Profesional) Ready Stock",
+    "price": "7.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "SPC",
+    "model": "SPC Style 3 Ryzen 3 3200U Memori 16 GB SSD 1 TB Win 11 Pro (AMD Ryzen 3 3200U, RAM 16 GB, SSD 1 TB, Vga Ati Radeon Vega 8, LED 14 FHD IPS, Windows 11 Profesional) Ready Stock",
+    "price": "9.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "SPC",
+    "model": "SPC Style 3 Ryzen 3 3200U Memori 16 GB SSD 2 TB Win 11 Pro (AMD Ryzen 3 3200U, RAM 16 GB, SSD 2 TB, Vga Ati Radeon Vega 8, LED 14 FHD IPS, Windows 11 Profesional) Ready Stock",
+    "price": "12.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "SPC",
+    "model": "SPC Style 3 Ryzen 3 3200U Memori 16 GB SSD 4 TB Win 11 Pro (AMD Ryzen 3 3200U, RAM 16 GB, SSD 4 TB, Vga Ati Radeon Vega 8, LED 14 FHD IPS, Windows 11 Profesional) Ready Stock",
+    "price": "16.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "SPC",
+    "model": "SPC Style 5 Ryzen 5 3500U Memori 8 GB SSD 256 GB DOS / SPC STYLE 5 VIBE RYZEN 5 3500 8GB 256GB DOS (AMD Ryzen 5 3500U, RAM 8 GB, SSD 256 GB, Vga Ati Radeon Vega 8, LED 14 FHD IPS, DOS) Ready Stock",
+    "price": "5.300.000"
   },
   {
     "type": "notebook",
@@ -160611,7 +160647,7 @@
     "type": "notebook",
     "brand": "SPC",
     "model": "SPC Life 5 Core i5 12450H Memori 8 GB SSD 512 GB Win 11 Pro / SPC LIFE 5 I5 12450H 8GB 512GB W11PRO (Intel Core i5 12450H, RAM 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD IPS, Windows 11 Profesional) Ready Stock",
-    "price": "6.350.000"
+    "price": "6.300.000"
   },
   {
     "type": "notebook",
@@ -160635,7 +160671,7 @@
     "type": "notebook",
     "brand": "SPC",
     "model": "SPC Life 5 Core i5 12450H Memori 16 GB SSD 512 GB Win 11 Pro (Intel Core i5 12450H, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD IPS, Windows 11 Profesional) Ready Stock",
-    "price": "7.800.000"
+    "price": "7.600.000"
   },
   {
     "type": "notebook",
@@ -160881,7 +160917,7 @@
     "type": "notebook",
     "brand": "TECNO",
     "model": "Tecno Megabook S14 Core Ultra 5 125H Memori 16 GB SSD 1 TB Win 11 / TECNO MEGABOOK S14 OLED ULTRA 5 125H 16GB 1TB W11 (Intel Core Ultra 5 125H, RAM 16 GB, SSD 1 TB, Vga Intel Arc Graphics, LED 14 2.8K, Win 11 Home) Ready Stock",
-    "price": "13.600.000"
+    "price": "13.800.000"
   },
   {
     "type": "notebook",
