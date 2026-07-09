@@ -3,16 +3,13 @@
   "include": [
     ".astro/types.d.ts",
     "**/*",
-    "./worker-configuration.d.ts"
+    "./worker-configuration.d.ts",
+    "env.d.ts"
   ],
-  "exclude": [
-    "dist"
-  ],
+  "exclude": ["dist"],
   "compilerOptions": {
     "paths": {
-      "@/*": [
-        "./src/*"
-      ]
+      "@/*": ["./src/*"]
     },
     "jsx": "react-jsx",
     "jsxImportSource": "preact"
