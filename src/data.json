@@ -873,7 +873,7 @@
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i7 10700F (2.9 Ghz Up To 4.8 Ghz) Cache 16MB (Tray)",
-    "price": "2.950.000"
+    "price": "3.400.000"
   },
   {
     "type": "processor",
@@ -1095,19 +1095,19 @@
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i5 12400F 2.5 GHz Up To 4.4 GHz Cache 18MB (BOX)",
-    "price": "2.400.000"
+    "price": "2.500.000"
   },
   {
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i5 12400 2.5 GHz Up To 4.4 GHz Cache 18MB (Tray)",
-    "price": "2.000.000"
+    "price": "2.050.000"
   },
   {
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i5 12400 2.5 GHz Up To 4.4 GHz Cache 18MB (BOX)",
-    "price": "2.800.000"
+    "price": "3.500.000"
   },
   {
     "type": "processor",
@@ -1131,13 +1131,13 @@
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i5 12600KF 3.7 GHz Up To 4.9 GHz Cache 20MB (BOX)",
-    "price": "2.900.000"
+    "price": "3.100.000"
   },
   {
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i5 12600K 3.7 GHz Up To 4.9 GHz Cache 20MB (BOX)",
-    "price": "3.200.000"
+    "price": "3.900.000"
   },
   {
     "type": "processor",
@@ -106640,36 +106640,6 @@
   {
     "type": "notebook",
     "brand": "ACER",
-    "model": "Acer Swift Lite 14 Air Edition SFL14-54M Core Ultra 5 115U Memori 16 GB SSD 512 GB Win 11 + Office / Acer Swift Lite 14 Air Edition (SFL14-54M-56UB) / ACER SWIFT LITE 14 AIR EDITION ULTRA 5 115U 16GB 512GB W11+OHS (Intel Core Ultra 5 115U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 WUXGA, Win 11 Home + Office) Ready Stock (Light Silver)",
-    "price": "11.800.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ACER",
-    "model": "Acer Swift Lite 14 Air Edition SFL14-54M Core Ultra 5 115U Memori 16 GB SSD 512 GB Win 11 Pro + Office (Intel Core Ultra 5 115U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office) Ready Stock",
-    "price": "12.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ACER",
-    "model": "Acer Swift Lite 14 Air Edition SFL14-54M Core Ultra 5 115U Memori 16 GB SSD 1 TB Win 11 Pro + Office (Intel Core Ultra 5 115U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office) Ready Stock",
-    "price": "14.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ACER",
-    "model": "Acer Swift Lite 14 Air Edition SFL14-54M Core Ultra 5 115U Memori 16 GB SSD 2 TB Win 11 Pro + Office (Intel Core Ultra 5 115U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office) Ready Stock",
-    "price": "17.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ACER",
-    "model": "Acer Swift Lite 14 Air Edition SFL14-54M Core Ultra 5 115U Memori 16 GB SSD 4 TB Win 11 Pro + Office (Intel Core Ultra 5 115U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office) Ready Stock",
-    "price": "21.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ACER",
     "model": "Acer Swift X (SFX14-41G-R1B6) / Acer Swift X ART Limited Edition (SFX14-41G-R1B6-ART) / Acer Swift X SFX14-41G-R1L1 (AMD Ryzen 5 5600U, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX 3050 4 GB, LED 14\" FHD, Win 11 Home + Office Home Student) Safari Gold, Blue",
     "price": "11.900.000"
   },
@@ -106978,6 +106948,36 @@
     "brand": "ACER",
     "model": "Acer Travelmate P214 Core i7 1165G7 Memori 32 GB SSD 4 TB Win 11 Pro (Intel Core i7 1165G7, RAM 32 GB, SSD 4 TB, Vga Intel iris Xe Graphics, LED 14\", Windows 11 Profesional) Ready Stock",
     "price": "17.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ACER",
+    "model": "Acer Swift Lite 14 Air Edition SFL14-54M Core Ultra 5 115U Memori 16 GB SSD 512 GB Win 11 + Office / Acer Swift Lite 14 Air Edition (SFL14-54M-56UB) / ACER SWIFT LITE 14 AIR EDITION ULTRA 5 115U 16GB 512GB W11+OHS (Intel Core Ultra 5 115U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 WUXGA, Win 11 Home + Office) Ready Stock (Light Silver)",
+    "price": "12.300.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ACER",
+    "model": "Acer Swift Lite 14 Air Edition SFL14-54M Core Ultra 5 115U Memori 16 GB SSD 512 GB Win 11 Pro + Office (Intel Core Ultra 5 115U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office) Ready Stock",
+    "price": "13.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ACER",
+    "model": "Acer Swift Lite 14 Air Edition SFL14-54M Core Ultra 5 115U Memori 16 GB SSD 1 TB Win 11 Pro + Office (Intel Core Ultra 5 115U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office) Ready Stock",
+    "price": "15.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ACER",
+    "model": "Acer Swift Lite 14 Air Edition SFL14-54M Core Ultra 5 115U Memori 16 GB SSD 2 TB Win 11 Pro + Office (Intel Core Ultra 5 115U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office) Ready Stock",
+    "price": "18.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ACER",
+    "model": "Acer Swift Lite 14 Air Edition SFL14-54M Core Ultra 5 115U Memori 16 GB SSD 4 TB Win 11 Pro + Office (Intel Core Ultra 5 115U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office) Ready Stock",
+    "price": "22.400.000"
   },
   {
     "type": "notebook",
@@ -110937,13 +110937,13 @@
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Pro M5 MDE14 (Apple M5 10-core CPU, RAM 16GB, SSD 1 TB, 14-inch, 10-core GPU Graphics, Mac OS) Space Black",
-    "price": "34.900.000"
+    "price": "36.900.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Pro M5 MDE54 (Apple M5 10-core CPU, RAM 16GB, SSD 1 TB, 14-inch, 10-core GPU Graphics, Mac OS) Silver",
-    "price": "34.900.000"
+    "price": "36.900.000"
   },
   {
     "type": "notebook",
@@ -118826,80 +118826,8 @@
   {
     "type": "notebook",
     "brand": "ASUS",
-    "model": "Asus TUF Gaming F16 FX607VJ Core 5 210H Memori 16 GB SSD 512 GB RTX3050 Win 11 + OH / Asus TUF Gaming F16 FX607VJ-I535J6M-HM (Intel Core 5 210H, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Win 11 Home + Office Home) Ready Stock (Mecha Grey)",
+    "model": "Asus TUF Gaming F16 FX607VJ-I535J6M-HM (Intel Core 5 210H, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Win 11 Home + Office Home) Mecha Grey",
     "price": "14.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming F16 FX607VJ Core 5 210H Memori 16 GB SSD 512 GB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 16 GB, SSD 512 GB, Vga Nvidia GeForce RTX 3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "15.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming F16 FX607VJ Core 5 210H Memori 16 GB SSD 1 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 16 GB, SSD 1 TB, Vga Nvidia GeForce RTX 3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "17.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming F16 FX607VJ Core 5 210H Memori 16 GB SSD 2 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 16 GB, SSD 2 TB, Vga Nvidia GeForce RTX 3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "20.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming F16 FX607VJ Core 5 210H Memori 16 GB SSD 4 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 16 GB, SSD 4 TB, Vga Nvidia GeForce RTX 3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "24.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming F16 FX607VJ Core 5 210H Memori 32 GB SSD 512 GB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 32 GB, SSD 512 GB, Vga Nvidia GeForce RTX 3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "19.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming F16 FX607VJ Core 5 210H Memori 32 GB SSD 1 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 32 GB, SSD 1 TB, Vga Nvidia GeForce RTX 3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "21.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming F16 FX607VJ Core 5 210H Memori 32 GB SSD 2 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 32 GB, SSD 2 TB, Vga Nvidia GeForce RTX 3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "24.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming F16 FX607VJ Core 5 210H Memori 32 GB SSD 4 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 32 GB, SSD 4 TB, Vga Nvidia GeForce RTX 3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "28.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming F16 FX607VJ Core 5 210H Memori 64 GB SSD 512 GB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 64 GB, SSD 512 GB, Vga Nvidia GeForce RTX 3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "26.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming F16 FX607VJ Core 5 210H Memori 64 GB SSD 1 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 64 GB, SSD 1 TB, Vga Nvidia GeForce RTX 3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "28.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming F16 FX607VJ Core 5 210H Memori 64 GB SSD 2 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 64 GB, SSD 2 TB, Vga Nvidia GeForce RTX 3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "31.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming F16 FX607VJ Core 5 210H Memori 64 GB SSD 4 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 64 GB, SSD 4 TB, Vga Nvidia GeForce RTX 3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "35.499.000"
   },
   {
     "type": "notebook",
@@ -122709,25 +122637,25 @@
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Zenbook 14 OLED UX3405CA Core Ultra 9 285H Memori 32 GB SSD 1 TB Touchscreen Win 11 + OHS / Asus Zenbook 14 OLED UX3405CA-OLEDS9311TM / Asus Zenbook 14 OLED UX3405CA-OLEDS9312TM / Asus Zenbook 14 OLED UX3405CA-OLEDS9313TM / Asus Zenbook 14 OLED UX3405CA-OLEDS9314TM / ASUS ZENBOOK 14 OLED TOUCH UX3405CA ULTRA 9 285H 32GB 1TB W11+OHS / ASUS ZENBOOK 14 OLED 1100NITS TOUCH UX3405CA ULTRA 9 285H 32GB 1TB W11+OHS (Intel Core Ultra 9 285H, RAM 32 GB, SSD 1 TB, Vga Intel Arc 140T GPU, LED 14 3K OLED Touchscreen, Win 11 Home + Office Home Student) Ready Stock (Ponders Blue, Foggy Silver, Pnders Blue, Foggy Silver)",
-    "price": "25.399.000"
+    "price": "25.799.000"
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Zenbook 14 OLED UX3405CA Core Ultra 9 285H Memori 32 GB SSD 1 TB Touchscreen Win 11 Pro + OHS (Intel Core Ultra 9 285H, RAM 32 GB, SSD 1 TB, Vga Intel Arc 140T GPU, LED 14 3K OLED Touchscreen, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "26.499.000"
+    "price": "26.999.000"
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Zenbook 14 OLED UX3405CA Core Ultra 9 285H Memori 32 GB SSD 2 TB Touchscreen Win 11 Pro + OHS (Intel Core Ultra 9 285H, RAM 32 GB, SSD 2 TB, Vga Intel Arc 140T GPU, LED 14 3K OLED Touchscreen, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "31.499.000"
+    "price": "31.999.000"
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Zenbook 14 OLED UX3405CA Core Ultra 9 285H Memori 32 GB SSD 4 TB Touchscreen Win 11 Pro + OHS (Intel Core Ultra 9 285H, RAM 32 GB, SSD 4 TB, Vga Intel Arc 140T GPU, LED 14 3K OLED Touchscreen, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "35.499.000"
+    "price": "35.999.000"
   },
   {
     "type": "notebook",
