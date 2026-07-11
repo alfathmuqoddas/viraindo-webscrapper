@@ -147,7 +147,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i7 3770 3.4 Ghz Cache 8 MB (Tray)",
-    "price": "650.000"
+    "price": "750.000"
   },
   {
     "type": "processor",
@@ -171,25 +171,25 @@
     "type": "processor",
     "brand": "PENTIUM",
     "model": "Pentium G3240 3.1 Ghz Cache 3 MB (Tray)",
-    "price": "55.000"
+    "price": "50.000"
   },
   {
     "type": "processor",
     "brand": "PENTIUM",
     "model": "Pentium G3250 3.2 Ghz Cache 3 MB (Tray)",
-    "price": "65.000"
+    "price": "60.000"
   },
   {
     "type": "processor",
     "brand": "PENTIUM",
     "model": "Pentium G3260 3.3 Ghz Cache 3 MB (Tray)",
-    "price": "75.000"
+    "price": "65.000"
   },
   {
     "type": "processor",
     "brand": "PENTIUM",
     "model": "Pentium G3420 3.2 Ghz Cache 3 MB (Tray)",
-    "price": "85.000"
+    "price": "65.000"
   },
   {
     "type": "processor",
@@ -207,19 +207,19 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i3 4130 (3.4 Ghz) Cache 3 MB (Tray)",
-    "price": "90.000"
+    "price": "100.000"
   },
   {
     "type": "processor",
     "brand": "CORE",
     "model": "Core i3 4150 (3.5 Ghz) Cache 3 MB (Tray)",
-    "price": "95.000"
+    "price": "110.000"
   },
   {
     "type": "processor",
     "brand": "CORE",
     "model": "Core i3 4160 (3.6 Ghz) Cache 3 MB (Tray)",
-    "price": "100.000"
+    "price": "115.000"
   },
   {
     "type": "processor",
@@ -231,7 +231,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i3 4170 (3.7 Ghz) Cache 3 MB (Tray)",
-    "price": "115.000"
+    "price": "120.000"
   },
   {
     "type": "processor",
@@ -243,7 +243,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i5 4460 (3.2 Ghz) Cache 6 MB (Tray)",
-    "price": "310.000"
+    "price": "350.000"
   },
   {
     "type": "processor",
@@ -255,7 +255,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i5 4570 (3.2 Ghz) Cache 6 MB (Tray)",
-    "price": "320.000"
+    "price": "360.000"
   },
   {
     "type": "processor",
@@ -267,7 +267,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i5 4590 (3.3 Ghz) Cache 6 MB (Tray)",
-    "price": "330.000"
+    "price": "350.000"
   },
   {
     "type": "processor",
@@ -279,7 +279,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i5 4670 (3.4 Ghz) Cache 6 MB (Tray)",
-    "price": "340.000"
+    "price": "400.000"
   },
   {
     "type": "processor",
@@ -291,7 +291,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i5 4690 (3.5 Ghz) Cache 6 MB (Tray)",
-    "price": "350.000"
+    "price": "420.000"
   },
   {
     "type": "processor",
@@ -303,7 +303,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i7 4770 (3.4 Ghz) Cache 6 MB (Tray)",
-    "price": "750.000"
+    "price": "800.000"
   },
   {
     "type": "processor",
@@ -315,7 +315,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i7 4770K (3.5 Ghz up to 3.9 Ghz) Cache 6 MB (Tray)",
-    "price": "570.000"
+    "price": "950.000"
   },
   {
     "type": "processor",
@@ -327,7 +327,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i7 4790 (3.6 Ghz up to 4.0 Ghz) Cache 8 MB (Tray)",
-    "price": "770.000"
+    "price": "900.000"
   },
   {
     "type": "processor",
@@ -339,7 +339,7 @@
     "type": "processor",
     "brand": "PENTIUM",
     "model": "Pentium G4400 (3.3 Ghz) Cache 3 MB (Tray)",
-    "price": "135.000"
+    "price": "150.000"
   },
   {
     "type": "processor",
@@ -351,7 +351,7 @@
     "type": "processor",
     "brand": "PENTIUM",
     "model": "Pentium G4560 (3.5 Ghz) Cache 3 MB (Tray)",
-    "price": "140.000"
+    "price": "190.000"
   },
   {
     "type": "processor",
@@ -363,7 +363,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i3 6100 (3.7 Ghz) Cache 3 MB (Tray)",
-    "price": "145.000"
+    "price": "160.000"
   },
   {
     "type": "processor",
@@ -387,7 +387,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i5 6500 (3.2 Ghz up to 3.6 Ghz) Cache 6 MB (Tray)",
-    "price": "485.000"
+    "price": "420.000"
   },
   {
     "type": "processor",
@@ -411,7 +411,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i7 6700 (3.4 Ghz up to 3.9 Ghz) Cache 8 MB (Tray)",
-    "price": "880.000"
+    "price": "850.000"
   },
   {
     "type": "processor",
@@ -447,13 +447,13 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i3 7100T (3.4 Ghz) Cache 3 MB (Tray)",
-    "price": "195.000"
+    "price": "310.000"
   },
   {
     "type": "processor",
     "brand": "CORE",
     "model": "Core i3 7100 (3.9 Ghz) Cache 4 MB (Tray)",
-    "price": "170.000"
+    "price": "150.000"
   },
   {
     "type": "processor",
@@ -477,7 +477,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i5 7500 (3.4 Ghz up to 3.8 Ghz) Cache 6 MB (Tray)",
-    "price": "540.000"
+    "price": "450.000"
   },
   {
     "type": "processor",
@@ -488,8 +488,20 @@
   {
     "type": "processor",
     "brand": "CORE",
+    "model": "Core i5 7600 (3.5 Ghz up to 4.1 Ghz) Cache 6 MB (Tray)",
+    "price": "550.000"
+  },
+  {
+    "type": "processor",
+    "brand": "CORE",
+    "model": "Core i5 7600 (3.5 Ghz up to 4.1 Ghz) Cache 6 MB (BOX)",
+    "price": "950.000"
+  },
+  {
+    "type": "processor",
+    "brand": "CORE",
     "model": "Core i7 7700 (3.6 Ghz up to 4.2 Ghz) Cache 8 MB (Tray)",
-    "price": "1.000.000"
+    "price": "990.000"
   },
   {
     "type": "processor",
@@ -507,7 +519,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i3 8100 (3.6 Ghz) Cache 6 MB (Tray)",
-    "price": "335.000"
+    "price": "350.000"
   },
   {
     "type": "processor",
@@ -519,7 +531,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i3 9100 (3.6 Ghz up to 4.2 Ghz) Cache 6 MB (Tray)",
-    "price": "440.000"
+    "price": "625.000"
   },
   {
     "type": "processor",
@@ -531,7 +543,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i5 8400 (2.8 Ghz up to 4.0 Ghz) Cache 9 MB (Tray)",
-    "price": "900.000"
+    "price": "950.000"
   },
   {
     "type": "processor",
@@ -543,7 +555,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i5 8500 (3.0 Ghz up to 4.1 Ghz) Cache 9 MB (Tray)",
-    "price": "950.000"
+    "price": "1.000.000"
   },
   {
     "type": "processor",
@@ -567,7 +579,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i5 8700 (3.2 Ghz up to 4.6 Ghz) Cache 12 MB (Tray)",
-    "price": "1.850.000"
+    "price": "1.600.000"
   },
   {
     "type": "processor",
@@ -591,13 +603,13 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i5 9400F (2.9 Ghz up to 4.1 Ghz) Cache 9 MB (Tray)",
-    "price": "900.000"
+    "price": "1.000.000"
   },
   {
     "type": "processor",
     "brand": "CORE",
     "model": "Core i5 9400 (2.9 Ghz up to 4.1 Ghz) Cache 9 MB (Tray)",
-    "price": "950.000"
+    "price": "1.100.000"
   },
   {
     "type": "processor",
@@ -609,7 +621,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i5 9500 (3.0 Ghz up to 4.4 Ghz) Cache 9 MB (Tray)",
-    "price": "980.000"
+    "price": "1.200.000"
   },
   {
     "type": "processor",
@@ -621,7 +633,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i5 9600 (3.1 Ghz up to 4.6 Ghz) Cache 9 MB (Tray)",
-    "price": "990.000"
+    "price": "1.250.000"
   },
   {
     "type": "processor",
@@ -632,8 +644,14 @@
   {
     "type": "processor",
     "brand": "CORE",
+    "model": "Core i5 9600K (3.7 Ghz up to 4.6 Ghz) Cache 9 MB (Tray)",
+    "price": "1.400.000"
+  },
+  {
+    "type": "processor",
+    "brand": "CORE",
     "model": "Core i5 9600K (3.7 Ghz up to 4.6 Ghz) Cache 9 MB (BOX)",
-    "price": "1.250.000"
+    "price": "2.700.000"
   },
   {
     "type": "processor",
@@ -657,7 +675,7 @@
     "type": "processor",
     "brand": "CORE",
     "model": "Core i7 9700 (3.0 Ghz up to 4.7 Ghz) Cache 12 MB (Tray)",
-    "price": "2.150.000"
+    "price": "2.200.000"
   },
   {
     "type": "processor",
@@ -1005,7 +1023,7 @@
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Pentium Gold G7400 3.7 GHz Cache 6MB (BOX)",
-    "price": "1.400.000"
+    "price": "1.500.000"
   },
   {
     "type": "processor",
@@ -1034,7 +1052,7 @@
   {
     "type": "processor",
     "brand": "INTEL",
-    "model": "Intel Core i3 12100T 2.2 GHz Up To 4.1 GHz Cache 12MB (Tray) Ready Stock",
+    "model": "Intel Core i3 12100T 2.2 GHz Up To 4.1 GHz Cache 12MB (Tray)",
     "price": "2.900.000"
   },
   {
@@ -1233,19 +1251,19 @@
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i7 12700F 2.1 GHz Up To 4.9 GHz Cache 25MB (Tray)",
-    "price": "4.100.000"
+    "price": "4.600.000"
   },
   {
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i7 12700F 2.1 GHz Up To 4.9 GHz Cache 25MB (BOX)",
-    "price": "4.750.000"
+    "price": "4.800.000"
   },
   {
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i7 12700 2.1 GHz Up To 4.9 GHz Cache 25MB (Tray)",
-    "price": "4.700.000"
+    "price": "4.650.000"
   },
   {
     "type": "processor",
@@ -1257,13 +1275,13 @@
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i7 12700KF 3.6 GHz Up To 5.0 GHz Cache 25MB (BOX)",
-    "price": "4.250.000"
+    "price": "4.800.000"
   },
   {
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i7 12700K 3.6 GHz Up To 5.0 GHz Cache 25 MB (BOX)",
-    "price": "4.850.000"
+    "price": "5.200.000"
   },
   {
     "type": "processor",
@@ -1299,19 +1317,19 @@
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i7 14700F 2.1 GHz Up To 5.4 GHz Cache 30 MB (Tray)",
-    "price": "4.350.000"
+    "price": "5.100.000"
   },
   {
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i7 14700F 2.1 GHz Up To 5.4 GHz Cache 30 MB (BOX)",
-    "price": "5.400.000"
+    "price": "5.600.000"
   },
   {
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i7 14700 2.1 GHz Up To 5.4 GHz Cache 30 MB (Tray)",
-    "price": "5.900.000"
+    "price": "5.600.000"
   },
   {
     "type": "processor",
@@ -1335,25 +1353,25 @@
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i9 12900F 2.4 GHz Up To 5.1 GHz Cache 30 MB (BOX)",
-    "price": "5.900.000"
+    "price": "6.600.000"
   },
   {
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i9 12900 2.4 GHz Up To 5.1 GHz Cache 30 MB (BOX)",
-    "price": "6.550.000"
+    "price": "7.200.000"
   },
   {
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i9 12900KF 3.2 GHz Up To 5.2 GHz Cache 30 MB (BOX)",
-    "price": "5.950.000"
+    "price": "6.800.000"
   },
   {
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i9 12900K 3.2 GHz Up To 5.2 GHz Cache 30 MB (BOX)",
-    "price": "6.700.000"
+    "price": "7.400.000"
   },
   {
     "type": "processor",
@@ -1401,25 +1419,25 @@
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i9 14900 2.0 GHz Up To 5.8 GHz Cache 36 MB (BOX)",
-    "price": "9.900.000"
+    "price": "10.300.000"
   },
   {
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i9 14900KF 3.2 GHz Up To 6.0 GHz Cache 36 MB (BOX)",
-    "price": "7.850.000"
+    "price": "7.800.000"
   },
   {
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i9 14900K 3.2 GHz Up To 6.0 GHz Cache 36 MB (Tray)",
-    "price": "8.150.000"
+    "price": "8.200.000"
   },
   {
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core i9 14900K 3.2 GHz Up To 6.0 GHz Cache 36 MB (BOX)",
-    "price": "8.500.000"
+    "price": "8.700.000"
   },
   {
     "type": "processor",
@@ -1455,7 +1473,7 @@
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core Ultra 5 245KF 3.6GHz Up To 5.2GHz - Cache 24MB (BOX)",
-    "price": "3.550.000"
+    "price": "3.400.000"
   },
   {
     "type": "processor",
@@ -1473,13 +1491,13 @@
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core Ultra 7 265 2.4GHz Up To 5.3GHz - Cache 30MB (BOX)",
-    "price": "5.500.000"
+    "price": "5.800.000"
   },
   {
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core Ultra 7 265KF 3.3GHz Up To 5.5GHz - Cache 30MB (Tray)",
-    "price": "4.500.000"
+    "price": "4.400.000"
   },
   {
     "type": "processor",
@@ -1497,13 +1515,13 @@
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core Ultra 7 265K 3.3GHz Up To 5.5GHz - Cache 30MB (BOX)",
-    "price": "5.350.000"
+    "price": "5.300.000"
   },
   {
     "type": "processor",
     "brand": "INTEL",
     "model": "Intel Core Ultra 7 270K Plus 3.2GHz Up To 5.5GHz - Cache 36MB (Box)",
-    "price": "5.400.000"
+    "price": "6.600.000"
   },
   {
     "type": "processor",
@@ -3242,8 +3260,8 @@
   {
     "type": "motherboard",
     "brand": "GIGABYTE",
-    "model": "Gigabyte H610M K DDR4 (Intel H610, DDR4) (Ready Stock)",
-    "price": "1.025.000"
+    "model": "Gigabyte H610M K DDR4 (Intel H610, DDR4)",
+    "price": "1.110.000"
   },
   {
     "type": "motherboard",
@@ -37412,8 +37430,8 @@
   {
     "type": "case",
     "brand": "MSI",
-    "model": "MSI MAG Forge 120A Airflow Gaming Case (Ready Stock)",
-    "price": "685.000"
+    "model": "MSI MAG Forge 120A Airflow Gaming Case",
+    "price": "750.000"
   },
   {
     "type": "case",
@@ -46707,36 +46725,36 @@
     "type": "pc-branded",
     "brand": "APPLE",
     "model": "Apple iMac M4 MWUU3 (Apple M4 10-core CPU, RAM 16 GB, SSD 256 GB, 10-core GPU, LED 24\", Mac OS) Silver",
-    "price": "26.900.000"
+    "price": "29.900.000"
   },
   {
     "type": "pc-branded",
     "brand": "APPLE",
     "model": "Apple iMac M4 MWV43 (Apple M4 10-core CPU, RAM 16 GB, SSD 256 GB, 10-core GPU, LED 24\", Mac OS) Pink",
-    "price": "26.900.000"
+    "price": "29.900.000"
   },
   {
     "type": "pc-branded",
     "brand": "APPLE",
     "model": "Apple iMac M4 MWV33 (Apple M4 10-core CPU, RAM 16 GB, SSD 512 GB, 10-core GPU, LED 24\", Mac OS) Blue",
-    "price": "26.500.000"
+    "price": "29.900.000"
   },
   {
     "type": "pc-branded",
     "brand": "APPLE",
     "model": "Apple iMac M4 MWVO3 (Apple M4 10-core CPU, RAM 16 GB, SSD 512 GB, 10-core GPU, LED 24\", Mac OS) Green",
-    "price": "26.500.000"
-  },
-  {
-    "type": "pc-branded",
-    "brand": "APPLE",
-    "model": "Apple iMac M4 (Apple M4 10-core CPU, RAM 16 GB, SSD 512 GB, 10-core GPU, LED 24\", Mac OS) Silver",
-    "price": "26.500.000"
+    "price": "29.900.000"
   },
   {
     "type": "pc-branded",
     "brand": "APPLE",
     "model": "Apple iMac M4 MCR24 (Apple M4 10-core CPU, RAM 24 GB, SSD 512 GB, 10-core GPU, LED 24\", Mac OS) Silver",
+    "price": "32.900.000"
+  },
+  {
+    "type": "pc-branded",
+    "brand": "APPLE",
+    "model": "Apple iMac M4 MD2Q4 (Apple M4 10-core CPU, RAM 24 GB, SSD 512 GB, 10-core GPU, LED 24\", Mac OS) Green",
     "price": "32.900.000"
   },
   {
@@ -91185,7 +91203,7 @@
     "type": "gadget",
     "brand": "APPLE",
     "model": "Apple Iphone 14 256GB Midnight / Starlight / Blue / Purple / Red",
-    "price": "11.500.000"
+    "price": "12.400.000"
   },
   {
     "type": "gadget",
@@ -91197,7 +91215,7 @@
     "type": "gadget",
     "brand": "APPLE",
     "model": "Apple Iphone 15 128GB Black / Blue / Pink / Green / Yellow",
-    "price": "12.100.000"
+    "price": "12.400.000"
   },
   {
     "type": "gadget",
@@ -91233,7 +91251,7 @@
     "type": "gadget",
     "brand": "APPLE",
     "model": "Apple Iphone 16e 256 GB Black / White",
-    "price": "11.500.000"
+    "price": "12.400.000"
   },
   {
     "type": "gadget",
@@ -104762,7 +104780,7 @@
   {
     "type": "notebook",
     "brand": "ACER",
-    "model": "Acer Aspire Lite AL16-52P Core i5 1334U Memori 8 GB SSD 512 GB DOS / ACER AL16-52P-52JZ (Intel Core i5 1334U, RAM 8 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 16 WUXGA, DOS) Ready Stock",
+    "model": "Acer Aspire Lite AL16-52P Core i5 1334U Memori 8 GB SSD 512 GB DOS / ACER AL16-52P-52JZ (Intel Core i5 1334U, RAM 8 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 16 WUXGA, DOS)",
     "price": "8.200.000"
   },
   {
@@ -105099,55 +105117,55 @@
     "type": "notebook",
     "brand": "ACER",
     "model": "Acer Aspire Lite AL14-51M Core i5 1235U Memori 16 GB SSD 512 GB Win 11 + OHS / Acer Aspire Lite AL14-51M-58U1 (Intel Core i5 1235U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14\" WUXGA, Win 11 Home + Office Home Student) Ready Stock",
-    "price": "9.400.000"
+    "price": "9.600.000"
   },
   {
     "type": "notebook",
     "brand": "ACER",
     "model": "Acer Aspire Lite AL14-51M Core i5 1235U Memori 16 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i5 1235U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "10.400.000"
+    "price": "10.900.000"
   },
   {
     "type": "notebook",
     "brand": "ACER",
     "model": "Acer Aspire Lite AL14-51M Core i5 1235U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i5 1235U, RAM 16 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "12.400.000"
+    "price": "12.900.000"
   },
   {
     "type": "notebook",
     "brand": "ACER",
     "model": "Acer Aspire Lite AL14-51M Core i5 1235U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i5 1235U, RAM 16 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "15.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ACER",
-    "model": "Acer Aspire Lite AL14-51M Core i5 1235U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i5 1235U, RAM 16 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "19.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ACER",
-    "model": "Acer Aspire Lite AL14-51M Core i5 1235U Memori 32 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i5 1235U, RAM 32 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "13.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ACER",
-    "model": "Acer Aspire Lite AL14-51M Core i5 1235U Memori 32 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i5 1235U, RAM 32 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
     "price": "15.900.000"
   },
   {
     "type": "notebook",
     "brand": "ACER",
+    "model": "Acer Aspire Lite AL14-51M Core i5 1235U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i5 1235U, RAM 16 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "19.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ACER",
+    "model": "Acer Aspire Lite AL14-51M Core i5 1235U Memori 32 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i5 1235U, RAM 32 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "14.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ACER",
+    "model": "Acer Aspire Lite AL14-51M Core i5 1235U Memori 32 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i5 1235U, RAM 32 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "16.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ACER",
     "model": "Acer Aspire Lite AL14-51M Core i5 1235U Memori 32 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i5 1235U, RAM 32 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "18.900.000"
+    "price": "19.400.000"
   },
   {
     "type": "notebook",
     "brand": "ACER",
     "model": "Acer Aspire Lite AL14-51M Core i5 1235U Memori 32 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i5 1235U, RAM 32 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "22.900.000"
+    "price": "23.400.000"
   },
   {
     "type": "notebook",
@@ -109418,7 +109436,7 @@
   {
     "type": "notebook",
     "brand": "ACER",
-    "model": "Acer Swift 14 AI OLED SF14-51 Core Ultra 7 258V Memori 32 GB SSD 1 TB Win 11 + OHS / Acer Swift 14 AI OLED SF14-51-70ML / ACER SWIFT 14 AI OLED SF14 ULTRA 7 258V 32GB 1TB W11+OHS (Intel Core Ultra 7 258V, RAM 32 GB, SSD 1 TB, Vga Intel Arc Graphics 140V, LED 14 OLED 2.8K, Win 11 Home + Office Home Student) Ready Stock (Steam Blue)",
+    "model": "Acer Swift 14 AI OLED SF14-51 Core Ultra 7 258V Memori 32 GB SSD 1 TB Win 11 + OHS / Acer Swift 14 AI OLED SF14-51-70ML (Intel Core Ultra 7 258V, RAM 32 GB, SSD 1 TB, Vga Intel Arc Graphics 140V, LED 14 OLED 2.8K, Win 11 Home + Office Home Student) Steam Blue",
     "price": "19.600.000"
   },
   {
@@ -110787,121 +110805,121 @@
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Neo MHFA4 (Apple A18 Pro 6-Core CPU, RAM 8GB, 256GB SSD, LED 13-inch, 5-core GPU, Mac OS) Silver",
-    "price": "12.300.000"
+    "price": "12.600.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Neo MHFD4 (Apple A18 Pro 6-Core CPU, RAM 8GB, 256GB SSD, LED 13-inch, 5-core GPU, Mac OS) Citrus",
-    "price": "12.300.000"
+    "price": "12.600.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Neo MHFF4 (Apple A18 Pro 6-Core CPU, RAM 8GB, 256GB SSD, LED 13-inch, 5-core GPU, Mac OS) Indigo",
-    "price": "12.300.000"
+    "price": "12.600.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Neo MHFH4 (Apple A18 Pro 6-Core CPU, RAM 8GB, 256GB SSD, LED 13-inch, 5-core GPU, Mac OS) Blush",
-    "price": "12.300.000"
+    "price": "12.600.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Neo MHFC4 (Apple A18 Pro 6-Core CPU, RAM 8GB, 512GB SSD, LED 13-inch, 5-core GPU, Mac OS) Silver",
-    "price": "14.000.000"
+    "price": "14.700.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Neo MHFE4 (Apple A18 Pro 6-Core CPU, RAM 8GB, 512GB SSD, LED 13-inch, 5-core GPU, Mac OS) Citrus",
-    "price": "14.000.000"
+    "price": "14.700.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Neo MHFG4 (Apple A18 Pro 6-Core CPU, RAM 8GB, 512GB SSD, LED 13-inch, 5-core GPU, Mac OS) Indigo",
-    "price": "14.000.000"
+    "price": "14.700.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Neo MHFJ4 (Apple A18 Pro 6-Core CPU, RAM 8GB, 512GB SSD, LED 13-inch, 5-core GPU, Mac OS) Blush",
-    "price": "14.000.000"
+    "price": "14.700.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDH74 (Apple M5 10-Core CPU , RAM 16GB , 512GB SSD, 13-inch, 8-core GPU Graphics, Mac OS) Silver",
-    "price": "24.900.000"
+    "price": "24.400.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHA4 (Apple M5 10-Core CPU , RAM 16GB , 512GB SSD, 13-inch, 8-core GPU Graphics, Mac OS) Starlight",
-    "price": "24.900.000"
+    "price": "24.400.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHE4 (Apple M5 10-Core CPU , RAM 16GB , 512GB SSD, 13-inch, 8-core GPU Graphics, Mac OS) Midnight",
-    "price": "24.900.000"
+    "price": "24.400.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHH4 (Apple M5 10-Core CPU , RAM 16GB , 512GB SSD, 13-inch, 8-core GPU Graphics, Mac OS) Sky Blue",
-    "price": "24.900.000"
+    "price": "24.400.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDH84 (Apple M5 10-Core CPU , RAM 16GB , 1TB SSD, 13-inch, 10-core GPU Graphics, Mac OS) Silver",
-    "price": "28.900.000"
+    "price": "29.700.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHC4 (Apple M5 10-Core CPU , RAM 16GB , 1TB SSD, 13-inch, 10-core GPU Graphics, Mac OS) Starlight",
-    "price": "28.900.000"
+    "price": "29.700.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHF4 (Apple M5 10-Core CPU , RAM 16GB , 1TB SSD, 13-inch, 10-core GPU Graphics, Mac OS) Midnight",
-    "price": "28.900.000"
+    "price": "29.700.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHJ4 (Apple M5 10-Core CPU , RAM 16GB , 1TB SSD, 13-inch, 10-core GPU Graphics, Mac OS) Sky Blue",
-    "price": "28.900.000"
+    "price": "29.700.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDH94 (Apple M5 10-Core CPU , RAM 24GB , 1TB SSD, 13-inch, 10-core GPU Graphics, Mac OS) Silver",
-    "price": "32.500.000"
+    "price": "32.900.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHD4 (Apple M5 10-Core CPU , RAM 24GB , 1TB SSD, 13-inch, 10-core GPU Graphics, Mac OS) Starlight",
-    "price": "32.500.000"
+    "price": "32.900.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHG4 (Apple M5 10-Core CPU , RAM 24GB , 1TB SSD, 13-inch, 10-core GPU Graphics, Mac OS) Midnight",
-    "price": "32.500.000"
+    "price": "32.900.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHK4 (Apple M5 10-Core CPU , RAM 24GB , 1TB SSD, 13-inch, 10-core GPU Graphics, Mac OS) Sky Blue",
-    "price": "32.500.000"
+    "price": "32.900.000"
   },
   {
     "type": "notebook",
@@ -110973,13 +110991,13 @@
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Pro M5 Pro MGDR4 (Apple M5 Pro 15-core CPU, RAM 24GB, SSD 1 TB, 14-inch, 16-core GPU Graphics, Mac OS) Space Black",
-    "price": "41.400.000"
+    "price": "45.500.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Pro M5 Pro MGDN4 (Apple M5 Pro 15-core CPU, RAM 24GB, SSD 1 TB, 14-inch, 16-core GPU Graphics, Mac OS) Silver",
-    "price": "41.400.000"
+    "price": "45.500.000"
   },
   {
     "type": "notebook",
@@ -110997,13 +111015,13 @@
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Pro M5 Pro MGDT4 (Apple M5 Pro 18-core CPU, RAM 24GB, SSD 2 TB, 14-inch, 20-core GPU Graphics, Mac OS) Space Black",
-    "price": "50.300.000"
+    "price": "56.500.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Pro M5 Pro MGDP4 (Apple M5 Pro 18-core CPU, RAM 24GB, SSD 2 TB, 14-inch, 20-core GPU Graphics, Mac OS) Silver",
-    "price": "50.300.000"
+    "price": "56.500.000"
   },
   {
     "type": "notebook",
@@ -111015,7 +111033,7 @@
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Pro 16 M5 Pro MGEA4 (Apple M5 Pro 18-core CPU, RAM 24GB, SSD 1 TB, 16-inch, 20-core GPU Graphics, Mac OS) Space Black",
-    "price": "49.000.000"
+    "price": "52.500.000"
   },
   {
     "type": "notebook",
@@ -123866,30 +123884,6 @@
   {
     "type": "notebook",
     "brand": "ASUS",
-    "model": "Asus ROG Zephyrus G14 GA403UM Ryzen 9 270 Memori 16 GB SSD 1 TB RTX5060 Win 11 / ASUS ROG ZEPHYRUS G14 OLED GA403UM RYZEN 9 270 16GB 1TB RTX5060 8GB W11 (AMD Ryzen 9 270, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 14 3K OLED, Win 11 Home) Ready Stock",
-    "price": "29.199.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus ROG Zephyrus G14 GA403UM Ryzen 9 270 Memori 16 GB SSD 1 TB RTX5060 Win 11 Pro (AMD Ryzen 9 270, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 14 3K OLED, Windows 11 Profesional) Ready Stock",
-    "price": "30.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus ROG Zephyrus G14 GA403UM Ryzen 9 270 Memori 16 GB SSD 2 TB RTX5060 Win 11 Pro (AMD Ryzen 9 270, RAM 16 GB, SSD 2 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 14 3K OLED, Windows 11 Profesional) Ready Stock",
-    "price": "35.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus ROG Zephyrus G14 GA403UM Ryzen 9 270 Memori 16 GB SSD 4 TB RTX5060 Win 11 Pro (AMD Ryzen 9 270, RAM 16 GB, SSD 4 TB, Vga Nvidia Geforce RTX5060 8 GB, LED 14 3K OLED, Windows 11 Profesional) Ready Stock",
-    "price": "39.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
     "model": "Asus ROG Strix G17 G713RW-R97RH6G-O (AMD Ryzen 9 6900HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX3070 8 GB, LED 17.3\" FHD, Win 11 Home + Office Home Student)",
     "price": "29.299.000"
   },
@@ -132698,90 +132692,6 @@
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP 14S Core i7 1255U Memori 8 GB SSD 512 GB Win 11 + OHS / HP 14s-DQ5155TU / HP 14 I7 1255 8GB 512GB W11+OHS (Intel Core i7 1255U, RAM 8 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Win 11 Home + Office Home Student) Ready Stock (Silver)",
-    "price": "10.700.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14s Core i7 1255U Memori 8 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 8 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "11.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14s Core i7 1255U Memori 8 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 8 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "13.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14s Core i7 1255U Memori 8 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 8 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "16.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14s Core i7 1255U Memori 8 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 8 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "20.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14s Core i7 1255U Memori 16 GB SSD 512 GB Win 11 + OHS / HP 14s-DQ5154TU / HP 14s-DQ5120TU (Intel Core i7 1255U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Win 11 Home + Office Home Student) Ready Stock (Silver, Silver)",
-    "price": "12.000.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14s Core i7 1255U Memori 16 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "12.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14s Core i7 1255U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 16 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "14.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14s Core i7 1255U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 16 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "17.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14s Core i7 1255U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 16 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "21.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14s Core i7 1255U Memori 32 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 32 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "15.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14s Core i7 1255U Memori 32 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 32 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "17.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14s Core i7 1255U Memori 32 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 32 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "20.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14s Core i7 1255U Memori 32 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 32 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "24.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
     "model": "Hp Pavilion Aero 13-BE1002AU / Hp Pavilion Aero 13-BE1003AU (AMD Ryzen 7 5825U, RAM 16 GB, SSD 512 GB, Vga Ati Radeon Vega 8, LED 13.3\" WUXGA, Win 11 Home + Office Home Student) Silver, Gold",
     "price": "10.800.000"
   },
@@ -133184,6 +133094,12 @@
   {
     "type": "notebook",
     "brand": "HP",
+    "model": "HP 15-FD1777TU / HP 15-FD1555TU (Intel Core Ultra 7 155H, RAM 16 GB, SSD 512 GB, Vga Intel Arc Graphics, LED 15.6\" FHD, Win 11 Home + Office Home Student) Silver, Blue",
+    "price": "11.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
     "model": "HP 14 Ryzen 7 7730U Memori 16 GB SSD 512 GB Win 11 + OHS / HP 14-EM0167AU / HP 14-EM0168AU / HP 14-EM0730AU / HP 14-EM0731AU / HP 14 RYZEN 7 7730 16GB 512GB W11+OHS (AMD Ryzen 7 7730U, RAM 16 GB, SSD 512 GB, Vga AMD Radeon Graphics, LED 14\" FHD, Win 11 Home + Office Home Student) Ready Stock (Gold, Silver, Silver, Gold)",
     "price": "11.900.000"
   },
@@ -133244,56 +133160,86 @@
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP 15 Core Ultra 7 155H Memori 16 GB SSD 512 GB Win 11 + OHS / HP 15-FD1777TU / HP 15-FD1555TU (Intel Core Ultra 7 155H, RAM 16 GB, SSD 512 GB, Vga Intel Arc Graphics, LED 15.6\" FHD, Win 11 Home + Office Home Student) Silver, Blue",
+    "model": "HP 14S Core i7 1255U Memori 8 GB SSD 512 GB Win 11 + OHS / HP 14s-DQ5155TU (Intel Core i7 1255U, RAM 8 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Win 11 Home + Office Home Student) Silver",
     "price": "11.900.000"
   },
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP 15 Core Ultra 7 155H Memori 16 GB SSD 512 GB Win 11 Pro + OHS (Intel Core Ultra 7 155H, RAM 16 GB, SSD 512 GB, Vga Intel Arc Graphics, LED 15.6\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "model": "HP 14s Core i7 1255U Memori 8 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 8 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
     "price": "12.900.000"
   },
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP 15 Core Ultra 7 155H Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core Ultra 7 155H, RAM 16 GB, SSD 1 TB, Vga Intel Arc Graphics, LED 15.6\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "14.400.000"
+    "model": "HP 14s Core i7 1255U Memori 8 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 8 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "14.900.000"
   },
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP 15 Core Ultra 7 155H Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core Ultra 7 155H, RAM 16 GB, SSD 2 TB, Vga Intel Arc Graphics, LED 15.6\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "16.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 15 Core Ultra 7 155H Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core Ultra 7 155H, RAM 16 GB, SSD 4 TB, Vga Intel Arc Graphics, LED 15.6\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "19.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 15 Core Ultra 7 155H Memori 32 GB SSD 512 GB Win 11 Pro (Intel Core Ultra 7 155H, RAM 32 GB, SSD 512 GB, Vga Intel Arc Graphics, LED 15.6\" FHD, Windows 11 Profesional) Ready Stock",
-    "price": "16.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 15 Core Ultra 7 155H Memori 32 GB SSD 1 TB Win 11 Pro (Intel Core Ultra 7 155H, RAM 32 GB, SSD 1 TB, Vga Intel Arc Graphics, LED 15.6\" FHD, Windows 11 Profesional) Ready Stock",
+    "model": "HP 14s Core i7 1255U Memori 8 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 8 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
     "price": "17.900.000"
   },
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP 15 Core Ultra 7 155H Memori 32 GB SSD 2 TB Win 11 Pro (Intel Core Ultra 7 155H, RAM 32 GB, SSD 2 TB, Vga Intel Arc Graphics, LED 15.6\" FHD, Windows 11 Profesional) Ready Stock",
-    "price": "20.400.000"
+    "model": "HP 14s Core i7 1255U Memori 8 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 8 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "21.900.000"
   },
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP 15 Core Ultra 7 155H Memori 32 GB SSD 4 TB Win 11 Pro (Intel Core Ultra 7 155H, RAM 32 GB, SSD 4 TB, Vga Intel Arc Graphics, LED 15.6\" FHD, Windows 11 Profesional) Ready Stock",
-    "price": "23.400.000"
+    "model": "HP 14s Core i7 1255U Memori 16 GB SSD 512 GB Win 11 + OHS / HP 14s-DQ5154TU / HP 14s-DQ5120TU (Intel Core i7 1255U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Win 11 Home + Office Home Student) Silver, Silver",
+    "price": "12.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP 14s Core i7 1255U Memori 16 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "13.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP 14s Core i7 1255U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 16 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "15.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP 14s Core i7 1255U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 16 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "18.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP 14s Core i7 1255U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 16 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "22.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP 14s Core i7 1255U Memori 32 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 32 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "16.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP 14s Core i7 1255U Memori 32 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 32 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "18.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP 14s Core i7 1255U Memori 32 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 32 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "21.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP 14s Core i7 1255U Memori 32 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i7 1255U, RAM 32 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "25.400.000"
   },
   {
     "type": "notebook",
@@ -136202,30 +136148,6 @@
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP OmniBook X Flip 14 Ryzen AI 7 350 Memori 32 GB SSD 1 TB Win 11 + OH / HP OmniBook X Flip 14-FK0888AU / HP OMNIBOOK X FLIP 2IN1 14 TOUCH OLED RYZEN AI 7 350 32GB 1TB W11+OHS (AMD Ryzen AI 7 350, RAM 32 GB, SSD 1 TB, Vga AMD Radeon 860M, LED 14 3K OLED Touchscreen, Win 11 Home + Office Home) Ready Stock (Silver)",
-    "price": "20.600.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP OmniBook X Flip 14 Ryzen AI 7 350 Memori 32 GB SSD 1 TB Win 11 Pro + OH (AMD Ryzen AI 7 350, RAM 32 GB, SSD 1 TB, Vga AMD Radeon 860M, LED 14 3K OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "21.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP OmniBook X Flip 14 Ryzen AI 7 350 Memori 32 GB SSD 2 TB Win 11 Pro + OH (AMD Ryzen AI 7 350, RAM 32 GB, SSD 2 TB, Vga AMD Radeon 860M, LED 14 3K OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "25.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP OmniBook X Flip 14 Ryzen AI 7 350 Memori 32 GB SSD 4 TB Win 11 Pro + OH (AMD Ryzen AI 7 350, RAM 32 GB, SSD 4 TB, Vga AMD Radeon 860M, LED 14 3K OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "28.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
     "model": "HP Omen 15-EK0044TX (Intel Core i7 10750HQ, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX 2060 6 GB, LED 15.6\" FHD 144 Hz, Windows 10)",
     "price": "21.100.000"
   },
@@ -137200,6 +137122,30 @@
     "brand": "HP",
     "model": "HP OMEN 16-B0047TX (Intel Core i7 11800H, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX 3070 8 GB, LED 16.1\" FHD, Windows 11 + Office Home Student / Windows 10 + Office Home Student)",
     "price": "23.800.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP OmniBook X Flip 14 Ryzen AI 7 350 Memori 32 GB SSD 1 TB Win 11 + OH / HP OmniBook X Flip 14-FK0888AU / HP OMNIBOOK X FLIP 2IN1 14 TOUCH OLED RYZEN AI 7 350 32GB 1TB W11+OHS (AMD Ryzen AI 7 350, RAM 32 GB, SSD 1 TB, Vga AMD Radeon 860M, LED 14 3K OLED Touchscreen, Win 11 Home + Office Home) Ready Stock (Silver)",
+    "price": "23.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP OmniBook X Flip 14 Ryzen AI 7 350 Memori 32 GB SSD 1 TB Win 11 Pro + OH (AMD Ryzen AI 7 350, RAM 32 GB, SSD 1 TB, Vga AMD Radeon 860M, LED 14 3K OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "24.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP OmniBook X Flip 14 Ryzen AI 7 350 Memori 32 GB SSD 2 TB Win 11 Pro + OH (AMD Ryzen AI 7 350, RAM 32 GB, SSD 2 TB, Vga AMD Radeon 860M, LED 14 3K OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "29.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP OmniBook X Flip 14 Ryzen AI 7 350 Memori 32 GB SSD 4 TB Win 11 Pro + OH (AMD Ryzen AI 7 350, RAM 32 GB, SSD 4 TB, Vga AMD Radeon 860M, LED 14 3K OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "33.900.000"
   },
   {
     "type": "notebook",
@@ -138926,6 +138872,150 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 128 GB Touchscreen Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 128 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
+    "price": "7.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 256 GB Touchscreen Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
+    "price": "8.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 512 GB Touchscreen Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
+    "price": "8.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 1 TB Touchscreen Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
+    "price": "10.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 2 TB Touchscreen Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
+    "price": "13.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 4 TB Touchscreen Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
+    "price": "17.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 128 GB Touchscreen Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 128 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": "8.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 256 GB Touchscreen Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": "9.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 512 GB Touchscreen Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": "9.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 1 TB Touchscreen Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": "11.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 2 TB Touchscreen Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": "14.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 4 TB Touchscreen Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": "18.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 128 GB Touchscreen Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 128 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
+    "price": "8.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 256 GB Touchscreen Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
+    "price": "9.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 512 GB Touchscreen Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
+    "price": "9.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 1 TB Touchscreen Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
+    "price": "11.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 2 TB Touchscreen Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
+    "price": "14.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 4 TB Touchscreen Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
+    "price": "18.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 128 GB Touchscreen Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 128 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "9.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 256 GB Touchscreen Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "10.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 512 GB Touchscreen Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "10.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 1 TB Touchscreen Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "12.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 2 TB Touchscreen Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "15.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 4 TB Touchscreen Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "19.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
     "model": "Lenovo Ideapad Slim 1 11 05ID / Lenovo Ideapad Slim 1 11 06ID (Intel N4020, RAM 4 GB, SSD 256 GB, Vga Intel, LED 11.6\", Windows 10)",
     "price": "3.600.000"
   },
@@ -139971,13 +140061,13 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo IdeaPad Slim 3 14IRU8 Core i3 1315U Memori 8 GB SSD 256 GB Win 11 + OH / Lenovo IdeaPad Slim 3 14IRU8 5NID (82X6005NID) / Lenovo IdeaPad Slim 3 14IRU8 5LID (82X6005LID) / LENOVO IDEAPAD SLIM 3 14 I3 1315 8GB 256GB W11+OHS (Intel Core i3 1315U, RAM 8 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 FHD, Win 11 Home + Office Home) Ready Stock (Arctic Grey, Abyss Blue)",
-    "price": "7.650.000"
+    "price": "7.950.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo IdeaPad Slim 3 14IRU8 Core i3 1315U Memori 8 GB SSD 512 GB Win 11 + OH / Lenovo IdeaPad Slim 3 14IRU8 5PID (82X6005PID) / Lenovo IdeaPad Slim 3 14IRU8 5MID (82X6005MID) / Lenovo IdeaPad Slim 3 14IRU8 6FID (82X6006FID) / Lenovo IdeaPad Slim 3 14IRU8 6EID (82X6006EID) / LENOVO IDEAPAD SLIM 3 14 I3 1315 8GB 512GB W11+OHS (Intel Core i3 1315U, RAM 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD, Win 11 Home + Office Home) Ready Stock (Arctic Grey, Abyss Blue, Arctic Grey, Abyss Blue)",
-    "price": "8.150.000"
+    "price": "8.400.000"
   },
   {
     "type": "notebook",
@@ -144310,150 +144400,6 @@
     "brand": "LENOVO",
     "model": "Lenovo IdeaPad Flex 5 2VID / Lenovo IdeaPad Flex 5 FNID (Intel Core i3-1115G4, RAM 8GB, SSD 512GB, LED 14\" FHD Touchscreen, Windows 10 + Office Home Student)",
     "price": "9.450.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 128 GB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 128 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
-    "price": "7.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 256 GB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
-    "price": "8.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 512 GB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
-    "price": "8.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 1 TB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
-    "price": "10.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 2 TB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
-    "price": "13.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 4 TB Win 11 (Intel Core i3 1115G4, RAM 4 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home) Ready Stock",
-    "price": "17.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 128 GB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 128 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "8.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 256 GB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "9.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 512 GB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "9.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 1 TB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "11.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 2 TB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "14.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 4 TB Win 11 Pro (Intel Core i3 1115G4, RAM 4 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "18.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 128 GB Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 128 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
-    "price": "8.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 256 GB Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
-    "price": "9.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 512 GB Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
-    "price": "9.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 1 TB Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
-    "price": "11.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 2 TB Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
-    "price": "14.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 4 TB Win 11 + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Win 11 Home + Office Home) Ready Stock",
-    "price": "18.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 128 GB Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 128 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "9.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 256 GB Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "10.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 512 GB Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "10.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 1 TB Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "12.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 2 TB Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "15.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo Flex 5 2in1 14 Core i3 1115G4 Memori 4 GB SSD 4 TB Win 11 Pro + OH (Intel Core i3 1115G4, RAM 4 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "19.900.000"
   },
   {
     "type": "notebook",
@@ -151113,19 +151059,19 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Yoga Slim 7 14ILL10 Core Ultra 7 258V Memori 32 GB SSD 1 TB Win 11 + OH / Lenovo Yoga Slim 7 14ILL10 AVID (83JX00AVID) / LENOVO YOGA SLIM 7 AURA EDITION 14 ULTRA 7 258V 32GB 1TB W11+OHS (Intel Core Ultra 7 258V, RAM 32 GB, SSD 1 TB, Vga Intel Arc Graphics 140V, LED 14 WUXGA OLED, Win 11 Home + Office Home) Ready Stock (Seashell)",
-    "price": "21.200.000"
+    "price": "21.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Yoga Slim 7 14ILL10 Core Ultra 7 258V Memori 32 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 7 258V, RAM 32 GB, SSD 1 TB, Vga Intel Arc Graphics 140V, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "22.400.000"
+    "price": "22.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Yoga Slim 7 14ILL10 Core Ultra 7 258V Memori 32 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 7 258V, RAM 32 GB, SSD 2 TB, Vga Intel Arc Graphics 140V, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "27.400.000"
+    "price": "27.900.000"
   },
   {
     "type": "notebook",
@@ -157083,25 +157029,25 @@
     "type": "notebook",
     "brand": "MSI",
     "model": "MSI Prestige Flip 14 AI+ D3MTG Core Ultra 9 386H Memori 32 GB SSD 1 TB Touchscreen Win 11 + OH / MSI Prestige Flip 14 AI+ D3MTG 014ID / MSI PRESTIGE 14 FLIP AI+ ULTRA 9 386H 32GB 1TB W11+OHS (Inel Core Ultra 9 386H, RAM 32 GB, SSD 1 TB, Vga Intel Graphics, LED 14 WUXGA OLED Touchscreen, Win 11 Home + Office Home) Ready Stock",
-    "price": "23.600.000"
+    "price": "34.900.000"
   },
   {
     "type": "notebook",
     "brand": "MSI",
     "model": "MSI Prestige Flip 14 AI+ D3MTG Core Ultra 9 386H Memori 32 GB SSD 1 TB Touchscreen Win 11 Pro + OH (Inel Core Ultra 9 386H, RAM 32 GB, SSD 1 TB, Vga Intel Graphics, LED 14 WUXGA OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "24.900.000"
+    "price": "35.900.000"
   },
   {
     "type": "notebook",
     "brand": "MSI",
     "model": "MSI Prestige Flip 14 AI+ D3MTG Core Ultra 9 386H Memori 32 GB SSD 2 TB Touchscreen Win 11 Pro + OH (Inel Core Ultra 9 386H, RAM 32 GB, SSD 2 TB, Vga Intel Graphics, LED 14 WUXGA OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "29.900.000"
+    "price": "40.900.000"
   },
   {
     "type": "notebook",
     "brand": "MSI",
     "model": "MSI Prestige Flip 14 AI+ D3MTG Core Ultra 9 386H Memori 32 GB SSD 4 TB Touchscreen Win 11 Pro + OH (Inel Core Ultra 9 386H, RAM 32 GB, SSD 4 TB, Vga Intel Graphics, LED 14 WUXGA OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "33.900.000"
+    "price": "44.900.000"
   },
   {
     "type": "notebook",
