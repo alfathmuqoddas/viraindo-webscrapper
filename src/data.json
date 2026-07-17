@@ -6279,79 +6279,73 @@
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" 1 TB Sata3 BarraCuda Series",
-    "price": "1.750.000"
+    "price": "1.900.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" 2 TB Sata3 BarraCuda Series",
-    "price": "2.300.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" 3 TB Sata3 BarraCuda Series",
-    "price": "2.500.000"
+    "price": "2.100.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" 4 TB Sata3 BarraCuda Series",
-    "price": "2.700.000"
+    "price": "3.900.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" 6 TB Sata3 BarraCuda Series",
-    "price": "3.400.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" 8 TB Sata3 BarraCuda Series",
     "price": "4.100.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
+    "model": "Seagate 3.5\" 8 TB Sata3 BarraCuda Series",
+    "price": "5.400.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
     "model": "Seagate 3.5\" 10 TB Sata3 BarraCuda Series",
-    "price": "5.800.000"
+    "price": "7.700.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" 12 TB Sata3 BarraCuda Series",
-    "price": "6.800.000"
+    "price": "9.600.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" 14 TB Sata3 BarraCuda Series",
-    "price": "7.500.000"
+    "price": "9.800.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" 16 TB Sata3 BarraCuda Series",
-    "price": "8.200.000"
+    "price": "10.000.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" 20 TB Sata3 BarraCuda Series",
-    "price": "9.900.000"
+    "price": "12.300.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" 24 TB Sata3 BarraCuda Series",
-    "price": "11.400.000"
+    "price": "14.500.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Surveillance 1 TB Sata SkyHawk Series",
-    "price": "1.500.000"
+    "price": "1.950.000"
   },
   {
     "type": "storage",
@@ -6363,211 +6357,211 @@
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Surveillance 4 TB Sata SkyHawk Series",
-    "price": "3.100.000"
+    "price": "3.500.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Surveillance 6 TB Sata SkyHawk Series",
-    "price": "3.400.000"
+    "price": "4.400.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Surveillance 8 TB Sata SkyHawk Series",
-    "price": "4.500.000"
+    "price": "5.900.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Surveillance 10 TB Sata SkyHawk Series",
-    "price": "5.200.000"
+    "price": "7.700.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Surveillance 12 TB Sata SkyHawk Series",
-    "price": "6.900.000"
+    "price": "9.800.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Surveillance 14 TB Sata SkyHawk Series",
-    "price": "8.900.000"
+    "price": "10.900.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Surveillance 16 TB Sata SkyHawk Series",
-    "price": "9.900.000"
+    "price": "12.500.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Surveillance 8 TB Sata SkyHawk AI Series",
-    "price": "4.900.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Surveillance 10 TB Sata SkyHawk AI Series",
     "price": "6.200.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
+    "model": "Seagate 3.5\" Surveillance 10 TB Sata SkyHawk AI Series",
+    "price": "7.900.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
     "model": "Seagate 3.5\" Surveillance 12 TB Sata SkyHawk AI Series",
-    "price": "7.700.000"
+    "price": "9.900.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Surveillance 16 TB Sata SkyHawk AI Series",
-    "price": "10.300.000"
+    "price": "12.900.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Surveillance 18 TB Sata SkyHawk AI Series",
-    "price": "11.500.000"
+    "price": "14.900.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Surveillance 20 TB Sata SkyHawk AI Series",
-    "price": "12.800.000"
+    "price": "16.100.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Surveillance 24 TB Sata SkyHawk AI Series",
-    "price": "15.500.000"
+    "price": "19.400.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Surveillance 32 TB Sata SkyHawk AI Series",
-    "price": "20.200.000"
+    "price": "25.700.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 2 TB Sata3 IronWolf Series",
-    "price": "2.000.000"
+    "price": "2.600.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 4 TB Sata3 IronWolf Series",
-    "price": "2.150.000"
+    "price": "3.400.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 6 TB Sata3 IronWolf Series",
-    "price": "3.650.000"
+    "price": "4.900.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 8 TB Sata3 IronWolf Series",
-    "price": "4.300.000"
+    "price": "5.900.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 10 TB Sata3 IronWolf Series",
-    "price": "5.050.000"
+    "price": "7.800.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 12 TB Sata3 IronWolf Series",
-    "price": "5.650.000"
+    "price": "9.000.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 2 TB Sata3 IronWolf Pro Series",
-    "price": "2.400.000"
+    "price": "2.900.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 4 TB Sata3 IronWolf Pro Series",
-    "price": "2.950.000"
+    "price": "4.100.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 6 TB Sata3 IronWolf Pro Series",
-    "price": "4.250.000"
+    "price": "6.100.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 8 TB Sata3 IronWolf Pro Series",
-    "price": "4.800.000"
+    "price": "6.900.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 10 TB Sata3 IronWolf Pro Series",
-    "price": "5.800.000"
+    "price": "8.500.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 12 TB Sata3 IronWolf Pro Series",
-    "price": "7.000.000"
+    "price": "9.900.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 14 TB Sata3 IronWolf Pro Series",
-    "price": "7.700.000"
+    "price": "10.100.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 16 TB Sata3 IronWolf Pro Series",
-    "price": "8.900.000"
+    "price": "12.500.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 18 TB Sata3 IronWolf Pro Series",
-    "price": "9.500.000"
+    "price": "14.900.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 20 TB Sata3 IronWolf Pro Series",
-    "price": "10.700.000"
+    "price": "16.300.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 22 TB Sata3 IronWolf Pro Series",
-    "price": "11.500.000"
+    "price": "17.900.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 24 TB Sata3 IronWolf Pro Series",
-    "price": "12.400.000"
+    "price": "19.400.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 30 TB Sata3 IronWolf Pro Series",
-    "price": "14.200.000"
+    "price": "23.800.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" For NAS 32 TB Sata3 IronWolf Pro Series",
-    "price": "16.400.000"
+    "price": "25.900.000"
   },
   {
     "type": "storage",
@@ -6579,19 +6573,13 @@
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Constellation ES 2 TB Sata3 by Dell",
-    "price": "2.550.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Constellation ES 3 TB Sata3",
-    "price": "2.950.000"
+    "price": "2.900.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Constellation ES 4 TB Sata3",
-    "price": "3.300.000"
+    "price": "3.900.000"
   },
   {
     "type": "storage",
@@ -6603,139 +6591,145 @@
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Enterprise 2TB - Exos Series Sata3",
-    "price": "2.550.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Enterprise 4TB - Exos Series Sata3",
-    "price": "3.300.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Enterprise 6TB - Exos Series Sata3",
-    "price": "4.350.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Enterprise 8TB - Exos Series Sata3",
-    "price": "5.050.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Enterprise 10TB - Exos Series Sata3",
-    "price": "6.000.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Enterprise 12TB - Exos Series Sata3",
-    "price": "7.300.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Enterprise 14TB - Exos Series Sata3",
-    "price": "9.100.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Enterprise 16TB - Exos Series Sata3",
-    "price": "10.300.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Enterprise 18TB - Exos Series Sata3",
-    "price": "11.300.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Enterprise 20TB - Exos Series Sata3",
-    "price": "12.100.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Enterprise 22TB - Exos Series Sata3",
-    "price": "13.300.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Enterprise 24TB - Exos Series Sata3",
-    "price": "14.300.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Exos M 28TB Sata3",
-    "price": "16.200.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Exos M 30TB Sata3",
-    "price": "17.700.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Enterprise SAS 2TB - Exos 7E10 Series - ST2000NM013B",
-    "price": "2.700.000"
-  },
-  {
-    "type": "storage",
-    "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Enterprise SAS 4TB - Exos 7E10 Series",
     "price": "3.500.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Enterprise SAS 6TB - Exos 7E10 Series",
+    "model": "Seagate 3.5\" Enterprise 4TB - Exos Series Sata3",
     "price": "4.500.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
+    "model": "Seagate 3.5\" Enterprise 6TB - Exos Series Sata3",
+    "price": "6.300.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
+    "model": "Seagate 3.5\" Enterprise 8TB - Exos Series Sata3",
+    "price": "7.300.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
+    "model": "Seagate 3.5\" Enterprise 10TB - Exos Series Sata3",
+    "price": "8.800.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
+    "model": "Seagate 3.5\" Enterprise 12TB - Exos Series Sata3",
+    "price": "10.400.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
+    "model": "Seagate 3.5\" Enterprise 14TB - Exos Series Sata3",
+    "price": "11.900.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
+    "model": "Seagate 3.5\" Enterprise 16TB - Exos Series Sata3",
+    "price": "13.900.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
+    "model": "Seagate 3.5\" Enterprise 18TB - Exos Series Sata3",
+    "price": "15.400.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
+    "model": "Seagate 3.5\" Enterprise 20TB - Exos Series Sata3",
+    "price": "16.900.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
+    "model": "Seagate 3.5\" Enterprise 22TB - Exos Series Sata3",
+    "price": "18.900.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
+    "model": "Seagate 3.5\" Enterprise 24TB - Exos Series Sata3",
+    "price": "20.400.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
+    "model": "Seagate 3.5\" Exos M 28TB Sata3",
+    "price": "23.400.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
+    "model": "Seagate 3.5\" Exos M 30TB Sata3",
+    "price": "25.800.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
+    "model": "Seagate 3.5\" Exos M 32TB Sata3",
+    "price": "27.300.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
+    "model": "Seagate 3.5\" Enterprise SAS 2TB - Exos 7E10 Series - ST2000NM013B",
+    "price": "3.700.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
+    "model": "Seagate 3.5\" Enterprise SAS 4TB - Exos 7E10 Series",
+    "price": "4.800.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
+    "model": "Seagate 3.5\" Enterprise SAS 6TB - Exos 7E10 Series",
+    "price": "6.600.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SEAGATE",
     "model": "Seagate 3.5\" Enterprise SAS 8TB - Exos 7E10 Series",
-    "price": "5.650.000"
+    "price": "7.600.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Enterprise SAS 10TB - Exos 7E10 Series",
-    "price": "6.650.000"
+    "price": "9.200.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Enterprise SAS 12TB - Exos X16 Series",
-    "price": "8.000.000"
+    "model": "Seagate 3.5\" Enterprise SAS 12TB - Exos X18 Series",
+    "price": "10.500.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
-    "model": "Seagate 3.5\" Enterprise SAS 16TB - Exos X16 Series",
-    "price": "11.300.000"
+    "model": "Seagate 3.5\" Enterprise SAS 16TB - Exos X18 Series",
+    "price": "14.800.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Enterprise SAS 20TB - Exos X20 Series",
-    "price": "13.100.000"
+    "price": "18.800.000"
   },
   {
     "type": "storage",
     "brand": "SEAGATE",
     "model": "Seagate 3.5\" Enterprise SAS 24TB - Exos X24 Series",
-    "price": "14.900.000"
+    "price": "23.400.000"
   },
   {
     "type": "storage",
@@ -6759,37 +6753,37 @@
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 500 GB Sata3 Blue",
-    "price": "640.000"
+    "price": "620.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 1 TB Sata3 Blue",
-    "price": "1.550.000"
-  },
-  {
-    "type": "storage",
-    "brand": "WESTERN DIGITAL",
-    "model": "Western Digital 3.5\" 2 TB Sata3 Blue",
     "price": "1.950.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
+    "model": "Western Digital 3.5\" 2 TB Sata3 Blue",
+    "price": "2.600.000"
+  },
+  {
+    "type": "storage",
+    "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 4 TB Sata3 Blue",
-    "price": "2.700.000"
+    "price": "3.600.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 6 TB Sata3 Blue",
-    "price": "4.850.000"
+    "price": "4.900.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 8 TB Sata3 Blue",
-    "price": "4.100.000"
+    "price": "6.600.000"
   },
   {
     "type": "storage",
@@ -6801,127 +6795,121 @@
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 2 TB Sata3 Purple",
-    "price": "2.100.000"
+    "price": "2.700.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 4 TB Sata3 Purple",
-    "price": "2.600.000"
-  },
-  {
-    "type": "storage",
-    "brand": "WESTERN DIGITAL",
-    "model": "Western Digital 3.5\" 6 TB Sata3 Purple",
     "price": "3.900.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
+    "model": "Western Digital 3.5\" 6 TB Sata3 Purple",
+    "price": "5.400.000"
+  },
+  {
+    "type": "storage",
+    "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 8 TB Sata3 Purple",
-    "price": "4.900.000"
+    "price": "7.400.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 10 TB Sata3 Purple",
-    "price": "5.900.000"
+    "price": "9.400.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 8 TB Sata3 Purple Pro Surveillance",
-    "price": "5.200.000"
+    "price": "7.600.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 10 TB Sata3 Purple Pro Surveillance",
-    "price": "6.700.000"
+    "price": "9.600.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 12 TB Sata3 Purple Pro Surveillance",
-    "price": "7.500.000"
+    "price": "11.200.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 14 TB Sata3 Purple Pro Surveillance",
-    "price": "10.300.000"
+    "price": "13.600.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 18 TB Sata3 Purple Pro Surveillance",
-    "price": "10.800.000"
+    "price": "16.900.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 2 TB Sata3 Red Plus",
-    "price": "1.950.000"
+    "price": "2.500.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 4 TB Sata3 Red Plus",
-    "price": "2.550.000"
+    "price": "3.900.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 6 TB Sata3 Red Plus",
-    "price": "3.850.000"
+    "price": "5.500.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 8 TB Sata3 Red Plus",
-    "price": "5.100.000"
+    "price": "7.400.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 10 TB Sata3 Red Plus",
-    "price": "6.100.000"
+    "price": "8.700.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 12 TB Sata3 Red Plus",
-    "price": "6.800.000"
-  },
-  {
-    "type": "storage",
-    "brand": "WESTERN DIGITAL",
-    "model": "Western Digital 3.5\" 14 TB Sata3 Red Plus",
-    "price": "7.800.000"
+    "price": "10.100.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 1 TB Sata2 Enterprise",
-    "price": "1.900.000"
+    "price": "1.950.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 1 TB Sata3 Caviar Black",
-    "price": "1.350.000"
+    "price": "1.950.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 2 TB Sata3 Caviar Black",
-    "price": "2.420.000"
+    "price": "2.400.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 4 TB Sata3 Caviar Black",
-    "price": "3.500.000"
+    "price": "4.800.000"
   },
   {
     "type": "storage",
@@ -6933,67 +6921,73 @@
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 4TB Ultrastar DC HC310",
-    "price": "3.950.000"
+    "price": "5.500.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 6TB Ultrastar DC HC310",
-    "price": "5.200.000"
+    "price": "7.200.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 8TB Ultrastar DC HC320",
-    "price": "6.250.000"
+    "price": "9.000.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 10TB Ultrastar DC HC330",
-    "price": "7.900.000"
-  },
-  {
-    "type": "storage",
-    "brand": "WESTERN DIGITAL",
-    "model": "Western Digital 3.5\" 12TB Ultrastar DC HC520",
-    "price": "9.700.000"
-  },
-  {
-    "type": "storage",
-    "brand": "WESTERN DIGITAL",
-    "model": "Western Digital 3.5\" 14TB Ultrastar DC HC550",
-    "price": "10.400.000"
-  },
-  {
-    "type": "storage",
-    "brand": "WESTERN DIGITAL",
-    "model": "Western Digital 3.5\" 16TB Ultrastar DC HC550",
     "price": "11.200.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
+    "model": "Western Digital 3.5\" 12TB Ultrastar DC HC520",
+    "price": "13.100.000"
+  },
+  {
+    "type": "storage",
+    "brand": "WESTERN DIGITAL",
+    "model": "Western Digital 3.5\" 14TB Ultrastar DC HC550",
+    "price": "15.700.000"
+  },
+  {
+    "type": "storage",
+    "brand": "WESTERN DIGITAL",
+    "model": "Western Digital 3.5\" 16TB Ultrastar DC HC550",
+    "price": "17.900.000"
+  },
+  {
+    "type": "storage",
+    "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 18TB Ultrastar DC HC550",
-    "price": "12.600.000"
+    "price": "19.900.000"
+  },
+  {
+    "type": "storage",
+    "brand": "WESTERN DIGITAL",
+    "model": "Western Digital 3.5\" 18TB Ultrastar DC HC555",
+    "price": "19.900.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 20TB Ultrastar DC HC560",
-    "price": "14.000.000"
+    "price": "22.200.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 22TB Ultrastar DC HC570",
-    "price": "17.100.000"
+    "price": "24.500.000"
   },
   {
     "type": "storage",
     "brand": "WESTERN DIGITAL",
     "model": "Western Digital 3.5\" 24TB Ultrastar DC HC580",
-    "price": "19.800.000"
+    "price": "26.800.000"
   },
   {
     "type": "storage",
@@ -7305,7 +7299,7 @@
     "type": "storage",
     "brand": "DELL",
     "model": "Dell Hard Drive NLSAS 4TB 7200RPM 3.5 12Gbps",
-    "price": "4.900.000"
+    "price": "9.700.000"
   },
   {
     "type": "storage",
@@ -11642,7 +11636,7 @@
   {
     "type": "storage",
     "brand": "WD",
-    "model": "WD Blue SA510 SSD SATA 1TB SATA III - R 560MB/s W 520MB/s (Ready Stock)",
+    "model": "WD Blue SA510 SSD SATA 1TB SATA III - R 560MB/s W 520MB/s",
     "price": "3.750.000"
   },
   {
@@ -13232,6 +13226,12 @@
   {
     "type": "storage",
     "brand": "SYNOLOGY",
+    "model": "Synology DiskStation DS1825+ 8-Bay NAS Server",
+    "price": "25.900.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SYNOLOGY",
     "model": "Synology DS 2422+",
     "price": "37.200.000"
   },
@@ -13389,7 +13389,7 @@
     "type": "storage",
     "brand": "SYNOLOGY",
     "model": "Synology Plus HAT3300 4TB 5400RPM",
-    "price": "3.300.000"
+    "price": "3.950.000"
   },
   {
     "type": "storage",
@@ -13402,6 +13402,12 @@
     "brand": "SYNOLOGY",
     "model": "Synology Plus HAT3310 8TB 7200RPM",
     "price": "5.400.000"
+  },
+  {
+    "type": "storage",
+    "brand": "SYNOLOGY",
+    "model": "Synology Plus HAT3320 8TB 7200RPM",
+    "price": "5.500.000"
   },
   {
     "type": "storage",
@@ -13425,13 +13431,13 @@
     "type": "storage",
     "brand": "SYNOLOGY",
     "model": "Synology Enterprise HAS5300 12TB SAS 7200RPM",
-    "price": "10.600.000"
+    "price": "12.100.000"
   },
   {
     "type": "storage",
     "brand": "SYNOLOGY",
     "model": "Synology Enterprise HAS5300 16TB SAS 7200RPM",
-    "price": "11.950.000"
+    "price": "12.900.000"
   },
   {
     "type": "storage",
@@ -46736,6 +46742,12 @@
   {
     "type": "pc-branded",
     "brand": "APPLE",
+    "model": "Apple iMac M4 MWUV3 (Apple M4 10-core CPU, RAM 16 GB, SSD 512 GB, 10-core GPU, LED 24\", Mac OS) Silver",
+    "price": "29.900.000"
+  },
+  {
+    "type": "pc-branded",
+    "brand": "APPLE",
     "model": "Apple iMac M4 MWV33 (Apple M4 10-core CPU, RAM 16 GB, SSD 512 GB, 10-core GPU, LED 24\", Mac OS) Blue",
     "price": "29.900.000"
   },
@@ -61532,152 +61544,152 @@
   {
     "type": "pc-branded",
     "brand": "DELL",
-    "model": "Dell Inspiron AIO 24 5430 Core 3 100U Memori 8 GB SSD 512 GB Win 11 + OHS (Intel Core 3 100U, RAM 8 GB, SSD 512 GB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Win 11 Home + Office Home Student) Ready Stock",
+    "model": "Dell Inspiron AIO 24 5430 Core 3 100U Memori 8 GB SSD 512 GB Win 11 + OHS (Intel Core 3 100U, RAM 8 GB, SSD 512 GB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Win 11 Home + Office Home Student)",
     "price": "10.900.000"
   },
   {
     "type": "pc-branded",
     "brand": "DELL",
-    "model": "Dell Inspiron AIO 24 5430 Core 3 100U Memori 8 GB SSD 512 GB Win 11 Pro + OHS (Intel Core 3 100U, RAM 8 GB, SSD 512 GB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "11.900.000"
-  },
-  {
-    "type": "pc-branded",
-    "brand": "DELL",
-    "model": "Dell Inspiron AIO 24 5430 Core 3 100U Memori 8 GB SSD 1 TB Win 11 Pro + OHS (Intel Core 3 100U, RAM 8 GB, SSD 1 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "12.900.000"
-  },
-  {
-    "type": "pc-branded",
-    "brand": "DELL",
-    "model": "Dell Inspiron AIO 24 5430 Core 3 100U Memori 8 GB SSD 2 TB Win 11 Pro + OHS (Intel Core 3 100U, RAM 8 GB, SSD 2 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "13.900.000"
-  },
-  {
-    "type": "pc-branded",
-    "brand": "DELL",
-    "model": "Dell Inspiron AIO 24 5430 Core 3 100U Memori 8 GB SSD 4 TB Win 11 Pro + OHS (Intel Core 3 100U, RAM 8 GB, SSD 4 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "15.400.000"
-  },
-  {
-    "type": "pc-branded",
-    "brand": "DELL",
-    "model": "Dell Inspiron AIO 24 5430 Core 3 100U Memori 16 GB SSD 512 GB Win 11 Pro + OHS (Intel Core 3 100U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "12.400.000"
-  },
-  {
-    "type": "pc-branded",
-    "brand": "DELL",
-    "model": "Dell Inspiron AIO 24 5430 Core 3 100U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core 3 100U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "13.400.000"
-  },
-  {
-    "type": "pc-branded",
-    "brand": "DELL",
-    "model": "Dell Inspiron AIO 24 5430 Core 3 100U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core 3 100U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "14.400.000"
-  },
-  {
-    "type": "pc-branded",
-    "brand": "DELL",
-    "model": "Dell Inspiron AIO 24 5430 Core 3 100U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core 3 100U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "15.900.000"
-  },
-  {
-    "type": "pc-branded",
-    "brand": "DELL",
-    "model": "Dell Inspiron AIO 24 5430 Core 5 120U Memori 8 GB SSD 512 GB Win 11 + OHS / DELL AIO INSPIRON 5430 CORE 5 120U 8GB 512GB 23.8FHD W11+OHS (Intel Core 5 120U, RAM 8 GB, SSD 512 GB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Win 11 Home + Office Home Student) Ready Stock",
-    "price": "14.900.000"
+    "model": "Dell Inspiron AIO 24 5430 Core 5 120U Memori 8 GB SSD 512 GB Win 11 + OHS (Intel Core 5 120U, RAM 8 GB, SSD 512 GB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Win 11 Home + Office Home Student) Ready Stock",
+    "price": "15.800.000"
   },
   {
     "type": "pc-branded",
     "brand": "DELL",
     "model": "Dell Inspiron AIO 24 5430 Core 5 120U Memori 8 GB SSD 512 GB Win 11 Pro + OHS (Intel Core 5 120U, RAM 8 GB, SSD 512 GB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "15.900.000"
+    "price": "16.900.000"
   },
   {
     "type": "pc-branded",
     "brand": "DELL",
     "model": "Dell Inspiron AIO 24 5430 Core 5 120U Memori 8 GB SSD 1 TB Win 11 Pro + OHS (Intel Core 5 120U, RAM 8 GB, SSD 1 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "17.900.000"
+    "price": "18.900.000"
   },
   {
     "type": "pc-branded",
     "brand": "DELL",
     "model": "Dell Inspiron AIO 24 5430 Core 5 120U Memori 8 GB SSD 2 TB Win 11 Pro + OHS (Intel Core 5 120U, RAM 8 GB, SSD 2 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "20.900.000"
+    "price": "21.900.000"
   },
   {
     "type": "pc-branded",
     "brand": "DELL",
     "model": "Dell Inspiron AIO 24 5430 Core 5 120U Memori 8 GB SSD 4 TB Win 11 Pro + OHS (Intel Core 5 120U, RAM 8 GB, SSD 4 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "24.900.000"
+    "price": "25.900.000"
   },
   {
     "type": "pc-branded",
     "brand": "DELL",
     "model": "Dell Inspiron AIO 24 5430 Core 5 120U Memori 16 GB SSD 512 GB Win 11 Pro + OHS (Intel Core 5 120U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "19.400.000"
+    "price": "18.900.000"
   },
   {
     "type": "pc-branded",
     "brand": "DELL",
     "model": "Dell Inspiron AIO 24 5430 Core 5 120U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core 5 120U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "21.400.000"
+    "price": "20.900.000"
   },
   {
     "type": "pc-branded",
     "brand": "DELL",
     "model": "Dell Inspiron AIO 24 5430 Core 5 120U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core 5 120U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "24.400.000"
+    "price": "23.900.000"
   },
   {
     "type": "pc-branded",
     "brand": "DELL",
     "model": "Dell Inspiron AIO 24 5430 Core 5 120U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core 5 120U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "28.400.000"
-  },
-  {
-    "type": "pc-branded",
-    "brand": "DELL",
-    "model": "Dell Inspiron AIO 24 5430 Core 7 150U Memori 16 GB SSD 1 TB Win 11 + OHS / DELL AIO INSPIRON 5430 CORE 7 150U 16GB 1TB 23.8FHD W11+OHS (Intel Core 7 150U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Win 11 Home + Office Home Student) Ready Stock",
-    "price": "18.400.000"
-  },
-  {
-    "type": "pc-branded",
-    "brand": "DELL",
-    "model": "Dell Inspiron AIO 24 5430 Core 7 150U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core 7 150U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "19.400.000"
-  },
-  {
-    "type": "pc-branded",
-    "brand": "DELL",
-    "model": "Dell Inspiron AIO 24 5430 Core 7 150U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core 7 150U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "24.400.000"
-  },
-  {
-    "type": "pc-branded",
-    "brand": "DELL",
-    "model": "Dell Inspiron AIO 24 5430 Core 7 150U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core 7 150U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "28.400.000"
-  },
-  {
-    "type": "pc-branded",
-    "brand": "DELL",
-    "model": "Dell Inspiron AIO 24 5430 Core 7 150U Memori 32 GB SSD 1 TB Win 11 Pro + OHS (Intel Core 7 150U, RAM 32 GB, SSD 1 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "22.900.000"
-  },
-  {
-    "type": "pc-branded",
-    "brand": "DELL",
-    "model": "Dell Inspiron AIO 24 5430 Core 7 150U Memori 32 GB SSD 2 TB Win 11 Pro + OHS (Intel Core 7 150U, RAM 32 GB, SSD 2 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
     "price": "27.900.000"
   },
   {
     "type": "pc-branded",
     "brand": "DELL",
-    "model": "Dell Inspiron AIO 24 5430 Core 7 150U Memori 32 GB SSD 4 TB Win 11 Pro + OHS (Intel Core 7 150U, RAM 32 GB, SSD 4 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "model": "Dell Inspiron AIO 24 5430 Core 5 120U Memori 32 GB SSD 512 GB Win 11 Pro + OHS (Intel Core 5 120U, RAM 32 GB, SSD 512 GB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "22.400.000"
+  },
+  {
+    "type": "pc-branded",
+    "brand": "DELL",
+    "model": "Dell Inspiron AIO 24 5430 Core 5 120U Memori 32 GB SSD 1 TB Win 11 Pro + OHS (Intel Core 5 120U, RAM 32 GB, SSD 1 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "24.400.000"
+  },
+  {
+    "type": "pc-branded",
+    "brand": "DELL",
+    "model": "Dell Inspiron AIO 24 5430 Core 5 120U Memori 32 GB SSD 2 TB Win 11 Pro + OHS (Intel Core 5 120U, RAM 32 GB, SSD 2 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "27.400.000"
+  },
+  {
+    "type": "pc-branded",
+    "brand": "DELL",
+    "model": "Dell Inspiron AIO 24 5430 Core 5 120U Memori 32 GB SSD 4 TB Win 11 Pro + OHS (Intel Core 5 120U, RAM 32 GB, SSD 4 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "31.400.000"
+  },
+  {
+    "type": "pc-branded",
+    "brand": "DELL",
+    "model": "Dell Inspiron AIO 24 5430 Core 7 150U Memori 16 GB SSD 1 TB Win 11 + OHS (Intel Core 7 150U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 23.8 FHD, Keyboard + Mouse, Win 11 Home + Office Home Student)",
+    "price": "15.850.000"
+  },
+  {
+    "type": "pc-branded",
+    "brand": "DELL",
+    "model": "Dell Inspiron AIO EC24250 Core 7 150U Memori 16 GB SSD 1 TB Win 11 + OHS (Intel Core 7 150U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 23.8 FHD Touchscreen, Keyboard + Mouse, Win 11 Home + Office Home) Ready Stock",
+    "price": "27.900.000"
+  },
+  {
+    "type": "pc-branded",
+    "brand": "DELL",
+    "model": "Dell Inspiron AIO EC24250 Core 7 150U Memori 16 GB SSD 1 TB Win 11 Ori + OHS (Intel Core 7 150U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 23.8 FHD Touchscreen, Keyboard + Mouse, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "28.900.000"
+  },
+  {
+    "type": "pc-branded",
+    "brand": "DELL",
+    "model": "Dell Inspiron AIO EC24250 Core 7 150U Memori 16 GB SSD 2 TB Win 11 Ori + OHS (Intel Core 7 150U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 23.8 FHD Touchscreen, Keyboard + Mouse, Windows 11 Profesional + Office Home) Ready Stock",
     "price": "31.900.000"
+  },
+  {
+    "type": "pc-branded",
+    "brand": "DELL",
+    "model": "Dell Inspiron AIO EC24250 Core 7 150U Memori 16 GB SSD 4 TB Win 11 Ori + OHS (Intel Core 7 150U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 23.8 FHD Touchscreen, Keyboard + Mouse, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "35.900.000"
+  },
+  {
+    "type": "pc-branded",
+    "brand": "DELL",
+    "model": "Dell Inspiron AIO EC24250 Core 7 150U Memori 32 GB SSD 1 TB Win 11 Ori + OHS (Intel Core 7 150U, RAM 32 GB, SSD 1 TB, Vga Intel Graphics, LED 23.8 FHD Touchscreen, Keyboard + Mouse, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "32.400.000"
+  },
+  {
+    "type": "pc-branded",
+    "brand": "DELL",
+    "model": "Dell Inspiron AIO EC24250 Core 7 150U Memori 32 GB SSD 2 TB Win 11 Ori + OHS (Intel Core 7 150U, RAM 32 GB, SSD 2 TB, Vga Intel Graphics, LED 23.8 FHD Touchscreen, Keyboard + Mouse, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "35.400.000"
+  },
+  {
+    "type": "pc-branded",
+    "brand": "DELL",
+    "model": "Dell Inspiron AIO EC24250 Core 7 150U Memori 32 GB SSD 4 TB Win 11 Ori + OHS (Intel Core 7 150U, RAM 32 GB, SSD 4 TB, Vga Intel Graphics, LED 23.8 FHD Touchscreen, Keyboard + Mouse, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "39.400.000"
+  },
+  {
+    "type": "pc-branded",
+    "brand": "DELL",
+    "model": "Dell Inspiron AIO EC24250 Core 7 150U Memori 64 GB SSD 1 TB Win 11 Ori + OHS (Intel Core 7 150U, RAM 64 GB, SSD 1 TB, Vga Intel Graphics, LED 23.8 FHD Touchscreen, Keyboard + Mouse, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "39.400.000"
+  },
+  {
+    "type": "pc-branded",
+    "brand": "DELL",
+    "model": "Dell Inspiron AIO EC24250 Core 7 150U Memori 64 GB SSD 2 TB Win 11 Ori + OHS (Intel Core 7 150U, RAM 64 GB, SSD 2 TB, Vga Intel Graphics, LED 23.8 FHD Touchscreen, Keyboard + Mouse, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "42.400.000"
+  },
+  {
+    "type": "pc-branded",
+    "brand": "DELL",
+    "model": "Dell Inspiron AIO EC24250 Core 7 150U Memori 64 GB SSD 4 TB Win 11 Ori + OHS (Intel Core 7 150U, RAM 64 GB, SSD 4 TB, Vga Intel Graphics, LED 23.8 FHD Touchscreen, Keyboard + Mouse, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "46.400.000"
   },
   {
     "type": "pc-branded",
@@ -110829,127 +110841,169 @@
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Neo MHFC4 (Apple A18 Pro 6-Core CPU, RAM 8GB, 512GB SSD, LED 13-inch, 5-core GPU, Mac OS) Silver",
-    "price": "14.700.000"
+    "price": "15.400.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Neo MHFE4 (Apple A18 Pro 6-Core CPU, RAM 8GB, 512GB SSD, LED 13-inch, 5-core GPU, Mac OS) Citrus",
-    "price": "14.700.000"
+    "price": "15.400.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Neo MHFG4 (Apple A18 Pro 6-Core CPU, RAM 8GB, 512GB SSD, LED 13-inch, 5-core GPU, Mac OS) Indigo",
-    "price": "14.700.000"
+    "price": "15.400.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Neo MHFJ4 (Apple A18 Pro 6-Core CPU, RAM 8GB, 512GB SSD, LED 13-inch, 5-core GPU, Mac OS) Blush",
-    "price": "14.700.000"
+    "price": "15.400.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDH74 (Apple M5 10-Core CPU , RAM 16GB , 512GB SSD, 13-inch, 8-core GPU Graphics, Mac OS) Silver",
-    "price": "24.400.000"
+    "price": "24.500.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHA4 (Apple M5 10-Core CPU , RAM 16GB , 512GB SSD, 13-inch, 8-core GPU Graphics, Mac OS) Starlight",
-    "price": "24.400.000"
+    "price": "24.500.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHE4 (Apple M5 10-Core CPU , RAM 16GB , 512GB SSD, 13-inch, 8-core GPU Graphics, Mac OS) Midnight",
-    "price": "24.400.000"
+    "price": "24.500.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHH4 (Apple M5 10-Core CPU , RAM 16GB , 512GB SSD, 13-inch, 8-core GPU Graphics, Mac OS) Sky Blue",
-    "price": "24.400.000"
+    "price": "24.500.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDH84 (Apple M5 10-Core CPU , RAM 16GB , 1TB SSD, 13-inch, 10-core GPU Graphics, Mac OS) Silver",
-    "price": "29.700.000"
+    "price": "29.800.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHC4 (Apple M5 10-Core CPU , RAM 16GB , 1TB SSD, 13-inch, 10-core GPU Graphics, Mac OS) Starlight",
-    "price": "29.700.000"
+    "price": "29.800.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHF4 (Apple M5 10-Core CPU , RAM 16GB , 1TB SSD, 13-inch, 10-core GPU Graphics, Mac OS) Midnight",
-    "price": "29.700.000"
+    "price": "29.800.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHJ4 (Apple M5 10-Core CPU , RAM 16GB , 1TB SSD, 13-inch, 10-core GPU Graphics, Mac OS) Sky Blue",
-    "price": "29.700.000"
+    "price": "29.800.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDH94 (Apple M5 10-Core CPU , RAM 24GB , 1TB SSD, 13-inch, 10-core GPU Graphics, Mac OS) Silver",
-    "price": "32.900.000"
+    "price": "31.500.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHD4 (Apple M5 10-Core CPU , RAM 24GB , 1TB SSD, 13-inch, 10-core GPU Graphics, Mac OS) Starlight",
-    "price": "32.900.000"
+    "price": "31.500.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHG4 (Apple M5 10-Core CPU , RAM 24GB , 1TB SSD, 13-inch, 10-core GPU Graphics, Mac OS) Midnight",
-    "price": "32.900.000"
+    "price": "31.500.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air M5 MDHK4 (Apple M5 10-Core CPU , RAM 24GB , 1TB SSD, 13-inch, 10-core GPU Graphics, Mac OS) Sky Blue",
-    "price": "32.900.000"
+    "price": "31.500.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air 15 M5 MDVH4 (Apple M5 10-Core CPU , RAM 16GB , 512GB SSD, 15.3-inch, 10-core GPU Graphics, Mac OS) Midnight",
-    "price": "24.700.000"
+    "price": "29.900.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air 15 M5 MDVQ4 (Apple M5 10-Core CPU , RAM 16GB , 512GB SSD, 15.3-inch, 10-core GPU Graphics, Mac OS) Sky Blue",
-    "price": "24.700.000"
+    "price": "29.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "APPLE",
+    "model": "Apple Macbook Air 15 M5 MDVD4 (Apple M5 10-Core CPU , RAM 16GB , 512GB SSD, 15.3-inch, 10-core GPU Graphics, Mac OS) Starlight",
+    "price": "29.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "APPLE",
+    "model": "Apple Macbook Air 15 M5 MDV94 (Apple M5 10-Core CPU , RAM 16GB , 512GB SSD, 15.3-inch, 10-core GPU Graphics, Mac OS) Silver",
+    "price": "29.900.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air 15 M5 MDVK4 (Apple M5 10-Core CPU , RAM 16GB , 1TB SSD, 15.3-inch, 10-core GPU Graphics, Mac OS) Midnight",
-    "price": "28.000.000"
+    "price": "33.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "APPLE",
+    "model": "Apple Macbook Air 15 M5 MDVT4 (Apple M5 10-Core CPU , RAM 16GB , 1TB SSD, 15.3-inch, 10-core GPU Graphics, Mac OS) Sky Blue",
+    "price": "33.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "APPLE",
+    "model": "Apple Macbook Air 15 M5 MDVE4 (Apple M5 10-Core CPU , RAM 16GB , 1TB SSD, 15.3-inch, 10-core GPU Graphics, Mac OS) Starlight",
+    "price": "33.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "APPLE",
+    "model": "Apple Macbook Air 15 M5 MDVA4 (Apple M5 10-Core CPU , RAM 16GB , 1TB SSD, 15.3-inch, 10-core GPU Graphics, Mac OS) Silver",
+    "price": "33.900.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air 15 M5 MDVN4 (Apple M5 10-Core CPU , RAM 24GB , 1TB SSD, 15.3-inch, 10-core GPU Graphics, Mac OS) Midnight",
-    "price": "31.400.000"
+    "price": "37.900.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Air 15 M5 MDVU4 (Apple M5 10-Core CPU , RAM 24GB , 1TB SSD, 15.3-inch, 10-core GPU Graphics, Mac OS) Sky Blue",
-    "price": "31.400.000"
+    "price": "37.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "APPLE",
+    "model": "Apple Macbook Air 15 M5 MDVF4 (Apple M5 10-Core CPU , RAM 24GB , 1TB SSD, 15.3-inch, 10-core GPU Graphics, Mac OS) Starlight",
+    "price": "37.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "APPLE",
+    "model": "Apple Macbook Air 15 M5 MDVC4 (Apple M5 10-Core CPU , RAM 24GB , 1TB SSD, 15.3-inch, 10-core GPU Graphics, Mac OS) Silver",
+    "price": "37.900.000"
   },
   {
     "type": "notebook",
@@ -110967,13 +111021,13 @@
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Pro M5 MDE34 (Apple M5 10-core CPU, RAM 24GB, SSD 1 TB, 14-inch, 10-core GPU Graphics, Mac OS) Space Black",
-    "price": "37.200.000"
+    "price": "42.900.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Pro M5 MDE64 (Apple M5 10-core CPU, RAM 24GB, SSD 1 TB, 14-inch, 10-core GPU Graphics, Mac OS) Silver",
-    "price": "37.200.000"
+    "price": "42.900.000"
   },
   {
     "type": "notebook",
@@ -110991,13 +111045,13 @@
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Pro M5 Pro MGDR4 (Apple M5 Pro 15-core CPU, RAM 24GB, SSD 1 TB, 14-inch, 16-core GPU Graphics, Mac OS) Space Black",
-    "price": "45.500.000"
+    "price": "47.400.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Pro M5 Pro MGDN4 (Apple M5 Pro 15-core CPU, RAM 24GB, SSD 1 TB, 14-inch, 16-core GPU Graphics, Mac OS) Silver",
-    "price": "45.500.000"
+    "price": "47.400.000"
   },
   {
     "type": "notebook",
@@ -111015,25 +111069,43 @@
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Pro M5 Pro MGDT4 (Apple M5 Pro 18-core CPU, RAM 24GB, SSD 2 TB, 14-inch, 20-core GPU Graphics, Mac OS) Space Black",
-    "price": "56.500.000"
+    "price": "51.900.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Pro M5 Pro MGDP4 (Apple M5 Pro 18-core CPU, RAM 24GB, SSD 2 TB, 14-inch, 20-core GPU Graphics, Mac OS) Silver",
-    "price": "56.500.000"
+    "price": "51.900.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Pro M5 Max MGDU4 (Apple M5 Max 18-core CPU, RAM 36GB, SSD 2 TB, 14-inch, 32-core GPU Graphics, Mac OS) Space Black",
-    "price": "67.600.000"
+    "price": "66.900.000"
   },
   {
     "type": "notebook",
     "brand": "APPLE",
     "model": "Apple Macbook Pro 16 M5 Pro MGEA4 (Apple M5 Pro 18-core CPU, RAM 24GB, SSD 1 TB, 16-inch, 20-core GPU Graphics, Mac OS) Space Black",
-    "price": "52.500.000"
+    "price": "56.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "APPLE",
+    "model": "Apple Macbook Pro 16 M5 Pro MGE44 (Apple M5 Pro 18-core CPU, RAM 24GB, SSD 1 TB, 16-inch, 20-core GPU Graphics, Mac OS) Silver",
+    "price": "56.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "APPLE",
+    "model": "Apple MacBook Pro 16 M5 Pro MGEC4 (Apple M5 Pro 18-core CPU, RAM 48GB, SSD 1 TB, 16-inch, 20-core GPU Graphics, Mac OS) Space Black",
+    "price": "65.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "APPLE",
+    "model": "Apple MacBook Pro 16 M5 Pro MGE64 (Apple M5 Pro 18-core CPU, RAM 48GB, SSD 1 TB, 16-inch, 20-core GPU Graphics, Mac OS) Silver",
+    "price": "65.400.000"
   },
   {
     "type": "notebook",
@@ -113966,78 +114038,6 @@
   {
     "type": "notebook",
     "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 8 GB SSD 256 GB Win 11 + OHS / Asus Vivobook 14 A1404VA-FHD3821M / Asus Vivobook 14 A1404VA-FHD3822M / Asus Vivobook 14 A1404VA-FHD3823M / ASUS VIVOBOOK 14 A1404VA I3 1315 8GB 256GB W11+OHS (Intel Core i3 1315U, RAM 8 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14\" FHD, Win 11 Home + Office Home Student) Ready Stock (Quiet Blue, Terra Cotta, Cool Silver)",
-    "price": "7.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 8 GB SSD 512 GB Win 11 + OHS / Asus Vivobook 14 A1404VA-FHD3851M / Asus Vivobook 14 A1404VA-FHD3852M / Asus Vivobook 14 A1404VA-FHD3853M / Asus Vivobook 14 A1404VA-VIPS3851M / Asus Vivobook 14 A1404VA-VIPS3852M / Asus Vivobook 14 A1404VA-VIPS3853M / Asus Vivobook 14 A1404VA-VIPS351M / Asus Vivobook 14 A1404VA-VIPS352M / Asus Vivobook 14 A1404VA-VIPS351 / Asus Vivobook 14 A1404VA-VIPS352 / ASUS VIVOBOOK 14 A1404VA I3 1315 8GB 512GB W11+OHS (Intel Core i3 1315U, RAM 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14\" FHD, Win 11 Home + Office Home Student) Ready Stock (Quiet Blue, Terra Cotta, Transparent Silver, Quiet Blue, Terra Cotta, Transparent Silver, Quiet Blue, Transparent Silver, Quiet Blue, Transparent Silver)",
-    "price": "8.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 8 GB SSD 256 GB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "8.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 8 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "9.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 8 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "11.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 8 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "14.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 8 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "18.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 16 GB SSD 256 GB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 16 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "10.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 16 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "10.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 16 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "12.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 16 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "15.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 16 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "19.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
     "model": "Asus Vivobook 14 A1404VA-VIPS558M / Asus Vivobook 14 A1404VA-VIPS5510M (Intel Core i5 1335U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Win 11 Home + Office Home Student) Quiet Blue, Cool Silver",
     "price": "8.899.000"
   },
@@ -114220,6 +114220,78 @@
     "brand": "ASUS",
     "model": "Asus A416EAO-FHD551 / A416EAO-FHD552 (Intel Core i5-1135G7, RAM 4GB, SSD 512GB, Vga Intel Iris Xe Graphics, LED 14\" FHD, Win 11 Home + Office Home Student) Transparant Silver, Slate Grey",
     "price": "8.499.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 8 GB SSD 256 GB Win 11 + OHS / Asus Vivobook 14 A1404VA-FHD3821M / Asus Vivobook 14 A1404VA-FHD3822M / Asus Vivobook 14 A1404VA-FHD3823M / ASUS VIVOBOOK 14 A1404VA I3 1315 8GB 256GB W11+OHS (Intel Core i3 1315U, RAM 8 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14\" FHD, Win 11 Home + Office Home Student) Ready Stock (Quiet Blue, Terra Cotta, Cool Silver)",
+    "price": "8.499.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 8 GB SSD 512 GB Win 11 + OHS / Asus Vivobook 14 A1404VA-FHD3851M / Asus Vivobook 14 A1404VA-FHD3852M / Asus Vivobook 14 A1404VA-FHD3853M / Asus Vivobook 14 A1404VA-VIPS3851M / Asus Vivobook 14 A1404VA-VIPS3852M / Asus Vivobook 14 A1404VA-VIPS3853M / Asus Vivobook 14 A1404VA-VIPS351M / Asus Vivobook 14 A1404VA-VIPS352M / Asus Vivobook 14 A1404VA-VIPS351 / Asus Vivobook 14 A1404VA-VIPS352 / ASUS VIVOBOOK 14 A1404VA I3 1315 8GB 512GB W11+OHS (Intel Core i3 1315U, RAM 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14\" FHD, Win 11 Home + Office Home Student) Ready Stock (Quiet Blue, Terra Cotta, Transparent Silver, Quiet Blue, Terra Cotta, Transparent Silver, Quiet Blue, Transparent Silver, Quiet Blue, Transparent Silver)",
+    "price": "8.949.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 8 GB SSD 256 GB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "9.499.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 8 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "9.999.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 8 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "11.999.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 8 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "14.999.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 8 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "18.999.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 16 GB SSD 256 GB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 16 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "10.999.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 16 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "11.499.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 16 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "13.499.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 16 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "16.499.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VA Core i3 1315U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 16 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "20.499.000"
   },
   {
     "type": "notebook",
@@ -115274,84 +115346,6 @@
   {
     "type": "notebook",
     "brand": "ASUS",
-    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 16 GB SSD 512 GB Win 11 + OHS / Asus Expertbook P1 P1503CVA-S75150WS (Intel Core i5 13420H, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 15.6 FHD, Win 11 Home + Office Home Student) Ready Stock (Misty Grey)",
-    "price": "9.799.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 16 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "10.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 16 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "12.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 16 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "15.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 16 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "19.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 32 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 32 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "14.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 32 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 32 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "15.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 32 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 32 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "18.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 32 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 32 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "22.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 64 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 64 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "21.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 64 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 64 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "22.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 64 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 64 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "25.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 64 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 64 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "29.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
     "model": "Asus Vivobook A416EPO-FHD553+ / A416EPO-VIPS554 / Asus Vivobook A416EPO-VIPS555 / Asus Vivobook A416EPO-VIPS556 (Intel Core i5 1135G7, RAM 8GB, SSD 512GB, Vga Nvidia GeForce MX330 2GB, LED 14\" FHD, Win 11 Home + Office Home Student) Silver, Grey, Silver, Grey",
     "price": "9.899.000"
   },
@@ -116060,32 +116054,8 @@
   {
     "type": "notebook",
     "brand": "ASUS",
-    "model": "Asus Vivobook 14 M1407KA Ryzen AI 5 330 Memori 16 GB SSD 512 GB Win 11 + OH / Asus Vivobook 14 M1407KA-VIPS5154M / Asus Vivobook 14 M1407KA-VIPS5155M / Asus Vivobook 14 M1407KA-VIPS5156M / ASUS VIVOBOOK 14 M1407KA RYZEN AI 5 330 16GB 512GB W11+OHS (AMD Ryzen AI 5 330, RAM 16 GB, SSD 512 GB, Vga AMD Radeon 820M, LED 14 WUXGA, Win 11 Home + Office Home) Ready Stock (Quiet Blue, Platinum Gold, Cool Silver)",
+    "model": "Asus Vivobook 14 M1407KA-VIPS5154M / Asus Vivobook 14 M1407KA-VIPS5155M / Asus Vivobook 14 M1407KA-VIPS5156M (AMD Ryzen AI 5 330, RAM 16 GB, SSD 512 GB, Vga AMD Radeon 820M, LED 14 WUXGA, Win 11 Home + Office Home) Quiet Blue, Platinum Gold, Cool Silver",
     "price": "10.699.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 M1407KA Ryzen AI 5 330 Memori 16 GB SSD 512 GB Win 11 Pro + OH (AMD Ryzen AI 5 330, RAM 16 GB, SSD 512 GB, Vga AMD Radeon 820M, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "11.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 M1407KA Ryzen AI 5 330 Memori 16 GB SSD 1 TB Win 11 Pro + OH (AMD Ryzen AI 5 330, RAM 16 GB, SSD 1 TB, Vga AMD Radeon 820M, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "13.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 M1407KA Ryzen AI 5 330 Memori 16 GB SSD 2 TB Win 11 Pro + OH (AMD Ryzen AI 5 330, RAM 16 GB, SSD 2 TB, Vga AMD Radeon 820M, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "16.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 M1407KA Ryzen AI 5 330 Memori 16 GB SSD 4 TB Win 11 Pro + OH (AMD Ryzen AI 5 330, RAM 16 GB, SSD 4 TB, Vga AMD Radeon 820M, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "20.999.000"
   },
   {
     "type": "notebook",
@@ -116872,6 +116842,84 @@
     "brand": "ASUS",
     "model": "Asus ExpertBook P1 P1403CVA-S67150WS (Intel Core i7 13700H, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 FHD, Win 11 Home + Office Home Student)",
     "price": "11.799.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 16 GB SSD 512 GB Win 11 + OHS / Asus Expertbook P1 P1503CVA-S75150WS (Intel Core i5 13420H, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 15.6 FHD, Win 11 Home + Office Home Student) Ready Stock (Misty Grey)",
+    "price": "11.799.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 16 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "12.999.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 16 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "14.999.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 16 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "17.999.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 16 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "21.999.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 32 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 32 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "16.499.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 32 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 32 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "18.499.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 32 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 32 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "21.499.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 32 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 32 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "25.499.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 64 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 64 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "23.499.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 64 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 64 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "25.499.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 64 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 64 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "28.499.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Expertbook P1 P1503CVA Core i5 13420H Memori 64 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAM 64 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": "32.499.000"
   },
   {
     "type": "notebook",
@@ -118424,60 +118472,6 @@
   {
     "type": "notebook",
     "brand": "ASUS",
-    "model": "Asus Vivobook S14 S3407CA Core Ultra 5 225H Memori 16 GB SSD 1 TB Win 11 + OH / Asus Vivobook S14 S3407CA-VIPS5111M / Asus Vivobook S14 S3407CA-VIPS5112M / ASUS VIVOBOOK S14 S3407CA ULTRA 5 225H 16GB 1TB W11+OHS (Intel Core Ultra 5 225H, RAM 16 GB, SSD 1 TB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Win 11 Home + Office Home) Ready Stock (Matte Gray, Cool Silver)",
-    "price": "13.599.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 S3407CA Core 5 Ultra 225H Memori 16 GB SSD 512 GB Win 11 Pro + OH (Intel Core Ultra 5 225H, RAM 16 GB, SSD 512 GB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "14.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 S3407CA Core 5 Ultra 225H Memori 16 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 5 225H, RAM 16 GB, SSD 1 TB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "16.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 S3407CA Core 5 Ultra 225H Memori 16 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 5 225H, RAM 16 GB, SSD 2 TB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "19.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 S3407CA Core 5 Ultra 225H Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core Ultra 5 225H, RAM 16 GB, SSD 4 TB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "23.999.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 S3407CA Core 5 Ultra 225H Memori 32 GB SSD 512 GB Win 11 Pro + OH (Intel Core Ultra 5 225H, RAM 32 GB, SSD 512 GB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "18.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 S3407CA Core 5 Ultra 225H Memori 32 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 5 225H, RAM 32 GB, SSD 1 TB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "20.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 S3407CA Core 5 Ultra 225H Memori 32 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 5 225H, RAM 32 GB, SSD 2 TB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "23.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 S3407CA Core 5 Ultra 225H Memori 32 GB SSD 4 TB Win 11 Pro + OH (Intel Core Ultra 5 225H, RAM 32 GB, SSD 4 TB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "27.499.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
     "model": "Asus ExpertBook B5 Flip B5302FEA-LG5850W (Intel Core i5-1135G7, RAM 8GB, SSD 512GB, Vga Intel Iris Xe Graphics, LED 13.3\" FHD Touchscreen, Win 11 Home)",
     "price": "13.699.000"
   },
@@ -118600,6 +118594,60 @@
     "brand": "ASUS",
     "model": "Asus ExpertBook P1 P1403CVA-S67151WS (Intel Core i7 13620H, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD, Win 11 Home + Office Home)",
     "price": "13.999.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook S14 S3407CA Core Ultra 5 225H Memori 16 GB SSD 1 TB Win 11 + OH / Asus Vivobook S14 S3407CA-VIPS5111M / Asus Vivobook S14 S3407CA-VIPS5112M / ASUS VIVOBOOK S14 S3407CA ULTRA 5 225H 16GB 1TB W11+OHS (Intel Core Ultra 5 225H, RAM 16 GB, SSD 1 TB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Win 11 Home + Office Home) Ready Stock (Matte Gray, Cool Silver)",
+    "price": "13.999.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook S14 S3407CA Core 5 Ultra 225H Memori 16 GB SSD 512 GB Win 11 Pro + OH (Intel Core Ultra 5 225H, RAM 16 GB, SSD 512 GB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "14.999.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook S14 S3407CA Core 5 Ultra 225H Memori 16 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 5 225H, RAM 16 GB, SSD 1 TB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "16.999.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook S14 S3407CA Core 5 Ultra 225H Memori 16 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 5 225H, RAM 16 GB, SSD 2 TB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "19.999.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook S14 S3407CA Core 5 Ultra 225H Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core Ultra 5 225H, RAM 16 GB, SSD 4 TB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "23.999.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook S14 S3407CA Core 5 Ultra 225H Memori 32 GB SSD 512 GB Win 11 Pro + OH (Intel Core Ultra 5 225H, RAM 32 GB, SSD 512 GB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "18.499.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook S14 S3407CA Core 5 Ultra 225H Memori 32 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 5 225H, RAM 32 GB, SSD 1 TB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "20.499.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook S14 S3407CA Core 5 Ultra 225H Memori 32 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 5 225H, RAM 32 GB, SSD 2 TB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "23.499.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook S14 S3407CA Core 5 Ultra 225H Memori 32 GB SSD 4 TB Win 11 Pro + OH (Intel Core Ultra 5 225H, RAM 32 GB, SSD 4 TB, Vga Intel Arc 130T GPU, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "27.499.000"
   },
   {
     "type": "notebook",
@@ -134828,114 +134876,6 @@
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP OmniBook X Flip 14 Core Ultra 5 226V Memori 16 GB SSD 512 GB Win 11 + OH / HP OmniBook X Flip 14-FM0889TU / HP OmniBook X Flip 14-FM0890TU / HP OMNIBOOK X FLIP 14 TOUCH OLED ULTRA 5 226V 16GB 512GB W11+OHS (Intel Core Ultra 5 226V, RAM 16 GB, SSD 512 GB, Vga Intel Arc 130T, LED 14 2K OLED Touchscreen, Win 11 Home + Office Home) Ready Stock (Blue, Silver)",
-    "price": "16.800.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP OmniBook X Flip 14 Core Ultra 5 226V Memori 16 GB SSD 512 GB Win 11 Pro + OH (Intel Core Ultra 5 226V, RAM 16 GB, SSD 512 GB, Vga Intel Arc 130T, LED 14 2K OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "17.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP OmniBook X Flip 14 Core Ultra 5 226V Memori 16 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 5 226V, RAM 16 GB, SSD 1 TB, Vga Intel Arc 130T, LED 14 2K OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "19.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP OmniBook X Flip 14 Core Ultra 5 226V Memori 16 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 5 226V, RAM 16 GB, SSD 2 TB, Vga Intel Arc 130T, LED 14 2K OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "22.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP OmniBook X Flip 14 Core Ultra 5 226V Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core Ultra 5 226V, RAM 16 GB, SSD 4 TB, Vga Intel Arc 130T, LED 14 2K OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "26.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Core i7 13620H Memori 16 GB SSD 512 GB RTX4050 Win 11 + OH / HP Victus 15-FA2883TX (Intel Core i7 13620H, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Win 11 Home + Office Home) Ready Stock (Mica Silver)",
-    "price": "16.800.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Core i7 13620H Memori 16 GB SSD 512 GB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "17.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Core i7 13620H Memori 16 GB SSD 1 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "18.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Core i7 13620H Memori 16 GB SSD 2 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 16 GB, SSD 2 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "20.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Core i7 13620H Memori 16 GB SSD 4 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 16 GB, SSD 4 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "24.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Core i7 13620H Memori 32 GB SSD 512 GB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 32 GB, SSD 512 GB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "19.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Core i7 13620H Memori 32 GB SSD 1 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "20.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Core i7 13620H Memori 32 GB SSD 2 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "22.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Core i7 13620H Memori 32 GB SSD 4 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "26.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Core i7 13620H Memori 64 GB SSD 512 GB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 64 GB, SSD 512 GB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "23.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Core i7 13620H Memori 64 GB SSD 1 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 64 GB, SSD 1 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "24.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Core i7 13620H Memori 64 GB SSD 2 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 64 GB, SSD 2 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "26.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Victus 15 Core i7 13620H Memori 64 GB SSD 4 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 64 GB, SSD 4 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "30.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
     "model": "HP OmniBook 5 Flip 14 Core 7 150U Memori 16 GB SSD 512 GB Win 11 + OH / HP OmniBook 5 Flip 14-FP0775TU / HP OmniBook 5 Flip 14-FP0776TU (Intel Core 7 150U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 2K Touchscreen, Win 11 Home + Office Home) Ready Stock (Silver, Blue)",
     "price": "16.800.000"
   },
@@ -135218,6 +135158,36 @@
   {
     "type": "notebook",
     "brand": "HP",
+    "model": "HP OmniBook X Flip 14 Core Ultra 5 226V Memori 16 GB SSD 512 GB Win 11 + OH / HP OmniBook X Flip 14-FM0889TU / HP OmniBook X Flip 14-FM0890TU / HP OMNIBOOK X FLIP 14 TOUCH OLED ULTRA 5 226V 16GB 512GB W11+OHS (Intel Core Ultra 5 226V, RAM 16 GB, SSD 512 GB, Vga Intel Arc 130T, LED 14 2K OLED Touchscreen, Win 11 Home + Office Home) Ready Stock (Blue, Silver)",
+    "price": "17.800.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP OmniBook X Flip 14 Core Ultra 5 226V Memori 16 GB SSD 512 GB Win 11 Pro + OH (Intel Core Ultra 5 226V, RAM 16 GB, SSD 512 GB, Vga Intel Arc 130T, LED 14 2K OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "18.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP OmniBook X Flip 14 Core Ultra 5 226V Memori 16 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 5 226V, RAM 16 GB, SSD 1 TB, Vga Intel Arc 130T, LED 14 2K OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "20.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP OmniBook X Flip 14 Core Ultra 5 226V Memori 16 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 5 226V, RAM 16 GB, SSD 2 TB, Vga Intel Arc 130T, LED 14 2K OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "23.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP OmniBook X Flip 14 Core Ultra 5 226V Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core Ultra 5 226V, RAM 16 GB, SSD 4 TB, Vga Intel Arc 130T, LED 14 2K OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "27.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
     "model": "HP ProBook 440 G11 A6RC8PT (Intel Core Ultra 5 125U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional)",
     "price": "17.900.000"
   },
@@ -135226,6 +135196,84 @@
     "brand": "HP",
     "model": "HP EliteBook 830 G8 446J7PA (Intel Core i7 1165G7, RAM 8 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 13.3\" FHD, Windows 10 Profesional)",
     "price": "17.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP Victus 15 Core i7 13620H Memori 16 GB SSD 512 GB RTX4050 Win 11 + OH / HP Victus 15-FA2883TX (Intel Core i7 13620H, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Win 11 Home + Office Home) Ready Stock (Mica Silver)",
+    "price": "17.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP Victus 15 Core i7 13620H Memori 16 GB SSD 512 GB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "18.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP Victus 15 Core i7 13620H Memori 16 GB SSD 1 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "20.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP Victus 15 Core i7 13620H Memori 16 GB SSD 2 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 16 GB, SSD 2 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "23.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP Victus 15 Core i7 13620H Memori 16 GB SSD 4 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 16 GB, SSD 4 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "27.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP Victus 15 Core i7 13620H Memori 32 GB SSD 512 GB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 32 GB, SSD 512 GB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "21.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP Victus 15 Core i7 13620H Memori 32 GB SSD 1 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "23.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP Victus 15 Core i7 13620H Memori 32 GB SSD 2 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "26.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP Victus 15 Core i7 13620H Memori 32 GB SSD 4 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "30.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP Victus 15 Core i7 13620H Memori 64 GB SSD 512 GB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 64 GB, SSD 512 GB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "26.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP Victus 15 Core i7 13620H Memori 64 GB SSD 1 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 64 GB, SSD 1 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "28.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP Victus 15 Core i7 13620H Memori 64 GB SSD 2 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 64 GB, SSD 2 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "31.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP Victus 15 Core i7 13620H Memori 64 GB SSD 4 TB RTX4050 Win 11 Pro + OH (Intel Core i7 13620H, RAM 64 GB, SSD 4 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "35.400.000"
   },
   {
     "type": "notebook",
@@ -135386,50 +135434,32 @@
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP Envy x360 14 Core Ultra 7 155U Memori 16 GB SSD 1 TB Touchscreen Win 11 + OHS / HP Envy x360 14-fc0777TU / HP Envy x360 14-fc0888TU / HP ENVY X360 14 OLED ULTRA 7 155U 16GB 1TB W11+OHS (Intel Core Ultra 7 155U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 14\" 2.8K OLED Touchscreen, Win 11 Home + Office Home Student) Ready Stock (Silver, Blue)",
-    "price": "18.600.000"
+    "model": "HP Envy x360 14 Core Ultra 7 155U Memori 16 GB SSD 1 TB Touchscreen Win 11 + OHS / HP Envy x360 14-fc0777TU / HP Envy x360 14-fc0888TU (Intel Core Ultra 7 155U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 14\" 2.8K OLED Touchscreen, Win 11 Home + Office Home Student) Ready Stock (Silver, Blue)",
+    "price": "19.900.000"
   },
   {
     "type": "notebook",
     "brand": "HP",
     "model": "HP Envy x360 14 Core Ultra 7 155U Memori 16 GB SSD 1 TB Touchscreen Win 11 Pro + OHS (Intel Core Ultra 7 155U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 14\" 2.8K OLED Touchscreen, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "19.900.000"
+    "price": "20.900.000"
   },
   {
     "type": "notebook",
     "brand": "HP",
     "model": "HP Envy x360 14 Core Ultra 7 155U Memori 16 GB SSD 2 TB Touchscreen Win 11 Pro + OHS (Intel Core Ultra 7 155U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 14\" 2.8K OLED Touchscreen, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "23.900.000"
+    "price": "25.900.000"
   },
   {
     "type": "notebook",
     "brand": "HP",
     "model": "HP Envy x360 14 Core Ultra 7 155U Memori 16 GB SSD 4 TB Touchscreen Win 11 Pro + OHS (Intel Core Ultra 7 155U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 14\" 2.8K OLED Touchscreen, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "26.900.000"
+    "price": "29.900.000"
   },
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP OmniBook X Flip 14 Core Ultra 7 256V Memori 16 GB SSD 1 TB Win 11 + OH / HP OmniBook X Flip 14-FM0777TU / HP OMNIBOOK X FLIP 2IN1 14 TOUCH ULTRA 7 256V 16GB 1TB W11+OHS (Intel Core Ultra 7 256V, RAM 16 GB, SSD 1 TB, Vga Intel Arc 140V Graphics, LED 14 2K Touchscreen, Win 11 Home + Office Home) Ready Stock (Glacier Silver)",
+    "model": "HP OmniBook X Flip 14-FM0777TU (Intel Core Ultra 7 256V, RAM 16 GB, SSD 1 TB, Vga Intel Arc 140V Graphics, LED 14 2K Touchscreen, Win 11 Home + Office Home) Glacier Silver",
     "price": "18.600.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP OmniBook X Flip 14 Core Ultra 7 256V Memori 16 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 7 256V, RAM 16 GB, SSD 1 TB, Vga Intel Arc 140V Graphics, LED 14 2K Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "19.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP OmniBook X Flip 14 Core Ultra 7 256V Memori 16 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 7 256V, RAM 16 GB, SSD 2 TB, Vga Intel Arc 140V Graphics, LED 14 2K Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "22.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP OmniBook X Flip 14 Core Ultra 7 256V Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core Ultra 7 256V, RAM 16 GB, SSD 4 TB, Vga Intel Arc 140V Graphics, LED 14 2K Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "26.900.000"
   },
   {
     "type": "notebook",
@@ -137445,25 +137475,25 @@
     "type": "notebook",
     "brand": "HP",
     "model": "HP OmniBook Ultra Flip 14 Core Ultra 7 258V Memori 32 GB SSD 1 TB Win 11 + OHS / HP OmniBook Ultra Flip 14-FH0777TU / HP OmniBook Ultra Flip 14-FH0888TU / HP OMNIBOOK ULTRA FLIP 14 OLED ULTRA 7 258V 32GB 1TB W11+OHS (Intel Core Ultra 7 258V, RAM 32 GB, SSD 1 TB, Vga Intel Arc Graphics 140V, LED 14 OLED 2.8K VRR Touchscreen, Win 11 Home + Office Home Student) Ready Stock (Grey, Blue)",
-    "price": "27.400.000"
+    "price": "27.600.000"
   },
   {
     "type": "notebook",
     "brand": "HP",
     "model": "HP OmniBook Ultra Flip 14 Core Ultra 7 258V Memori 32 GB SSD 1 TB Win 11 Pro + OHS (Intel Core Ultra 7 258V, RAM 32 GB, SSD 1 TB, Vga Intel Arc Graphics 140V, LED 14 OLED 2.8K VRR Touchscreen, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "28.400.000"
+    "price": "28.900.000"
   },
   {
     "type": "notebook",
     "brand": "HP",
     "model": "HP OmniBook Ultra Flip 14 Core Ultra 7 258V Memori 32 GB SSD 2 TB Win 11 Pro + OHS (Intel Core Ultra 7 258V, RAM 32 GB, SSD 2 TB, Vga Intel Arc Graphics 140V, LED 14 OLED 2.8K VRR Touchscreen, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "33.400.000"
+    "price": "33.900.000"
   },
   {
     "type": "notebook",
     "brand": "HP",
     "model": "HP OmniBook Ultra Flip 14 Core Ultra 7 258V Memori 32 GB SSD 4 TB Win 11 Pro + OHS (Intel Core Ultra 7 258V, RAM 32 GB, SSD 4 TB, Vga Intel Arc Graphics 140V, LED 14 OLED 2.8K VRR Touchscreen, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "37.400.000"
+    "price": "37.900.000"
   },
   {
     "type": "notebook",
@@ -140211,109 +140241,109 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 8 GB SSD 512 GB Win 11 + OH / Lenovo IdeaPad Slim 3 14IRH10 CVID (83K000CVID) / Lenovo IdeaPad Slim 3 14IRH10 CUID (83K000CUID) / Lenovo IdeaPad Slim 3 14IRH10 BWID (83K000BWID) / Lenovo IdeaPad Slim 3 14IRH10 BYID (83K000BYID) / Lenovo IdeaPad Slim 3 14IRH10 7DID (83K0007DID) / Lenovo IdeaPad Slim 3 14IRH10 7EID (83K0007EID) / Lenovo IdeaPad Slim 3 14IRH10 3NID (83K0003NID) / Lenovo IdeaPad Slim 3 14IRH10 3PID (83K0003PID) / LENOVO IDEAPAD SLIM 3 14 I5 13420H 8GB 512GB W11+OHS (Intel Core i5 13420H, RAM 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Win 11 Home + Office Home) Ready Stock (Luna Grey, Cosmic Blue, Cosmic Blue, Luna Grey, Cosmic Blue, Luna Grey)",
-    "price": "9.400.000"
+    "price": "9.800.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 8 GB SSD 512 GB Win 11 Pro + OH (Intel Core i5 13420H, RAM 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "10.400.000"
+    "price": "10.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 8 GB SSD 1 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 8 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "12.400.000"
+    "price": "12.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 8 GB SSD 2 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 8 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "15.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 8 GB SSD 4 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 8 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "19.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 16 GB SSD 512 GB Win 11 + OH / Lenovo IdeaPad Slim 3 14IRH10 FQID (83K000FQID) / Lenovo IdeaPad Slim 3 14IRH10 FPID (83K000FPID) Lenovo IdeaPad Slim 3 14IRH10 DBID (83K000DBID) / LENOVO IDEAPAD SLIM 3 14 I5 13420H 16GB 512GB W11+OHS (Intel Core i5 13420H, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Win 11 Home + Office Home) Ready Stock (Luna Grey, Cosmic Blue, Luna Grey)",
-    "price": "11.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 16 GB SSD 512 GB Win 11 Pro + OH (Intel Core i5 13420H, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "12.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 16 GB SSD 1 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 16 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "14.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 16 GB SSD 2 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 16 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "17.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 16 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "21.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 24 GB SSD 512 GB Win 11 Pro + OH (Intel Core i5 13420H, RAM 24 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "13.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 24 GB SSD 1 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 24 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
     "price": "15.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 8 GB SSD 4 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 8 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "19.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 16 GB SSD 512 GB Win 11 + OH / Lenovo IdeaPad Slim 3 14IRH10 FQID (83K000FQID) / Lenovo IdeaPad Slim 3 14IRH10 FPID (83K000FPID) Lenovo IdeaPad Slim 3 14IRH10 DBID (83K000DBID) / LENOVO IDEAPAD SLIM 3 14 I5 13420H 16GB 512GB W11+OHS (Intel Core i5 13420H, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Win 11 Home + Office Home) Ready Stock (Luna Grey, Cosmic Blue, Luna Grey)",
+    "price": "11.600.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 16 GB SSD 512 GB Win 11 Pro + OH (Intel Core i5 13420H, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "12.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 16 GB SSD 1 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 16 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "14.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 16 GB SSD 2 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 16 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "17.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 16 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "21.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 24 GB SSD 512 GB Win 11 Pro + OH (Intel Core i5 13420H, RAM 24 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "14.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 24 GB SSD 1 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 24 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "16.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
     "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 24 GB SSD 2 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 24 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "18.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 24 GB SSD 4 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 24 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "22.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 40 GB SSD 512 GB Win 11 Pro + OH (Intel Core i5 13420H, RAM 40 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "17.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 40 GB SSD 1 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 40 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
     "price": "19.400.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 24 GB SSD 4 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 24 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "23.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 40 GB SSD 512 GB Win 11 Pro + OH (Intel Core i5 13420H, RAM 40 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "17.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 40 GB SSD 1 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 40 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": "19.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
     "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 40 GB SSD 2 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 40 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "22.400.000"
+    "price": "22.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i5 13420H Memori 40 GB SSD 4 TB Win 11 Pro + OH (Intel Core i5 13420H, RAM 40 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": "26.400.000"
+    "price": "26.900.000"
   },
   {
     "type": "notebook",
@@ -142418,80 +142448,8 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo V14 G2 Ryzen 7 5700U Memori 8 GB SSD 512 GB Win 11 + OHS / Lenovo V14 G2 ALC-7KID (82KC007KID) / Lenovo V14 G2 EXID (82KC00EXID) (AMD Ryzen 7 5700U, RAM 8 GB, SSD 512 GB, Vga Ati Radeon Vega 8, LED 14\" FHD, Win 11 Home + Office Home Student) Ready Stock (Iron Grey, Iron Grey)",
+    "model": "Lenovo V14 G2 ALC-7KID (82KC007KID) / Lenovo V14 G2 EXID (82KC00EXID) (AMD Ryzen 7 5700U, RAM 8 GB, SSD 512 GB, Vga Ati Radeon Vega 8, LED 14\" FHD, Win 11 Home + Office Home Student) Iron Grey, Iron Grey",
     "price": "9.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G2 Ryzen 7 5700U Memori 8 GB SSD 512 GB Win 11 Pro + OHS (AMD Ryzen 7 5700U, RAM 8 GB, SSD 512 GB, Vga Ati Radeon Vega 8, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "10.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G2 Ryzen 7 5700U Memori 8 GB SSD 1 TB Win 11 Pro + OHS (AMD Ryzen 7 5700U, RAM 8 GB, SSD 1 TB, Vga Ati Radeon Vega 8, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "11.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G2 Ryzen 7 5700U Memori 8 GB SSD 2 TB Win 11 Pro + OHS (AMD Ryzen 7 5700U, RAM 8 GB, SSD 2 TB, Vga Ati Radeon Vega 8, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "13.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G2 Ryzen 7 5700U Memori 8 GB SSD 4 TB Win 11 Pro + OHS (AMD Ryzen 7 5700U, RAM 8 GB, SSD 4 TB, Vga Ati Radeon Vega 8, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "17.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G2 Ryzen 7 5700U Memori 16 GB SSD 512 GB Win 11 Pro + OHS (AMD Ryzen 7 5700U, RAM 16 GB, SSD 512 GB, Vga Ati Radeon Vega 8, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "11.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G2 Ryzen 7 5700U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (AMD Ryzen 7 5700U, RAM 16 GB, SSD 1 TB, Vga Ati Radeon Vega 8, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "12.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G2 Ryzen 7 5700U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (AMD Ryzen 7 5700U, RAM 16 GB, SSD 2 TB, Vga Ati Radeon Vega 8, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "14.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G2 Ryzen 7 5700U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (AMD Ryzen 7 5700U, RAM 16 GB, SSD 4 TB, Vga Ati Radeon Vega 8, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "18.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G2 Ryzen 7 5700U Memori 32 GB SSD 512 GB Win 11 Pro + OHS (AMD Ryzen 7 5700U, RAM 32 GB, SSD 512 GB, Vga Ati Radeon Vega 8, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "13.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G2 Ryzen 7 5700U Memori 32 GB SSD 1 TB Win 11 Pro + OHS (AMD Ryzen 7 5700U, RAM 32 GB, SSD 1 TB, Vga Ati Radeon Vega 8, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "14.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G2 Ryzen 7 5700U Memori 32 GB SSD 2 TB Win 11 Pro + OHS (AMD Ryzen 7 5700U, RAM 32 GB, SSD 2 TB, Vga Ati Radeon Vega 8, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "16.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo V14 G2 Ryzen 7 5700U Memori 32 GB SSD 4 TB Win 11 Pro + OHS (AMD Ryzen 7 5700U, RAM 32 GB, SSD 4 TB, Vga Ati Radeon Vega 8, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": "20.900.000"
   },
   {
     "type": "notebook",
@@ -150423,85 +150381,73 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkPad X13 2-in-1 Gen5 Core Ultra 5 135U Memori 16 GB SSD 512 GB Win 11 Pro / Lenovo ThinkPad X13 2-in-1 G5-2QID (Intel Core Ultra 5 135U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 13.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "26.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad X13 2-in-1 Gen5 Core Ultra 5 135U Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core Ultra 5 135U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 13.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
     "price": "28.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
+    "model": "Lenovo ThinkPad X13 2-in-1 Gen5 Core Ultra 5 135U Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core Ultra 5 135U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 13.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": "30.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
     "model": "Lenovo ThinkPad X13 2-in-1 Gen5 Core Ultra 5 135U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core Ultra 5 135U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 13.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "29.900.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad X13 2-in-1 Gen5 Core Ultra 5 135U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core Ultra 5 135U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 13.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "31.400.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad X13 2-in-1 Gen5 Core Ultra 7 165U Memori 32 GB SSD 1 TB Win 11 Pro / Lenovo ThinkPad X13 2-in-1 G5-2SID (21LW002SID) / LENOVO THINKPAD X13 G5 2IN1 TOUCH ULTRA 7 165U 32GB 1TB W11PRO (Intel Core Ultra 7 165U, RAM 32 GB, SSD 1 TB, Vga Intel Graphics, LED 13.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock (Black)",
-    "price": "30.800.000"
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad X13 2-in-1 Gen5 Core Ultra 7 165U Memori 32 GB SSD 2 TB Win 11 Pro (Intel Core Ultra 7 165U, RAM 32 GB, SSD 2 TB, Vga Intel Graphics, LED 13.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
     "price": "33.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkPad X13 2-in-1 Gen5 Core Ultra 7 165U Memori 32 GB SSD 4 TB Win 11 Pro (Intel Core Ultra 7 165U, RAM 32 GB, SSD 4 TB, Vga Intel Graphics, LED 13.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": "35.400.000"
+    "model": "Lenovo ThinkPad X13 2-in-1 Gen5 Core Ultra 5 135U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core Ultra 5 135U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 13.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": "37.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad X13 2-in-1 G5-2SID (21LW002SID) (Intel Core Ultra 7 165U, RAM 32 GB, SSD 1 TB, Vga Intel Graphics, LED 13.3 WUXGA Touchscreen, Windows 11 Profesional) Black",
+    "price": "30.800.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkPad X13 G6 Core Ultra 5 225U Memori 16 GB SSD 512 GB Win 11 Pro / Lenovo ThinkPad X13 G6-A1ID (21RK00A1ID) (Intel Core Ultra 5 225U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": "24.900.000"
+    "price": "26.200.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkPad X13 G6 Core Ultra 5 225U Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core Ultra 5 225U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": "26.900.000"
+    "price": "29.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkPad X13 G6 Core Ultra 5 225U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core Ultra 5 225U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": "27.900.000"
+    "price": "33.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkPad X13 G6 Core Ultra 5 225U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core Ultra 5 225U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": "29.400.000"
+    "price": "37.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkPad X13 G6 Core Ultra 7 255U Memori 32 GB SSD 1 TB Win 11 Pro / Lenovo ThinkPad X13 G6-A2ID (21RK00A2ID) / LENOVO THINKPAD X13 G6 ULTRA 7 255U 32GB 1TB W11PRO (Intel Core Ultra 7 255U, 32 GB, SSD 1 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock (Black)",
-    "price": "29.100.000"
+    "model": "Lenovo ThinkPad X13 G6 Core Ultra 7 255U Memori 32 GB SSD 1 TB Win 11 Pro / Lenovo ThinkPad X13 G6-A2ID (21RK00A2ID) (Intel Core Ultra 7 255U, 32 GB, SSD 1 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock (Black)",
+    "price": "32.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkPad X13 G6 Core Ultra 7 255U Memori 32 GB SSD 2 TB Win 11 Pro (Intel Core Ultra 7 255U, 32 GB, SSD 2 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": "34.900.000"
+    "price": "38.900.000"
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkPad X13 G6 Core Ultra 7 255U Memori 32 GB SSD 4 TB Win 11 Pro (Intel Core Ultra 7 255U, 32 GB, SSD 4 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": "37.900.000"
+    "price": "42.900.000"
   },
   {
     "type": "notebook",
@@ -160264,6 +160210,318 @@
     "brand": "MSI",
     "model": "MSI Sword 16 HX B14VGKG (9S7-15P214-063) (Intel Core i7 14700HX, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX4070 8 GB, LED 16\" QHD 240Hz, Win 11 Home + Office Home Student) Cosmos Gray",
     "price": "26.000.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia Pro i5 Ultrabook Core i5 1235U Memori 16 GB SSD 512 GB Win 11 / POLYTRON Laptop Luxia Pro i5 (PL 14M2I5A G65H) (Intel Core i5 1235U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 WUXGA, Win 11 Home) Ready Stock",
+    "price": "8.800.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia Pro i5 Ultrabook Core i5 1235U Memori 16 GB SSD 512 GB Win 11 Pro (Intel Core i5 1235U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "9.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia Pro i5 Ultrabook Core i5 1235U Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core i5 1235U, RAM 16 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "11.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia Pro i5 Ultrabook Core i5 1235U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core i5 1235U, RAM 16 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "14.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia Pro i5 Ultrabook Core i5 1235U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core i5 1235U, RAM 16 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "18.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia Pro Ultra5 Core Ultra 5 125H Memori 16 GB SSD 512 GB Win 11 / POLYTRON Laptop Luxia Pro Ultra5 (PL 14M1U5M S65H) (Intel Core Ultra 5 125H, RAM 16 GB, SSD 512 GB, Vga Intel Arc Gaphics, LED 14 WUXGA, Win 11 Home) Ready Stock",
+    "price": "10.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia Pro Ultra5 Core Ultra 5 125H Memori 16 GB SSD 512 GB Win 11 Pro (Intel Core Ultra 5 125H, RAM 16 GB, SSD 512 GB, Vga Intel Arc Gaphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "11.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia Pro Ultra5 Core Ultra 5 125H Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core Ultra 5 125H, RAM 16 GB, SSD 1 TB, Vga Intel Arc Gaphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "13.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia Pro Ultra5 Core Ultra 5 125H Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core Ultra 5 125H, RAM 16 GB, SSD 2 TB, Vga Intel Arc Gaphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "16.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia Pro Ultra5 Core Ultra 5 125H Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core Ultra 5 125H, RAM 16 GB, SSD 4 TB, Vga Intel Arc Gaphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "20.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 8 GB SSD 256 GB Win 11 / POLYTRON Laptop Luxia R5 (PL 14H1R5B G82H) (AMD Ryze 5 7430U, RAM 8 GB, SSD 256 GB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Win 11 Home) Ready Stock",
+    "price": "6.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 8 GB SSD 256 GB Win 11 Pro (AMD Ryze 5 7430U, RAM 8 GB, SSD 256 GB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "7.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 8 GB SSD 512 GB Win 11 Pro (AMD Ryze 5 7430U, RAM 8 GB, SSD 512 GB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "8.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 8 GB SSD 1 TB Win 11 Pro (AMD Ryze 5 7430U, RAM 8 GB, SSD 1 TB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "10.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 8 GB SSD 2 TB Win 11 Pro (AMD Ryze 5 7430U, RAM 8 GB, SSD 2 TB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "13.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 8 GB SSD 4 TB Win 11 Pro (AMD Ryze 5 7430U, RAM 8 GB, SSD 4 TB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "17.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 16 GB SSD 256 GB Win 11 Pro (AMD Ryze 5 7430U, RAM 16 GB, SSD 256 GB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "9.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 16 GB SSD 512 GB Win 11 Pro (AMD Ryze 5 7430U, RAM 16 GB, SSD 512 GB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "10.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 16 GB SSD 1 TB Win 11 Pro (AMD Ryze 5 7430U, RAM 16 GB, SSD 1 TB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "11.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 16 GB SSD 2 TB Win 11 Pro (AMD Ryze 5 7430U, RAM 16 GB, SSD 2 TB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "14.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 16 GB SSD 4 TB Win 11 Pro (AMD Ryze 5 7430U, RAM 16 GB, SSD 4 TB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "18.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 24 GB SSD 256 GB Win 11 Pro (AMD Ryze 5 7430U, RAM 24 GB, SSD 256 GB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "10.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 24 GB SSD 512 GB Win 11 Pro (AMD Ryze 5 7430U, RAM 24 GB, SSD 512 GB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "11.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 24 GB SSD 1 TB Win 11 Pro (AMD Ryze 5 7430U, RAM 24 GB, SSD 1 TB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "13.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 24 GB SSD 2 TB Win 11 Pro (AMD Ryze 5 7430U, RAM 24 GB, SSD 2 TB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "16.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 24 GB SSD 4 TB Win 11 Pro (AMD Ryze 5 7430U, RAM 24 GB, SSD 4 TB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "20.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 40 GB SSD 256 GB Win 11 Pro (AMD Ryze 5 7430U, RAM 40 GB, SSD 256 GB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "13.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 40 GB SSD 512 GB Win 11 Pro (AMD Ryze 5 7430U, RAM 40 GB, SSD 512 GB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "14.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 40 GB SSD 1 TB Win 11 Pro (AMD Ryze 5 7430U, RAM 40 GB, SSD 1 TB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "15.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 40 GB SSD 2 TB Win 11 Pro (AMD Ryze 5 7430U, RAM 40 GB, SSD 2 TB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "18.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia R5 Ryzen 5 7430U Memori 40 GB SSD 4 TB Win 11 Pro (AMD Ryze 5 7430U, RAM 40 GB, SSD 4 TB, Vga Ati Radeon Vega 7, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "22.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 8 GB SSD 256 GB Win 11 / POLYTRON Laptop Luxia i3 (PL 14M3I3A G82H) (Intel Core i3 1215U, RAM 8 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Win 11 Home) Ready Stock",
+    "price": "6.500.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 8 GB SSD 256 GB Win 11 Pro (Intel Core i3 1215U, RAM 8 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "7.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 8 GB SSD 512 GB Win 11 Pro (Intel Core i3 1215U, RAM 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "8.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 8 GB SSD 1 TB Win 11 Pro (Intel Core i3 1215U, RAM 8 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "9.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 8 GB SSD 2 TB Win 11 Pro (Intel Core i3 1215U, RAM 8 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "12.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 8 GB SSD 4 TB Win 11 Pro (Intel Core i3 1215U, RAM 8 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "16.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 16 GB SSD 256 GB Win 11 Pro (Intel Core i3 1215U, RAM 16 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "8.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 16 GB SSD 512 GB Win 11 Pro (Intel Core i3 1215U, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "9.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core i3 1215U, RAM 16 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "11.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core i3 1215U, RAM 16 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "14.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core i3 1215U, RAM 16 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "18.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 24 GB SSD 256 GB Win 11 Pro (Intel Core i3 1215U, RAM 24 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "10.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 24 GB SSD 512 GB Win 11 Pro (Intel Core i3 1215U, RAM 24 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "11.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 24 GB SSD 1 TB Win 11 Pro (Intel Core i3 1215U, RAM 24 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "12.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 24 GB SSD 2 TB Win 11 Pro (Intel Core i3 1215U, RAM 24 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "16.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 24 GB SSD 4 TB Win 11 Pro (Intel Core i3 1215U, RAM 24 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "20.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 40 GB SSD 256 GB Win 11 Pro (Intel Core i3 1215U, RAM 40 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "12.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 40 GB SSD 512 GB Win 11 Pro (Intel Core i3 1215U, RAM 40 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "13.900.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 40 GB SSD 1 TB Win 11 Pro (Intel Core i3 1215U, RAM 40 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "15.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 40 GB SSD 2 TB Win 11 Pro (Intel Core i3 1215U, RAM 40 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "18.400.000"
+  },
+  {
+    "type": "notebook",
+    "brand": "POLYTRON",
+    "model": "Polytron Luxia i3 Core i3 Memori 40 GB SSD 4 TB Win 11 Pro (Intel Core i3 1215U, RAM 40 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": "22.400.000"
   },
   {
     "type": "notebook",
