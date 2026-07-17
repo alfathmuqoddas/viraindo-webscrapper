@@ -5,12 +5,14 @@ on:
   # Using a different branch name? Replace `main` with your branch’s name
   push:
     branches: [main]
+  schedule:
+    - cron: "0 0 * * *"
   # Allows you to run this workflow manually from the Actions tab on GitHub.
   workflow_dispatch:
 
 # Allow this job to clone the repo and create a page deployment
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -20,8 +22,42 @@ jobs:
     steps:
       - name: Checkout your repository using git
         uses: actions/checkout@v6
+
+      # --- 1. RUN THE SCRAPER ---
+      # Ensure you're on Node 22 or 24 depending on your preference.
+      # Astro action defaults to 22 if not specified.
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run Web Scraper
+        run: node src/lib/scrap-multi-columns.js
+
+      # --- 2. COMMIT THE NEW JSON ---
+      - name: Commit and Push Updated Data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Target your src/ folder where the JSON file is generated
+          git add src/
+
+          if git diff --staged --quiet; then
+            echo "No new data scraped today. Moving to build phase."
+          else
+            # [skip ci] prevents this commit from triggering an accidental duplicate run
+            git commit -m "chore: automated daily data scrape [skip ci]"
+            git push origin main
+          fi
+
+      # --- 3. ASTRO BUILD ---
       - name: Set Build Date
         run: echo "PUBLIC_BUILD_DATE=$(date -u +'%e %B %Y')" >> $GITHUB_ENV
+
       - name: Install, build, and upload your site
         uses: withastro/action@v6
         # with:
