@@ -28,6 +28,11 @@ jobs:
       # Astro action defaults to 22 if not specified.
       - name: Setup Node.js
         uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Install dependencies
+        run: npm install
 
       - name: Run Web Scraper
         run: node src/lib/scrap-multi-columns.js
