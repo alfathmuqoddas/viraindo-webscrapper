@@ -12,19 +12,17 @@ import {SOURCES} from "@/lib/constant.mjs";
   <meta name="author" slot="head" content="Alfath Muqoddas" />
   <meta name="robots" slot="head" content="index, follow" />
   <MainLayout>
-    <div class="max-w-xl mx-auto">
     <h1 class="mb-4 text-5xl font-black tracking-tighter">Viraindo Price List</h1>
     <ul class="border bg-white">
       {SOURCES.map(source => {
             const isLast = SOURCES.indexOf(source) === SOURCES.length - 1;
             return (
             <li class={`p-4 ${!isLast ? 'border-b' : ''}`}>
-              <a class="font-bold tracking-tighter hover:underline active:underline" href={`${import.meta.env.BASE_URL}/${source.type}`}>{source.type + " " + source.icon}</a>
+              <a class="font-bold tracking-tighter hover:underline active:underline underline-offset-2" href={`${import.meta.env.BASE_URL}/${source.type}`}>{source.type + " " + source.icon}</a>
             </li>
             )
         })}
     </ul>
-    </div>
   </MainLayout>
 </AppLayout>
 

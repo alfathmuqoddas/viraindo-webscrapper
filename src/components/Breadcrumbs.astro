@@ -1,0 +1,73 @@
+---
+// src/components/Breadcrumbs.astro
+export interface Props {
+  homeLabel?: string;
+  separator?: string;
+  pathLabels?: Record<string, string>; // For custom display names
+}
+
+const { 
+  homeLabel = "🏠",
+  separator = "/",
+  pathLabels = {}
+} = Astro.props;
+
+const baseUrl = import.meta.env.BASE_URL || "/";
+
+// Get all path segments
+const pathWithoutBase = Astro.url.pathname.replace(baseUrl, "");
+const pathSegments = pathWithoutBase.split("/").filter(Boolean);
+
+// Build breadcrumb items
+const breadcrumbs = pathSegments.map((segment: any, index: number) => {
+  const path = baseUrl + "/" + pathSegments.slice(0, index + 1).join("/");
+  const isLast = index === pathSegments.length - 1;
+  
+  // Use custom label if provided, otherwise format the segment
+  const label = pathLabels[segment] || segment.replace(/-/g, " ");
+  
+  return {
+    label: label.charAt(0).toUpperCase() + label.slice(1),
+    path: path,
+    isLast
+  };
+});
+
+console.log(breadcrumbs);
+---
+
+<nav aria-label="Breadcrumb" class="mb-4">
+  <ol class="flex flex-wrap items-center gap-2 text-sm font-mono">
+    <!-- Home -->
+    <li class="flex items-center gap-2">
+      <a 
+        href={baseUrl} 
+        class="text-blue-500 active:underline underline-offset-2 transition-colors"
+      >
+        {homeLabel}
+      </a>
+      {breadcrumbs.length > 0 && (
+        <span class="text-gray-400">{separator}</span>
+      )}
+    </li>
+
+    <!-- Breadcrumb items -->
+    {breadcrumbs.map((item: any) => (
+      <li class="flex items-center gap-2">
+        {item.isLast ? (
+          <span class="text-gray-700">{item.label}</span>
+        ) : (
+          <>
+            <a 
+              href={item.path} 
+              class="text-blue-600 active:underline underline-offset-2 transition-colors"
+            >
+              {item.label}
+            </a>
+            <span class="text-gray-400">{separator}</span>
+          </>
+        )}
+      </li>
+    ))}
+  </ol>
+</nav>

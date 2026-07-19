@@ -30,7 +30,7 @@ export const ProductTable = ({
   return (
     <>
       <div className="my-4">
-        <div className="flex items-center justify-between w-full md:w-64 border">
+        <div className="flex items-center bg-white justify-between w-full md:w-64 border">
           <input
             type="text"
             value={query}
@@ -38,10 +38,10 @@ export const ProductTable = ({
               const target = e.target as HTMLInputElement;
               setQuery(target.value);
             }}
-            className="w-full px-2 py-1 "
+            className="w-full px-2 py-1"
             placeholder="Search..."
           />
-          <span className="px-1">🔎</span>
+          <span className="px-2">🔎</span>
         </div>
       </div>
       <div className="overflow-x-auto w-full border">
