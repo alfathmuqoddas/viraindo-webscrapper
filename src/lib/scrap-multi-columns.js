@@ -1,153 +1,152 @@
 import * as cheerio from "cheerio";
 import { writeFileSync } from "fs";
-import { COMPONENT_BRANDS, SOURCES as urlToFetch } from "./constant.mjs";
+import { SOURCES, COMPONENT_BRANDS } from "./constant.mjs";
 
-export function cleanAndNormalizeData(rawItems, productType) {
-  const dictionary = COMPONENT_BRANDS[productType] || [];
-  const genericHeaders = [
-    "CASING",
-    "VGA CARD",
-    "VGA",
-    "MOTHERBOARD",
-    "OTHERS",
-    "UNKNOWN",
-    "HARDDISK",
-  ];
+/**
+ * Removes all punctuation and extra spaces, then uppercases.
+ * "be quiet!"  →  "BE QUIET"
+ * "Cooler Master"  →  "COOLER MASTER"
+ */
+function normaliseText(text) {
+  return text
+    .replace(/[^a-z0-9\s]/gi, "") // delete everything except letters, digits and spaces
+    .replace(/\s+/g, " ") // collapse multiple spaces
+    .trim()
+    .toUpperCase();
+}
+
+/**
+ * Cleans a scraped description cell:
+ *  - replaces non‑breaking spaces with ordinary spaces
+ *  - squeezes multiple spaces
+ *  - removes leading/trailing whitespace
+ */
+function cleanCellText(rawText) {
+  return rawText
+    .replace(/\u00a0/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+/**
+ * Tries to find a known brand name inside a product description.
+ * Returns the original‑casing brand from the dictionary, or "UNKNOWN".
+ */
+function guessBrand(description, dictionary) {
+  if (!dictionary || dictionary.length === 0) return "OTHER";
+
+  const normalisedDesc = normaliseText(description);
+
+  // Find the first dictionary entry whose normalised form appears in the description
+  const found = dictionary.find((brand) =>
+    normalisedDesc.includes(normaliseText(brand)),
+  );
+
+  return found ? found : "OTHER"; // keep the dictionary's own casing (e.g. "Cooler Master")
+}
+
+// ----------------------------------------------------------------------
+// 3.  Scraping a single page (horizontal table → vertical product list)
+// ----------------------------------------------------------------------
+
+async function scrapePage(url) {
+  const response = await fetch(url);
+  const html = await response.text();
+  const $ = cheerio.load(html);
+
+  const rows = $("table tbody tr");
+  const rowCount = rows.length;
+  if (rowCount === 0) return [];
+
+  // Determine the maximum number of <td> cells in any row
+  let maxCells = 0;
+  rows.each((_, row) => {
+    const count = $(row).find("td").length;
+    if (count > maxCells) maxCells = count;
+  });
+
+  const pairsPerRow = Math.floor(maxCells / 2); // each item uses 2 cells (description + price)
+  const totalItems = rowCount * pairsPerRow; // total slots we need
+  const scrapedItems = new Array(totalItems); // pre‑allocate array for fixed indexing
+
+  rows.each((rowIndex, row) => {
+    const cells = $(row).find("td");
+
+    for (let pair = 0; pair < pairsPerRow; pair++) {
+      const descCell = $(cells[pair * 2]);
+      const priceCell = $(cells[pair * 2 + 1]);
+
+      // Skip if the description cell is missing
+      if (!descCell.length) continue;
+
+      const description = cleanCellText(descCell.text());
+      const price = priceCell.length ? cleanCellText(priceCell.text()) : "";
+
+      // Filters: ignore empty items, "call" prices, and contact lines
+      if (!price || price === "" || price.toLowerCase() === "call") continue;
+      if (!description) continue;
+      if (description.startsWith("Telp.") || description.startsWith("Fax"))
+        continue;
+
+      // Map the logical position (row, pair) to a flat array index
+      const targetIndex = rowIndex + pair * rowCount;
+      scrapedItems[targetIndex] = {
+        model: description,
+        price: price,
+      };
+    }
+  });
+
+  // Remove empty slots (where a pair had no valid data)
+  return scrapedItems
+    .filter((item) => item !== undefined)
+    .sort((a, b) => a.model.localeCompare(b.model));
+}
+
+// ----------------------------------------------------------------------
+// 4.  Transforming raw items into clean, brand‑labelled data
+// ----------------------------------------------------------------------
+
+function enrichWithBrand(rawItems, productType) {
+  // Look up the correct dictionary for this product type
+  const brandDictionary = COMPONENT_BRANDS[productType.toLowerCase()] || [];
 
   return rawItems.map((item) => {
-    let cleanBrand = item.brand ? item.brand.trim() : "UNKNOWN";
-    let upperBrand = cleanBrand.toUpperCase();
-    const upperModel = item.model.toUpperCase();
-
-    // Condition A: If the header is missing, general, or generic, find the real brand inside the text
-    if (
-      !cleanBrand ||
-      genericHeaders.some((g) => upperBrand.includes(g)) ||
-      upperBrand === "UNKNOWN"
-    ) {
-      // Look for a known brand keyword inside the item string
-      const matchedBrand = dictionary.find((brand) =>
-        upperModel.includes(brand),
-      );
-
-      if (matchedBrand) {
-        cleanBrand = matchedBrand;
-      } else {
-        // Fallback: If no dictionary brand matches, use the first word as a fallback
-        cleanBrand = item.model.split(" ")[0].toUpperCase();
-      }
-    }
-
-    // Condition B: Standardize common brand typos/variations to uniform casing
-    if (cleanBrand.toUpperCase().startsWith("INTEL")) cleanBrand = "INTEL";
-    if (cleanBrand.toUpperCase().startsWith("AMD")) cleanBrand = "AMD";
-    if (cleanBrand.toUpperCase().includes("GIGABYTE")) cleanBrand = "GIGABYTE";
+    // Guess the brand by searching the dictionary inside the description
+    let brand = guessBrand(item.model, brandDictionary);
 
     return {
       type: productType,
-      brand: cleanBrand,
+      brand: brand,
       model: item.model,
       price: item.price,
     };
   });
 }
 
-async function scrapeTable(url) {
-  try {
-    const response = await fetch(url);
-    const html = await response.text();
-    const $ = cheerio.load(html);
+// ----------------------------------------------------------------------
+// 5.  Main orchestration
+// ----------------------------------------------------------------------
 
-    const rows = $("table tbody tr");
-    const numRows = rows.length;
-    if (numRows === 0) return [];
+async function main() {
+  const allProducts = [];
 
-    // Safely detect max columns across the rows
-    let numCols = 0;
-    rows.each((_, row) => {
-      const cellCount = $(row).find("td").length;
-      if (cellCount > numCols) numCols = cellCount;
-    });
+  for (const source of SOURCES) {
+    console.log(`🔍 Scraping ${source.type} from ${source.url} …`);
 
-    const numPairs = Math.floor(numCols / 2);
+    const rawItems = await scrapePage(source.url);
 
-    // Pre-allocate the fixed-size array based on your horizontal-to-vertical mathematical logic
-    const result = new Array(numRows * numPairs);
+    const cleanItems = enrichWithBrand(rawItems, source.type);
 
-    rows.each((rowIndex, row) => {
-      const cells = $(row).find("td");
+    console.log(`   ✅ Found ${cleanItems.length} items`);
 
-      for (let pairIndex = 0; pairIndex < numPairs; pairIndex++) {
-        const descTd = $(cells[pairIndex * 2]);
-        const priceTd = $(cells[pairIndex * 2 + 1]);
-
-        if (!descTd.length) continue;
-
-        // Clean &nbsp; and extra whitespace spaces
-        const description = descTd
-          .text()
-          .replace(/\u00a0/g, " ")
-          .replace(/\s+/g, " ")
-          .trim();
-        const price = priceTd.length
-          ? priceTd
-              .text()
-              .replace(/\u00a0/g, " ")
-              .replace(/\s+/g, " ")
-              .trim()
-          : "";
-
-        // Clean-up filter rules for completely empty records or non-priced text
-        if (
-          !price ||
-          price === "" ||
-          price.toLowerCase() === "call" ||
-          !description
-        ) {
-          continue;
-        }
-        if (description.startsWith("Telp.") || description.startsWith("Fax")) {
-          continue;
-        }
-
-        // Mathematical index slot mapping calculation matching your specification
-        const newRowIndex = rowIndex + pairIndex * numRows;
-
-        // Assign explicitly to the exact calculated index position (storing just model and price)
-        result[newRowIndex] = {
-          //type: type of the item (notebook, processor, memory, etc.)
-          //brand: brand name of the item (INTEL, AMD, Apple, Dell, MSI, Corsair, Cooler Master, Be Quiet!, etc.)
-          model: description,
-          price: price,
-        };
-      }
-    });
-
-    // Strip out all undefined array slots caused by blank rows
-    return result.filter((item) => item !== undefined);
-  } catch (err) {
-    console.error(`Error fetching or parsing ${url}:`, err.message);
-    return [];
+    allProducts.push(...cleanItems);
   }
+
+  // Save everything to one JSON file
+  writeFileSync("./src/data.json", JSON.stringify(allProducts, null, 2));
+
+  console.log(`\n🎉 Done! Total products saved: ${allProducts.length}`);
 }
 
-const allDataCombined = [];
-
-for (const source of urlToFetch) {
-  const rawData = await scrapeTable(source.url);
-
-  const perfectlyCleanData = cleanAndNormalizeData(rawData, source.type);
-
-  // writeFileSync(
-  //   `./${source.type}-data.json`,
-  //   JSON.stringify(perfectlyCleanData, null, 2),
-  // );
-
-  console.log(`✅ Scraped ${source.type} data from ${source.url}`);
-
-  allDataCombined.push(...perfectlyCleanData);
-}
-
-writeFileSync("./src/data.json", JSON.stringify(allDataCombined, null, 2));
-
-console.log("✅ Data correctly mapped, filtered, and saved safely!");
+main().catch((err) => console.error("Fatal error:", err));
