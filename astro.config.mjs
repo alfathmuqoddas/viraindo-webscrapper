@@ -6,7 +6,7 @@ import preact from "@astrojs/preact";
 export default defineConfig({
   // site: "https://alfathmuqoddas.github.io",
   // base: "/viraindo-webscrapper",
-  adapter: cloudflare(),
   output: "server",
+  adapter: cloudflare(),
   integrations: [preact()],
 });
