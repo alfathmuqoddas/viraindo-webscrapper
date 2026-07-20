@@ -1,28 +1,12 @@
 ---
-import AppLayout from "@/layout/AppLayout.astro"
-import MainLayout from "@/layout/MainLayout.astro"
-import {SOURCES} from "@/lib/constant.mjs";
-
-
+import AppLayout from "@/layout/AppLayout.astro";
+import MainLayout from "@/layout/MainLayout.astro";
 ---
 <AppLayout>
-  <title slot="head">Viraindo Webscrapper | By Alfath Muqoddas</title>
-  <meta name="description" slot="head" content="Viraindo Webscrapper is a simple Astro project that scrapes the Viraindo website and then generate a static website with the scraped data." />
-  <meta name="keywords" slot="head" content="Astro, AstroJS, Astro Website, Astro Webscrapper, Viraindo, Viraindo Webscrapper, Alfath Muqoddas, Alfath, Muqoddas" />
-  <meta name="author" slot="head" content="Alfath Muqoddas" />
-  <meta name="robots" slot="head" content="index, follow" />
-  <MainLayout>
-    <h1 class="mb-4 text-5xl font-black tracking-tighter">Viraindo Price List</h1>
-    <ul class="border bg-white">
-      {SOURCES.map(source => {
-            const isLast = SOURCES.indexOf(source) === SOURCES.length - 1;
-            return (
-            <li class={`p-4 ${!isLast ? 'border-b' : ''}`}>
-              <a class="font-bold tracking-tighter hover:underline active:underline underline-offset-2" href={`${import.meta.env.BASE_URL}/${source.type}`}>{source.type + " " + source.icon}</a>
-            </li>
-            )
-        })}
-    </ul>
-  </MainLayout>
-</AppLayout>
+    <title slot="head">Viraindo Webscrapper | By Alfath Muqoddas</title>
+    <meta name="description" slot="head" content="Viraindo Webscrapper is a simple Astro project that scrapes the Viraindo website and then generate a static website with the scraped data." />
 
+    <MainLayout>
+        <h1 class="mb-4 text-5xl font-black tracking-tighter">Welcome to PCPART App</h1>
+    </MainLayout>
+</AppLayout>

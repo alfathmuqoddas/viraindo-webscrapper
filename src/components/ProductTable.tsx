@@ -44,7 +44,7 @@ export const ProductTable = ({
           <span className="px-2">🔎</span>
         </div>
       </div>
-      <div className="overflow-x-auto w-full border">
+      <div className="overflow-x-auto w-full border text-sm">
         <table className="w-full min-w-xl bg-white">
           <thead>
             <tr className="tracking-tight border-b bg-black text-white">
