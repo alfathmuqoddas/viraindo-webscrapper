@@ -16,6 +16,7 @@
     "astro": "^6.2.0",
     "cheerio": "^1.2.0",
     "firebase": "^12.16.0",
+    "lucide-preact": "^1.25.0",
     "preact": "^10.29.7",
     "tailwindcss": "^4.2.4"
   },
