@@ -33,11 +33,10 @@ const breadcrumbs = pathSegments.map((segment: any, index: number) => {
   };
 });
 
-console.log(breadcrumbs);
 ---
 
 <nav aria-label="Breadcrumb" class="mb-4">
-  <ol class="flex flex-wrap items-center gap-2 text-sm font-mono">
+  <ol class="flex flex-wrap items-center gap-2 text-xs font-medium">
     <!-- Home -->
     <li class="flex items-center gap-2">
       <a 
@@ -55,7 +54,7 @@ console.log(breadcrumbs);
     {breadcrumbs.map((item: any) => (
       <li class="flex items-center gap-2">
         {item.isLast ? (
-          <span class="text-gray-700">{item.label}</span>
+          <span class="text-gray-700 font-bold">{item.label}</span>
         ) : (
           <>
             <a 
