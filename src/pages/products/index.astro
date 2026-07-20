@@ -3,6 +3,7 @@ import AppLayout from "@/layout/AppLayout.astro"
 import MainLayout from "@/layout/MainLayout.astro"
 import {SOURCES} from "@/lib/constant.mjs";
 
+export const prerender = true;
 
 ---
 <AppLayout>
@@ -17,7 +18,7 @@ import {SOURCES} from "@/lib/constant.mjs";
       {SOURCES.map(source => {
             return (
             <li class="p-4">
-              <a class="font-bold tracking-tighter hover:underline active:underline underline-offset-2" href={`${import.meta.env.BASE_URL}/products/${source.type}`}>{source.name + " " + source.icon}</a>
+              <a class="font-bold tracking-tighter hover:underline active:underline underline-offset-2" href={`${import.meta.env.BASE_URL}products/${source.type}`}>{source.name + " " + source.icon}</a>
             </li>
             )
         })}

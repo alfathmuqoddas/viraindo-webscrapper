@@ -2,17 +2,17 @@ import { Hammer, PackageSearch, MonitorSmartphone } from "lucide-preact";
 export const NavMenuItems = [
   {
     name: "Builder",
-    href: "/builder",
+    href: "builder",
     icon: Hammer,
   },
   {
     name: "Products",
-    href: "/products",
+    href: "products",
     icon: PackageSearch,
   },
   {
     name: "Completed Builds",
-    href: "/completed-builds",
+    href: "completed-builds",
     icon: MonitorSmartphone,
   },
 ];

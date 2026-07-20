@@ -1,5 +1,7 @@
 import data from "@/data.json";
 
+export const prerender = true;
+
 export function getStaticPaths() {
   const pathsMap = new Map();
 

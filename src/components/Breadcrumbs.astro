@@ -17,7 +17,7 @@ const pathWithoutBase = Astro.url.pathname.replace(baseUrl, "");
 const pathSegments = pathWithoutBase.split("/").filter(Boolean);
 
 const breadcrumbs = pathSegments.map((segment: any, index: number) => {
-  const path = baseUrl + "/" + pathSegments.slice(0, index + 1).join("/");
+  const path = baseUrl + pathSegments.slice(0, index + 1).join("/");
   const isLast = index === pathSegments.length - 1;
   
   const label = pathLabels[segment] || segment.replace(/-/g, " ");

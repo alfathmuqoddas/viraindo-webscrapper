@@ -18,6 +18,8 @@ interface Props {
   brandName: string;
 }
 
+export const prerender = true;
+
 export async function getStaticPaths() {
   const pathsMap = new Map();
 

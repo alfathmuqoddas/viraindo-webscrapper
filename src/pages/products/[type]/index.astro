@@ -4,6 +4,8 @@ import AppLayout from "@/layout/AppLayout.astro";
 import MainLayout from "@/layout/MainLayout.astro";
 import {slugify} from "@/lib/helper"
 
+export const prerender = true;
+
 export async function getStaticPaths() {
   const typeMap = new Map();
 
@@ -43,7 +45,7 @@ const { brands } = Astro.props;
             {brands.map(brand => {
                 return (
                 <li class="p-4">
-                  <a class="font-bold tracking-tighter hover:underline active:underline underline-offset-2" href={`${import.meta.env.BASE_URL}/products/${type}/${slugify(brand)}`}>{brand}</a>
+                  <a class="font-bold tracking-tighter hover:underline active:underline underline-offset-2" href={`${import.meta.env.BASE_URL}products/${type}/${slugify(brand)}`}>{brand}</a>
                 </li>
                 )
             })}
