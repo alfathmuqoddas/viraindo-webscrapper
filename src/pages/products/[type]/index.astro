@@ -2,20 +2,29 @@
 import data from "@/data.json";
 import AppLayout from "@/layout/AppLayout.astro";
 import MainLayout from "@/layout/MainLayout.astro";
+import {slugify} from "@/lib/helper"
 
 export async function getStaticPaths() {
-  
-  // Create a unique list of lowercase types
-  const types = [...new Set(data.map(item => item.type.toLowerCase()))];
+  const typeMap = new Map();
 
-  return types.map(type => ({
-    params: { type },
-    props: { 
-      // Filter brands that belong to this type
-      brands: [...new Set(data
-        .filter(i => i.type.toLowerCase() === type)
-        .map(i => i.brand.toUpperCase()))] 
+  for (const item of data) {
+    if (!item.type || !item.brand) continue;
+
+    const type = item.type.toLowerCase();
+    const brandName = item.brand.toUpperCase();
+
+    if (!typeMap.has(type)) {
+      typeMap.set(type, new Set());
     }
+
+    typeMap.get(type).add(brandName);
+  }
+
+  return Array.from(typeMap.entries()).map(([type, brandsSet]) => ({
+    params: { type },
+    props: {
+      brands: Array.from(brandsSet),
+    },
   }));
 }
 
@@ -30,12 +39,11 @@ const { brands } = Astro.props;
     <meta name="robots" slot="head" content="index, follow" />
     <MainLayout>
         <h1 class="mb-4 text-5xl tracking-tighter">Select {type} brand</h1>
-        <ul class="border bg-white">
+        <ul class="divide-y border bg-white">
             {brands.map(brand => {
-                const isLast = brands.indexOf(brand) === brands.length - 1;
                 return (
-                <li class={`p-4 ${!isLast ? 'border-b' : ''}`}>
-                <a class="font-bold tracking-tighter hover:underline active:underline underline-offset-2" href={`${import.meta.env.BASE_URL}/products/${type}/${brand.toLowerCase()}`}>{brand}</a>
+                <li class="p-4">
+                  <a class="font-bold tracking-tighter hover:underline active:underline underline-offset-2" href={`${import.meta.env.BASE_URL}/products/${type}/${slugify(brand)}`}>{brand}</a>
                 </li>
                 )
             })}

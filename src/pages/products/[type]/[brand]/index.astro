@@ -3,6 +3,7 @@ import data from "@/data.json";
 import AppLayout from "@/layout/AppLayout.astro";
 import MainLayout from "@/layout/MainLayout.astro";
 import { ProductTable } from "@/components/ProductTable";
+import {slugify} from "@/lib/helper"
 
 interface Product {
   type: string;
@@ -20,28 +21,29 @@ interface Props {
 export async function getStaticPaths() {
   const pathsMap = new Map();
 
-  data.forEach((item) => {
-    const type = item.type.toLowerCase();
-    const brand = item.brand.toLowerCase();
-    
-    // Safety check: skip if brand is missing or just whitespace
-    if (!brand || brand.trim() === "") return;
+  for (const item of data) {
+    if (!item.type || !item.brand) continue;
 
-    const key = `${type}/${brand}`;
+    const type = item.type.toLowerCase();
+    const brandSlug = slugify(item.brand);
+
+    if (!brandSlug) continue;
+
+    const key = `${type}/${brandSlug}`;
 
     if (!pathsMap.has(key)) {
       pathsMap.set(key, {
-        params: { type, brand },
+        params: { type, brand: brandSlug },
         props: {
           brandName: item.brand,
-          products: data.filter(i => 
-            i.type.toLowerCase() === type && 
-            i.brand.toLowerCase() === brand
-          )
-        }
+          products: [],
+        },
       });
     }
-  });
+
+    // Push product directly in O(1) time
+    pathsMap.get(key).props.products.push(item);
+  }
 
   return Array.from(pathsMap.values()) 
 }

@@ -1,5 +1,4 @@
 ---
-// src/components/Breadcrumbs.astro
 export interface Props {
   homeLabel?: string;
   separator?: string;
@@ -14,16 +13,13 @@ const {
 
 const baseUrl = import.meta.env.BASE_URL || "/";
 
-// Get all path segments
 const pathWithoutBase = Astro.url.pathname.replace(baseUrl, "");
 const pathSegments = pathWithoutBase.split("/").filter(Boolean);
 
-// Build breadcrumb items
 const breadcrumbs = pathSegments.map((segment: any, index: number) => {
   const path = baseUrl + "/" + pathSegments.slice(0, index + 1).join("/");
   const isLast = index === pathSegments.length - 1;
   
-  // Use custom label if provided, otherwise format the segment
   const label = pathLabels[segment] || segment.replace(/-/g, " ");
   
   return {
@@ -37,7 +33,6 @@ const breadcrumbs = pathSegments.map((segment: any, index: number) => {
 
 <nav aria-label="Breadcrumb" class="mb-4">
   <ol class="flex flex-wrap items-center gap-2 text-xs font-medium">
-    <!-- Home -->
     <li class="flex items-center gap-2">
       <a 
         href={baseUrl} 

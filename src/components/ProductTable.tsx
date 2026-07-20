@@ -44,31 +44,40 @@ export const ProductTable = ({
           <span className="px-2">🔎</span>
         </div>
       </div>
-      <div className="overflow-x-auto w-full border text-sm">
-        <table className="w-full min-w-xl bg-white">
+      <div className="overflow-x-auto w-full text-sm">
+        <table className="w-full min-w-xl border bg-white">
           <thead>
-            <tr className="tracking-tight border-b bg-black text-white">
+            <tr className="tracking-tight bg-black text-white">
               <th className="p-2">No</th>
               <th>Model</th>
               <th>Price</th>
             </tr>
           </thead>
-          <tbody>
+          <tbody className="divide-y">
             {filteredProducts.length === 0 ? (
-              <tr className="border-b">
+              <tr className="">
                 <td colSpan={3} className="p-2">
                   No products found
                 </td>
               </tr>
             ) : (
               filteredProducts.map((p, index) => {
-                const isLast = products.indexOf(p) === products.length - 1;
                 return (
-                  <tr className={`${!isLast ? "border-b" : ""} font-mono`}>
+                  <tr className="font-mono">
                     <td className="p-2 max-w-sm flex items-center justify-center">
                       {index + 1}
                     </td>
-                    <td className="p-2 max-w-md">{p.model}</td>
+                    <td className="p-2 max-w-md group">
+                      <a
+                        href={`https://google.com/search?q=${p.model}`}
+                        target="_blank"
+                        rel="noreferrer"
+                        title="Search on Google"
+                        class="hover:underline active:underline underline-offset-2"
+                      >
+                        {p.model}
+                      </a>
+                    </td>
                     <td className="p-2 ">Rp. {p.price}</td>
                   </tr>
                 );
