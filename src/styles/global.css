@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Geist+Mono:ital,wght@0,100..900;1,100..900&family=Manrope:wght@200..800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Geist+Mono:ital,wght@0,100..900;1,100..900&family=Geist:ital,wght@0,100..900;1,100..900&display=swap");
 @import "tailwindcss";
 
 body {
@@ -6,7 +6,7 @@ body {
 }
 
 @theme {
-  --font-sans: "Manrope", sans-serif;
+  --font-sans: "Geist", sans-serif;
   --font-mono: "Geist Mono", monospace;
 }
 
