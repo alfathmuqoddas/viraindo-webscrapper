@@ -1,7 +1,15 @@
 ---
+import { NavMenu } from "@/components/NavMenu";
+import { LoginButton } from "@/components/LoginButton";
+// import { MobileMenu } from "@/components/MobileMenu";
 ---
 <nav class="bg-black">
-    <div class="max-w-6xl mx-auto py-2 h-12 flex justify-between items-center gap-4">
+    <div class="max-w-6xl max-md:px-4 mx-auto justify-between py-2 h-12 flex items-center gap-4">
         <a href={import.meta.env.BASE_URL} class="text-white font-black tracking-tight text-2xl">PCPART</a>
+        <NavMenu client:load />
+        <!-- <div class="hidden md:block"> -->
+            <LoginButton client:load />
+        <!-- </div> -->
+        <!-- <MobileMenu client:load /> -->
     </div>
 </nav>
