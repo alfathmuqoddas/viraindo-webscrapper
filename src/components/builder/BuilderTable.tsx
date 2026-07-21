@@ -47,7 +47,9 @@ export const BuilderTable = () => {
                         {selectedPart.at(-1)?.model}
                       </td>
                       <td className="p-3 align-middle text-right whitespace-nowrap">
-                        {currencyFormatter.format(selectedPart.at(-1)?.price)}
+                        {currencyFormatter.format(
+                          selectedPart.at(-1)?.price as number,
+                        )}
                       </td>
                       <td className="p-3 align-middle text-center">
                         <RemoveFromBuilderButton id={selectedPart.at(-1)?.id} />
