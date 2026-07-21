@@ -18,3 +18,10 @@ export function reverseSlugify(text) {
     .replace(/\s+/g, " ") // Collapse multiple spaces into a single space
     .toUpperCase(); // Convert to uppercase
 }
+
+export const currencyFormatter = new Intl.NumberFormat("id-ID", {
+  style: "currency",
+  currency: "IDR",
+  minimumFractionDigits: 0,
+  maximumFractionDigits: 0,
+});

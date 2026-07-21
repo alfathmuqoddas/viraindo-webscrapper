@@ -28,6 +28,11 @@ function cleanCellText(rawText) {
     .trim();
 }
 
+// convert from cleanCellText to number
+function cleanCellTextToNumber(cleanCellText) {
+  return Number(cleanCellText.replace(/\./g, ""));
+}
+
 /**
  * Tries to find a known brand name inside a product description.
  * Returns the original‑casing brand from the dictionary, or "UNKNOWN".
@@ -92,7 +97,7 @@ async function scrapePage(url) {
       const targetIndex = rowIndex + pair * rowCount;
       scrapedItems[targetIndex] = {
         model: description,
-        price: price,
+        price: cleanCellTextToNumber(price),
       };
     }
   });

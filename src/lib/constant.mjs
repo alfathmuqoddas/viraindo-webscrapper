@@ -73,6 +73,12 @@ export const SOURCES = [
   },
 ];
 
+const typeToOmit = ["pc-branded", "gadget", "notebook"];
+const removeSet = new Set(typeToOmit);
+export const pcPartsOnly = SOURCES.filter(
+  (source) => !removeSet.has(source.type),
+);
+
 // NOTE: All keys are now lower‑case so they match SOURCES[].type exactly
 export const COMPONENT_BRANDS = {
   processor: ["INTEL", "AMD"],
