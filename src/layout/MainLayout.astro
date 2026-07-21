@@ -1,11 +1,7 @@
 ---
-import Footer from "@/components/Footer.astro";
 import Breadcrumbs from "@/components/Breadcrumbs.astro";
-import Navbar from "@/components/Navbar.astro";
 ---
-<Navbar />
-<main class="max-w-6xl mx-auto py-4 px-4 md:px-0 min-h-[calc(100vh-8rem)]">
+<div class="max-w-6xl mx-auto py-4 px-4 md:px-0">
 	<Breadcrumbs />
 	<slot />
-</main>
-<Footer />
+</div>
