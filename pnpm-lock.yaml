@@ -14,6 +14,12 @@ importers:
       '@astrojs/preact':
         specifier: ^6.0.1
         version: 6.0.1(@babel/core@7.29.7)(@types/node@25.6.0)(esbuild@0.28.1)(jiti@2.7.0)(preact@10.29.7)(rollup@4.60.2)
+      '@nanostores/persistent':
+        specifier: ^1.3.4
+        version: 1.3.4(nanostores@1.4.0)
+      '@nanostores/preact':
+        specifier: ^1.1.0
+        version: 1.1.0(nanostores@1.4.0)(preact@10.29.7)
       '@tailwindcss/vite':
         specifier: ^4.3.3
         version: 4.3.3(vite@8.1.4(@types/node@25.6.0)(esbuild@0.28.1)(jiti@2.7.0))
@@ -29,6 +35,9 @@ importers:
       lucide-preact:
         specifier: ^1.25.0
         version: 1.25.0(preact@10.29.7)
+      nanostores:
+        specifier: ^1.4.0
+        version: 1.4.0
       preact:
         specifier: ^10.29.7
         version: 10.29.7(preact-render-to-string@6.7.0)
@@ -902,6 +911,19 @@ packages:
 
   '@jridgewell/trace-mapping@0.3.9':
     resolution: {integrity: sha512-3Belt6tdc8bPgAtbcmdtNJlirVoTmEb5e2gC94PnkwEW9jI6CAHUeoG85tjWP5WquqfavoMtMwiG4P926ZKKuQ==}
+
+  '@nanostores/persistent@1.3.4':
+    resolution: {integrity: sha512-fZ42MOredSkqt450XrPxmQ94pSRPTas/rBUVCvEEMCR+rIp8bdo/xoaFFcG2cwpqAzA164PdD6p3D+MXLJYumw==}
+    engines: {node: ^20.0.0 || >=22.0.0}
+    peerDependencies:
+      nanostores: ^0.9.0 || ^0.10.0 || ^0.11.0 || ^1.0.0
+
+  '@nanostores/preact@1.1.0':
+    resolution: {integrity: sha512-oiu9z85AiZlBTKJ8YsfAs8TALpDij70LmmKuRkeF22rS9zUBhVtYDWXEvV1qUUStNNwSFdhTMkwzOYL/IsA+UA==}
+    engines: {node: ^20.0.0 || >=22.0.0}
+    peerDependencies:
+      nanostores: ^1.2.0
+      preact: '>=10.0.0'
 
   '@napi-rs/wasm-runtime@1.1.6':
     resolution: {integrity: sha512-ZLv/JdUfkvOy9eCnnBaGfiO+XimbjebAeO+MRQqD/B+FR1tnRN0tpKSJHRbE8sFfS6aqsXZ67TQjfwfsxULVbg==}
@@ -1931,6 +1953,10 @@ packages:
     resolution: {integrity: sha512-y7Wygv/7mEOvxTuEQDB8StXdMRBWf1kR/tlhAzBRUFkB2jfcLOAxO/SHmOO2zgz1pVgK29/kyupn059/bCHdjA==}
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
     hasBin: true
+
+  nanostores@1.4.0:
+    resolution: {integrity: sha512-i0tloweeudshAEuddpDxcg9Ik6pkPfVsHIgKyf143JrgG7/MOh0+q7BypdLXZPoOP7fOYt1eTcwGkyiVmhJFkA==}
+    engines: {node: ^20.0.0 || >=22.0.0}
 
   neotraverse@1.0.1:
     resolution: {integrity: sha512-WmmLty1YWwJl9yZi77v2dVIV6X2kuYV8YYBI/G3LWGKdGHmHUvL1z7FW0iDvEvGAwNEoc5x1tOOOyDnf5jJw/w==}
@@ -3372,6 +3398,15 @@ snapshots:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.5
 
+  '@nanostores/persistent@1.3.4(nanostores@1.4.0)':
+    dependencies:
+      nanostores: 1.4.0
+
+  '@nanostores/preact@1.1.0(nanostores@1.4.0)(preact@10.29.7)':
+    dependencies:
+      nanostores: 1.4.0
+      preact: 10.29.7(preact-render-to-string@6.7.0)
+
   '@napi-rs/wasm-runtime@1.1.6(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)':
     dependencies:
       '@emnapi/core': 1.11.1
@@ -4380,6 +4415,8 @@ snapshots:
   ms@2.1.3: {}
 
   nanoid@3.3.15: {}
+
+  nanostores@1.4.0: {}
 
   neotraverse@1.0.1: {}
 
