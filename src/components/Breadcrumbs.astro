@@ -11,7 +11,7 @@ const {
   pathLabels = {}
 } = Astro.props;
 
-const baseUrl = import.meta.env.BASE_URL || "/";
+const baseUrl = import.meta.env.BASE_URL;
 
 const pathWithoutBase = Astro.url.pathname.replace(baseUrl, "");
 const pathSegments = pathWithoutBase.split("/").filter(Boolean);
@@ -30,38 +30,41 @@ const breadcrumbs = pathSegments.map((segment: any, index: number) => {
 });
 
 ---
-
-<nav aria-label="Breadcrumb" class="mb-4">
-  <ol class="flex flex-wrap items-center gap-2 text-xs font-medium">
-    <li class="flex items-center gap-2">
-      <a 
-        href={baseUrl} 
-        class="text-blue-500 active:underline underline-offset-2 transition-colors"
-      >
-        {homeLabel}
-      </a>
-      {breadcrumbs.length > 0 && (
-        <span class="text-gray-400">{separator}</span>
-      )}
-    </li>
-
-    <!-- Breadcrumb items -->
-    {breadcrumbs.map((item: any) => (
-      <li class="flex items-center gap-2">
-        {item.isLast ? (
-          <span class="text-gray-700 font-bold">{item.label}</span>
-        ) : (
-          <>
-            <a 
-              href={item.path} 
-              class="text-blue-600 active:underline underline-offset-2 transition-colors"
-            >
-              {item.label}
-            </a>
+{
+  pathWithoutBase && (
+    <nav aria-label="Breadcrumb" class="mb-4">
+      <ol class="flex flex-wrap items-center gap-2 text-xs font-medium">
+        <li class="flex items-center gap-2">
+          <a 
+            href={baseUrl} 
+            class="text-blue-500 active:underline underline-offset-2 transition-colors"
+          >
+            {homeLabel}
+          </a>
+          {breadcrumbs.length > 0 && (
             <span class="text-gray-400">{separator}</span>
-          </>
-        )}
-      </li>
-    ))}
-  </ol>
-</nav>
+          )}
+        </li>
+
+        <!-- Breadcrumb items -->
+        {breadcrumbs.map((item: any) => (
+          <li class="flex items-center gap-2">
+            {item.isLast ? (
+              <span class="text-gray-700 font-bold">{item.label}</span>
+            ) : (
+              <>
+                <a 
+                  href={item.path} 
+                  class="text-blue-600 active:underline underline-offset-2 transition-colors"
+                >
+                  {item.label}
+                </a>
+                <span class="text-gray-400">{separator}</span>
+              </>
+            )}
+          </li>
+        ))}
+      </ol>
+    </nav>
+  )
+}
