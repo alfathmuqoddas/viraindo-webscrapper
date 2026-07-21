@@ -1,6 +1,5 @@
 ---
 import AppLayout from "@/layout/AppLayout.astro";
-import MainLayout from "@/layout/MainLayout.astro";
 
 export const prerender = true;
 
@@ -9,7 +8,28 @@ export const prerender = true;
     <title slot="head">PCPART Builder | By Alfath Muqoddas</title>
     <meta name="description" slot="head" content="Viraindo Webscrapper is a simple Astro project that scrapes the Viraindo website and then generate a static website with the scraped data." />
 
-    <MainLayout>
-        <h1 class="mb-4 text-5xl font-black tracking-tighter">Welcome to PCPART App</h1>
-    </MainLayout>
+    <!-- HERO -->
+    <div class="relative h-[calc(100vh-11rem)] overflow-hidden">
+        <figure class="">
+            <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1920&h=1080&auto=format&fit=crop" alt="hero" class="w-full h-[calc(100vh-11rem)] object-cover" />
+        </figure>
+        <div class="absolute inset-0 bg-linear-to-r from-black from-20% to-transparent to-80% pointer-events-none" />
+
+        <div class="absolute inset-0 flex items-center">
+            <div class="w-6xl px-4 md:px-0 mx-auto">
+                <h1 class="text-5xl font-bold tracking-tight text-white">Welcome to PCPART</h1>
+                <p class="text-xl text-white">
+                    Build your dream PC
+                </p>
+                <div class="mt-4 flex gap-4">
+                    <a href="/builder" class="bg-blue-500 hover:bg-blue-600 active:bg-blue-600 px-4 py-2 cursor-pointer rounded-xl text-white">
+                        Build Now
+                    </a>
+                    <a href="/products" class="border-2 active:bg-blue-500 border-blue-500 px-4 py-2 cursor-pointer rounded-xl text-white">
+                        Explore Parts
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
 </AppLayout>
