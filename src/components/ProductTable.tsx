@@ -1,10 +1,9 @@
 import { useState, useEffect } from "preact/hooks";
+import { currencyFormatter } from "@/lib/helper";
+import AddToBuilderButton from "@/components/builder/AddToBuilderButton";
+import type { PartWithoutId } from "@/type";
 
-export const ProductTable = ({
-  products,
-}: {
-  products: { type: string; brand: string; model: string; price: string }[];
-}) => {
+export const ProductTable = ({ products }: { products: PartWithoutId[] }) => {
   const [query, setQuery] = useState("");
   const [debouncedQuery, setDebouncedQuery] = useState(query);
   const [filteredProducts, setFilteredProducts] = useState(products);
@@ -44,30 +43,32 @@ export const ProductTable = ({
           <span className="px-2">🔎</span>
         </div>
       </div>
-      <div className="overflow-x-auto w-full text-sm">
-        <table className="w-full min-w-xl border bg-white">
+      <div className="overflow-x-auto border w-full text-sm">
+        <table className="w-full min-w-xl bg-white">
           <thead>
-            <tr className="tracking-tight bg-black text-white">
-              <th className="p-2">No</th>
-              <th>Model</th>
-              <th>Price</th>
+            <tr className="bg-black text-white text-left uppercase tracking-wider text-xs">
+              <th className="p-3 w-1/12 font-bold">No</th>
+              <th className="p-3 w-1/2 font-bold">Model</th>
+              <th className="p-3 w-1/4 font-bold text-right">Price</th>
+              <th className="p-3 w-16 text-center font-bold">Action</th>
             </tr>
           </thead>
           <tbody className="divide-y">
             {filteredProducts.length === 0 ? (
               <tr className="">
-                <td colSpan={3} className="p-2">
+                <td
+                  colSpan={4}
+                  className="p-6 text-center text-gray-500 font-mono"
+                >
                   No products found
                 </td>
               </tr>
             ) : (
               filteredProducts.map((p, index) => {
                 return (
-                  <tr className="font-mono">
-                    <td className="p-2 max-w-sm flex items-center justify-center">
-                      {index + 1}
-                    </td>
-                    <td className="p-2 max-w-md group">
+                  <tr key={index} className="font-mono">
+                    <td className="p-3 align-middle truncate">{index + 1}</td>
+                    <td className="p-3 align-middle wrap-break-word">
                       <a
                         href={`https://google.com/search?q=${p.model}`}
                         target="_blank"
@@ -78,7 +79,12 @@ export const ProductTable = ({
                         {p.model}
                       </a>
                     </td>
-                    <td className="p-2 ">Rp. {p.price}</td>
+                    <td className="p-3 align-middle text-right whitespace-nowrap">
+                      {currencyFormatter.format(p.price)}
+                    </td>
+                    <td className="p-3 align-middle text-center">
+                      <AddToBuilderButton part={p} />
+                    </td>
                   </tr>
                 );
               })
