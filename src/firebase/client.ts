@@ -1,8 +1,8 @@
 // Import the functions you need from the SDKs you need
-import { initializeApp, getApps, getApp } from "firebase/app";
-import { getAuth, GoogleAuthProvider } from "firebase/auth";
-import { getFirestore } from "firebase/firestore";
-import { getAnalytics } from "firebase/analytics";
+import { initializeApp, getApps, getApp, type FirebaseApp } from "firebase/app";
+import { getAuth, GoogleAuthProvider, type Auth } from "firebase/auth";
+import { type Firestore, getFirestore } from "firebase/firestore";
+import { type Analytics, getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
   apiKey: "AIzaSyCz2MdCmJWh3UGv7WUeeXEl3oDEJvZyO_U",
@@ -14,8 +14,22 @@ const firebaseConfig = {
   measurementId: "G-4P0NYVZD5C",
 };
 
-const app = getApps().length === 0 ? initializeApp(firebaseConfig) : getApp();
-export const auth = getAuth(app);
-export const googleAuthProvider = new GoogleAuthProvider();
-export const db = getFirestore(app);
-export const analytics = getAnalytics(app);
+const isBrowser = typeof window !== "undefined";
+
+let app: FirebaseApp | undefined;
+let auth: Auth;
+let db: Firestore;
+let analytics: Analytics;
+
+if (isBrowser) {
+  app = getApps().length === 0 ? initializeApp(firebaseConfig) : getApp();
+  auth = getAuth(app);
+  db = getFirestore(app);
+  analytics = getAnalytics(app);
+} else
+  ((auth = {} as Auth), (db = {} as Firestore), (analytics = {} as Analytics));
+
+export const googleAuthProvider = isBrowser
+  ? new GoogleAuthProvider()
+  : undefined;
+export { auth, db, analytics };

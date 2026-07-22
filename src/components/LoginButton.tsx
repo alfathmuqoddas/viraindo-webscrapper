@@ -8,7 +8,9 @@ export const LoginButton = () => {
 
   const handleLogin = async () => {
     try {
-      await signInWithPopup(auth, googleAuthProvider);
+      if (googleAuthProvider) {
+        await signInWithPopup(auth, googleAuthProvider);
+      }
     } catch (error) {
       console.error("failed to login: ", error);
     }
