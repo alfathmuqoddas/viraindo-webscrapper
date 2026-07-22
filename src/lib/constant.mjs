@@ -79,6 +79,8 @@ export const pcPartsOnly = SOURCES.filter(
   (source) => !removeSet.has(source.type),
 );
 
+export const MULTI_SELECTION_TYPES = ["storage", "gpu", "ram", "cooler"];
+
 // NOTE: All keys are now lower‑case so they match SOURCES[].type exactly
 export const COMPONENT_BRANDS = {
   processor: ["INTEL", "AMD"],

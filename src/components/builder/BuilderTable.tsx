@@ -1,9 +1,10 @@
 import { useStore } from "@nanostores/preact";
+import { Fragment } from "preact";
 import { useState, useEffect } from "preact/hooks";
 import { partStore } from "@/store/partStore";
 import { RemoveFromBuilderButton } from "./RemoveFromBuilderButton";
 import { currencyFormatter } from "@/lib/helper";
-import { pcPartsOnly } from "@/lib/constant.mjs";
+import { pcPartsOnly, MULTI_SELECTION_TYPES } from "@/lib/constant.mjs";
 import { navigate } from "astro:transitions/client";
 
 export const BuilderTable = () => {
@@ -34,38 +35,88 @@ export const BuilderTable = () => {
           </thead>
           <tbody className="divide-y divide-black">
             {pcPartsOnly.map((source: Record<string, string>) => {
-              const selectedPart = partsGroupedByType[source.type];
+              const selectedParts = partsGroupedByType[source.type] || [];
+              const hasParts = selectedParts.length > 0;
+
+              const allowMultiple = MULTI_SELECTION_TYPES.includes(
+                source.type.toLowerCase(),
+              );
+              const showAddAnother = hasParts && allowMultiple;
+
+              const totalRows = hasParts
+                ? selectedParts.length + (showAddAnother ? 1 : 0)
+                : 1;
 
               return (
-                <tr key={source.type} className="font-mono">
-                  <td className="p-3 font-semibold capitalize align-middle truncate">
-                    {source.name}
-                  </td>
-                  {selectedPart ? (
-                    <>
-                      <td className="p-3 align-middle wrap-break-word">
-                        {selectedPart.at(-1)?.model}
-                      </td>
-                      <td className="p-3 align-middle text-right whitespace-nowrap">
-                        {currencyFormatter.format(
-                          selectedPart.at(-1)?.price as number,
-                        )}
-                      </td>
-                      <td className="p-3 align-middle text-center">
-                        <RemoveFromBuilderButton id={selectedPart.at(-1)?.id} />
-                      </td>
-                    </>
-                  ) : (
-                    <td class="p-3 align-middle wrap-break-word">
-                      <button
-                        className="hover:underline active:text-blue-500 underline-offset-2 cursor-pointer"
-                        onClick={() => navigate(`/products/${source.type}`)}
-                      >
-                        + Choose {source.name}
-                      </button>
+                <Fragment key={source.type}>
+                  <tr className="font-mono">
+                    <td
+                      className="p-3 font-semibold border-r capitalize align-middle truncate"
+                      rowSpan={totalRows}
+                    >
+                      {source.name}
                     </td>
+
+                    {hasParts ? (
+                      <>
+                        <td className="p-3 align-middle wrap-break-words">
+                          {selectedParts[0].model}
+                        </td>
+                        <td className="p-3 align-middle text-right whitespace-nowrap">
+                          {currencyFormatter.format(
+                            selectedParts[0].price as number,
+                          )}
+                        </td>
+                        <td className="p-3 align-middle text-center">
+                          <RemoveFromBuilderButton id={selectedParts[0].id} />
+                        </td>
+                      </>
+                    ) : (
+                      <>
+                        <td className="p-3 align-middle wrap-break-words">
+                          <button
+                            className="text-blue-500 hover:underline active:underline underline-offset-2 cursor-pointer"
+                            onClick={() => navigate(`/products/${source.type}`)}
+                          >
+                            + Choose {source.name}
+                          </button>
+                        </td>
+                        <td className="p-3 align-middle text-right">-</td>
+                        <td className="p-3 align-middle text-center">-</td>
+                      </>
+                    )}
+                  </tr>
+
+                  {hasParts &&
+                    selectedParts.slice(1).map((part) => (
+                      <tr key={part.id} className="font-mono border-t">
+                        <td className="p-3 align-middle wrap-break-words">
+                          {part.model}
+                        </td>
+                        <td className="p-3 align-middle text-right whitespace-nowrap">
+                          {currencyFormatter.format(part.price as number)}
+                        </td>
+                        <td className="p-3 align-middle text-center">
+                          <RemoveFromBuilderButton id={part.id} />
+                        </td>
+                      </tr>
+                    ))}
+
+                  {showAddAnother && (
+                    <tr className="font-mono border-t">
+                      <td className="p-3 align-middle wrap-break-words">
+                        <button
+                          className="text-blue-500 hover:underline active:underline underline-offset-2 cursor-pointer"
+                          onClick={() => navigate(`/products/${source.type}`)}
+                        >
+                          + Add another {source.name}
+                        </button>
+                      </td>
+                      <td className="p-3 align-middle text-right">-</td>
+                      <td className="p-3 align-middle text-center">-</td>
+                    </tr>
                   )}
-                </tr>
+                </Fragment>
               );
             })}
           </tbody>
