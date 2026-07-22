@@ -4,17 +4,11 @@ import AppLayout from "@/layout/AppLayout.astro";
 import MainLayout from "@/layout/MainLayout.astro";
 import { ProductTable } from "@/components/ProductTable";
 import {slugify} from "@/lib/helper"
-
-interface Product {
-  type: string;
-  brand: string;
-  model: string;
-  price: string;
-}
+import type { PartWithoutId } from "@/type";
 
 // 2. Define the props this page expects
 interface Props {
-  products: Product[];
+  products: PartWithoutId[];
   brandName: string;
 }
 
