@@ -1,13 +1,13 @@
 ---
 import AppLayout from "@/layout/AppLayout.astro";
 import MainLayout from "@/layout/MainLayout.astro";
-import CompletedBuildsPage from "@/components/completedBuilds/completedBuildsPage";
+
+const { buildId } = Astro.params;
 ---
 <AppLayout>
     <title slot="head">Completed Build | PCPART</title>
     <meta name="description" slot="head" content="Here you can see all the completed builds the community has made. | PCPART by Alfath Muqoddas" />
     <MainLayout>
-        <h1 class="mb-4 text-5xl font-black tracking-tighter">Completed Builds</h1>
-        <CompletedBuildsPage client:load />
+        <h1 class="mb-4 text-5xl font-black tracking-tighter">Builds {buildId}</h1>
     </MainLayout>
 </AppLayout>
