@@ -25,11 +25,18 @@ export default function BuilderPage() {
     description: string;
     isPublished: boolean;
   }) => {
-    setIsSubmitting(true);
-    if (!title || !parts.length) {
-      alert("Please at least fill in the title and description and parts");
+    if (!user) {
+      alert("Please login to save the build");
       return;
     }
+
+    if (!title.trim() || !parts.length) {
+      alert("Please fill in the title and select at least one part");
+      return;
+    }
+
+    setIsSubmitting(true);
+
     try {
       await addDoc(collection(db, "pcpart_builds"), {
         title,
