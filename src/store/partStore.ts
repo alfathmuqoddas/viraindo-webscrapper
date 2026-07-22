@@ -1,5 +1,6 @@
 import { persistentAtom } from "@nanostores/persistent";
 import type { Part } from "@/type";
+import { MULTI_SELECTION_TYPES } from "@/lib/constant.mjs";
 
 export const partStore = persistentAtom<Part[]>("selected_parts", [], {
   encode: JSON.stringify,
@@ -7,7 +8,20 @@ export const partStore = persistentAtom<Part[]>("selected_parts", [], {
 });
 
 export const addPart = (newPart: Part) => {
-  partStore.set([...partStore.get(), newPart]);
+  const currentParts = partStore.get();
+
+  const allowsMultiple = MULTI_SELECTION_TYPES.includes(
+    newPart.type.toLowerCase(),
+  );
+
+  if (allowsMultiple) {
+    partStore.set([...currentParts, newPart]);
+  } else {
+    const filteredParts = currentParts.filter(
+      (p) => p.type.toLowerCase() !== newPart.type.toLowerCase(),
+    );
+    partStore.set([...filteredParts, newPart]);
+  }
 };
 
 export const removePart = (id: string) => {
