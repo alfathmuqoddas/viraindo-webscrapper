@@ -2,6 +2,7 @@ import { useState, useEffect } from "preact/hooks";
 import { currencyFormatter } from "@/lib/helper";
 import AddToBuilderButton from "@/components/builder/AddToBuilderButton";
 import type { PartWithoutId } from "@/type";
+import { Search } from "lucide-preact";
 
 export const ProductTable = ({ products }: { products: PartWithoutId[] }) => {
   const [query, setQuery] = useState("");
@@ -40,7 +41,7 @@ export const ProductTable = ({ products }: { products: PartWithoutId[] }) => {
             className="w-full px-2 py-1"
             placeholder="Search..."
           />
-          <span className="px-2">🔎</span>
+          <span className="px-2">🔍</span>
         </div>
       </div>
       <div className="overflow-x-auto border w-full text-sm">
@@ -48,9 +49,9 @@ export const ProductTable = ({ products }: { products: PartWithoutId[] }) => {
           <thead>
             <tr className="bg-black text-white text-left uppercase tracking-wider text-xs">
               <th className="p-3 w-1/12 font-bold">No</th>
-              <th className="p-3 w-1/2 font-bold">Model</th>
-              <th className="p-3 w-1/4 font-bold text-right">Price</th>
-              <th className="p-3 w-16 text-center font-bold">Action</th>
+              <th className="p-3 w-6/12 font-bold">Model</th>
+              <th className="p-3 w-3/12 font-bold text-right">Price</th>
+              <th className="p-3 w-2/12 text-center font-bold">Action</th>
             </tr>
           </thead>
           <tbody className="divide-y">
@@ -58,7 +59,7 @@ export const ProductTable = ({ products }: { products: PartWithoutId[] }) => {
               <tr className="">
                 <td
                   colSpan={4}
-                  className="p-6 text-center text-gray-500 font-mono"
+                  className="p-3 text-center text-gray-500 font-mono"
                 >
                   No products found
                 </td>
@@ -74,10 +75,11 @@ export const ProductTable = ({ products }: { products: PartWithoutId[] }) => {
                         target="_blank"
                         rel="noreferrer"
                         title="Search on Google"
-                        class="hover:underline active:underline underline-offset-2"
+                        class="text-blue-500 hover:underline active:underline underline-offset-2"
                       >
                         {p.model}
                       </a>
+                      <span className="px-1 text-xs">🔍</span>
                     </td>
                     <td className="p-3 align-middle text-right whitespace-nowrap">
                       {currencyFormatter.format(p.price)}
