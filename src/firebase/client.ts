@@ -3,8 +3,9 @@ import { initializeApp, getApps, getApp, type FirebaseApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider, type Auth } from "firebase/auth";
 import { type Firestore, getFirestore } from "firebase/firestore";
 import { type Analytics, getAnalytics } from "firebase/analytics";
+import { getFirestore as getFirestoreLite } from "firebase/firestore/lite";
 
-const firebaseConfig = {
+export const firebaseConfig = {
   apiKey: "AIzaSyCz2MdCmJWh3UGv7WUeeXEl3oDEJvZyO_U",
   authDomain: "fir-project-66397.firebaseapp.com",
   projectId: "fir-project-66397",
@@ -32,4 +33,7 @@ if (isBrowser) {
 export const googleAuthProvider = isBrowser
   ? new GoogleAuthProvider()
   : undefined;
-export { auth, db, analytics };
+
+const dbLite = getFirestoreLite(initializeApp(firebaseConfig));
+
+export { auth, db, dbLite, analytics };
