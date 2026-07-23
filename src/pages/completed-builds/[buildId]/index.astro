@@ -1,13 +1,51 @@
 ---
 import AppLayout from "@/layout/AppLayout.astro";
 import MainLayout from "@/layout/MainLayout.astro";
+import CompletedBuildDetailPage from "@/components/completedBuilds/CompletedBuildDetailPage.astro";
+import {doc, getDoc} from "firebase/firestore/lite";
+import {dbLite} from "@/firebase/client";
+import { type TBuild } from "@/type";
 
 const { buildId } = Astro.params;
+
+let build: TBuild & { id: string } | null = null;
+let error:string | null = null;
+
+try {
+
+    if (!buildId) {
+        throw new Error("Build ID is required");
+    }
+
+    const docRef = doc(dbLite, "pcpart_builds", buildId);
+    const docSnap = await getDoc(docRef);
+
+    if (!docSnap.exists()) {
+        throw new Error("Build not found");
+    }
+
+    build = {
+        id: docSnap.id,
+        ...(docSnap.data() as TBuild),
+    };
+
+} catch (e) {
+    error = e instanceof Error ? e.message : "Failed to fetch data";
+}
 ---
 <AppLayout>
     <title slot="head">Completed Build | PCPART</title>
     <meta name="description" slot="head" content="Here you can see all the completed builds the community has made. | PCPART by Alfath Muqoddas" />
     <MainLayout>
-        <h1 class="mb-4 text-5xl font-black tracking-tighter">Build Details</h1>
+        <h1 class="mb-6 text-5xl font-black tracking-tighter">Build Details</h1>
+        {
+            error || build === null ? (
+                <span>Error: {error}</span>
+            ) : (
+                <CompletedBuildDetailPage buildProps={build} server:defer>
+                    <div slot="fallback">Loading...</div>
+                </CompletedBuildDetailPage>
+            )
+        }
     </MainLayout>
 </AppLayout>
