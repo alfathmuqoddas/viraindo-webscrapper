@@ -1,7 +1,6 @@
 import { type TBuild } from "@/type";
 import { memo, useMemo } from "preact/compat";
 import { currencyFormatter } from "@/lib/helper";
-import { navigate } from "astro:transitions/client";
 
 function BuildCard({ build }: { build: TBuild & { id: string } }) {
   const keyParts = useMemo(
@@ -13,50 +12,48 @@ function BuildCard({ build }: { build: TBuild & { id: string } }) {
     () => build.parts.reduce((acc, part) => acc + part.price, 0),
     [build.parts],
   );
-  const handleNavigate = () => {
-    navigate(`/completed-builds/${build.id}`);
-  };
+
   return (
-    <div
+    <a
+      href={`/completed-builds/${build.id}`}
       key={build.id}
-      class="bg-white flex flex-col gap-2 shadow rounded-md p-2 group h-full"
+      class="block h-full group focus:outline-none focus:ring-2 focus:ring-blue-500 rounded-md"
     >
-      {/* card header */}
-      <div class="flex items-center gap-2">
-        <figure class="w-6 h-6 rounded-full overflow-hidden shrink-0">
-          <img
-            src={build.userPhotoUrl}
-            alt={`${build.userName}'s profile picture`}
-            class="w-full h-full object-cover"
-          />
-        </figure>
-        <p class="text-sm truncate">{build.userName}</p>
-      </div>
+      <article class="bg-white flex flex-col gap-2 shadow hover:shadow-lg rounded-md p-3 h-full cursor-pointer transition-shadow duration-200">
+        {/* card header */}
+        <header class="flex items-center gap-2">
+          <figure class="w-6 h-6 rounded-full overflow-hidden shrink-0">
+            <img
+              src={build.userPhotoUrl}
+              alt={`${build.userName}'s profile picture`}
+              class="w-full h-full object-cover"
+            />
+          </figure>
+          <p class="text-sm truncate">{build.userName}</p>
+        </header>
 
-      {/* card body */}
-      <div className="flex flex-col gap-2 flex-1">
-        <h2
-          class="font-bold cursor-pointer group-hover:text-blue-500 line-clamp-2"
-          onClick={handleNavigate}
-        >
-          {build.title}
-        </h2>
-        <div className="flex flex-col gap-1">
-          {keyParts.map((part, idx) => (
-            <span key={part.id ?? idx} className="text-xs text-gray-500">
-              {part.model}
-            </span>
-          ))}
+        {/* card body */}
+        <div className="flex flex-col gap-2 flex-1">
+          <h2 class="font-bold group-active:text-blue-500 group-hover:text-blue-500 line-clamp-2 transition-colors duration-200">
+            {build.title}
+          </h2>
+          <div className="flex flex-col gap-1">
+            {keyParts.map((part, idx) => (
+              <span key={part.id ?? idx} className="text-xs text-gray-500">
+                {part.model}
+              </span>
+            ))}
+          </div>
         </div>
-      </div>
 
-      {/* card footer */}
-      <div className="pt-2 border-t border-gray-300 mt-auto">
-        <p className="text-sm font-semibold">
-          {currencyFormatter.format(totalPrice)}
-        </p>
-      </div>
-    </div>
+        {/* card footer */}
+        <footer className="pt-2 border-t border-gray-300 mt-auto">
+          <p className="text-sm font-semibold">
+            {currencyFormatter.format(totalPrice)}
+          </p>
+        </footer>
+      </article>
+    </a>
   );
 }
 

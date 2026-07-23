@@ -15,7 +15,7 @@ export default function CompletedBuildsPage() {
 
   return (
     <div>
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
         {builds.map((build) => (
           <BuildCard build={build} key={build.id} />
         ))}
