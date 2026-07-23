@@ -1,13 +1,86 @@
 ---
 import AppLayout from "@/layout/AppLayout.astro";
 import MainLayout from "@/layout/MainLayout.astro";
-import CompletedBuildsPage from "@/components/completedBuilds/completedBuildsPage";
+import CompletedBuildsPage from "@/components/completedBuilds/CompletedBuildPage.astro";
+import {query, collection, where, orderBy, limit, getDocs, startAfter, Timestamp, type QueryConstraint} from "firebase/firestore/lite";
+import {dbLite} from "@/firebase/client";
+import { type TBuild } from "@/type";
+
+const PAGE_SIZE = 10
+const cursorParam = Astro.url.searchParams.get("cursor");
+
+let builds: (TBuild & { id: string })[] = [];
+let nextCursor = null;
+let error = null;
+
+try {
+    const colRef = collection(dbLite, "pcpart_builds");
+
+    const queryConstraints: QueryConstraint[] = [
+        orderBy("createdAt", "desc"),
+        where("isPublished", "==", true),
+        limit(PAGE_SIZE)
+    ]
+
+    if (cursorParam) {
+        const millis = parseInt(cursorParam, 10);
+        if (!isNaN(millis)) {
+            const cursorTimestamp = Timestamp.fromMillis(millis);
+            queryConstraints.push(startAfter(cursorTimestamp));
+        }
+    }
+
+    const q = query(colRef, ...queryConstraints);
+    const querySnapshot = await getDocs(q);
+
+    builds = querySnapshot.docs.map((doc) => ({
+        id: doc.id,
+        ...(doc.data() as TBuild),
+    }));
+
+    if (builds.length === PAGE_SIZE) {
+        const lastItem = builds[builds.length - 1];
+
+        if (lastItem.createdAt && typeof lastItem.createdAt.toMillis === "function") {
+            nextCursor = lastItem.createdAt.toMillis();
+        }
+    }
+
+} catch (e) {
+    error = e instanceof Error ? e.message : "Failed to fetch data";
+}
+
 ---
 <AppLayout>
     <title slot="head">Completed Build | PCPART</title>
     <meta name="description" slot="head" content="Here you can see all the completed builds the community has made. | PCPART by Alfath Muqoddas" />
     <MainLayout>
         <h1 class="mb-4 text-5xl font-black tracking-tighter">Completed Builds</h1>
-        <CompletedBuildsPage client:load />
+        {
+            error ? <span>Error: {error}</span> 
+            : 
+            <CompletedBuildsPage builds={builds} server:defer>
+                <div slot="fallback">Loading...</div>
+            </CompletedBuildsPage>
+        }
+        <div class="mt-8 flex gap-1">
+            {/* Go Back / First Page */}
+            <a 
+                href="/completed-builds" 
+                class={`bg-blue-500 rounded-md px-2 py-1 text-sm cursor-pointer text-white ${!cursorParam ? "pointer-events-none opacity-50" : ""}`}
+            >
+                First Page
+            </a>
+
+            {/* Next Page */}
+            {nextCursor && (
+                <a 
+                    href={`/completed-builds?cursor=${encodeURIComponent(nextCursor)}`} 
+                    class="btn"
+                >
+                Next Page &rarr;
+                </a>
+            )}
+        </div>
     </MainLayout>
 </AppLayout>
