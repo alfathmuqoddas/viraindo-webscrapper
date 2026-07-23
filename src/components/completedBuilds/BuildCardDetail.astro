@@ -1,0 +1,36 @@
+---
+import { type TBuild } from "@/type";
+import {currencyFormatter} from "@/lib/helper";
+
+const { buildParts, buildTitle, buildUserName, buildUserPhotoUrl } = Astro.props as { buildParts: TBuild["parts"], buildTitle: TBuild["title"], buildUserName: TBuild["userName"], buildUserPhotoUrl: TBuild["userPhotoUrl"] };
+---
+<div class="flex flex-col gap-2 w-full md:w-1/4">
+    <div class="mb-4">
+        <h1 class="font-bold text-xl mb-2">
+            {buildTitle}
+        </h1>
+        <div class="flex items-center gap-1">
+            <figure class="size-8 rounded-full overflow-hidden shrink-0">
+                <img
+                    src={buildUserPhotoUrl}
+                    alt={`${buildUserName}'s profile picture`}
+                    class="w-full h-full object-cover"
+                />
+            </figure>
+            <span class="text-sm">
+                {buildUserName}
+            </span>
+        </div>
+    </div>
+
+    <h2 class="font-bold">Part List</h2>
+    <div class="flex flex-col gap-2 divide-y divide-gray-300">
+        {buildParts.map((part) => (
+            <span class="flex flex-col gap-1 pb-2 text-justify">
+                <p class="text-xs text-gray-500">{part.type}</p>
+                <p class="font-semibold text-sm">{part.model}</p>
+                <p class="text-sm">{currencyFormatter.format(part.price)}</p>
+            </span>
+        ))}
+    </div>
+</div>
