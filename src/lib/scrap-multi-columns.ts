@@ -1,13 +1,14 @@
 import * as cheerio from "cheerio";
 import { writeFileSync } from "fs";
-import { SOURCES, COMPONENT_BRANDS } from "./constant.mjs";
+import { SOURCES, COMPONENT_BRANDS } from "./constant.mts";
+import type { StreamBinding } from "wrangler/experimental-config";
 
 /**
  * Removes all punctuation and extra spaces, then uppercases.
  * "be quiet!"  →  "BE QUIET"
  * "Cooler Master"  →  "COOLER MASTER"
  */
-function normaliseText(text) {
+function normaliseText(text: string) {
   return text
     .replace(/[^a-z0-9\s]/gi, "") // delete everything except letters, digits and spaces
     .replace(/\s+/g, " ") // collapse multiple spaces
@@ -21,7 +22,7 @@ function normaliseText(text) {
  *  - squeezes multiple spaces
  *  - removes leading/trailing whitespace
  */
-function cleanCellText(rawText) {
+function cleanCellText(rawText: string) {
   return rawText
     .replace(/\u00a0/g, " ")
     .replace(/\s+/g, " ")
@@ -29,7 +30,7 @@ function cleanCellText(rawText) {
 }
 
 // convert from cleanCellText to number
-function cleanCellTextToNumber(cleanCellText) {
+function cleanCellTextToNumber(cleanCellText: string) {
   return Number(cleanCellText.replace(/\./g, ""));
 }
 
@@ -37,7 +38,7 @@ function cleanCellTextToNumber(cleanCellText) {
  * Tries to find a known brand name inside a product description.
  * Returns the original‑casing brand from the dictionary, or "UNKNOWN".
  */
-function guessBrand(description, dictionary) {
+function guessBrand(description: string, dictionary: string[]) {
   if (!dictionary || dictionary.length === 0) return "OTHER";
 
   const normalisedDesc = normaliseText(description);
@@ -54,7 +55,7 @@ function guessBrand(description, dictionary) {
 // 3.  Scraping a single page (horizontal table → vertical product list)
 // ----------------------------------------------------------------------
 
-async function scrapePage(url) {
+async function scrapePage(url: string) {
   const response = await fetch(url);
   const html = await response.text();
   const $ = cheerio.load(html);
@@ -112,9 +113,12 @@ async function scrapePage(url) {
 // 4.  Transforming raw items into clean, brand‑labelled data
 // ----------------------------------------------------------------------
 
-function enrichWithBrand(rawItems, productType) {
+function enrichWithBrand(rawItems: any[], productType: string) {
   // Look up the correct dictionary for this product type
-  const brandDictionary = COMPONENT_BRANDS[productType.toLowerCase()] || [];
+  const brandDictionary =
+    COMPONENT_BRANDS[
+      productType.toLowerCase() as keyof typeof COMPONENT_BRANDS
+    ] || [];
 
   return rawItems.map((item) => {
     // Guess the brand by searching the dictionary inside the description

@@ -1,6 +1,6 @@
 // This function converts a string separated by spaces into lowercase and separated by dashes
 // Example: "LIAN Li" → "lian-li", "COOLER MASTER" → "cooler-master"
-export function slugify(text) {
+export function slugify(text: string) {
   return text
     .toLowerCase()
     .replace(/[^a-z0-9\s]/g, "") // Remove everything except letters, digits, and spaces
@@ -10,7 +10,7 @@ export function slugify(text) {
 
 // This function reverses the slugify function
 // Example: "lian-li" → "LIAN LI", "cooler-master" → "COOLER MASTER"
-export function reverseSlugify(text) {
+export function reverseSlugify(text: string) {
   return text
     .replace(/-/g, " ") // Replace dashes with spaces first
     .replace(/[^a-z0-9\s]/g, "") // Remove anything that's not a letter, digit, or space
