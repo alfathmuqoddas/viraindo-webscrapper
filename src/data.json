@@ -8253,19 +8253,19 @@
     "type": "storage",
     "brand": "MICRON",
     "model": "Micron M2 2230 PCIE NVME Gen4 x4 512 GB (Ready Stock)",
-    "price": 1290000
+    "price": 1690000
   },
   {
     "type": "storage",
     "brand": "MICRON",
     "model": "Micron M2 2242 PCIE NVME Gen4 x4 512 GB (Ready Stock)",
-    "price": 1290000
+    "price": 1690000
   },
   {
     "type": "storage",
     "brand": "MICRON",
     "model": "Micron M2 2280 PCIE NVME Gen4 x4 512 GB (Ready Stock)",
-    "price": 1290000
+    "price": 1690000
   },
   {
     "type": "storage",
@@ -9141,7 +9141,7 @@
     "type": "storage",
     "brand": "SAMSUNG",
     "model": "Samsung SSD BM9C1 512 GB PCIe NVME M2 2230 - Super Hi Speed (Ready Stock)",
-    "price": 1650000
+    "price": 1990000
   },
   {
     "type": "storage",
@@ -9200,8 +9200,8 @@
   {
     "type": "storage",
     "brand": "SAMSUNG",
-    "model": "Samsung SSD PM991 256 GB PCIe NVME M2 2242 - Hi Speed",
-    "price": 890000
+    "model": "Samsung SSD PM991 256 GB PCIe NVME M2 2280 - Hi Speed (Ready Stock)",
+    "price": 990000
   },
   {
     "type": "storage",
@@ -9213,30 +9213,30 @@
     "type": "storage",
     "brand": "SAMSUNG",
     "model": "Samsung SSD PM9A1 512 GB PCIe NVME M2 2280 - Super Hi Speed (Ready Stock)",
-    "price": 1880000
-  },
-  {
-    "type": "storage",
-    "brand": "SAMSUNG",
-    "model": "Samsung SSD PM9B1 256 GB PCIe NVME M2 2280 - Super Hi Speed (Ready Stock)",
-    "price": 990000
+    "price": 1990000
   },
   {
     "type": "storage",
     "brand": "SAMSUNG",
     "model": "Samsung SSD PM9C1 512 GB PCIe NVME M2 2242 - Super Hi Speed (Ready Stock)",
-    "price": 1980000
+    "price": 1990000
   },
   {
     "type": "storage",
     "brand": "SAMSUNG",
     "model": "Samsung SSD PM9C1 512 GB PCIe NVME M2 2280 - Super Hi Speed (Ready Stock)",
-    "price": 1650000
+    "price": 1990000
   },
   {
     "type": "storage",
     "brand": "SAMSUNG",
-    "model": "Samsung SSD PM9C1a 256 GB PCIe NVME M2 2242 - Super Hi Speed (Ready Stock)",
+    "model": "Samsung SSD PM9C1b 256 GB PCIe NVME M2 2242 - Super Hi Speed (Ready Stock)",
+    "price": 990000
+  },
+  {
+    "type": "storage",
+    "brand": "SAMSUNG",
+    "model": "Samsung SSD PM9C1b 256 GB PCIe NVME M2 2280 - Super Hi Speed (Ready Stock)",
     "price": 990000
   },
   {
@@ -10455,13 +10455,13 @@
     "type": "storage",
     "brand": "SK HYNIX",
     "model": "SK Hynix SSD M.2 2230 Pcie NVME 512GB - BC711 (Ready Stock)",
-    "price": 1590000
+    "price": 1690000
   },
   {
     "type": "storage",
     "brand": "SK HYNIX",
     "model": "SK Hynix SSD M.2 2280 Pcie Gen4x4 NVME 512GB - BC901 (Ready Stock)",
-    "price": 1590000
+    "price": 1690000
   },
   {
     "type": "storage",
@@ -10473,13 +10473,13 @@
     "type": "storage",
     "brand": "SOLIDIGM",
     "model": "Solidigm P41 Plus 512GB M.2 2230 NVMe PCIe 4.0 x4 (Ready Stock)",
-    "price": 1590000
+    "price": 1690000
   },
   {
     "type": "storage",
     "brand": "SOLIDIGM",
     "model": "Solidigm P41 Plus 512GB M.2 2242 NVMe PCIe 4.0 x4 (Ready Stock)",
-    "price": 1590000
+    "price": 1690000
   },
   {
     "type": "storage",
@@ -12933,13 +12933,13 @@
     "type": "storage",
     "brand": "WD",
     "model": "WD Blue SN5000S NVMe SSD 512GB M.2 2242 PCIe Gen4 x4 - R 6000MB/s (Ready Stock)",
-    "price": 1590000
+    "price": 1990000
   },
   {
     "type": "storage",
     "brand": "WD",
     "model": "WD Blue SN5000S NVMe SSD 512GB M.2 2280 PCIe Gen4 x4 - R 6000MB/s (Ready Stock)",
-    "price": 1590000
+    "price": 1990000
   },
   {
     "type": "storage",
@@ -13131,7 +13131,7 @@
     "type": "storage",
     "brand": "WD",
     "model": "WD My Passport SSD 2TB USB 3.2 Gen 2",
-    "price": 3550000
+    "price": 4800000
   },
   {
     "type": "storage",
@@ -13292,32 +13292,20 @@
   {
     "type": "storage",
     "brand": "WD",
-    "model": "WDC Black SN560 SSD M.2 2280 NVMe PCIe Gen4x4 512GB - Hi Speed (Ready Stock)",
-    "price": 1590000
-  },
-  {
-    "type": "storage",
-    "brand": "WD",
-    "model": "WDC Black SN730 SSD M.2 2280 NVMe PCIe Gen3x4 1TB - Hi Speed (Ready Stock)",
-    "price": 3490000
-  },
-  {
-    "type": "storage",
-    "brand": "WD",
     "model": "WDC Black SN735 SSD M.2 2230 NVMe PCIe Gen4x4 512GB - Hi Speed (Ready Stock)",
-    "price": 1590000
+    "price": 1990000
   },
   {
     "type": "storage",
     "brand": "WD",
     "model": "WDC Black SN740 SSD M.2 2230 NVME PCIe Gen4x4 512GB - Hi Speed (Ready Stock)",
-    "price": 1590000
+    "price": 1990000
   },
   {
     "type": "storage",
     "brand": "WD",
     "model": "WDC Black SN740 SSD M.2 2242 NVME PCIe Gen4x4 512GB - Hi Speed (Ready Stock)",
-    "price": 1590000
+    "price": 1990000
   },
   {
     "type": "storage",
@@ -13329,13 +13317,7 @@
     "type": "storage",
     "brand": "WD",
     "model": "WDC Black SN740 SSD M.2 2280 NVME PCIe Gen4x4 512GB - Hi Speed (Ready Stock)",
-    "price": 1590000
-  },
-  {
-    "type": "storage",
-    "brand": "WD",
-    "model": "WDC Black SN810 SSD M.2 2280 NVME PCIe Gen4x4 256GB - Hi Speed (Ready Stock)",
-    "price": 990000
+    "price": 1990000
   },
   {
     "type": "storage",
@@ -109149,13 +109131,13 @@
     "type": "notebook",
     "brand": "ACER",
     "model": "Acer Swift Go OLED SFG14-75 Core Ultra 7 258V Memori 32 GB SSD 1 TB Win 11 + OH / Acer Swift Go OLED SFG14-75-754V / ACER SWIFT GO OLED SFG14 ULTRA 7 258V 32GB 1TB W11+OHS (Intel Core Ultra 7 258V, RAM 32 GB, SSD 1 TB, Vga Intel Arc Graphics, LED 14 WUXGA OLED, Win 11 Home + Office Home) Ready Stock (Blue)",
-    "price": 17100000
+    "price": 17900000
   },
   {
     "type": "notebook",
     "brand": "ACER",
     "model": "Acer Swift Go OLED SFG14-75 Core Ultra 7 258V Memori 32 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 7 258V, RAM 32 GB, SSD 1 TB, Vga Intel Arc Graphics, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 17900000
+    "price": 18900000
   },
   {
     "type": "notebook",
@@ -109167,7 +109149,7 @@
     "type": "notebook",
     "brand": "ACER",
     "model": "Acer Swift Go OLED SFG14-75 Core Ultra 7 258V Memori 32 GB SSD 4 TB Win 11 Pro + OH (Intel Core Ultra 7 258V, RAM 32 GB, SSD 4 TB, Vga Intel Arc Graphics, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 27900000
+    "price": 28900000
   },
   {
     "type": "notebook",
@@ -110252,68 +110234,8 @@
   {
     "type": "notebook",
     "brand": "ADVAN",
-    "model": "ADVAN Laptop WorkPro Lite Core i3 1220P Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core i3 1220P, RAM 16 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14\" HD, Windows 11 Profesional) Ready Stock",
-    "price": 11400000
-  },
-  {
-    "type": "notebook",
-    "brand": "ADVAN",
-    "model": "ADVAN Laptop WorkPro Lite Core i3 1220P Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core i3 1220P, RAM 16 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14\" HD, Windows 11 Profesional) Ready Stock",
-    "price": 14400000
-  },
-  {
-    "type": "notebook",
-    "brand": "ADVAN",
-    "model": "ADVAN Laptop WorkPro Lite Core i3 1220P Memori 16 GB SSD 256 GB Win 11 Pro (Intel Core i3 1220P, RAM 16 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14\" HD, Windows 11 Profesional) Ready Stock",
-    "price": 8400000
-  },
-  {
-    "type": "notebook",
-    "brand": "ADVAN",
-    "model": "ADVAN Laptop WorkPro Lite Core i3 1220P Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core i3 1220P, RAM 16 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14\" HD, Windows 11 Profesional) Ready Stock",
-    "price": 18400000
-  },
-  {
-    "type": "notebook",
-    "brand": "ADVAN",
-    "model": "ADVAN Laptop WorkPro Lite Core i3 1220P Memori 16 GB SSD 512 GB Win 11 Pro (Intel Core i3 1220P, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14\" HD, Windows 11 Profesional) Ready Stock",
-    "price": 9400000
-  },
-  {
-    "type": "notebook",
-    "brand": "ADVAN",
-    "model": "ADVAN Laptop WorkPro Lite Core i3 1220P Memori 8 GB SSD 1 TB Win 11 Pro (Intel Core i3 1220P, RAM 8 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14\" HD, Windows 11 Profesional) Ready Stock",
-    "price": 9900000
-  },
-  {
-    "type": "notebook",
-    "brand": "ADVAN",
-    "model": "ADVAN Laptop WorkPro Lite Core i3 1220P Memori 8 GB SSD 2 TB Win 11 Pro (Intel Core i3 1220P, RAM 8 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14\" HD, Windows 11 Profesional) Ready Stock",
-    "price": 11900000
-  },
-  {
-    "type": "notebook",
-    "brand": "ADVAN",
-    "model": "ADVAN Laptop WorkPro Lite Core i3 1220P Memori 8 GB SSD 256 GB Win 11 / ADVAN WORKPRO LITE I3 1220P 8GB 256GB W11 (Intel Core i3 1220P, RAM 8 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14\" HD, Win 11 Home) Ready Stock",
+    "model": "ADVAN Laptop WorkPro Lite Core i3 1220P Memori 8 GB SSD 256 GB Win 11 (Intel Core i3 1220P, RAM 8 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14\" HD, Win 11 Home)",
     "price": 5950000
-  },
-  {
-    "type": "notebook",
-    "brand": "ADVAN",
-    "model": "ADVAN Laptop WorkPro Lite Core i3 1220P Memori 8 GB SSD 256 GB Win 11 Pro (Intel Core i3 1220P, RAM 8 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14\" HD, Windows 11 Profesional) Ready Stock",
-    "price": 6900000
-  },
-  {
-    "type": "notebook",
-    "brand": "ADVAN",
-    "model": "ADVAN Laptop WorkPro Lite Core i3 1220P Memori 8 GB SSD 4 TB Win 11 Pro (Intel Core i3 1220P, RAM 8 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14\" HD, Windows 11 Profesional) Ready Stock",
-    "price": 15900000
-  },
-  {
-    "type": "notebook",
-    "brand": "ADVAN",
-    "model": "ADVAN Laptop WorkPro Lite Core i3 1220P Memori 8 GB SSD 512 GB Win 11 Pro (Intel Core i3 1220P, RAM 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14\" HD, Windows 11 Profesional) Ready Stock",
-    "price": 7900000
   },
   {
     "type": "notebook",
@@ -114800,7 +114722,7 @@
   {
     "type": "notebook",
     "brand": "ASUS",
-    "model": "Asus Expertbook P1403CVA Core 3 100 Memori 8 GB SSD 512 GB Win 11 + OH / Asus Expertbook P1403CVA-S63852WS / ASUS EXPERTBOOK P1403CVA CORE I3 100 8GB 512GB W11+OHS (Intel Core 3 100, RAM 8 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Win 11 Home + Office Home) Ready Stock",
+    "model": "Asus Expertbook P1403CVA Core 3 100 Memori 8 GB SSD 512 GB Win 11 + OH / Asus Expertbook P1403CVA-S63852WS / ASUS EXPERTBOOK P1403CVA CORE I3 100 8GB 512GB W11+OHS (Intel Core 3 100, RAM 8 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Win 11 Home + Office Home) Ready Stock (Grey)",
     "price": 8999000
   },
   {
@@ -121953,7 +121875,7 @@
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook 14 A1404VAP Core 3 100U Memori 8 GB SSD 512 GB Win 11 + OH / Asus Vivobook 14 A1404VAP-VIPS3851M / Asus Vivobook 14 A1404VAP-VIPS3852M / Asus Vivobook 14 A1404VAP-VIPS3853M / ASUS VIVOBOOK 14 A1404VAP CORE I3 100U 8GB 512GB W11+OHS (Intel Core 3 100U, RAM 8 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Win 11 Home + Office Home) Ready Stock (Quiet Blue, Terra Cotta, Cool Silver)",
-    "price": 8799000
+    "price": 8999000
   },
   {
     "type": "notebook",
@@ -121983,7 +121905,7 @@
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 16 GB SSD 512 GB Win 11 + OH / Asus Vivobook 14 A1404VAP-VIPS5151M / Asus Vivobook 14 A1404VAP-VIPS5152M / Asus Vivobook 14 A1404VAP-VIPS5153M / ASUS VIVOBOOK 14 A1404VAP CORE I5 120U 16GB 512GB W11+OHS (Intel Core 5 120U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Win 11 Home + Office Home) Ready Stock (Quiet Blue, Terra Cotta, Silver)",
-    "price": 11099000
+    "price": 10999000
   },
   {
     "type": "notebook",
@@ -122061,7 +121983,7 @@
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 8 GB SSD 512 GB Win 11 + OH / Asus Vivobook 14 A1404VAP-VIPS5851M / Asus Vivobook 14A1404VAP-VIPS5852M / Asus Vivobook 14 A1404VAP-VIPS5853M / ASUS VIVOBOOK 14 A1404VAP CORE I5 120U 8GB 512GB W11+OHS (Intel Core 5 120U, RAM 8 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Win 11 Home + Office Home) Ready Stock (Quiet Blue, Terra Cotta, Cool Silver)",
-    "price": 10099000
+    "price": 9999000
   },
   {
     "type": "notebook",
@@ -122482,30 +122404,6 @@
     "brand": "ASUS",
     "model": "Asus Vivobook 14 M1402IA-VIPS751 / Asus Vivobook 14 M1402IA-VIPS752 (AMD Ryzen 7 4800H, RAM 8 GB, SSD 512 GB, Vga Ati Radeon Vega 7, LED 14\" FHD, Win 11 Home + Office Home Student) Blue, Silver",
     "price": 8049000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 M1405YA Ryzen 5 7430U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (AMD Ryzen 5 7430U, RAM 16 GB, SSD 1 TB, Vga AMD Radeon Graphics, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 11499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 M1405YA Ryzen 5 7430U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (AMD Ryzen 5 7430U, RAM 16 GB, SSD 2 TB, Vga AMD Radeon Graphics, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 14499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 M1405YA Ryzen 5 7430U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (AMD Ryzen 5 7430U, RAM 16 GB, SSD 4 TB, Vga AMD Radeon Graphics, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 17499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 M1405YA Ryzen 5 7430U Memori 16 GB SSD 512 GB Win 11 Pro + OHS (AMD Ryzen 5 7430U, RAM 16 GB, SSD 512 GB, Vga AMD Radeon Graphics, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 9499000
   },
   {
     "type": "notebook",
@@ -123207,13 +123105,13 @@
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook Go 14 E1404FA Ryzen 3 7320U Memori 8 GB SSD 256 GB Win 11 + OHS / Asus Vivobook Go 14 E1404FA-FHD3821M / Asus Vivobook Go 14 E1404FA-FHD3822M / Asus Vivobook Go 14 E1404FA-FHD3823M / Asus Vivobook Go 14 E1404FA-VIPS3821M / Asus Vivobook Go 14 E1404FA-VIPS3822M / Asus Vivobook Go 14 E1404FA-VIPS3823M / Asus Vivobook Go 14 E1404FA-FHD321M / Asus Vivobook Go 14 E1404FA-FHD322M / Asus Vivobook Go 14 E1404FA-FHD323M / Asus Vivobook Go 14 E1404FA-FHD321 / Asus Vivobook Go 14 E1404FA-FHD322 / Asus Vivobook Go 14 E1404FA-FHD323 / ASUS VIVOBOOK GO 14 E1404FA RYZEN 3 7320 8GB 256GB W11+OHS (AMD Ryzen 3 7320U, RAM 8 GB, SSD 256 GB, Vga AMD Radeon 610M, LED 14\" FHD, Win 11 Home + Office Home Student) Ready Stock (Mixed Black, Green Grey, Cool Silver, Mixed Black, Green Grey, Cool Silver, Mixed Black, Green Grey, Cool Silver, Mixed Black, Green Grey, Cool Silver)",
-    "price": 7399000
+    "price": 7899000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook Go 14 E1404FA Ryzen 3 7320U Memori 8 GB SSD 256 GB Win 11 Pro + OHS (AMD Ryzen 3 7320U, RAM 8 GB, SSD 256 GB, Vga AMD Radeon 610M, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 8499000
+    "price": 8799000
   },
   {
     "type": "notebook",
@@ -123225,7 +123123,7 @@
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook Go 14 E1404FA Ryzen 3 7320U Memori 8 GB SSD 512 GB Win 11 + OHS / Asus Vivobook Go 14 E1404FA-FHD3851M / Asus Vivobook Go 14 E1404FA-FHD3852M / Asus Vivobook Go 14 E1404FA-FHD3853M / Asus Vivobook Go 14 E1404FA-VIPS3851M / Asus Vivobook Go 14 E1404FA-VIPS3852M / Asus Vivobook Go 14 E1404FA-VIPS3853M / Asus Vivobook Go 14 E1404FA-FHD351M / Asus Vivobook Go 14 E1404FA-FHD352M / Asus Vivobook Go 14 E1404FA-FHD353M / Asus Vivobook Go 14 E1404FA-FHD351 / Asus Vivobook Go 14 E1404FA-FHD352 / Asus Vivobook Go 14 E1404FA-FHD353 / Asus Vivobook Go 14 E1404FA-FHD354 / Asus Vivobook Go 14 E1404FA-FHD355 / Asus Vivobook Go 14 E1404FA-FHD356 / ASUS VIVOBOOK GO 14 E1404FA RYZEN 3 7320 8GB 512GB W11+OHS (AMD Ryzen 3 7320U, RAM 8 GB, SSD 512 GB, Vga AMD Radeon 610M, LED 14\" FHD, Win 11 Home + Office Home Student) Ready Stock (Mixed Black, Cool Silver, Green Grey, Mixed Black, Cool Silver, Green Grey, Mixed Black, Cool Silver, Green Grey, Mixed Black, Cool Silver, Green Grey, Mixed Black, Cool Silver, Green Grey)",
-    "price": 7599000
+    "price": 8099000
   },
   {
     "type": "notebook",
@@ -123285,7 +123183,7 @@
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook Go 14 E1404FA Ryzen 5 7520U Memori 8 GB SSD 512 GB Win 11 + OHS / Asus Vivobook Go 14 E1404FA-VIPS5851M / Asus Vivobook Go 14 E1404FA-VIPS5852M / Asus Vivobook Go 14 E1404FA-VIPS5853M / Asus Vivobook Go 14 E1404FA-VIPS558M / Asus Vivobook Go 14 E1404FA-VIPS559M / Asus Vivobook Go 14 E1404FA-VIPS558 / Asus Vivobook Go 14 E1404FA-VIPS559 / ASUS VIVOBOOK GO 14 E1404FA RYZEN 5 7520 8GB 512GB W11+OHS (AMD Ryzen 5 7520U, RAM 8 GB, SSD 512 GB, Vga AMD Radeon 610M, LED 14\" FHD, Win 11 Home + Office Home Student) Ready Stock (Mixed Black, Green Grey, Cool Silver, Mixed Black, Cool Silver, Mixed Black, Cool Silver)",
-    "price": 8899000
+    "price": 9099000
   },
   {
     "type": "notebook",
@@ -124197,103 +124095,67 @@
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 16 GB SSD 1 TB OLED Win 11 Pro + OH (AMD Ryzen 7 260, RAM 16 GB, SSD 1 TB, Vga AMD Radeon 780M, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 18999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 16 GB SSD 1 TB Win 11 + OH / Asus Vivobook S14 M3407HA-VIPS7111M / Asus Vivobook S14 M3407HA-VIPS7112M / ASUS VIVOBOOK S14 M3407HA RYZEN 7 260 16GB 1TB W11+OHS (AMD Ryzen 7 260, RAM 16 GB, SSD 1 TB, Vga AMD Radeon 780M, LED 14 WUXGA, Win 11 Home + Office Home) Ready Stock (Matte Gray, Cool Silver)",
-    "price": 13099000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 16 GB SSD 1 TB Win 11 Pro + OH (AMD Ryzen 7 260, RAM 16 GB, SSD 1 TB, Vga AMD Radeon 780M, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 13999000
+    "price": 19499000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 16 GB SSD 2 TB OLED Win 11 Pro + OH (AMD Ryzen 7 260, RAM 16 GB, SSD 2 TB, Vga AMD Radeon 780M, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 21999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 16 GB SSD 2 TB Win 11 Pro + OH (AMD Ryzen 7 260, RAM 16 GB, SSD 2 TB, Vga AMD Radeon 780M, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 18999000
+    "price": 22499000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 16 GB SSD 4 TB OLED Win 11 Pro + OH (AMD Ryzen 7 260, RAM 16 GB, SSD 4 TB, Vga AMD Radeon 780M, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 25999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 16 GB SSD 4 TB Win 11 Pro + OH (AMD Ryzen 7 260, RAM 16 GB, SSD 4 TB, Vga AMD Radeon 780M, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 22999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 16 GB SSD 512 GB OLED Win 11 + OH / Asus Vivobook S14 M3407HA-OLED7151M / Asus Vivobook S14 M3407HA-OLED7152M / ASUS VIVOBOOK S14 OLED M3407HA RYZEN 7 260 16GB 512GB W11+OHS (AMD Ryzen 7 260, RAM 16 GB, SSD 512 GB, Vga AMD Radeon 780M, LED 14 WUXGA OLED, Win 11 Home + Office Home) Ready Stock (Matte Gray, Cool Silver)",
-    "price": 15599000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 16 GB SSD 512 GB OLED Win 11 Pro + OH (AMD Ryzen 7 260, RAM 16 GB, SSD 512 GB, Vga AMD Radeon 780M, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 16999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 32 GB SSD 1 TB OLED Win 11 Pro + OH (AMD Ryzen 7 260, RAM 32 GB, SSD 1 TB, Vga AMD Radeon 780M, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 22499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 32 GB SSD 1 TB Win 11 Pro + OH (AMD Ryzen 7 260, RAM 32 GB, SSD 1 TB, Vga AMD Radeon 780M, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 17499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 32 GB SSD 2 TB OLED Win 11 Pro + OH (AMD Ryzen 7 260, RAM 32 GB, SSD 2 TB, Vga AMD Radeon 780M, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 25499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 32 GB SSD 2 TB Win 11 Pro + OH (AMD Ryzen 7 260, RAM 32 GB, SSD 2 TB, Vga AMD Radeon 780M, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 22499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 32 GB SSD 4 TB OLED Win 11 Pro + OH (AMD Ryzen 7 260, RAM 32 GB, SSD 4 TB, Vga AMD Radeon 780M, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 29499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 32 GB SSD 4 TB Win 11 Pro + OH (AMD Ryzen 7 260, RAM 32 GB, SSD 4 TB, Vga AMD Radeon 780M, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
     "price": 26499000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
+    "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 16 GB SSD 512 GB OLED Win 11 + OH / Asus Vivobook S14 M3407HA-OLED7151M / Asus Vivobook S14 M3407HA-OLED7152M / ASUS VIVOBOOK S14 OLED M3407HA RYZEN 7 260 16GB 512GB W11+OHS (AMD Ryzen 7 260, RAM 16 GB, SSD 512 GB, Vga AMD Radeon 780M, LED 14 WUXGA OLED, Win 11 Home + Office Home) Ready Stock (Matte Gray, Cool Silver)",
+    "price": 16399000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 16 GB SSD 512 GB OLED Win 11 Pro + OH (AMD Ryzen 7 260, RAM 16 GB, SSD 512 GB, Vga AMD Radeon 780M, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 17499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 32 GB SSD 1 TB OLED Win 11 Pro + OH (AMD Ryzen 7 260, RAM 32 GB, SSD 1 TB, Vga AMD Radeon 780M, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 22999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 32 GB SSD 2 TB OLED Win 11 Pro + OH (AMD Ryzen 7 260, RAM 32 GB, SSD 2 TB, Vga AMD Radeon 780M, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 25999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 32 GB SSD 4 TB OLED Win 11 Pro + OH (AMD Ryzen 7 260, RAM 32 GB, SSD 4 TB, Vga AMD Radeon 780M, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 29999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
     "model": "Asus Vivobook S14 M3407HA Ryzen 7 260 Memori 32 GB SSD 512 GB OLED Win 11 Pro + OH (AMD Ryzen 7 260, RAM 32 GB, SSD 512 GB, Vga AMD Radeon 780M, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 20499000
+    "price": 20999000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook S14 M3407HA-OLED5112M / ASUS VIVOBOOK S14 OLED M3407HA RYZEN 5 220 16GB 1TB W11+OHS (AMD Ryzen 5 220, RAM 16 GB, SSD 1 TB, Vga AMD Radeon 740M, LED 14 WUXGA OLED, Win 11 Home + Office Home) Ready Stock",
     "price": 15999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook S14 M3407HA-VIPS7111M / Asus Vivobook S14 M3407HA-VIPS7112M (AMD Ryzen 7 260, RAM 16 GB, SSD 1 TB, Vga AMD Radeon 780M, LED 14 WUXGA, Win 11 Home + Office Home) Matte Gray, Cool Silver",
+    "price": 13099000
   },
   {
     "type": "notebook",
@@ -124556,30 +124418,6 @@
   {
     "type": "notebook",
     "brand": "ASUS",
-    "model": "Asus Vivobook S14 S5406MA Core Ultra 7 155H Memori 16 GB SSD 1 TB Win 11 + OHS / Asus Vivobook S14 S5406MA-OLED713 / Asus Vivobook S14 S5406MA-OLED714 / ASUS VIVOBOOK S14 OLED S5406MA ULTRA 7 155H 16GB 1TB W11+OHS (Intel Core Ultra 7 155H, RAM 16 GB, SSD 1 TB, Vga Intel Arc Graphics, LED 14\" WUXGA OLED, Win 11 Home + Office Home Student) Neutral Black, Mist Blue",
-    "price": 15099000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 S5406MA Core Ultra 7 155H Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core Ultra 7 155H, RAM 16 GB, SSD 1 TB, Vga Intel Arc Graphics, LED 14\" WUXGA OLED, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 15999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 S5406MA Core Ultra 7 155H Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core Ultra 7 155H, RAM 16 GB, SSD 2 TB, Vga Intel Arc Graphics, LED 14\" WUXGA OLED, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 17999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook S14 S5406MA Core Ultra 7 155H Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core Ultra 7 155H, RAM 16 GB, SSD 4 TB, Vga Intel Arc Graphics, LED 14\" WUXGA OLED, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 19499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
     "model": "Asus Vivobook S14 S5406MA Core Ultra 9 185H Memori 16 GB SSD 1 TB Win 11 / ASUS VIVOBOOK S14 OLED S5406MA ULTRA 9 185H 16GB 1TB W11 (Intel Core Ultra 9 185H, RAM 16 GB, SSD 1 TB, Vga Intel Arc Graphics, LED 14 FHD OLED, Win 11 Home) Ready Stock",
     "price": 15699000
   },
@@ -124600,6 +124438,12 @@
     "brand": "ASUS",
     "model": "Asus Vivobook S14 S5406MA Core Ultra 9 185H Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core Ultra 9 185H, RAM 16 GB, SSD 4 TB, Vga Intel Arc Graphics, LED 14 FHD OLED, Windows 11 Profesional) Ready Stock",
     "price": 25999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook S14 S5406MA-OLED713 / Asus Vivobook S14 S5406MA-OLED714 (Intel Core Ultra 7 155H, RAM 16 GB, SSD 1 TB, Vga Intel Arc Graphics, LED 14\" WUXGA OLED, Win 11 Home + Office Home Student) Neutral Black, Mist Blue",
+    "price": 15099000
   },
   {
     "type": "notebook",
@@ -125397,25 +125241,25 @@
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Zenbook 14 OLED UX3405CA Core Ultra 7 255H Memori 32 GB SSD 1 TB Touchscreen Win 11 + OH / Asus Zenbook 14 OLED UX3405CA-OLED7313TM / Asus Zenbook 14 OLED UX3405CA-OLED7314TM / ASUS ZENBOOK 14 OLED TOUCH UX3405CA ULTRA 7 255H 32GB 1TB W11+OHS (Intel Core Ultra 7 255H, RAM 32 GB, SSD 1 TB, Vga Intel Arc Graphics 140T, LED 14 WUXGA OLED Touchscreen, Win 11 Home + Office Home) Ready Stock (Blue, Silver)",
-    "price": 21899000
+    "price": 23499000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Zenbook 14 OLED UX3405CA Core Ultra 7 255H Memori 32 GB SSD 1 TB Touchscreen Win 11 Pro + OH (Intel Core Ultra 7 255H, RAM 32 GB, SSD 1 TB, Vga Intel Arc Graphics 140T, LED 14 WUXGA OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 22999000
+    "price": 24499000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Zenbook 14 OLED UX3405CA Core Ultra 7 255H Memori 32 GB SSD 2 TB Touchscreen Win 11 Pro + OH (Intel Core Ultra 7 255H, RAM 32 GB, SSD 2 TB, Vga Intel Arc Graphics 140T, LED 14 WUXGA OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 27999000
+    "price": 29499000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Zenbook 14 OLED UX3405CA Core Ultra 7 255H Memori 32 GB SSD 4 TB Touchscreen Win 11 Pro + OH (Intel Core Ultra 7 255H, RAM 32 GB, SSD 4 TB, Vga Intel Arc Graphics 140T, LED 14 WUXGA OLED Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 31999000
+    "price": 33499000
   },
   {
     "type": "notebook",
@@ -126092,32 +125936,8 @@
   {
     "type": "notebook",
     "brand": "ASUS",
-    "model": "Asus ZenBook UM425UAZ Ryzen 5 5500U Memori 8 GB SSD 1 TB Win 11 Pro + OHS (AMD Ryzen 5 5500U, RAM 8 GB, SSD 1 TB, Vga Ati Radeon Vega 7, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 12999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus ZenBook UM425UAZ Ryzen 5 5500U Memori 8 GB SSD 2 TB Win 11 Pro + OHS (AMD Ryzen 5 5500U, RAM 8 GB, SSD 2 TB, Vga Ati Radeon Vega 7, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 15999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus ZenBook UM425UAZ Ryzen 5 5500U Memori 8 GB SSD 4 TB Win 11 Pro + OHS (AMD Ryzen 5 5500U, RAM 8 GB, SSD 4 TB, Vga Ati Radeon Vega 7, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 19999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus ZenBook UM425UAZ Ryzen 5 5500U Memori 8 GB SSD 512 GB Win 11 + OHS / Asus ZenBook UM425UAZ-IPS551 / Asus ZenBook UM425UAZ-IPS552 / Asus ZenBook UM425UAZ-IPS553 / Asus ZenBook UM425UAZ-IPS554 (AMD Ryzen 5 5500U, RAM 8GB, SSD 512GB, Vga Ati Radeon Vega 7, LED 14\" FHD, Win 11 Home + Office Home Student) Ready Stock (Pine Grey, Lilac Mist, Pine Grey, Lilac Mist)",
+    "model": "Asus ZenBook UM425UAZ-IPS551 / Asus ZenBook UM425UAZ-IPS552 / Asus ZenBook UM425UAZ-IPS553 / Asus ZenBook UM425UAZ-IPS554 (AMD Ryzen 5 5500U, RAM 8GB, SSD 512GB, Vga Ati Radeon Vega 7, LED 14\" FHD, Win 11 Home + Office Home Student) Pine Grey, Lilac Mist, Pine Grey, Lilac Mist",
     "price": 9999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus ZenBook UM425UAZ Ryzen 5 5500U Memori 8 GB SSD 512 GB Win 11 Pro + OHS (AMD Ryzen 5 5500U, RAM 8 GB, SSD 512 GB, Vga Ati Radeon Vega 7, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 10999000
   },
   {
     "type": "notebook",
@@ -126302,7 +126122,7 @@
   {
     "type": "notebook",
     "brand": "AVITA",
-    "model": "Avita Pura A+ Core i3 1215U Memori 8 GB SSD 256 GB Win 11 / AVITA PURA A+ I3 1215 8GB 256GB W11 (Intel Core i3 1215U, RAM 8 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 FHD, Win 11 Home) Ready Stock (Black, Purple, Silver)",
+    "model": "Avita Pura A+ Core i3 1215U Memori 8 GB SSD 256 GB Win 11 / AVITA PURA A+ I3 1215 8GB 256GB W11 (Intel Core i3 1215U, RAM 8 GB, SSD 256 GB, Vga Intel UHD Graphics, LED 14 FHD, Win 11 Home) Black, Purple, Silver",
     "price": 5100000
   },
   {
@@ -126345,7 +126165,7 @@
     "type": "notebook",
     "brand": "AVITA",
     "model": "Avita Pura A+ Core i5 1235U Memori 8 GB SSD 512 GB Win 11 / AVITA PURA A+ I5 1235 8GB 512GB W11 (Intel Core i5 1235U, RAM 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD, Win 11 Home) Ready Stock (Black, Purple, Silver)",
-    "price": 5850000
+    "price": 5950000
   },
   {
     "type": "notebook",
@@ -131553,13 +131373,13 @@
     "type": "notebook",
     "brand": "HP",
     "model": "HP 14S Ryzen 3 7320U Memori 8 GB SSD 1 TB Win 11 Pro + OHS (AMD Ryzen 3 7320U, RAM 8 GB, SSD 1 TB, Vga Ati Radeon 610M, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 10900000
+    "price": 11900000
   },
   {
     "type": "notebook",
     "brand": "HP",
     "model": "HP 14S Ryzen 3 7320U Memori 8 GB SSD 2 TB Win 11 Pro + OHS (AMD Ryzen 3 7320U, RAM 8 GB, SSD 2 TB, Vga Ati Radeon 610M, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 13900000
+    "price": 14900000
   },
   {
     "type": "notebook",
@@ -131571,19 +131391,19 @@
     "type": "notebook",
     "brand": "HP",
     "model": "HP 14S Ryzen 3 7320U Memori 8 GB SSD 4 TB Win 11 Pro + OHS (AMD Ryzen 3 7320U, RAM 8 GB, SSD 4 TB, Vga Ati Radeon 610M, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 17900000
+    "price": 18900000
   },
   {
     "type": "notebook",
     "brand": "HP",
     "model": "HP 14S Ryzen 3 7320U Memori 8 GB SSD 512 GB Win 11 + OHS / HP 14S-EM0320AU / HP 14S-EM0321AU / HP 14S-EM0332AU / HP 14S-EM0333AU / HP 14S-EM0032AU / HP 14S-EM0033AU / HP 14S-EM0014AU / HP 14 RYZEN 3 7320 8GB 512GB W11+OHS (AMD Ryzen 3 7320U, RAM 8 GB, SSD 512 GB, Vga Ati Radeon 610M, LED 14\" FHD, Win 11 Home + Office Home Student) Ready Stock (Silver, Gold, Gold, Silver, Black, Gold, Silver)",
-    "price": 8000000
+    "price": 8900000
   },
   {
     "type": "notebook",
     "brand": "HP",
     "model": "HP 14S Ryzen 3 7320U Memori 8 GB SSD 512 GB Win 11 Pro + OHS (AMD Ryzen 3 7320U, RAM 8 GB, SSD 512 GB, Vga Ati Radeon 610M, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 8900000
+    "price": 9900000
   },
   {
     "type": "notebook",
@@ -144945,7 +144765,7 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 128 GB SSD 1 TB RTX5080 Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 128 GB, SSD 1 TB, Vga Nvidia Geforce RTX5080 16 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 75400000
+    "price": 91900000
   },
   {
     "type": "notebook",
@@ -144963,7 +144783,7 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 128 GB SSD 2 TB RTX5080 Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 128 GB, SSD 2 TB, Vga Nvidia Geforce RTX5080 16 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 80400000
+    "price": 96900000
   },
   {
     "type": "notebook",
@@ -144981,7 +144801,7 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 128 GB SSD 4 TB RTX5080 Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 128 GB, SSD 4 TB, Vga Nvidia Geforce RTX5080 16 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 84400000
+    "price": 101900000
   },
   {
     "type": "notebook",
@@ -145004,14 +144824,14 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 32 GB SSD 1 TB RTX5080 Win 11 + OH / Lenovo Legion Pro 7 16IAX10H 8YID (83F5008YID) / LENOVO LEGION PRO 7I 16 OLED ULTRA 9 275HX 32GB 1TB RTX5080 16GB W11+OHS (Intel Core Ultra 9 275HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX5080 16 GB, LED 16 WQXGA OLED, Win 11 Home + Office Home) Ready Stock (Eclipse Black)",
-    "price": 53500000
+    "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 32 GB SSD 1 TB RTX5080 Win 11 + OH / Lenovo Legion Pro 7 16IAX10H 8YID (83F5008YID) (Intel Core Ultra 9 275HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX5080 16 GB, LED 16 WQXGA OLED, Win 11 Home + Office Home) Ready Stock (Eclipse Black)",
+    "price": 69900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 32 GB SSD 1 TB RTX5080 Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX5080 16 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 54400000
+    "price": 70900000
   },
   {
     "type": "notebook",
@@ -145035,7 +144855,7 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 32 GB SSD 2 TB RTX5080 Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX5080 16 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 59400000
+    "price": 75900000
   },
   {
     "type": "notebook",
@@ -145053,7 +144873,7 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 32 GB SSD 4 TB RTX5080 Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX5080 16 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 63400000
+    "price": 79900000
   },
   {
     "type": "notebook",
@@ -145071,7 +144891,7 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 64 GB SSD 1 TB RTX5080 Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 64 GB, SSD 1 TB, Vga Nvidia Geforce RTX5080 16 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 61400000
+    "price": 77900000
   },
   {
     "type": "notebook",
@@ -145089,7 +144909,7 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 64 GB SSD 2 TB RTX5080 Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 64 GB, SSD 2 TB, Vga Nvidia Geforce RTX5080 16 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 66400000
+    "price": 82900000
   },
   {
     "type": "notebook",
@@ -145107,7 +144927,7 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 64 GB SSD 4 TB RTX5080 Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 64 GB, SSD 4 TB, Vga Nvidia Geforce RTX5080 16 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 70400000
+    "price": 86900000
   },
   {
     "type": "notebook",
@@ -145125,7 +144945,7 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 96 GB SSD 1 TB RTX5080 Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 96 GB, SSD 1 TB, Vga Nvidia Geforce RTX5080 16 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 68400000
+    "price": 84900000
   },
   {
     "type": "notebook",
@@ -145143,7 +144963,7 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 96 GB SSD 2 TB RTX5080 Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 96 GB, SSD 2 TB, Vga Nvidia Geforce RTX5080 16 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 73400000
+    "price": 89900000
   },
   {
     "type": "notebook",
@@ -145161,7 +144981,7 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Legion Pro 7 16IAX10H Core Ultra 9 275HX Memori 96 GB SSD 4 TB RTX5080 Win 11 Pro + OH (Intel Core Ultra 9 275HX, RAM 96 GB, SSD 4 TB, Vga Nvidia Geforce RTX5080 16 GB, LED 16 WQXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 77400000
+    "price": 93900000
   },
   {
     "type": "notebook",
@@ -146349,103 +146169,103 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 16 GB SSD 1 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 21400000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 16 GB SSD 2 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 16 GB, SSD 2 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 24400000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 16 GB SSD 4 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 16 GB, SSD 4 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 28400000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 16 GB SSD 512 GB RTX4050 Win 11 + OHS / Lenovo LOQ 15IRX9 ARID (83DV01ARID) / LENOVO LOQ 15 I7 13650HX 16GB 512GB RTX4050 6GB W11+OHS (Intel Core i7 13650HX, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Win 11 Home + Office Home Student) Ready Stock",
-    "price": 18300000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 16 GB SSD 512 GB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 19400000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 24 GB SSD 1 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 24 GB, SSD 1 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 23400000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 24 GB SSD 2 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 24 GB, SSD 2 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 26400000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 24 GB SSD 4 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 24 GB, SSD 4 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 30400000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 24 GB SSD 512 GB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 24 GB, SSD 512 GB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 21400000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 32 GB SSD 1 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 24900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 32 GB SSD 2 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 27900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 32 GB SSD 4 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 31900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 32 GB SSD 512 GB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 32 GB, SSD 512 GB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
     "price": 22900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 64 GB SSD 1 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 64 GB, SSD 1 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 16 GB SSD 2 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 16 GB, SSD 2 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 25900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 16 GB SSD 4 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 16 GB, SSD 4 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 29900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 16 GB SSD 512 GB RTX4050 Win 11 + OHS / Lenovo LOQ 15IRX9 ARID (83DV01ARID) / LENOVO LOQ 15 I7 13650HX 16GB 512GB RTX4050 6GB W11+OHS (Intel Core i7 13650HX, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Win 11 Home + Office Home Student) Ready Stock",
+    "price": 19900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 16 GB SSD 512 GB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 20900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 24 GB SSD 1 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 24 GB, SSD 1 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 24900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 24 GB SSD 2 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 24 GB, SSD 2 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 27900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 24 GB SSD 4 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 24 GB, SSD 4 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
     "price": 31900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
+    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 24 GB SSD 512 GB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 24 GB, SSD 512 GB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 22900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 32 GB SSD 1 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 26900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 32 GB SSD 2 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 29900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 32 GB SSD 4 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 33900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 32 GB SSD 512 GB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 32 GB, SSD 512 GB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 24900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 64 GB SSD 1 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 64 GB, SSD 1 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 33900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
     "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 64 GB SSD 2 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 64 GB, SSD 2 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 34900000
+    "price": 36900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 64 GB SSD 4 TB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 64 GB, SSD 4 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 38900000
+    "price": 40900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo LOQ 15IRX9 Core i7 13650HX Memori 64 GB SSD 512 GB RTX4050 Win 11 Pro + OHS (Intel Core i7 13650HX, RAM 64 GB, SSD 512 GB, Vga Nvidia Geforce RTX4050 6 GB, LED 15.6\" FHD IPS 100% SRGB 144Hz, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 29900000
+    "price": 31900000
   },
   {
     "type": "notebook",
@@ -152703,19 +152523,19 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Yoga Slim 7 14ILL10 Core Ultra 7 258V Memori 32 GB SSD 1 TB Win 11 + OH / Lenovo Yoga Slim 7 14ILL10 AVID (83JX00AVID) / LENOVO YOGA SLIM 7 AURA EDITION 14 ULTRA 7 258V 32GB 1TB W11+OHS (Intel Core Ultra 7 258V, RAM 32 GB, SSD 1 TB, Vga Intel Arc Graphics 140V, LED 14 WUXGA OLED, Win 11 Home + Office Home) Ready Stock (Seashell)",
-    "price": 21900000
+    "price": 23400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Yoga Slim 7 14ILL10 Core Ultra 7 258V Memori 32 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 7 258V, RAM 32 GB, SSD 1 TB, Vga Intel Arc Graphics 140V, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 22900000
+    "price": 24400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Yoga Slim 7 14ILL10 Core Ultra 7 258V Memori 32 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 7 258V, RAM 32 GB, SSD 2 TB, Vga Intel Arc Graphics 140V, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 27900000
+    "price": 29400000
   },
   {
     "type": "notebook",
@@ -156885,7 +156705,7 @@
     "type": "notebook",
     "brand": "MSI",
     "model": "MSI Modern 14 F13MG Core i5 1334U Memori 16 GB SSD 1 TB Win 11 Pro + OH (Intel Core i5 1334U, RAM 16 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 13900000
+    "price": 14400000
   },
   {
     "type": "notebook",
@@ -156897,7 +156717,7 @@
     "type": "notebook",
     "brand": "MSI",
     "model": "MSI Modern 14 F13MG Core i5 1334U Memori 16 GB SSD 2 TB Win 11 Pro + OH (Intel Core i5 1334U, RAM 16 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 16900000
+    "price": 17400000
   },
   {
     "type": "notebook",
@@ -156909,7 +156729,7 @@
     "type": "notebook",
     "brand": "MSI",
     "model": "MSI Modern 14 F13MG Core i5 1334U Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core i5 1334U, RAM 16 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 20900000
+    "price": 21400000
   },
   {
     "type": "notebook",
@@ -156921,7 +156741,7 @@
     "type": "notebook",
     "brand": "MSI",
     "model": "MSI Modern 14 F13MG Core i5 1334U Memori 16 GB SSD 512 GB Win 11 Pro + OH (Intel Core i5 1334U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 11900000
+    "price": 12400000
   },
   {
     "type": "notebook",
@@ -156933,7 +156753,7 @@
     "type": "notebook",
     "brand": "MSI",
     "model": "MSI Modern 14 F13MG Core i5 1334U Memori 32 GB SSD 1 TB Win 11 Pro + OH (Intel Core i5 1334U, RAM 32 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 16400000
+    "price": 16900000
   },
   {
     "type": "notebook",
@@ -156945,7 +156765,7 @@
     "type": "notebook",
     "brand": "MSI",
     "model": "MSI Modern 14 F13MG Core i5 1334U Memori 32 GB SSD 2 TB Win 11 Pro + OH (Intel Core i5 1334U, RAM 32 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 19400000
+    "price": 19900000
   },
   {
     "type": "notebook",
@@ -156957,7 +156777,7 @@
     "type": "notebook",
     "brand": "MSI",
     "model": "MSI Modern 14 F13MG Core i5 1334U Memori 32 GB SSD 4 TB Win 11 Pro + OH (Intel Core i5 1334U, RAM 32 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 23400000
+    "price": 23900000
   },
   {
     "type": "notebook",
@@ -156969,7 +156789,7 @@
     "type": "notebook",
     "brand": "MSI",
     "model": "MSI Modern 14 F13MG Core i5 1334U Memori 32 GB SSD 512 GB Win 11 Pro + OH (Intel Core i5 1334U, RAM 32 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 14400000
+    "price": 14900000
   },
   {
     "type": "notebook",
@@ -156981,7 +156801,7 @@
     "type": "notebook",
     "brand": "MSI",
     "model": "MSI Modern 14 F13MG Core i5 1334U Memori 8 GB SSD 1 TB Win 11 Pro + OH (Intel Core i5 1334U, RAM 8 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 12400000
+    "price": 12900000
   },
   {
     "type": "notebook",
@@ -156993,7 +156813,7 @@
     "type": "notebook",
     "brand": "MSI",
     "model": "MSI Modern 14 F13MG Core i5 1334U Memori 8 GB SSD 2 TB Win 11 Pro + OH (Intel Core i5 1334U, RAM 8 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 15400000
+    "price": 15900000
   },
   {
     "type": "notebook",
@@ -157005,7 +156825,7 @@
     "type": "notebook",
     "brand": "MSI",
     "model": "MSI Modern 14 F13MG Core i5 1334U Memori 8 GB SSD 4 TB Win 11 Pro + OH (Intel Core i5 1334U, RAM 8 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 19400000
+    "price": 19900000
   },
   {
     "type": "notebook",
@@ -157016,8 +156836,8 @@
   {
     "type": "notebook",
     "brand": "MSI",
-    "model": "MSI Modern 14 F13MG Core i5 1334U Memori 8 GB SSD 512 GB Win 11 + OH / MSI Modern 14 F13MG 678ID / MSI Modern 14 F13MG - Urban Silver (9S7-14S122-299) / MSI MODERN 14 I5 1334 8GB 512GB W11+OHS (Intel Core i5 1334U, RAM 8 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 FHD, Win 11 Home + Office Home) Ready Stock (Grey, Urban Silver)",
-    "price": 9500000
+    "model": "MSI Modern 14 F13MG Core i5 1334U Memori 8 GB SSD 512 GB Win 11 + OH / MSI Modern 14 F13MG - Urban Silver (9S7-14S122-299) / MSI Modern 14 F13MG 678ID / MSI MODERN 14 I5 1334 8GB 512GB W11+OHS (Intel Core i5 1334U, RAM 8 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 FHD, Win 11 Home + Office Home) Ready Stock (Urban Silver, Grey)",
+    "price": 9800000
   },
   {
     "type": "notebook",
@@ -157029,13 +156849,115 @@
     "type": "notebook",
     "brand": "MSI",
     "model": "MSI Modern 14 F13MG Core i5 1334U Memori 8 GB SSD 512 GB Win 11 Pro + OH (Intel Core i5 1334U, RAM 8 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 10400000
+    "price": 10900000
   },
   {
     "type": "notebook",
     "brand": "MSI",
     "model": "MSI Modern 14 F1MG 475ID / MSI Modern 14 F1MG (9S7-14S111-073) / MSI Modern 14 F1MG (9S7-14S113-264) (Intel Core 5 120U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Win 11 Home + Office Home Student) Platinum Gray, Platinum Gray, Urban Silver",
     "price": 7550000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
+    "model": "MSI Modern 14 F1MG Core 5 120U Memori 16 GB SSD 1 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 14900000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
+    "model": "MSI Modern 14 F1MG Core 5 120U Memori 16 GB SSD 2 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 17900000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
+    "model": "MSI Modern 14 F1MG Core 5 120U Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 21900000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
+    "model": "MSI Modern 14 F1MG Core 5 120U Memori 16 GB SSD 512 GB Win 11 Pro + OH (Intel Core 5 120U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 12900000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
+    "model": "MSI Modern 14 F1MG Core 5 120U Memori 32 GB SSD 1 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 32 GB, SSD 1 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 17400000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
+    "model": "MSI Modern 14 F1MG Core 5 120U Memori 32 GB SSD 2 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 32 GB, SSD 2 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 20400000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
+    "model": "MSI Modern 14 F1MG Core 5 120U Memori 32 GB SSD 4 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 32 GB, SSD 4 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 24400000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
+    "model": "MSI Modern 14 F1MG Core 5 120U Memori 32 GB SSD 512 GB Win 11 Pro + OH (Intel Core 5 120U, RAM 32 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 15400000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
+    "model": "MSI Modern 14 F1MG Core 5 120U Memori 64 GB SSD 1 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 64 GB, SSD 1 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 22400000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
+    "model": "MSI Modern 14 F1MG Core 5 120U Memori 64 GB SSD 2 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 64 GB, SSD 2 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 25400000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
+    "model": "MSI Modern 14 F1MG Core 5 120U Memori 64 GB SSD 4 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 64 GB, SSD 4 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 29400000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
+    "model": "MSI Modern 14 F1MG Core 5 120U Memori 64 GB SSD 512 GB Win 11 Pro + OH (Intel Core 5 120U, RAM 64 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 20400000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
+    "model": "MSI Modern 14 F1MG Core 5 120U Memori 8 GB SSD 1 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 8 GB, SSD 1 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 13400000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
+    "model": "MSI Modern 14 F1MG Core 5 120U Memori 8 GB SSD 2 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 8 GB, SSD 2 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 16400000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
+    "model": "MSI Modern 14 F1MG Core 5 120U Memori 8 GB SSD 4 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 8 GB, SSD 4 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 20400000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
+    "model": "MSI Modern 14 F1MG Core 5 120U Memori 8 GB SSD 512 GB Win 11 + OH / MSI Modern 14 F1MG 805ID (Intel Core 5 120U, RAM 8 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Win 11 Home + Office Home) Ready Stock",
+    "price": 10400000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
+    "model": "MSI Modern 14 F1MG Core 5 120U Memori 8 GB SSD 512 GB Win 11 Pro + OH (Intel Core 5 120U, RAM 8 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 11400000
   },
   {
     "type": "notebook",
