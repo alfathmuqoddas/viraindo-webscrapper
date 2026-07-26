@@ -1,7 +1,6 @@
 import * as cheerio from "cheerio";
 import { writeFileSync } from "fs";
 import { SOURCES, COMPONENT_BRANDS } from "./constant.mts";
-import type { StreamBinding } from "wrangler/experimental-config";
 
 /**
  * Removes all punctuation and extra spaces, then uppercases.
