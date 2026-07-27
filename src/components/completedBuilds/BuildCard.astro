@@ -19,6 +19,7 @@ const totalPrice = build.parts.reduce((acc, part) => acc + part.price, 0);
           src={build.userPhotoUrl}
           alt={`${build.userName}'s profile picture`}
           class="w-full h-full object-cover"
+          referrerpolicy="no-referrer"
         />
       </figure>
       <p class="text-sm truncate">{build.userName}</p>
