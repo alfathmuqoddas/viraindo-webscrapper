@@ -1,7 +1,12 @@
 import { useState } from "preact/hooks";
 import BuilderTable from "./BuilderTable";
 import { useStore } from "@nanostores/preact";
-import { partStore, resetParts } from "@/store/partStore";
+import {
+  setTitle,
+  setDescription,
+  partStore,
+  resetParts,
+} from "@/store/partStore";
 import type { Part } from "@/type";
 import { db } from "@/firebase/client";
 import { collection, addDoc, serverTimestamp } from "firebase/firestore";
@@ -10,19 +15,13 @@ import { useAuth } from "@/hooks/useAuth";
 export default function BuilderPage() {
   const { user } = useAuth();
   const $parts = useStore(partStore);
-  const [buildTitle, setBuildTitle] = useState("");
-  const [buildDescription, setBuildDescription] = useState("");
   const [isSubmitting, setIsSubmitting] = useState(false);
 
   const handleSave = async ({
-    parts,
-    title,
-    description,
+    buildParts,
     isPublished,
   }: {
-    parts: Part[];
-    title: string;
-    description: string;
+    buildParts: { title: string; description: string; parts: Part[] };
     isPublished: boolean;
   }) => {
     if (!user) {
@@ -30,7 +29,7 @@ export default function BuilderPage() {
       return;
     }
 
-    if (!title.trim() || !parts.length) {
+    if (!buildParts.title.trim() || !buildParts.title.length) {
       alert("Please fill in the title and select at least one part");
       return;
     }
@@ -39,9 +38,9 @@ export default function BuilderPage() {
 
     try {
       await addDoc(collection(db, "pcpart_builds"), {
-        title,
-        description,
-        parts,
+        parts: buildParts.parts,
+        title: buildParts.title,
+        description: buildParts.description,
         isPublished,
         userId: user?.uid ?? "",
         userEmail: user?.email ?? "",
@@ -50,8 +49,6 @@ export default function BuilderPage() {
         createdAt: serverTimestamp(),
         updatedAt: serverTimestamp(),
       });
-      setBuildTitle("");
-      setBuildDescription("");
       resetParts();
       alert("Saved successfully!");
     } catch (error) {
@@ -78,8 +75,8 @@ export default function BuilderPage() {
             type="text"
             className="block w-full rounded-md p-2 border bg-white border-gray-300"
             placeholder="Title"
-            value={buildTitle}
-            onInput={(e) => setBuildTitle(e.currentTarget.value)}
+            value={$parts.title}
+            onInput={(e) => setTitle(e.currentTarget.value)}
             required
           />
         </div>
@@ -89,10 +86,10 @@ export default function BuilderPage() {
             {"Description (optional)"}
           </label>
           <textarea
-            className="block w-full p-2 border bg-white rounded-md border-gray-300"
+            className="w-full h-64 p-3 border rounded-md font-mono text-sm border-gray-300"
             placeholder="Description"
-            value={buildDescription}
-            onInput={(e) => setBuildDescription(e.currentTarget.value)}
+            value={$parts.description}
+            onInput={(e) => setDescription(e.currentTarget.value)}
             required
           />
         </div>
@@ -104,9 +101,7 @@ export default function BuilderPage() {
             disabled={isSubmitting}
             onClick={() =>
               handleSave({
-                parts: $parts,
-                title: buildTitle,
-                description: buildDescription,
+                buildParts: $parts,
                 isPublished: false,
               })
             }
@@ -123,9 +118,7 @@ export default function BuilderPage() {
             disabled={isSubmitting}
             onClick={() =>
               handleSave({
-                parts: $parts,
-                title: buildTitle,
-                description: buildDescription,
+                buildParts: $parts,
                 isPublished: true,
               })
             }

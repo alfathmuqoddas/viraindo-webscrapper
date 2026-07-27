@@ -17,9 +17,9 @@ export const BuilderTable = () => {
 
   if (!isMounted) return null;
 
-  const totalPrice = $parts.reduce((acc, part) => acc + part.price, 0);
+  const totalPrice = $parts.parts.reduce((acc, part) => acc + part.price, 0);
 
-  const partsGroupedByType = Object.groupBy($parts, (p) => p.type);
+  const partsGroupedByType = Object.groupBy($parts.parts, (p) => p.type);
 
   return (
     <>
