@@ -54224,92 +54224,68 @@
   {
     "type": "pc-branded",
     "brand": "ASUS",
-    "model": "Asus Mini PC NUC 14 N150 Barbone / Asus NUC 14 Essential NUC14MNK15 (Barebone) / ASUS MINI PC NUC 14 ESSENTIAL N150 DOS (Intel N150, 1x SO-DIMM DDR5, Intel Graphics, NO SSD, DOS)",
-    "price": 2350000
+    "model": "Asus Mini PC NUC 14 N150 Barbone / Asus NUC 14 Essential NUC14MNK15 (Barebone) / ASUS MINI PC NUC 14 ESSENTIAL N150 DOS (Intel N150, 1x SO-DIMM DDR5, Intel Graphics, NO SSD, DOS) Redy Stock",
+    "price": 3700000
   },
   {
     "type": "pc-branded",
     "brand": "ASUS",
-    "model": "Asus Mini PC NUC 14 N150 Memori 16 GB SSD 1 TB Win 11 Pro (Intel N150, RAM 16 GB, SSD 1 TB, Vga Intel, Windows 11 Profesional)",
-    "price": 5400000
+    "model": "Asus Mini PC NUC 14 N150 Memori 16 GB SSD 1 TB Win 11 Pro (Intel N150, RAM 16 GB, SSD 1 TB, Vga Intel, Windows 11 Profesional) Redy Stock",
+    "price": 11900000
   },
   {
     "type": "pc-branded",
     "brand": "ASUS",
-    "model": "Asus Mini PC NUC 14 N150 Memori 16 GB SSD 2 TB Win 11 Pro (Intel N150, RAM 16 GB, SSD 2 TB, Vga Intel, Windows 11 Profesional)",
-    "price": 6400000
+    "model": "Asus Mini PC NUC 14 N150 Memori 16 GB SSD 2 TB Win 11 Pro (Intel N150, RAM 16 GB, SSD 2 TB, Vga Intel, Windows 11 Profesional) Redy Stock",
+    "price": 14900000
   },
   {
     "type": "pc-branded",
     "brand": "ASUS",
-    "model": "Asus Mini PC NUC 14 N150 Memori 16 GB SSD 256 GB DOS / ASUS MINI PC NUC 14 ESSENTIAL N150 16GB 256GB DOS (Intel N150, RAM 16 GB, SSD 256 GB, Vga Intel, DOS)",
-    "price": 3200000
+    "model": "Asus Mini PC NUC 14 N150 Memori 16 GB SSD 256 GB Win 11 Pro (Intel N150, RAM 16 GB, SSD 256 GB, Vga Intel, Windows 11 Profesional) Redy Stock",
+    "price": 8900000
   },
   {
     "type": "pc-branded",
     "brand": "ASUS",
-    "model": "Asus Mini PC NUC 14 N150 Memori 16 GB SSD 256 GB Win 11 Pro (Intel N150, RAM 16 GB, SSD 256 GB, Vga Intel, Windows 11 Profesional)",
-    "price": 4400000
+    "model": "Asus Mini PC NUC 14 N150 Memori 16 GB SSD 4 TB Win 11 Pro (Intel N150, RAM 16 GB, SSD 4 TB, Vga Intel, Windows 11 Profesional) Redy Stock",
+    "price": 18900000
   },
   {
     "type": "pc-branded",
     "brand": "ASUS",
-    "model": "Asus Mini PC NUC 14 N150 Memori 16 GB SSD 4 TB Win 11 Pro (Intel N150, RAM 16 GB, SSD 4 TB, Vga Intel, Windows 11 Profesional)",
+    "model": "Asus Mini PC NUC 14 N150 Memori 16 GB SSD 512 GB Win 11 Pro (Intel N150, RAM 16 GB, SSD 512 GB, Vga Intel, Windows 11 Profesional) Redy Stock",
+    "price": 9900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "ASUS",
+    "model": "Asus Mini PC NUC 14 N150 Memori 8 GB SSD 1 TB Win 11 Pro (Intel N150, RAM 8 GB, SSD 1 TB, Vga Intel, Windows 11 Profesional) Redy Stock",
+    "price": 9900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "ASUS",
+    "model": "Asus Mini PC NUC 14 N150 Memori 8 GB SSD 2 TB Win 11 Pro (Intel N150, RAM 8 GB, SSD 2 TB, Vga Intel, Windows 11 Profesional) Redy Stock",
+    "price": 12900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "ASUS",
+    "model": "Asus Mini PC NUC 14 N150 Memori 8 GB SSD 256 GB Win 11 Pro (Intel N150, RAM 8 GB, SSD 256 GB, Vga Intel, Windows 11 Profesional) Redy Stock",
+    "price": 6900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "ASUS",
+    "model": "Asus Mini PC NUC 14 N150 Memori 8 GB SSD 4 TB Win 11 Pro (Intel N150, RAM 8 GB, SSD 4 TB, Vga Intel, Windows 11 Profesional) Redy Stock",
+    "price": 16900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "ASUS",
+    "model": "Asus Mini PC NUC 14 N150 Memori 8 GB SSD 512 GB Win 11 Pro (Intel N150, RAM 8 GB, SSD 512 GB, Vga Intel, Windows 11 Profesional) Redy Stock",
     "price": 7900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "ASUS",
-    "model": "Asus Mini PC NUC 14 N150 Memori 16 GB SSD 512 GB DOS / ASUS MINI PC NUC 14 ESSENTIAL N150 16GB 512GB DOS (Intel N150, RAM 16 GB, SSD 512 GB, Vga Intel, DOS)",
-    "price": 3400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "ASUS",
-    "model": "Asus Mini PC NUC 14 N150 Memori 16 GB SSD 512 GB Win 11 Pro (Intel N150, RAM 16 GB, SSD 512 GB, Vga Intel, Windows 11 Profesional)",
-    "price": 4900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "ASUS",
-    "model": "Asus Mini PC NUC 14 N150 Memori 8 GB SSD 1 TB Win 11 Pro (Intel N150, RAM 8 GB, SSD 1 TB, Vga Intel, Windows 11 Profesional)",
-    "price": 4900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "ASUS",
-    "model": "Asus Mini PC NUC 14 N150 Memori 8 GB SSD 2 TB Win 11 Pro (Intel N150, RAM 8 GB, SSD 2 TB, Vga Intel, Windows 11 Profesional)",
-    "price": 5900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "ASUS",
-    "model": "Asus Mini PC NUC 14 N150 Memori 8 GB SSD 256 GB DOS / ASUS MINI PC NUC 14 ESSENTIAL N150 8GB 256GB DOS (Intel N150, RAM 8 GB, SSD 256 GB, Vga Intel, DOS)",
-    "price": 3050000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "ASUS",
-    "model": "Asus Mini PC NUC 14 N150 Memori 8 GB SSD 256 GB Win 11 Pro / Asus NUC 14 Essential NUC14MNK15-8S256W11PRO (Intel N150, RAM 8 GB, SSD 256 GB, Vga Intel, Windows 11 Profesional)",
-    "price": 3900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "ASUS",
-    "model": "Asus Mini PC NUC 14 N150 Memori 8 GB SSD 4 TB Win 11 Pro (Intel N150, RAM 8 GB, SSD 4 TB, Vga Intel, Windows 11 Profesional)",
-    "price": 7400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "ASUS",
-    "model": "Asus Mini PC NUC 14 N150 Memori 8 GB SSD 512 GB DOS / ASUS MINI PC NUC 14 ESSENTIAL N150 8GB 512GB DOS (Intel N150, RAM 8 GB, SSD 512 GB, Vga Intel, DOS)",
-    "price": 3250000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "ASUS",
-    "model": "Asus Mini PC NUC 14 N150 Memori 8 GB SSD 512 GB Win 11 Pro (Intel N150, RAM 8 GB, SSD 512 GB, Vga Intel, Windows 11 Profesional)",
-    "price": 4400000
   },
   {
     "type": "pc-branded",
@@ -83414,212 +83390,14 @@
   {
     "type": "pc-branded",
     "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i5 13420H Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAN 16 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 21.5 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 13400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i5 13420H Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAN 16 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 21.5 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 14400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i5 13420H Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAN 16 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 21.5 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 16400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i5 13420H Memori 16 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i5 13420H, RAN 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 21.5 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 12400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i5 13420H Memori 32 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAN 32 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 21.5 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 14900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i5 13420H Memori 32 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAN 32 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 21.5 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 15900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i5 13420H Memori 32 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAN 32 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 21.5 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 17900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i5 13420H Memori 32 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i5 13420H, RAN 32 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 21.5 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 13900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i5 13420H Memori 64 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAN 64 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 21.5 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 17900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i5 13420H Memori 64 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAN 64 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 21.5 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 18900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i5 13420H Memori 64 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAN 64 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 21.5 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 20900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i5 13420H Memori 64 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i5 13420H, RAN 64 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 21.5 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 16900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i5 13420H Memori 8 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAN 8 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 21.5 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 12400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i5 13420H Memori 8 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAN 8 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 21.5 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 13400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i5 13420H Memori 8 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i5 13420H, RAN 8 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 21.5 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 15400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i5 13420H Memori 8 GB SSD 512 GB Win 11 + OHS / Lenovo IdeaCentre Mini 01IRH8-3YYN (90W2003YYN) ( (Intel Core i5 13420H, RAN 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 21.5 FHD, Win 11 Home + Office Home Student) Ready Stock",
-    "price": 10450000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i5 13420H Memori 8 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i5 13420H, RAN 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 21.5 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 11400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i7 13620H Core i7 13620H Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i7 13620H, RAM 16 GB, SSD 1 TB, Intel UHD Graphics, LED 21.5\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 15400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i7 13620H Core i7 13620H Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i7 13620H, RAM 16 GB, SSD 2 TB, Intel UHD Graphics, LED 21.5\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 16400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i7 13620H Core i7 13620H Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i7 13620H, RAM 16 GB, SSD 4 TB, Intel UHD Graphics, LED 21.5\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 18400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i7 13620H Core i7 13620H Memori 16 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i7 13620H, RAM 16 GB, SSD 512 GB, Intel UHD Graphics, LED 21.5\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 14400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i7 13620H Core i7 13620H Memori 32 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i7 13620H, RAM 32 GB, SSD 1 TB, Intel UHD Graphics, LED 21.5\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 16900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i7 13620H Core i7 13620H Memori 32 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i7 13620H, RAM 32 GB, SSD 2 TB, Intel UHD Graphics, LED 21.5\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 17900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i7 13620H Core i7 13620H Memori 32 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i7 13620H, RAM 32 GB, SSD 4 TB, Intel UHD Graphics, LED 21.5\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 19900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i7 13620H Core i7 13620H Memori 32 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i7 13620H, RAM 32 GB, SSD 512 GB, Intel UHD Graphics, LED 21.5\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 15900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i7 13620H Core i7 13620H Memori 64 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i7 13620H, RAM 64 GB, SSD 1 TB, Intel UHD Graphics, LED 21.5\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 19900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i7 13620H Core i7 13620H Memori 64 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i7 13620H, RAM 64 GB, SSD 2 TB, Intel UHD Graphics, LED 21.5\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 20900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i7 13620H Core i7 13620H Memori 64 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i7 13620H, RAM 64 GB, SSD 4 TB, Intel UHD Graphics, LED 21.5\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 22900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i7 13620H Core i7 13620H Memori 64 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i7 13620H, RAM 64 GB, SSD 512 GB, Intel UHD Graphics, LED 21.5\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 18900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i7 13620H Core i7 13620H Memori 8 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i7 13620H, RAM 8 GB, SSD 1 TB, Intel UHD Graphics, LED 21.5\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 14400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i7 13620H Core i7 13620H Memori 8 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i7 13620H, RAM 8 GB, SSD 2 TB, Intel UHD Graphics, LED 21.5\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 15400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i7 13620H Core i7 13620H Memori 8 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i7 13620H, RAM 8 GB, SSD 4 TB, Intel UHD Graphics, LED 21.5\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 17400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i7 13620H Core i7 13620H Memori 8 GB SSD 512 GB Win 11 + OHS / Lenovo IdeaCentre Mini 01IRH8-9FYN (90W2009FYN) / Lenovo IdeaCentre Mini 01IRH8-40YN (Intel Core i7 13620H, RAM 8 GB, SSD 512 GB, Intel UHD Graphics, LED 21.5\" FHD, Win 11 Home + Office Home Student) Ready Stock",
-    "price": 12400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaCentre Mini 01IRH8 Core i7 13620H Core i7 13620H Memori 8 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i7 13620H, RAM 8 GB, SSD 512 GB, Intel UHD Graphics, LED 21.5\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 13400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "LENOVO",
     "model": "Lenovo IdeaCentre Mini 01IRH8-0UYN (90W2000UYN) (Intel Core i5 13500H, RAN 8 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 21.5\", Win 11 Home + Office Home Student)",
     "price": 10050000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "LENOVO",
+    "model": "Lenovo IdeaCentre Mini 01IRH8-3YYN (90W2003YYN) ( (Intel Core i5 13420H, RAN 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 21.5 FHD, Win 11 Home + Office Home Student)",
+    "price": 10450000
   },
   {
     "type": "pc-branded",
@@ -83632,6 +83410,12 @@
     "brand": "LENOVO",
     "model": "Lenovo IdeaCentre Mini 01IRH8-3YYN (Intel Core i5 13420H, RAM 8GB, SSD 512GB, Intel UHD Graphics, LED 21.5\", Win 11 Home + Office Home Student)",
     "price": 10400000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "LENOVO",
+    "model": "Lenovo IdeaCentre Mini 01IRH8-9FYN (90W2009FYN) / Lenovo IdeaCentre Mini 01IRH8-40YN (Intel Core i7 13620H, RAM 8 GB, SSD 512 GB, Intel UHD Graphics, LED 21.5\" FHD, Win 11 Home + Office Home Student) Ready Stock",
+    "price": 12400000
   },
   {
     "type": "pc-branded",
@@ -88412,140 +88196,140 @@
   {
     "type": "pc-branded",
     "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Barbone / MSI Cubi 5 12M-208BID Barebone - 936-B0A811-208 / MSI MINI PC CUBI 5 I5 1235 DOS (Intel Core i5 1235U, No Ram, No SSD, DOS)",
-    "price": 5250000
+    "model": "MSI Cubi 5 Core i5 1235U Barbone / MSI Cubi 5 12M-207BID / MSI Cubi 5 12M-208BID Barebone - 936-B0A811-208 / MSI Cubi 5 1M-470BID / MSI MINI PC CUBI 5 I5 1235 DOS (Intel Core i5 1235U, No Ram, No SSD, DOS) Ready Stock",
+    "price": 6100000
   },
   {
     "type": "pc-branded",
     "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core i5 1235U, RAM 16 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
-    "price": 9400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core i5 1235U, RAM 16 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
-    "price": 10400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 16 GB SSD 256 GB Win 11 Pro (Intel Core i5 1235U, RAM 16 GB, SSD 256 GB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
-    "price": 8400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core i5 1235U, RAM 16 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
-    "price": 11900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 16 GB SSD 512 GB DOS / MSI Cubi 5 12M-208BID - 936-B0A811-208-P14 (Intel Core i5 1235U, RAM 16 GB, SSD 512 GB, DOS)",
-    "price": 7400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 16 GB SSD 512 GB Win 11 Pro (Intel Core i5 1235U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
-    "price": 8900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 32 GB SSD 1 TB Win 11 Pro (Intel Core i5 1235U, RAM 32 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
-    "price": 10900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 32 GB SSD 2 TB Win 11 Pro (Intel Core i5 1235U, RAM 32 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
-    "price": 11900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 32 GB SSD 256 GB Win 11 Pro (Intel Core i5 1235U, RAM 32 GB, SSD 256 GB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
-    "price": 9900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 32 GB SSD 4 TB Win 11 Pro (Intel Core i5 1235U, RAM 32 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
+    "model": "MSI Cubi 5 Core i5 1235U Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core i5 1235U, RAM 16 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
     "price": 13400000
   },
   {
     "type": "pc-branded",
     "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 32 GB SSD 512 GB Win 11 Pro (Intel Core i5 1235U, RAM 32 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
-    "price": 10400000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 64 GB SSD 1 TB Win 11 Pro (Intel Core i5 1235U, RAM 64 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
-    "price": 13900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 64 GB SSD 2 TB Win 11 Pro (Intel Core i5 1235U, RAM 64 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
-    "price": 14900000
-  },
-  {
-    "type": "pc-branded",
-    "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 64 GB SSD 4 TB Win 11 Pro (Intel Core i5 1235U, RAM 64 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
+    "model": "MSI Cubi 5 Core i5 1235U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core i5 1235U, RAM 16 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
     "price": 16400000
   },
   {
     "type": "pc-branded",
     "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 64 GB SSD 512 GB Win 11 Pro (Intel Core i5 1235U, RAM 64 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
-    "price": 13400000
+    "model": "MSI Cubi 5 Core i5 1235U Memori 16 GB SSD 256 GB Win 11 Pro (Intel Core i5 1235U, RAM 16 GB, SSD 256 GB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
+    "price": 10400000
   },
   {
     "type": "pc-branded",
     "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 8 GB SSD 1 TB Win 11 Pro (Intel Core i5 1235U, RAM 8 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
-    "price": 8400000
+    "model": "MSI Cubi 5 Core i5 1235U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core i5 1235U, RAM 16 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
+    "price": 20400000
   },
   {
     "type": "pc-branded",
     "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 8 GB SSD 2 TB Win 11 Pro (Intel Core i5 1235U, RAM 8 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
-    "price": 9400000
+    "model": "MSI Cubi 5 Core i5 1235U Memori 16 GB SSD 512 GB DOS / MSI Cubi 5 12M-208BID - 936-B0A811-208-P14 (Intel Core i5 1235U, RAM 16 GB, SSD 512 GB, DOS) Ready Stock",
+    "price": 10400000
   },
   {
     "type": "pc-branded",
     "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 8 GB SSD 256 GB DOS / MSI Cubi 5 12M-208BID - 936-B0A811-208-P8 / MSI MINI PC CUBI 5 I5 1235 8GB 256GB DOS (Intel Core i5 1235U, RAM 8 GB, SSD 256 GB, DOS)",
-    "price": 6300000
+    "model": "MSI Cubi 5 Core i5 1235U Memori 16 GB SSD 512 GB Win 11 Pro (Intel Core i5 1235U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
+    "price": 11400000
   },
   {
     "type": "pc-branded",
     "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 8 GB SSD 256 GB Win 11 Pro (Intel Core i5 1235U, RAM 8 GB, SSD 256 GB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
-    "price": 7400000
+    "model": "MSI Cubi 5 Core i5 1235U Memori 32 GB SSD 1 TB Win 11 Pro (Intel Core i5 1235U, RAM 32 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
+    "price": 15900000
   },
   {
     "type": "pc-branded",
     "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 8 GB SSD 4 TB Win 11 Pro (Intel Core i5 1235U, RAM 8 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
-    "price": 10900000
+    "model": "MSI Cubi 5 Core i5 1235U Memori 32 GB SSD 2 TB Win 11 Pro (Intel Core i5 1235U, RAM 32 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
+    "price": 18900000
   },
   {
     "type": "pc-branded",
     "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 8 GB SSD 512 GB DOS / MSI Cubi 5 12M-208BID - 936-B0A811-208-P13 (Intel Core i5 1235U, RAM 8 GB, SSD 512 GB, DOS)",
-    "price": 6900000
+    "model": "MSI Cubi 5 Core i5 1235U Memori 32 GB SSD 256 GB Win 11 Pro (Intel Core i5 1235U, RAM 32 GB, SSD 256 GB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
+    "price": 12900000
   },
   {
     "type": "pc-branded",
     "brand": "MSI",
-    "model": "MSI Cubi 5 Core i5 1235U Memori 8 GB SSD 512 GB Win 11 Pro (Intel Core i5 1235U, RAM 8 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, Windows 11 Profesional)",
-    "price": 7900000
+    "model": "MSI Cubi 5 Core i5 1235U Memori 32 GB SSD 4 TB Win 11 Pro (Intel Core i5 1235U, RAM 32 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
+    "price": 22900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "MSI",
+    "model": "MSI Cubi 5 Core i5 1235U Memori 32 GB SSD 512 GB Win 11 Pro (Intel Core i5 1235U, RAM 32 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
+    "price": 13900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "MSI",
+    "model": "MSI Cubi 5 Core i5 1235U Memori 64 GB SSD 1 TB Win 11 Pro (Intel Core i5 1235U, RAM 64 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
+    "price": 20900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "MSI",
+    "model": "MSI Cubi 5 Core i5 1235U Memori 64 GB SSD 2 TB Win 11 Pro (Intel Core i5 1235U, RAM 64 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
+    "price": 23900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "MSI",
+    "model": "MSI Cubi 5 Core i5 1235U Memori 64 GB SSD 4 TB Win 11 Pro (Intel Core i5 1235U, RAM 64 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
+    "price": 27900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "MSI",
+    "model": "MSI Cubi 5 Core i5 1235U Memori 64 GB SSD 512 GB Win 11 Pro (Intel Core i5 1235U, RAM 64 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
+    "price": 18900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "MSI",
+    "model": "MSI Cubi 5 Core i5 1235U Memori 8 GB SSD 1 TB Win 11 Pro (Intel Core i5 1235U, RAM 8 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
+    "price": 11900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "MSI",
+    "model": "MSI Cubi 5 Core i5 1235U Memori 8 GB SSD 2 TB Win 11 Pro (Intel Core i5 1235U, RAM 8 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
+    "price": 14900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "MSI",
+    "model": "MSI Cubi 5 Core i5 1235U Memori 8 GB SSD 256 GB DOS / MSI Cubi 5 12M-208BID - 936-B0A811-208-P8 / MSI MINI PC CUBI 5 I5 1235 8GB 256GB DOS (Intel Core i5 1235U, RAM 8 GB, SSD 256 GB, DOS) Ready Stock",
+    "price": 8200000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "MSI",
+    "model": "MSI Cubi 5 Core i5 1235U Memori 8 GB SSD 256 GB Win 11 Pro (Intel Core i5 1235U, RAM 8 GB, SSD 256 GB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
+    "price": 8900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "MSI",
+    "model": "MSI Cubi 5 Core i5 1235U Memori 8 GB SSD 4 TB Win 11 Pro (Intel Core i5 1235U, RAM 8 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
+    "price": 18900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "MSI",
+    "model": "MSI Cubi 5 Core i5 1235U Memori 8 GB SSD 512 GB DOS / MSI Cubi 5 12M-208BID - 936-B0A811-208-P13 (Intel Core i5 1235U, RAM 8 GB, SSD 512 GB, DOS) Ready Stock",
+    "price": 8900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "MSI",
+    "model": "MSI Cubi 5 Core i5 1235U Memori 8 GB SSD 512 GB Win 11 Pro (Intel Core i5 1235U, RAM 8 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, Windows 11 Profesional) Ready Stock",
+    "price": 9900000
   },
   {
     "type": "pc-branded",
@@ -120327,109 +120111,109 @@
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 16 GB SSD 1 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 15499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 16 GB SSD 2 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 16 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 18499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 16 GB SSD 4 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 16 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 22499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 16 GB SSD 512 GB RTX3050 Win 11 + OH / Asus TUF Gaming A15 FA506NCG-R735BZT-HM / Asus TUF Gaming A15 FA506NCG-R735B6T-HM / ASUS TUF A15 FA506NCG RYZEN 7 7445HS 16GB 512GB RTX3050 4GB W11+OHS (AMD Ryzen 7 7445HS, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Win 11 Home + Office Home) Ready Stock (Graphite Black)",
-    "price": 12499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 16 GB SSD 512 GB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 13499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 32 GB SSD 1 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 18999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 32 GB SSD 2 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 21999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 32 GB SSD 4 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 24999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 32 GB SSD 512 GB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 32 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
     "price": 16999000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
-    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 64 GB SSD 1 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 64 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 25999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 64 GB SSD 2 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 64 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 28999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 64 GB SSD 4 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 64 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 32999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 64 GB SSD 512 GB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 64 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 23999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 8 GB SSD 1 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 8 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 13999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 8 GB SSD 2 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 8 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 15999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 8 GB SSD 4 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 8 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 16 GB SSD 2 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 16 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
     "price": 19999000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
+    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 16 GB SSD 4 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 16 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 23999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 16 GB SSD 512 GB RTX3050 Win 11 + OH / Asus TUF Gaming A15 FA506NCG-R735BZT-HM / Asus TUF Gaming A15 FA506NCG-R735B6T-HM / ASUS TUF A15 FA506NCG RYZEN 7 7445HS 16GB 512GB RTX3050 4GB W11+OHS (AMD Ryzen 7 7445HS, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Win 11 Home + Office Home) Ready Stock (Graphite Black)",
+    "price": 13599000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 16 GB SSD 512 GB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 14999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 32 GB SSD 1 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 20499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 32 GB SSD 2 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 23499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 32 GB SSD 4 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 27499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 32 GB SSD 512 GB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 32 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 18499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 64 GB SSD 1 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 64 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 27499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 64 GB SSD 2 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 64 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 30499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 64 GB SSD 4 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 64 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 34499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 64 GB SSD 512 GB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 64 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 25499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 8 GB SSD 1 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 8 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 14999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 8 GB SSD 2 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 8 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 17999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 8 GB SSD 4 TB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 8 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 21999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
     "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 8 GB SSD 512 GB RTX3050 Win 11 + OH / Asus TUF Gaming A15 FA506NCG-R735B1T-HM / ASUS TUF A15 FA506NCG RYZEN 7 7445HS 8GB 512GB RTX3050 4GB W11+OHS (AMD Ryzen 7 7445HS, RAM 8 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Win 11 Home + Office Home) Ready Stock (Graphite Black)",
-    "price": 10999000
+    "price": 11999000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus TUF Gaming A15 FA506NCG Ryzen 7 7445HS Memori 8 GB SSD 512 GB RTX3050 Win 11 Pro + OH (AMD Ryzen 7 7445HS, RAM 8 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 4 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 11999000
+    "price": 12999000
   },
   {
     "type": "notebook",
@@ -122408,38 +122192,14 @@
   {
     "type": "notebook",
     "brand": "ASUS",
-    "model": "Asus Vivobook 14 M1405YA Ryzen 7 7730U Memori 16 GB SSD 1 TB OLED Win 11 + OHS / Asus Vivobook 14 M1405YA-OLEDS711M / Asus Vivobook 14 M1405YA-OLEDS713M / Asus Vivobook 14 M1405YA-OLEDS711 / Asus Vivobook 14 M1405YA-OLEDS713 / ASUS VIVOBOOK 14 OLED M1405YA RYZEN 7 7730 16GB 1TB W11+OHS (AMD Ryzen 7 7730U, RAM 16 GB, SSD 1 TB, Vga Ati Radeon Vega 8, LED 14\" 2.8K OLED, Win 11 Home + Office Home Student) Ready Stock (Indie Black, Cool Silver, Indie Black, Cool Silver)",
-    "price": 11099000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 M1405YA Ryzen 7 7730U Memori 16 GB SSD 1 TB OLED Win 11 Pro + OHS (AMD Ryzen 7 7730U, RAM 16 GB, SSD 1 TB, Vga Ati Radeon Vega 8, LED 14\" 2.8K OLED, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 11999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
     "model": "Asus Vivobook 14 M1405YA Ryzen 7 7730U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (AMD Ryzen 7 7730U, RAM 16 GB, SSD 1 TB, Vga Ati Radeon Vega 8, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
     "price": 14499000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
-    "model": "Asus Vivobook 14 M1405YA Ryzen 7 7730U Memori 16 GB SSD 2 TB OLED Win 11 Pro + OHS (AMD Ryzen 7 7730U, RAM 16 GB, SSD 2 TB, Vga Ati Radeon Vega 8, LED 14\" 2.8K OLED, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 13999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
     "model": "Asus Vivobook 14 M1405YA Ryzen 7 7730U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (AMD Ryzen 7 7730U, RAM 16 GB, SSD 2 TB, Vga Ati Radeon Vega 8, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
     "price": 17499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 M1405YA Ryzen 7 7730U Memori 16 GB SSD 4 TB OLED Win 11 Pro + OHS (AMD Ryzen 7 7730U, RAM 16 GB, SSD 4 TB, Vga Ati Radeon Vega 8, LED 14\" 2.8K OLED, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 15499000
   },
   {
     "type": "notebook",
@@ -122458,6 +122218,12 @@
     "brand": "ASUS",
     "model": "Asus Vivobook 14 M1405YA Ryzen 7 7730U Memori 16 GB SSD 512 GB Win 11 Pro + OHS (AMD Ryzen 7 7730U, RAM 16 GB, SSD 512 GB, Vga Ati Radeon Vega 8, LED 14\" WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
     "price": 12499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 M1405YA-OLEDS711M / Asus Vivobook 14 M1405YA-OLEDS713M / Asus Vivobook 14 M1405YA-OLEDS711 / Asus Vivobook 14 M1405YA-OLEDS713 (AMD Ryzen 7 7730U, RAM 16 GB, SSD 1 TB, Vga Ati Radeon Vega 8, LED 14\" 2.8K OLED, Win 11 Home + Office Home Student) Indie Black, Cool Silver, Indie Black, Cool Silver",
+    "price": 11099000
   },
   {
     "type": "notebook",
@@ -146535,79 +146301,79 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 5 225U Memori 16 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 5 225U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 20900000
+    "price": 21400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 5 225U Memori 16 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 5 225U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 23900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 5 225U Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core Ultra 5 225U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 27900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 5 225U Memori 16 GB SSD 512 GB Win 11 + OH / Lenovo ThinkBook 14 2-in-1 G5 IAU 2XID (21SQ002XID) / LENOVO THINKBOOK 14 G5 2IN1 TOUCH ULTRA 5 225U 16GB 512GB W11+OHS (Intel Core Ultra 5 225U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Win 11 Home + Office Home) Ready Stock (Luna Grey)",
-    "price": 18000000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 5 225U Memori 16 GB SSD 512 GB Win 11 Pro + OH (Intel Core Ultra 5 225U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 18900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 5 225U Memori 32 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 5 225U, RAM 32 GB, SSD 1 TB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
     "price": 24400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
+    "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 5 225U Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core Ultra 5 225U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 28400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 5 225U Memori 16 GB SSD 512 GB Win 11 + OH / Lenovo ThinkBook 14 2-in-1 G5 IAU 2XID (21SQ002XID) / LENOVO THINKBOOK 14 G5 2IN1 TOUCH ULTRA 5 225U 16GB 512GB W11+OHS (Intel Core Ultra 5 225U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Win 11 Home + Office Home) Ready Stock (Luna Grey)",
+    "price": 18200000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 5 225U Memori 16 GB SSD 512 GB Win 11 Pro + OH (Intel Core Ultra 5 225U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 19400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 5 225U Memori 32 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 5 225U, RAM 32 GB, SSD 1 TB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 24900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 5 225U Memori 32 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 5 225U, RAM 32 GB, SSD 2 TB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 27400000
+    "price": 27900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 5 225U Memori 32 GB SSD 4 TB Win 11 Pro + OH (Intel Core Ultra 5 225U, RAM 32 GB, SSD 4 TB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 31400000
+    "price": 31900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 5 225U Memori 32 GB SSD 512 GB Win 11 Pro + OH (Intel Core Ultra 5 225U, RAM 32 GB, SSD 512 GB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 22400000
+    "price": 22900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 5 225U Memori 64 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 5 225U, RAM 64 GB, SSD 1 TB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 31400000
+    "price": 31900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 5 225U Memori 64 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 5 225U, RAM 64 GB, SSD 2 TB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 34400000
+    "price": 34900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 5 225U Memori 64 GB SSD 4 TB Win 11 Pro + OH (Intel Core Ultra 5 225U, RAM 64 GB, SSD 4 TB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 38400000
+    "price": 38900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 5 225U Memori 64 GB SSD 512 GB Win 11 Pro + OH (Intel Core Ultra 5 225U, RAM 64 GB, SSD 512 GB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 29400000
+    "price": 29900000
   },
   {
     "type": "notebook",
@@ -146631,7 +146397,7 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 2-in-1 G5 IAU Core Ultra 7 255U Memori 32 GB SSD 1 TB Win 11 + OH / Lenovo ThinkBook 14 2-in-1 G5 IAU 2WID (21SQ002WID) / LENOVO THINKBOOK 14 G5 2IN1 TOUCH ULTRA 7 255U 32GB 1TB W11+OHS (Intel Core Ultra 7 255U, RAM 32 GB, SSD 1 TB, Vga Intel Graphics, LED 14 WUXGA Touchscreen, Win 11 Home + Office Home) Ready Stock (Luna Grey)",
-    "price": 24600000
+    "price": 24900000
   },
   {
     "type": "notebook",
@@ -147087,61 +146853,61 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 G7 IML Core Ultra 7 155U Memori 16 GB SSD 1 TB Win 11 + OHS / Lenovo ThinkBook 14 G7 IML-BFID (21MR00BFID) (Intel Core Ultra 7 155U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 14 WUXGA, Win 11 Home + Office Home Student) Ready Stock (Arctic Grey)",
-    "price": 16600000
+    "price": 22900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 G7 IML Core Ultra 7 155U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core Ultra 7 155U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 17900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkBook 14 G7 IML Core Ultra 7 155U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core Ultra 7 155U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 20900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkBook 14 G7 IML Core Ultra 7 155U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core Ultra 7 155U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 24900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkBook 14 G7 IML Core Ultra 7 155U Memori 32 GB SSD 1 TB Win 11 Pro + OHS (Intel Core Ultra 7 155U, RAM 32 GB, SSD 1 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 20900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkBook 14 G7 IML Core Ultra 7 155U Memori 32 GB SSD 2 TB Win 11 Pro + OHS (Intel Core Ultra 7 155U, RAM 32 GB, SSD 2 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
     "price": 23900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
+    "model": "Lenovo ThinkBook 14 G7 IML Core Ultra 7 155U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core Ultra 7 155U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 28900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkBook 14 G7 IML Core Ultra 7 155U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core Ultra 7 155U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 32900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkBook 14 G7 IML Core Ultra 7 155U Memori 32 GB SSD 1 TB Win 11 Pro + OHS (Intel Core Ultra 7 155U, RAM 32 GB, SSD 1 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 27400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkBook 14 G7 IML Core Ultra 7 155U Memori 32 GB SSD 2 TB Win 11 Pro + OHS (Intel Core Ultra 7 155U, RAM 32 GB, SSD 2 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 32400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 G7 IML Core Ultra 7 155U Memori 32 GB SSD 4 TB Win 11 Pro + OHS (Intel Core Ultra 7 155U, RAM 32 GB, SSD 4 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 27900000
+    "price": 36400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 G7 IML Core Ultra 7 155U Memori 64 GB SSD 1 TB Win 11 Pro + OHS (Intel Core Ultra 7 155U, RAM 64 GB, SSD 1 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 26900000
+    "price": 34400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 G7 IML Core Ultra 7 155U Memori 64 GB SSD 2 TB Win 11 Pro + OHS (Intel Core Ultra 7 155U, RAM 64 GB, SSD 2 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 29900000
+    "price": 39400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 G7 IML Core Ultra 7 155U Memori 64 GB SSD 4 TB Win 11 Pro + OHS (Intel Core Ultra 7 155U, RAM 64 GB, SSD 4 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 33900000
+    "price": 43400000
   },
   {
     "type": "notebook",
@@ -147254,7 +147020,7 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkBook 14 G8 IAL Core Ultra 5 225U Memori 8 GB SSD 512 GB Win 11 + OH / Lenovo ThinkBook 14 G8 IAL-A1ID (21SJ00A1ID) / LENOVO THINKBOOK 14 G8 ULTRA 5 225U 8GB 512GB W11+OHS (Intel Core Ultra 5 225U, RAM 8 GB, SSD 512 GB, Vga Intel Graphics, LED 14 WUXGA, Win 11 Home + Office Home) Ready Stock (Arctic Grey)",
+    "model": "Lenovo ThinkBook 14 G8 IAL Core Ultra 5 225U Memori 8 GB SSD 512 GB Win 11 + OH / Lenovo ThinkBook 14 G8 IAL-A1ID (21SJ00A1ID) (Intel Core Ultra 5 225U, RAM 8 GB, SSD 512 GB, Vga Intel Graphics, LED 14 WUXGA, Win 11 Home + Office Home) Ready Stock (Arctic Grey)",
     "price": 17900000
   },
   {
@@ -147266,62 +147032,62 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkBook 14 G8 IAL Core Ultra 7 255H Memori 16 GB SSD 1 TB Win 11 + OH / Lenovo ThinkBook 14 G8 IAL-A2ID (21SJ00A2ID) / LENOVO THINKBOOK 14 G8 ULTRA 7 255H 16GB 1TB W11+OHS (Intel Core Ultra 7 255H, RAM 16 GB, SSD 1 TB, Vga Intel Arc 140T Graphics, LED 14 WUXGA, Win 11 Home + Office Home) Ready Stock (Arctic Grey)",
-    "price": 18900000
+    "model": "Lenovo ThinkBook 14 G8 IAL Core Ultra 7 255H Memori 16 GB SSD 1 TB Win 11 + OH / Lenovo ThinkBook 14 G8 IAL-A2ID (21SJ00A2ID) (Intel Core Ultra 7 255H, RAM 16 GB, SSD 1 TB, Vga Intel Arc 140T Graphics, LED 14 WUXGA, Win 11 Home + Office Home) Ready Stock (Arctic Grey)",
+    "price": 23900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 G8 IAL Core Ultra 7 255H Memori 16 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 7 255H, RAM 16 GB, SSD 1 TB, Vga Intel Arc 140T Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 19900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkBook 14 G8 IAL Core Ultra 7 255H Memori 16 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 7 255H, RAM 16 GB, SSD 2 TB, Vga Intel Arc 140T Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
     "price": 24900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
+    "model": "Lenovo ThinkBook 14 G8 IAL Core Ultra 7 255H Memori 16 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 7 255H, RAM 16 GB, SSD 2 TB, Vga Intel Arc 140T Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 29900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 G8 IAL Core Ultra 7 255H Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core Ultra 7 255H, RAM 16 GB, SSD 4 TB, Vga Intel Arc 140T Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 28900000
+    "price": 33900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 G8 IAL Core Ultra 7 255H Memori 32 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 7 255H, RAM 32 GB, SSD 1 TB, Vga Intel Arc 140T Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 23400000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkBook 14 G8 IAL Core Ultra 7 255H Memori 32 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 7 255H, RAM 32 GB, SSD 2 TB, Vga Intel Arc 140T Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
     "price": 28400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
+    "model": "Lenovo ThinkBook 14 G8 IAL Core Ultra 7 255H Memori 32 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 7 255H, RAM 32 GB, SSD 2 TB, Vga Intel Arc 140T Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 33400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 G8 IAL Core Ultra 7 255H Memori 32 GB SSD 4 TB Win 11 Pro + OH (Intel Core Ultra 7 255H, RAM 32 GB, SSD 4 TB, Vga Intel Arc 140T Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 32400000
+    "price": 37400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 G8 IAL Core Ultra 7 255H Memori 64 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 7 255H, RAM 64 GB, SSD 1 TB, Vga Intel Arc 140T Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 30400000
+    "price": 40400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 G8 IAL Core Ultra 7 255H Memori 64 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 7 255H, RAM 64 GB, SSD 2 TB, Vga Intel Arc 140T Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 35400000
+    "price": 45400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkBook 14 G8 IAL Core Ultra 7 255H Memori 64 GB SSD 4 TB Win 11 Pro + OH (Intel Core Ultra 7 255H, RAM 64 GB, SSD 4 TB, Vga Intel Arc 140T Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 39400000
+    "price": 49400000
   },
   {
     "type": "notebook",
@@ -148202,7 +147968,7 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkPad E16 G2 Core Ultra 7 155U Memori 16 GB SSD 1 TB Win 11 Pro / Lenovo Thinkpad E16 Gen 2 69ID (21MA0069ID) / Lenovo ThinkPad E16 G2-69ID / LENOVO THINKPAD T14 G5 RYZEN 5 PRO 8540 16GB 1TB 14.0 WUXGA W11PRO (Intel Core Ultra 7 155U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 16 WUXGA IPS, Windows 11 Profesional) Ready Stock",
+    "model": "Lenovo ThinkPad E16 G2 Core Ultra 7 155U Memori 16 GB SSD 1 TB Win 11 Pro / Lenovo Thinkpad E16 Gen 2 69ID (21MA0069ID) / Lenovo ThinkPad E16 G2-69ID (Intel Core Ultra 7 155U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 16 WUXGA IPS, Windows 11 Profesional) Ready Stock",
     "price": 21500000
   },
   {
@@ -148256,25 +148022,13 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G3 Core i5 1235U Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core i5-1235U, RAM 16 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 18900000
+    "model": "Lenovo ThinkPad L13 G3 Core i5 1235U Memori 8 GB SSD 512 GB Win 11 Pro (Intel Core i5 1235U, RAM 8 GB, SSD 512 GB, Vga Intel, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 16900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G3 Core i5 1235U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core i5-1235U, RAM 16 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 19900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G3 Core i5 1235U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core i5-1235U, RAM 16 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 21400000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G3 Core i5 1235U Memori 16 GB SSD 512 GB Win 11 Pro / Lenovo ThinkPad L13 G3-4PID (Intel Core i5-1235U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA, Windows 11 Profesional) Ready Stock",
+    "model": "Lenovo ThinkPad L13 G3-4PID (Intel Core i5-1235U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA, Windows 11 Profesional)",
     "price": 16900000
   },
   {
@@ -148286,164 +148040,104 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G4 Core i5 1335U Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core i5 1335U, RAM 16 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 19900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G4 Core i5 1335U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core i5 1335U, RAM 16 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 20900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G4 Core i5 1335U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core i5 1335U, RAM 16 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 22400000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G4 Core i5 1335U Memori 16 GB SSD 512 GB Win 11 Pro / Lenovo ThinkPad L13 G4-2UID (Intel Core i5 1335U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA, Windows 11 Profesional) Ready Stock",
+    "model": "Lenovo ThinkPad L13 G4-2UID (Intel Core i5 1335U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA, Windows 11 Profesional)",
     "price": 18000000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G4 Core i7 1355U Memori 16 GB SSD 1 TB Win 11 Pro / Lenovo ThinkPad L13 G4-2VID (Intel Core i7 1355U, RAM 16 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA, Windows 11 Profesional) Ready Stock",
+    "model": "Lenovo ThinkPad L13 G4-2VID (Intel Core i7 1355U, RAM 16 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA, Windows 11 Profesional)",
     "price": 21200000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G4 Core i7 1355U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core i7 1355U, RAM 16 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 24400000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G4 Core i7 1355U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core i7 1355U, RAM 16 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 25900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
     "model": "Lenovo ThinkPad L13 G5 2in1 Core Ultra 5 125U Memori 16 GB SSD 2 TB Touchscreen Win 11 Pro (Intel Core Ultra 5 125U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 13.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": 25900000
+    "price": 30900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkPad L13 G5 2in1 Core Ultra 5 125U Memori 16 GB SSD 4 TB Touchscreen Win 11 Pro (Intel Core Ultra 5 125U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 13.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": 29900000
+    "price": 34900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G5 2in1 Core Ultra 5 125U Memori 16 GB SSD 512 GB Touchscreen Win 11 Pro / Lenovo ThinkPad L13 G5-21ID (21LM002DiD) (Intel Core Ultra 5 125U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 13.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock (Black)",
-    "price": 21900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G5 2in1 Core Ultra 7 155U Memori 16 GB SSD 1 TB Win 11 Pro / Lenovo ThinkPad L13 2-in-1 Gen 5 2EID (21LM002EID) / Lenovo ThinkPad L13 2-in-1 G5-2EID (Intel Core Ultra 7 155U, RAM 16 GB, SSD 1 TB, Vga Intel Grahics, LED 13.3\" WUXGA Touchscreen, Windows 11 Profesional) Ready Stock (Black)",
-    "price": 25300000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G5 2in1 Core Ultra 7 155U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core Ultra 7 155U, RAM 16 GB, SSD 2 TB, Vga Intel Grahics, LED 13.3\" WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": 28400000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G5 2in1 Core Ultra 7 155U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core Ultra 7 155U, RAM 16 GB, SSD 4 TB, Vga Intel Grahics, LED 13.3\" WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": 29900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G5 Core Ultra 5 125U Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core Ultra 5 125U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 20900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G5 Core Ultra 5 125U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core Ultra 5 125U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 21900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G5 Core Ultra 5 125U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core Ultra 5 125U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 23400000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G5 Core Ultra 5 125U Memori 16 GB SSD 512 GB Win 11 Pro / Lenovo ThinkPad L13 G5-21ID (21LB0021ID) (Intel Core Ultra 5 125U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock (Black)",
-    "price": 19100000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G5 Core Ultra 7 155U Memori 16 GB SSD 1 TB Win 11 Pro / Lenovo ThinkPad L13 G5-22ID (21LB0022ID) (Intel Core Ultra 7 155U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 13.3\" WUXGA, Windows 11 Profesional) Ready Stock (Black)",
-    "price": 23100000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G5 Core Ultra 7 155U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core Ultra 7 155U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 13.3\" WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 26400000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G5 Core Ultra 7 155U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core Ultra 7 155U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 13.3\" WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 27900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G6 Core Ultra 5 225U Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core Ultra 5 225U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 22400000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G6 Core Ultra 5 225U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core Ultra 5 225U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 23400000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G6 Core Ultra 5 225U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core Ultra 5 225U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
+    "model": "Lenovo ThinkPad L13 G5 2in1 Core Ultra 5 125U Memori 16 GB SSD 512 GB Touchscreen Win 11 Pro / Lenovo ThinkPad L13 G5 2DID (21LM002DiD) (Intel Core Ultra 5 125U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 13.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock (Black)",
     "price": 24900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G6 Core Ultra 5 225U Memori 16 GB SSD 512 GB Win 11 Pro / Lenovo ThinkPad L13 G6-33ID (21R50033ID) (Intel Core Ultra 5 225U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 20700000
+    "model": "Lenovo ThinkPad L13 G5 2in1 Core Ultra 7 155U Memori 16 GB SSD 1 TB Win 11 Pro / Lenovo ThinkPad L13 2-in-1 Gen 5 2EID (21LM002EID) / Lenovo ThinkPad L13 2-in-1 G5-2EID (Intel Core Ultra 7 155U, RAM 16 GB, SSD 1 TB, Vga Intel Grahics, LED 13.3\" WUXGA Touchscreen, Windows 11 Profesional) Ready Stock (Black)",
+    "price": 29900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G6 Core Ultra 7 255U Memori 16 GB SSD 1 TB Win 11 Pro / Lenovo ThinkPad L13 G6 34ID (21R50034ID) / LENOVO THINKPAD L13 G6 ULTRA 7 255U 16GB 1TB W11PRO (Intel Core Ultra 7 255U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock (Black)",
-    "price": 24050000
+    "model": "Lenovo ThinkPad L13 G5 2in1 Core Ultra 7 155U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core Ultra 7 155U, RAM 16 GB, SSD 2 TB, Vga Intel Grahics, LED 13.3\" WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": 35900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L13 G6 Core Ultra 7 255U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core Ultra 7 255U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
+    "model": "Lenovo ThinkPad L13 G5 2in1 Core Ultra 7 155U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core Ultra 7 155U, RAM 16 GB, SSD 4 TB, Vga Intel Grahics, LED 13.3\" WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": 39900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad L13 G5-21ID (21LB0021ID) (Intel Core Ultra 5 125U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Black",
+    "price": 19100000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad L13 G5-22ID (21LB0022ID) (Intel Core Ultra 7 155U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 13.3\" WUXGA, Windows 11 Profesional) Black",
+    "price": 23100000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad L13 G6 Core Ultra 5 225U Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core Ultra 5 225U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
     "price": 27900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
+    "model": "Lenovo ThinkPad L13 G6 Core Ultra 5 225U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core Ultra 5 225U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 30900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad L13 G6 Core Ultra 5 225U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core Ultra 5 225U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 34900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad L13 G6 Core Ultra 5 225U Memori 16 GB SSD 512 GB Win 11 Pro / Lenovo ThinkPad L13 G6-33ID (21R50033ID) (Intel Core Ultra 5 225U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 24900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad L13 G6 Core Ultra 7 255U Memori 16 GB SSD 1 TB Win 11 Pro / Lenovo ThinkPad L13 G6 34ID (21R50034ID) (Intel Core Ultra 7 255U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock (Black)",
+    "price": 29900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad L13 G6 Core Ultra 7 255U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core Ultra 7 255U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 35900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
     "model": "Lenovo ThinkPad L13 G6 Core Ultra 7 255U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core Ultra 7 255U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 13.3 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 29400000
+    "price": 39900000
   },
   {
     "type": "notebook",
@@ -148473,25 +148167,25 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkPad L13 Yoga G4 Core i5 1335U Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core i5 1335U, RAM 16 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": 22400000
+    "price": 27900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkPad L13 Yoga G4 Core i5 1335U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core i5 1335U, RAM 16 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": 23400000
+    "price": 30900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkPad L13 Yoga G4 Core i5 1335U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core i5 1335U, RAM 16 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": 24900000
+    "price": 34900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo ThinkPad L13 Yoga G4 Core i5 1335U Memori 16 GB SSD 512 GB Win 11 Pro / Lenovo ThinkPad L13 Yoga G4-2AID (21FJ002AID) (Intel Core i5 1335U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 13.3\" WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
-    "price": 20300000
+    "price": 24900000
   },
   {
     "type": "notebook",
@@ -148556,12 +148250,6 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L14 G5 5YID (21L1005YiD) (Intel Core Ultra 7 155U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock (Black)",
-    "price": 24900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
     "model": "Lenovo ThinkPad L14 G6 Core Ultra 5 225U Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core Ultra 5 225U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
     "price": 27900000
   },
@@ -148580,7 +148268,7 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkPad L14 G6 Core Ultra 5 225U Memori 16 GB SSD 512 GB Win 11 Pro (Intel Core Ultra 5 225U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "model": "Lenovo ThinkPad L14 G6 Core Ultra 5 225U Memori 16 GB SSD 512 GB Win 11 Pro / Lenovo ThinkPad L14 G5 5YID (21L1005YiD) (Intel Core Ultra 5 225U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
     "price": 24900000
   },
   {
@@ -148976,25 +148664,7 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkPad T14 G3 Core i5 1235U Memori 16 GB SSD 1 TB Win 11 Pro (Intel Core i5 1235U, RAM 16 GB, SSD 1 TB, Vga Intel Iris Xe Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 24900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad T14 G3 Core i5 1235U Memori 16 GB SSD 2 TB Win 11 Pro (Intel Core i5 1235U, RAM 16 GB, SSD 2 TB, Vga Intel Iris Xe Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 27900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad T14 G3 Core i5 1235U Memori 16 GB SSD 4 TB Win 11 Pro (Intel Core i5 1235U, RAM 16 GB, SSD 4 TB, Vga Intel Iris Xe Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 31900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad T14 G3 Core i5 1235U Memori 16 GB SSD 512 GB Win 11 Pro / Lenovo ThinkPad T14 G3-HTID (Intel Core i5 1235U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "model": "Lenovo ThinkPad T14 G3-HTID (Intel Core i5 1235U, RAM 16 GB, SSD 512 GB, Vga Intel Iris Xe Graphics, LED 14 WUXGA, Windows 11 Profesional)",
     "price": 21300000
   },
   {
@@ -149006,62 +148676,14 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo ThinkPad T14 G5 Ryzen 5 Pro 8540U Memori 16 GB SSD 1 TB Win 11 Pro / Lenovo ThinkPad T14 G5-69ID (21MC0069ID) (AMD Ryzen 5 Pro 8540U, RAM 16 GB, SSD 1 TB, Vga AMD Radeon 740M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 21800000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad T14 G5 Ryzen 5 Pro 8540U Memori 16 GB SSD 2 TB Win 11 Pro (AMD Ryzen 5 Pro 8540U, RAM 16 GB, SSD 2 TB, Vga AMD Radeon 740M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 25900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad T14 G5 Ryzen 5 Pro 8540U Memori 16 GB SSD 4 TB Win 11 Pro (AMD Ryzen 5 Pro 8540U, RAM 16 GB, SSD 4 TB, Vga AMD Radeon 740M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 29900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad T14 G5 Ryzen 5 Pro 8540U Memori 32 GB SSD 1 TB Win 11 Pro (AMD Ryzen 5 Pro 8540U, RAM 32 GB, SSD 1 TB, Vga AMD Radeon 740M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 24900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad T14 G5 Ryzen 5 Pro 8540U Memori 32 GB SSD 2 TB Win 11 Pro (AMD Ryzen 5 Pro 8540U, RAM 32 GB, SSD 2 TB, Vga AMD Radeon 740M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 28900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad T14 G5 Ryzen 5 Pro 8540U Memori 32 GB SSD 4 TB Win 11 Pro (AMD Ryzen 5 Pro 8540U, RAM 32 GB, SSD 4 TB, Vga AMD Radeon 740M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 32900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad T14 G5 Ryzen 5 Pro 8540U Memori 64 GB SSD 1 TB Win 11 Pro (AMD Ryzen 5 Pro 8540U, RAM 64 GB, SSD 1 TB, Vga AMD Radeon 740M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 30900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad T14 G5 Ryzen 5 Pro 8540U Memori 64 GB SSD 2 TB Win 11 Pro (AMD Ryzen 5 Pro 8540U, RAM 64 GB, SSD 2 TB, Vga AMD Radeon 740M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 34900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo ThinkPad T14 G5 Ryzen 5 Pro 8540U Memori 64 GB SSD 4 TB Win 11 Pro (AMD Ryzen 5 Pro 8540U, RAM 64 GB, SSD 4 TB, Vga AMD Radeon 740M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
-    "price": 38900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
     "model": "Lenovo ThinkPad T14 G5-5YID (21MC005YID) (AMD Ryzen 7 Pro 8840U, RAM 32 GB, SSD 1 TB, Vga AMD Radeon 780M, LED 14 WUXGA, Windows 11 Profesional)",
     "price": 26400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G5-69ID (21MC0069ID) (AMD Ryzen 5 Pro 8540U, RAM 16 GB, SSD 1 TB, Vga AMD Radeon 740M, LED 14 WUXGA, Windows 11 Profesional)",
+    "price": 21800000
   },
   {
     "type": "notebook",
@@ -149140,6 +148762,216 @@
     "brand": "LENOVO",
     "model": "Lenovo Thinkpad T14 G6 Core Ultra 7 258V Memori 32 GB SSD 4 TB Win 11 Pro (Intel Core Ultra 7 258V, RAM 32 GB, SSD 4 TB, Vga Intel Arc 140V Graphics, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
     "price": 45900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 128 GB SSD 1 TB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 128 GB, SSD 1 TB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 57400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 128 GB SSD 2 TB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 128 GB, SSD 2 TB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 60400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 128 GB SSD 4 TB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 128 GB, SSD 4 TB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 64400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 128 GB SSD 512 GB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 128 GB, SSD 512 GB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 54400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 16 GB SSD 1 TB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 16 GB, SSD 1 TB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 32900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 16 GB SSD 2 TB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 16 GB, SSD 2 TB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 35900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 16 GB SSD 4 TB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 16 GB, SSD 4 TB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 39900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 16 GB SSD 512 GB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 16 GB, SSD 512 GB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 29900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 32 GB SSD 1 TB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 32 GB, SSD 1 TB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 36400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 32 GB SSD 2 TB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 32 GB, SSD 2 TB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 39400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 32 GB SSD 4 TB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 32 GB, SSD 4 TB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 43400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 32 GB SSD 512 GB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 32 GB, SSD 512 GB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 33400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 64 GB SSD 1 TB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 64 GB, SSD 1 TB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 43400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 64 GB SSD 2 TB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 64 GB, SSD 2 TB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 46400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 64 GB SSD 4 TB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 64 GB, SSD 4 TB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 50400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 64 GB SSD 512 GB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 64 GB, SSD 512 GB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 40400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 96 GB SSD 1 TB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 96 GB, SSD 1 TB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 50400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 96 GB SSD 2 TB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 96 GB, SSD 2 TB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 53400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 96 GB SSD 4 TB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 96 GB, SSD 4 TB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 57400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 5 PRO 340 Memori 96 GB SSD 512 GB Win 11 Pro (AMD Ryzen AI 5 Pro 340, RAM 96 GB, SSD 512 GB, Vga AMD Radeon 840M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 47400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 7 PRO 350 Memori 128 GB SSD 1 TB Win 11 Pro (AMD Ryzen AI 7 PRO 350, RAM 128 GB, SSD 1 TB, Vga AMD Radeon 860M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 63400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 7 PRO 350 Memori 128 GB SSD 2 TB Win 11 Pro (AMD Ryzen AI 7 PRO 350, RAM 128 GB, SSD 2 TB, Vga AMD Radeon 860M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 69400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 7 PRO 350 Memori 128 GB SSD 4 TB Win 11 Pro (AMD Ryzen AI 7 PRO 350, RAM 128 GB, SSD 4 TB, Vga AMD Radeon 860M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 73400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 7 PRO 350 Memori 16 GB SSD 1 TB Win 11 Pro (AMD Ryzen AI 7 PRO 350, RAM 16 GB, SSD 1 TB, Vga AMD Radeon 860M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 38900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 7 PRO 350 Memori 16 GB SSD 2 TB Win 11 Pro (AMD Ryzen AI 7 PRO 350, RAM 16 GB, SSD 2 TB, Vga AMD Radeon 860M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 44900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 7 PRO 350 Memori 16 GB SSD 4 TB Win 11 Pro (AMD Ryzen AI 7 PRO 350, RAM 16 GB, SSD 4 TB, Vga AMD Radeon 860M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 48900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 7 PRO 350 Memori 32 GB SSD 1 TB Win 11 Pro (AMD Ryzen AI 7 PRO 350, RAM 32 GB, SSD 1 TB, Vga AMD Radeon 860M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 42400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 7 PRO 350 Memori 32 GB SSD 2 TB Win 11 Pro (AMD Ryzen AI 7 PRO 350, RAM 32 GB, SSD 2 TB, Vga AMD Radeon 860M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 48400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 7 PRO 350 Memori 32 GB SSD 4 TB Win 11 Pro (AMD Ryzen AI 7 PRO 350, RAM 32 GB, SSD 4 TB, Vga AMD Radeon 860M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 52400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 7 PRO 350 Memori 64 GB SSD 1 TB Win 11 Pro (AMD Ryzen AI 7 PRO 350, RAM 64 GB, SSD 1 TB, Vga AMD Radeon 860M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 49400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 7 PRO 350 Memori 64 GB SSD 2 TB Win 11 Pro (AMD Ryzen AI 7 PRO 350, RAM 64 GB, SSD 2 TB, Vga AMD Radeon 860M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 55400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 7 PRO 350 Memori 64 GB SSD 4 TB Win 11 Pro (AMD Ryzen AI 7 PRO 350, RAM 64 GB, SSD 4 TB, Vga AMD Radeon 860M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 59400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 7 PRO 350 Memori 96 GB SSD 1 TB Win 11 Pro (AMD Ryzen AI 7 PRO 350, RAM 96 GB, SSD 1 TB, Vga AMD Radeon 860M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 56400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 7 PRO 350 Memori 96 GB SSD 2 TB Win 11 Pro (AMD Ryzen AI 7 PRO 350, RAM 96 GB, SSD 2 TB, Vga AMD Radeon 860M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 62400000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo ThinkPad T14 G6 Ryzen AI 7 PRO 350 Memori 96 GB SSD 4 TB Win 11 Pro (AMD Ryzen AI 7 PRO 350, RAM 96 GB, SSD 4 TB, Vga AMD Radeon 860M, LED 14 WUXGA, Windows 11 Profesional) Ready Stock",
+    "price": 66400000
   },
   {
     "type": "notebook",
