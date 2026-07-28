@@ -1,14 +1,15 @@
 import { useStore } from "@nanostores/preact";
 import { Fragment } from "preact";
 import { useState, useEffect } from "preact/hooks";
-import { partStore } from "@/store/partStore";
 import { RemoveFromBuilderButton } from "./RemoveFromBuilderButton";
 import { currencyFormatter } from "@/lib/helper";
 import { pcPartsOnly, MULTI_SELECTION_TYPES } from "@/lib/constant.mjs";
 import { navigate } from "astro:transitions/client";
+import { $totalPrice, $partsGroupedByType } from "@/store/partStore";
 
 export const BuilderTable = () => {
-  const $parts = useStore(partStore);
+  const totalPrice = useStore($totalPrice);
+  const partsGroupedByType = useStore($partsGroupedByType);
   const [isMounted, setIsMounted] = useState(false);
 
   useEffect(() => {
@@ -16,10 +17,6 @@ export const BuilderTable = () => {
   }, []);
 
   if (!isMounted) return null;
-
-  const totalPrice = $parts.parts.reduce((acc, part) => acc + part.price, 0);
-
-  const partsGroupedByType = Object.groupBy($parts.parts, (p) => p.type);
 
   return (
     <>
@@ -35,7 +32,7 @@ export const BuilderTable = () => {
           </thead>
           <tbody className="divide-y divide-black">
             {pcPartsOnly.map((source: Record<string, string>) => {
-              const selectedParts = partsGroupedByType[source.type] || [];
+              const selectedParts = partsGroupedByType?.[source.type] ?? [];
               const hasParts = selectedParts.length > 0;
 
               const allowMultiple = MULTI_SELECTION_TYPES.includes(
@@ -123,7 +120,7 @@ export const BuilderTable = () => {
         </table>
       </div>
       <div className="my-4">
-        <h1>Total Price: {currencyFormatter.format(totalPrice)}</h1>
+        <h1>Total Price: {currencyFormatter.format(totalPrice ?? 0)}</h1>
       </div>
     </>
   );

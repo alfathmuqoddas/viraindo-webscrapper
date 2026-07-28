@@ -1,4 +1,5 @@
 import { persistentAtom } from "@nanostores/persistent";
+import { computed } from "nanostores";
 import type { Part } from "@/type";
 import { MULTI_SELECTION_TYPES } from "@/lib/constant.mjs";
 
@@ -51,3 +52,11 @@ export const setTitle = (title: string) => {
 export const setDescription = (description: string) => {
   partStore.set({ ...partStore.get(), description });
 };
+
+export const $totalPrice = computed(partStore, ($s) =>
+  ($s?.parts ?? []).reduce((acc, part) => acc + part.price, 0),
+);
+
+export const $partsGroupedByType = computed(partStore, ($s) =>
+  Object.groupBy($s?.parts ?? [], (p) => p.type),
+);
