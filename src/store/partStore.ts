@@ -41,6 +41,10 @@ export const removePart = (id: string) => {
   partStore.set({ ...currentParts, parts: filteredParts });
 };
 
+export const setParts = (parts: Part[]) => {
+  partStore.set({ ...partStore.get(), parts });
+};
+
 export const resetParts = () => {
   partStore.set({ title: "", description: "", parts: [] });
 };
