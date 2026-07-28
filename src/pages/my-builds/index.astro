@@ -1,0 +1,13 @@
+---
+import AppLayout from "@/layout/AppLayout.astro";
+import MainLayout from "@/layout/MainLayout.astro";
+import {MyBuildsPage} from "@/components/my-builds/MyBuildsPage";
+---
+<AppLayout>
+    <title slot="head">My Builds | PCPART</title>
+    <meta name="description" slot="head" content="Build your own PC by selecting the components you want to use. | PCPART by Alfath Muqoddas" />
+    <MainLayout>
+        <h1 class="mb-4 text-5xl font-black tracking-tighter">My Builds</h1>
+        <MyBuildsPage client:load />
+    </MainLayout>
+</AppLayout>
