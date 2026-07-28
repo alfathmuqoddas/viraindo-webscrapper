@@ -63,24 +63,36 @@ try {
                 <div slot="fallback">Loading...</div>
             </CompletedBuildsPage>
         }
-        <div class="mt-8 flex gap-1">
+        <nav class="mt-8 flex gap-1 w-full justify-center">
             {/* Go Back / First Page */}
             <a 
+                id="back-button"
                 href="/completed-builds" 
                 class={`bg-blue-500 rounded-md px-2 py-1 text-sm cursor-pointer text-white ${!cursorParam ? "pointer-events-none opacity-50" : ""}`}
             >
-                First Page
+                Prev
             </a>
 
             {/* Next Page */}
             {nextCursor && (
                 <a 
                     href={`/completed-builds?cursor=${encodeURIComponent(nextCursor)}`} 
-                    class="btn"
+                    class="bg-blue-500 rounded-md px-2 py-1 text-sm cursor-pointer text-white"
                 >
-                Next Page &rarr;
+                    Next
                 </a>
             )}
-        </div>
+        </nav>
     </MainLayout>
 </AppLayout>
+
+<script>
+    const backButton = document.getElementById("back-button");
+
+    if (backButton) {
+        backButton.addEventListener("click", (e) => {
+            e.preventDefault();
+            history.back()
+        })
+    }
+</script>
