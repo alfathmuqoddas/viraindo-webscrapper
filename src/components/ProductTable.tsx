@@ -2,7 +2,6 @@ import { useState, useEffect } from "preact/hooks";
 import { currencyFormatter } from "@/lib/helper";
 import AddToBuilderButton from "@/components/builder/AddToBuilderButton";
 import type { PartWithoutId } from "@/type";
-import { Search } from "lucide-preact";
 
 export const ProductTable = ({ products }: { products: PartWithoutId[] }) => {
   const [query, setQuery] = useState("");
@@ -21,7 +20,7 @@ export const ProductTable = ({ products }: { products: PartWithoutId[] }) => {
 
   useEffect(() => {
     setFilteredProducts(
-      products.filter((p) =>
+      (products ?? []).filter((p) =>
         p.model.toLowerCase().includes(debouncedQuery.toLowerCase()),
       ),
     );
