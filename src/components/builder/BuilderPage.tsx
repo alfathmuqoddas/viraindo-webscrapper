@@ -75,7 +75,7 @@ export default function BuilderPage() {
             type="text"
             className="block w-full rounded-md p-2 border bg-white border-gray-300"
             placeholder="Title"
-            value={$parts.title}
+            value={$parts?.title ?? ""}
             onInput={(e) => setTitle(e.currentTarget.value)}
             required
           />
@@ -86,9 +86,9 @@ export default function BuilderPage() {
             {"Description (optional)"}
           </label>
           <textarea
-            className="w-full h-64 p-3 border rounded-md font-mono text-sm border-gray-300"
+            className="w-full h-64 p-3 border rounded-md text-sm bg-white border-gray-300"
             placeholder="Description"
-            value={$parts.description}
+            value={$parts?.description ?? ""}
             onInput={(e) => setDescription(e.currentTarget.value)}
             required
           />
