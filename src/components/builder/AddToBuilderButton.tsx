@@ -3,7 +3,8 @@ import type { PartWithoutId } from "@/type";
 import { navigate } from "astro:transitions/client";
 
 export const AddToBuilderButton = ({ part }: { part: PartWithoutId }) => {
-  const handleClick = () => {
+  const handleClick = (e: MouseEvent) => {
+    e.preventDefault();
     //this will add part and redirect to /builder
     addPart({ ...part, id: Date.now().toString() });
     if (typeof window !== "undefined") {
@@ -12,7 +13,7 @@ export const AddToBuilderButton = ({ part }: { part: PartWithoutId }) => {
   };
   return (
     <button
-      class="ml-2 bg-blue-500 hover:bg-blue-600 active:bg-blue-600 text-white text-sm font-medium px-2 py-1 cursor-pointer rounded-md"
+      className="ml-2 bg-blue-500 hover:bg-blue-600 active:bg-blue-600 text-white text-sm font-medium px-2 py-1 cursor-pointer rounded-md"
       onClick={handleClick}
       aria-label="Add to builder"
       title="Add to builder"
@@ -21,6 +22,5 @@ export const AddToBuilderButton = ({ part }: { part: PartWithoutId }) => {
     </button>
   );
 };
-4;
 
 export default AddToBuilderButton;

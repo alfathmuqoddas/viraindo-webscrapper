@@ -3,10 +3,19 @@ import { currencyFormatter } from "@/lib/helper";
 import AddToBuilderButton from "@/components/builder/AddToBuilderButton";
 import type { PartWithoutId } from "@/type";
 
-export const ProductTable = ({ products }: { products: PartWithoutId[] }) => {
+export const ProductTable = ({ products }: { products?: PartWithoutId[] }) => {
   const [query, setQuery] = useState("");
   const [debouncedQuery, setDebouncedQuery] = useState(query);
   const [filteredProducts, setFilteredProducts] = useState(products);
+
+  useEffect(() => {
+    const list = products ?? [];
+    setFilteredProducts(
+      list.filter((p) =>
+        p?.model?.toLowerCase().includes((debouncedQuery || "").toLowerCase()),
+      ),
+    );
+  }, [debouncedQuery, products]);
 
   useEffect(() => {
     const handler = setTimeout(() => {
@@ -17,14 +26,6 @@ export const ProductTable = ({ products }: { products: PartWithoutId[] }) => {
       clearTimeout(handler);
     };
   }, [query]);
-
-  useEffect(() => {
-    setFilteredProducts(
-      (products ?? []).filter((p) =>
-        p.model.toLowerCase().includes(debouncedQuery.toLowerCase()),
-      ),
-    );
-  }, [debouncedQuery, products]);
 
   return (
     <>
@@ -54,7 +55,7 @@ export const ProductTable = ({ products }: { products: PartWithoutId[] }) => {
             </tr>
           </thead>
           <tbody className="divide-y">
-            {filteredProducts.length === 0 ? (
+            {!filteredProducts || filteredProducts.length === 0 ? (
               <tr className="">
                 <td
                   colSpan={4}
