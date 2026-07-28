@@ -1,6 +1,7 @@
 import { useState, useEffect } from "preact/hooks";
 import { currencyFormatter } from "@/lib/helper";
 import AddToBuilderButton from "@/components/builder/AddToBuilderButton";
+import { typeToOmit } from "@/lib/constant.mjs";
 import type { PartWithoutId } from "@/type";
 
 export const ProductTable = ({ products }: { products?: PartWithoutId[] }) => {
@@ -85,7 +86,11 @@ export const ProductTable = ({ products }: { products?: PartWithoutId[] }) => {
                       {currencyFormatter.format(p.price)}
                     </td>
                     <td className="p-3 align-middle text-center">
-                      <AddToBuilderButton part={p} />
+                      {!typeToOmit.includes(p.type) ? (
+                        <AddToBuilderButton part={p} />
+                      ) : (
+                        "-"
+                      )}
                     </td>
                   </tr>
                 );
