@@ -2,9 +2,13 @@
 import { type TBuild } from "@/type";
 import {currencyFormatter} from "@/lib/helper";
 
-const { buildParts } = Astro.props as { buildParts: TBuild["parts"], buildTitle: TBuild["title"], buildUserName: TBuild["userName"], buildUserPhotoUrl: TBuild["userPhotoUrl"] };
+interface Props {
+    buildParts: TBuild["parts"];
+}
 
-const totalPrice = buildParts.reduce((acc, part) => acc + part.price, 0);
+const { buildParts } = Astro.props
+
+const totalPrice = (buildParts ?? []).reduce((acc, part) => acc + part.price, 0);
 ---
 <div class="p-4 rounded-lg shadow bg-white flex flex-col w-full md:w-1/4">
     <h2 class="font-bold">Part List</h2>

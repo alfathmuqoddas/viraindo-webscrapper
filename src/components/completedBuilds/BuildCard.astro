@@ -2,10 +2,15 @@
 import { type TBuild } from "@/type";
 import { currencyFormatter } from "@/lib/helper";
 
-const { build } = Astro.props as { build: TBuild & { id: string } };
+interface Props {
+    build: TBuild & { id: string };
+}
 
-const keyParts = build.parts.filter((p) => p.type === "processor" || p.type === "gpu");
-const totalPrice = build.parts.reduce((acc, part) => acc + part.price, 0);
+const { build } = Astro.props
+
+const parts = build?.parts ?? []
+const keyParts = parts.filter((p) => p.type?.toLowerCase() === "processor" || p.type?.toLowerCase() === "gpu");
+const totalPrice = parts.reduce((acc, part) => acc + part.price, 0);
 ---
 <a
   href={`/completed-builds/${build.id}`}

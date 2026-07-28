@@ -2,7 +2,11 @@
 import BuildCard from "./BuildCard.astro";
 import { type TBuild } from "@/type";
 
-const { builds } = Astro.props as { builds: (TBuild & { id: string })[] };
+interface Props {
+    builds: (TBuild & { id: string })[];
+}
+
+const { builds } = Astro.props
 ---
 <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
     {builds.map((build) => (

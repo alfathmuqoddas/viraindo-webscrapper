@@ -2,10 +2,14 @@
 import BuildCardDetail from "./BuildCardDetail.astro";
 import { type TBuild } from "@/type";
 
-const { buildProps } = Astro.props as { buildProps: TBuild, buildTitle: string, buildUserName: string, buildUserPhotoUrl: string };
+interface Props {
+    buildProps: TBuild & { id: string };
+}
+
+const { buildProps } = Astro.props
 ---
 <div class="flex flex-col md:flex-row gap-4 md:gap-8">
-    <BuildCardDetail buildParts={buildProps.parts} buildTitle={buildProps.title} buildUserName={buildProps.userName} buildUserPhotoUrl={buildProps.userPhotoUrl} />
+    <BuildCardDetail buildParts={buildProps?.parts ?? []} />
     <div class="w-full md:w-3/4">
             <div class="mb-4">
                 <h1 class="font-bold text-xl mb-2">
