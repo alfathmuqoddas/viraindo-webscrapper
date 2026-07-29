@@ -13,3 +13,44 @@ body {
 h1 {
   @apply font-extrabold;
 }
+
+@utility btn {
+  @apply inline-flex items-center justify-center gap-2 
+         text-sm font-semibold py-2 px-4 rounded-lg 
+         transition-all duration-150 select-none cursor-pointer
+         disabled:opacity-50 disabled:cursor-not-allowed disabled:pointer-events-none;
+}
+
+/* Sizing Utilities */
+@utility btn-sm {
+  @apply text-xs py-1.5 px-3 rounded-md;
+}
+@utility btn-lg {
+  @apply text-base py-2.5 px-5 rounded-xl;
+}
+
+/* Variant Utilities */
+@utility btn-primary {
+  @apply bg-blue-500 text-white 
+         hover:bg-blue-600 
+         active:bg-blue-700 active:ring-3 active:ring-blue-300/50;
+}
+
+@utility btn-secondary {
+  @apply bg-white text-gray-700 border border-gray-300 
+         hover:bg-gray-50 hover:text-gray-900 
+         active:bg-gray-100 active:ring-3 active:ring-gray-200/60 
+         shadow-xs;
+}
+
+@utility btn-danger {
+  @apply bg-red-500 text-white 
+         hover:bg-red-600 
+         active:bg-red-700 active:ring-3 active:ring-red-300/50;
+}
+
+@utility btn-ghost {
+  @apply bg-transparent text-gray-700 
+         hover:bg-gray-100 
+         active:bg-gray-200;
+}
