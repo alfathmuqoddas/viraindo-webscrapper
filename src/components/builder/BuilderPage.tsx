@@ -11,6 +11,7 @@ import type { Part } from "@/type";
 import { db } from "@/firebase/client";
 import { collection, addDoc, serverTimestamp } from "firebase/firestore";
 import { useAuth } from "@/hooks/useAuth";
+import { SavePen, SendHorizontal as Send } from "lucide-preact";
 
 export default function BuilderPage() {
   const { user } = useAuth();
@@ -96,7 +97,7 @@ export default function BuilderPage() {
         <div className="flex items-center gap-2 flex-end">
           {/* button to save as draft or publish */}
           <button
-            className="bg-blue-500 hover:bg-blue-600 active:bg-blue-600 text-white text-sm font-bold py-2 px-4 rounded-md disabled:opacity-50 cursor-pointer"
+            className="btn btn-primary"
             id={"save-draft"}
             disabled={isSubmitting}
             onClick={() =>
@@ -109,11 +110,14 @@ export default function BuilderPage() {
             {isSubmitting ? (
               <div class="h-4 w-4 animate-spin rounded-full border-2 border-white/30 border-t-white" />
             ) : (
-              <span>Save as draft</span>
+              <>
+                <SavePen size={16} />
+                <span>Save as draft</span>
+              </>
             )}
           </button>
           <button
-            className="bg-blue-500 hover:bg-blue-600 active:bg-blue-600 text-white text-sm font-bold py-2 px-4 rounded-md disabled:opacity-50 cursor-pointer"
+            className="btn btn-primary"
             id={"publish"}
             disabled={isSubmitting}
             onClick={() =>
@@ -126,7 +130,10 @@ export default function BuilderPage() {
             {isSubmitting ? (
               <div class="h-4 w-4 animate-spin rounded-full border-2 border-white/30 border-t-white" />
             ) : (
-              <span>Publish</span>
+              <>
+                <Send size={16} />
+                <span>Publish</span>
+              </>
             )}
           </button>
         </div>

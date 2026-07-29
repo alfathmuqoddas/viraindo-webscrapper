@@ -6,7 +6,7 @@ import {query, collection, where, orderBy, limit, getDocs, startAfter, Timestamp
 import {dbLite} from "@/firebase/client";
 import { type TBuild } from "@/type";
 
-const PAGE_SIZE = 10
+const PAGE_SIZE = 12
 const cursorParam = Astro.url.searchParams.get("cursor");
 
 let builds: (TBuild & { id: string })[] = [];
@@ -63,12 +63,12 @@ try {
                 <div slot="fallback">Loading...</div>
             </CompletedBuildsPage>
         }
-        <nav class="mt-8 flex gap-1 w-full justify-center">
+        <nav class="mt-8 flex gap-2 w-full justify-center">
             {/* Go Back / First Page */}
             <a 
                 id="back-button"
                 href="/completed-builds" 
-                class={`bg-blue-500 rounded-md px-2 py-1 text-sm cursor-pointer text-white ${!cursorParam ? "pointer-events-none opacity-50" : ""}`}
+                class={`btn btn-primary ${!cursorParam ? "pointer-events-none opacity-50" : ""}`}
             >
                 Prev
             </a>
@@ -77,7 +77,7 @@ try {
             {nextCursor && (
                 <a 
                     href={`/completed-builds?cursor=${encodeURIComponent(nextCursor)}`} 
-                    class="bg-blue-500 rounded-md px-2 py-1 text-sm cursor-pointer text-white"
+                    class="btn btn-primary"
                 >
                     Next
                 </a>

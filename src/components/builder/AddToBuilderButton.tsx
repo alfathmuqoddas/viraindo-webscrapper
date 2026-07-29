@@ -18,7 +18,7 @@ export const AddToBuilderButton = ({ part }: { part: PartWithoutId }) => {
   };
   return (
     <button
-      className="ml-2 bg-blue-500 hover:bg-blue-600 active:bg-blue-600 text-white text-sm font-medium px-2 py-1 cursor-pointer rounded-md"
+      className="btn btn-sm btn-primary"
       onClick={handleClick}
       aria-label="Add to builder"
       title="Add to builder"
