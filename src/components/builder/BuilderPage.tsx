@@ -69,9 +69,7 @@ export default function BuilderPage() {
         onSubmit={(e) => e.preventDefault()}
       >
         <div>
-          <label className="block text-sm mb-1 font-medium text-gray-700">
-            Title
-          </label>
+          <label className="block text-sm mb-1 font-bold">Title</label>
           <input
             type="text"
             className="block w-full rounded-md p-2 border bg-white border-gray-300"
@@ -83,7 +81,7 @@ export default function BuilderPage() {
         </div>
 
         <div>
-          <label className="block text-sm font-medium mb-1 text-gray-700">
+          <label className="block text-sm font-bold mb-1">
             {"Description (optional)"}
           </label>
           <textarea

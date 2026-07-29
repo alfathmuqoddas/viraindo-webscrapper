@@ -101,7 +101,7 @@ export const LoginButton = () => {
                     <button
                       id="logoutButton"
                       onClick={handleLogout}
-                      className="inline-flex justify-between cursor-pointer items-center w-full p-2 hover:bg-blue-400 hover:text-white rounded-md"
+                      className="inline-flex justify-between cursor-pointer items-center w-full p-2 hover:bg-blue-400 hover:text-white active:bg-blue-400 active:text-white rounded-md"
                     >
                       {menu.label}
                       <LogOut size={12} className="text-red-500" />
@@ -110,7 +110,7 @@ export const LoginButton = () => {
                     <a
                       id={menu.href.replace("/", "")}
                       href={menu.href}
-                      className="inline-flex items-center w-full p-2 hover:bg-blue-400 hover:text-white rounded-md"
+                      className="inline-flex items-center w-full p-2 hover:bg-blue-400 hover:text-white active:bg-blue-400 active:text-white rounded-md"
                     >
                       {menu.label}
                     </a>
