@@ -1,36 +1,51 @@
 ---
 import BuildCardDetail from "./BuildCardDetail.astro";
+import { CommentForm, CommentLists } from "./comments";
+import {formatIsoDate} from "@/lib/helper";
 import { type TBuild } from "@/type";
 
 interface Props {
-    buildProps: TBuild & { id: string };
+    buildProps?: TBuild & { id: string };
 }
 
 const { buildProps } = Astro.props
+                          
 ---
 <div class="flex flex-col md:flex-row gap-4 md:gap-8">
     <BuildCardDetail buildParts={buildProps?.parts ?? []} />
     <div class="w-full md:w-3/4">
-            <div class="mb-4">
-                <h1 class="font-bold text-xl mb-2">
-                    {buildProps.title}
-                </h1>
-                <div class="flex items-center gap-1">
-                    <figure class="size-8 rounded-full overflow-hidden shrink-0">
-                        <img
-                            src={buildProps.userPhotoUrl}
-                            alt={`${buildProps.userName}'s profile picture`}
-                            class="w-full h-full object-cover"
-                        />
-                    </figure>
-                    <span class="text-sm">
-                        {buildProps.userName}
-                    </span>
-                </div>
+        <div class="space-y-4">
+            <h1 class="font-bold text-2xl">
+                {buildProps?.title}
+            </h1>
+            <div class="flex items-center gap-2">
+                <figure class="size-8 rounded-full overflow-hidden shrink-0">
+                    <img
+                        src={buildProps?.userPhotoUrl}
+                        alt={`${buildProps?.userName}'s profile picture`}
+                        class="w-full h-full object-cover"
+                    />
+                </figure>
+                <span class="">
+                    <p class="font-bold text-sm">{buildProps?.userName}</p>
+                    <p class="text-sm text-gray-500">{formatIsoDate({type: "localeUS", date: buildProps?.createdAt as any})}</p>
+                </span>
             </div>
-            <h2 class="font-bold text-lg">Description</h2>
-            <p class="text-justify text-gray-500">
-                {buildProps.description}
-            </p>
+
+            <div class="">
+                <h2 class="font-bold text-lg">Description</h2>
+                <p class="text-justify text-gray-600">
+                    {buildProps?.description}
+                </p>
+            </div>
+
+            <div>
+                <CommentForm buildId={buildProps?.id ?? ""} client:load />
+            </div>
+
+            <div class="">
+                <CommentLists buildId={buildProps?.id ?? ""} client:load />
+            </div>
+        </div>
     </div>
 </div>
