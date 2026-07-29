@@ -27,6 +27,8 @@ try {
     build = {
         id: docSnap.id,
         ...(docSnap.data() as TBuild),
+        createdAt: docSnap?.data()?.createdAt?.toDate?.()?.toISOString() ?? null,
+        updatedAt: docSnap?.data()?.updatedAt?.toDate?.()?.toISOString() ?? null,
     };
 
 } catch (e) {

@@ -1,6 +1,7 @@
 ---
 import { type TBuild } from "@/type";
 import { currencyFormatter } from "@/lib/helper";
+import {formatTimestampDate} from "@/lib/helper";
 
 interface Props {
     build: TBuild & { id: string };
@@ -19,7 +20,7 @@ const totalPrice = parts.reduce((acc, part) => acc + part.price, 0);
   <article class="bg-white flex flex-col gap-2 shadow hover:shadow-lg rounded-lg p-3 h-full cursor-pointer transition-shadow duration-200">
     {/* card header */}
     <header class="flex items-center gap-2">
-      <figure class="w-6 h-6 rounded-full overflow-hidden shrink-0">
+      <figure class="size-8 rounded-full overflow-hidden shrink-0">
         <img
           src={build.userPhotoUrl}
           alt={`${build.userName}'s profile picture`}
@@ -27,7 +28,10 @@ const totalPrice = parts.reduce((acc, part) => acc + part.price, 0);
           referrerpolicy="no-referrer"
         />
       </figure>
-      <p class="text-sm truncate">{build.userName}</p>
+      <span>
+      <p class="text-sm font-bold truncate">{build.userName}</p>
+      <p class="text-xs text-gray-500">{formatTimestampDate({type: "relative", timestamp: build.createdAt})}</p>
+      </span>
     </header>
 
     {/* card body */}

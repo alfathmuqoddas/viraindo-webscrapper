@@ -15,6 +15,7 @@ import { useAuth } from "@/hooks/useAuth";
 import { RemoveMyBuild } from "@/components/my-builds/RemoveMyBuild";
 import type { TBuild } from "@/type";
 import { navigate } from "astro:transitions/client";
+import { formatTimestampDate } from "@/lib/helper";
 
 export const MyBuildsPage = () => {
   const [builds, setBuilds] = useState<any[]>([]);
@@ -193,23 +194,17 @@ export const MyBuildsPage = () => {
                           <span class="btn btn-sm btn-secondary">Draft</span>
                         )}
                       </td>
-                      <td className="p-3 align-middle text-center">
-                        {build?.createdAt
-                          ?.toDate?.()
-                          ?.toLocaleDateString("en-US", {
-                            month: "short",
-                            day: "numeric",
-                            year: "numeric",
-                          })}
+                      <td className="p-3 align-middle text-sm text-center">
+                        {formatTimestampDate({
+                          type: "simple",
+                          timestamp: build?.createdAt,
+                        })}
                       </td>
-                      <td className="p-3 align-middle text-center">
-                        {build?.updatedAt
-                          ?.toDate?.()
-                          ?.toLocaleDateString("en-US", {
-                            month: "short",
-                            day: "numeric",
-                            year: "numeric",
-                          })}
+                      <td className="p-3 align-middle text-sm text-center">
+                        {formatTimestampDate({
+                          type: "simple",
+                          timestamp: build?.updatedAt,
+                        })}
                       </td>
                       <td className="p-3 align-middle text-center">
                         <RemoveMyBuild

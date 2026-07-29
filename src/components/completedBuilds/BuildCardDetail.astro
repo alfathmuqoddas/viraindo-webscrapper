@@ -25,7 +25,7 @@ const totalPrice = (buildParts ?? []).reduce((acc, part) => acc + part.price, 0)
         {buildParts.map((part) => (
             <span class="flex flex-col gap-1 py-2 text-justify">
                 <p class="text-xs text-gray-500">{part.type}</p>
-                <p class="font-semibold text-sm">{part.model}</p>
+                <a href={`https://google.com/search?q=${part.model}`} target="_blank" class="hover:text-blue-500 active:text-blue-500 active:underline active:underline-offset-2 transition-colors duration-150 cursor-pointer font-semibold text-sm">{part.model} 🔍</a>
                 <p class="text-sm">{currencyFormatter.format(part.price)}</p>
             </span>
         ))}
