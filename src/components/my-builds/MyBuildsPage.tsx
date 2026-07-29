@@ -14,6 +14,7 @@ import {
 import { useAuth } from "@/hooks/useAuth";
 import { RemoveMyBuild } from "@/components/my-builds/RemoveMyBuild";
 import type { TBuild } from "@/type";
+import { navigate } from "astro:transitions/client";
 
 export const MyBuildsPage = () => {
   const [builds, setBuilds] = useState<any[]>([]);
@@ -128,9 +129,19 @@ export const MyBuildsPage = () => {
         <div className=""> Error: {error}</div>
       ) : (
         <>
-          <h2 className="mb-2">
-            You have {builds.length} build{builds.length === 1 ? "" : "s"}
-          </h2>
+          <div className="flex items-end gap-4 justify-between mb-2">
+            <h2>
+              You have {builds.length} build{builds.length === 1 ? "" : "s"}
+            </h2>
+            <button
+              className="btn btn-primary"
+              onClick={() => navigate("/builder")}
+              title="View all builds"
+            >
+              + New Build
+            </button>
+          </div>
+
           <div className="overflow-x-auto border w-full text-sm mb-4">
             <table className="w-full min-w-xl bg-white">
               <thead>
@@ -138,6 +149,7 @@ export const MyBuildsPage = () => {
                   <th className="p-3 w-[5%] text-center font-bold">No</th>
                   <th className="p-3 w-[25%] font-bold">Title</th>
                   <th className="p-3 w-[35%] font-bold">Description</th>
+                  <th className="p-3 w-[10%] font-bold">Status</th>
                   <th className="p-3 w-[12%] text-center font-bold whitespace-nowrap">
                     Date Created
                   </th>
@@ -173,6 +185,13 @@ export const MyBuildsPage = () => {
                       </td>
                       <td className="p-3 align-middle text-sm max-w-xs truncate">
                         {build.description}
+                      </td>
+                      <td className="p-3 align-middle text-sm max-w-xs">
+                        {build.isPublished ? (
+                          <span class="btn btn-sm btn-primary">Published</span>
+                        ) : (
+                          <span class="btn btn-sm btn-secondary">Draft</span>
+                        )}
                       </td>
                       <td className="p-3 align-middle text-center">
                         {build?.createdAt
@@ -211,7 +230,7 @@ export const MyBuildsPage = () => {
       {hasMore && (
         <div className="flex justify-center">
           <button
-            className="bg-blue-500 hover:bg-blue-600 active:bg-blue-600 text-white text-sm font-bold py-2 px-4 rounded-md disabled:opacity-50 cursor-pointer"
+            className="btn btn-primary"
             onClick={loadMoreMyBuilds}
             disabled={isLoading}
           >
