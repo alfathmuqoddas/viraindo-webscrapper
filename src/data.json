@@ -9201,7 +9201,7 @@
     "type": "storage",
     "brand": "SAMSUNG",
     "model": "Samsung SSD PM991 256 GB PCIe NVME M2 2280 - Hi Speed (Ready Stock)",
-    "price": 990000
+    "price": 1490000
   },
   {
     "type": "storage",
@@ -9231,13 +9231,13 @@
     "type": "storage",
     "brand": "SAMSUNG",
     "model": "Samsung SSD PM9C1b 256 GB PCIe NVME M2 2242 - Super Hi Speed (Ready Stock)",
-    "price": 990000
+    "price": 1490000
   },
   {
     "type": "storage",
     "brand": "SAMSUNG",
     "model": "Samsung SSD PM9C1b 256 GB PCIe NVME M2 2280 - Super Hi Speed (Ready Stock)",
-    "price": 990000
+    "price": 1490000
   },
   {
     "type": "storage",
@@ -11654,8 +11654,14 @@
   {
     "type": "storage",
     "brand": "TOSHIBA",
-    "model": "Toshiba Kioxia KBG50ZNS512G NVME Pcie Gen4x4 M.2 2230 512 GB (Ready Stock)",
-    "price": 1590000
+    "model": "Toshiba Kioxia NVME Pcie Gen4x4 M.2 2230 512 GB (Ready Stock)",
+    "price": 1990000
+  },
+  {
+    "type": "storage",
+    "brand": "TOSHIBA",
+    "model": "Toshiba Kioxia NVME Pcie Gen4x4 M.2 2280 256 GB (Ready Stock)",
+    "price": 1290000
   },
   {
     "type": "storage",
@@ -20647,7 +20653,7 @@
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "OTHER",
     "model": "Ace Power FP550 V2 550W 80+ Bronze",
     "price": 550000
   },
@@ -23149,97 +23155,97 @@
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "LIAN LI",
     "model": "LIAN LI EDGE GOLD 1000 1000W BLACK with L-Shape Design - Fully Modular - 80+ Gold Certified - Built-in USB HUB - Cybenetics ATX 3.1 - PCIE 5.1 Ready - 10 Years Warranty Replacement",
     "price": 2300000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "LIAN LI",
     "model": "LIAN LI EDGE GOLD 1000 1000W WHITE with L-Shape Design - Fully Modular - 80+ Gold Certified - Built-in USB HUB - Cybenetics ATX 3.1 - PCIE 5.1 Ready - 10 Years Warranty Replacement",
     "price": 2300000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "LIAN LI",
     "model": "LIAN LI EDGE GOLD 1200 1200W BLACK with L-Shape Design - Fully Modular - 80+ Gold Certified - Built-in USB HUB - Cybenetics ATX 3.1 - PCIE 5.1 Ready - 10 Years Warranty Replacement",
     "price": 2500000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "LIAN LI",
     "model": "LIAN LI EDGE GOLD 1200 1200W WHITE with L-Shape Design - Fully Modular - 80+ Gold Certified - Built-in USB HUB - Cybenetics ATX 3.1 - PCIE 5.1 Ready - 10 Years Warranty Replacement",
     "price": 2500000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "LIAN LI",
     "model": "LIAN LI EDGE GOLD 750 750W BLACK with L-Shape Design - Fully Modular - 80+ Gold Certified - Cybenetics ATX 3.1 - PCIE 5.1 Ready - 10 Years Warranty Replacement",
     "price": 1600000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "LIAN LI",
     "model": "LIAN LI EDGE GOLD 850 850W BLACK with L-Shape Design - Fully Modular - 80+ Gold Certified - Cybenetics ATX 3.1 - PCIE 5.1 Ready - 10 Years Warranty Replacement",
     "price": 1700000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "LIAN LI",
     "model": "LIAN LI EDGE GOLD 850 850W WHITE with L-Shape Design - Fully Modular - 80+ Gold Certified - Cybenetics ATX 3.1 - PCIE 5.1 Ready - 10 Years Warranty Replacement",
     "price": 1700000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "LIAN LI",
     "model": "LIAN LI EDGE1000 1000W BLACK with L-Shape Design - 80+ Platinum Certified - Built-in USB HUB - Cybenetics ATX 3.1 - PCIE 5.1 Ready - 10 Years Warranty Replacement",
     "price": 3420000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "LIAN LI",
     "model": "LIAN LI EDGE1000 1000W WHITE with L-Shape Design - 80+ Platinum Certified - Built-in USB HUB - Cybenetics ATX 3.1 - PCIE 5.1 Ready - 10 Years Warranty Replacement",
     "price": 3470000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "LIAN LI",
     "model": "LIAN LI EDGE1300 1300W BLACK with L-Shape Design - 80+ Platinum Certified - Built-in USB HUB - Cybenetics ATX 3.1 - PCIE 5.1 Ready - 10 Years Warranty Replacement",
     "price": 4150000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "LIAN LI",
     "model": "LIAN LI EDGE1300 1300W WHITE with L-Shape Design - 80+ Platinum Certified - Built-in USB HUB - Cybenetics ATX 3.1 - PCIE 5.1 Ready - 10 Years Warranty Replacement",
     "price": 4200000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "LIAN LI",
     "model": "LIAN LI EDGE850 850W BLACK with L-Shape Design - 80+ Platinum Certified - Built-in USB HUB - Cybenetics ATX 3.1 - PCIE 5.1 Ready - 10 Years Warranty Replacement",
     "price": 2720000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "LIAN LI",
     "model": "LIAN LI SP750 BLACK SFX Series - 750W Fully Modular - 80+ Gold Certified - 5 Years Warranty Replacement",
     "price": 1780000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "LIAN LI",
     "model": "LIAN LI SP750 WHITE SFX Series - 750W Fully Modular - 80+ Gold Certified - 5 Years Warranty Replacement",
     "price": 1830000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "LIAN LI",
     "model": "LIAN LI SP850 BLACK SFX Series - 850W Fully Modular - 80+ Gold Certified - 5 Years Warranty Replacement",
     "price": 2120000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "LIAN LI",
     "model": "LIAN LI SP850 WHITE SFX Series - 850W Fully Modular - 80+ Gold Certified - 5 Years Warranty Replacement",
     "price": 2120000
   },
@@ -23887,13 +23893,13 @@
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "PRIME",
     "model": "PRIME NEXUS 550W BLACK - 80+ Bronze Certified with Flat Cable - 3 Years Warranty Replacement",
     "price": 540000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "PRIME",
     "model": "PRIME NEXUS 550W WHITE - 80+ Bronze Certified with Flat Cable - 3 Years Warranty Replacement",
     "price": 560000
   },
@@ -23917,37 +23923,37 @@
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "PRIME",
     "model": "PRIME PREMIUM GRANDE ATX 3.0 750W - 80+ Gold Certified - Full Modular - Japanese Capacitors - PCIe 5.0 Ready - 10 Years Warranty Replacement",
     "price": 1430000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "PRIME",
     "model": "PRIME PREMIUM GRANDE ATX 3.0 850W - 80+ Gold Certified - Full Modular - Japanese Capacitors - PCIe 5.0 Ready - 10 Years Warranty Replacement",
     "price": 1530000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "PRIME",
     "model": "PRIME PREMIUM TITAN ATX 3.1 750W BLACK - 80+ Gold Certified with Embossed Cable - Full Modular - Japanese Capacitors - PCIe 5.1 Ready - 5 Years Warranty Replacement",
     "price": 1220000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "PRIME",
     "model": "PRIME PREMIUM TITAN ATX 3.1 750W WHITE - 80+ Gold Certified with Embossed Cable - Full Modular - Japanese Capacitors - PCIe 5.1 Ready - 5 Years Warranty Replacement",
     "price": 1250000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "PRIME",
     "model": "PRIME PREMIUM TITAN ATX 3.1 850W BLACK - 80+ Gold Certified with Embossed Cable - Full Modular - Japanese Capacitors - PCIe 5.1 Ready - 5 Years Warranty Replacement",
     "price": 1350000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "PRIME",
     "model": "PRIME PREMIUM TITAN ATX 3.1 850W WHITE - 80+ Gold Certified with Embossed Cable - Full Modular - Japanese Capacitors - PCIe 5.1 Ready - 5 Years Warranty Replacement",
     "price": 1380000
   },
@@ -23965,463 +23971,463 @@
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Core Gold GC-500 - 500W - 80+ Gold Certified - 7 Years Warranty Replacement",
     "price": 1050000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Core Gold GC-650 - 650W - 80+ Gold Certified - 7 Years Warranty Replacement",
     "price": 1250000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Core Gold GM-550 - 550W Modular - 80+ Gold Certified - 7 Years Warranty Replacement",
     "price": 1190000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Core Gold GM-650 - 650W Modular - 80+ Gold Certified - 7 Years Warranty Replacement",
     "price": 1250000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Core GX ATX 3 GX-650 650W - Fully Modular - 80+ Gold Certified - ATX3.1 and PCIe 5.1 Ready - 7 Years Warranty Replacement",
     "price": 1580000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Core GX ATX 3 GX-750 750W - Fully Modular - 80+ Gold Certified - ATX3.1 and PCIe 5.1 Ready - 7 Years Warranty Replacement",
     "price": 1770000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Core GX ATX 3 GX-850 850W - Fully Modular - 80+ Gold Certified - ATX3.1 and PCIe 5.1 Ready - 7 Years Warranty Replacement",
     "price": 2050000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Gold GM-550 - 550W Semi Modular - 80+ Gold Certified - 7 Years Warranty Replacement",
     "price": 1210000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Gold GX-1000 - 1000W Full Modular - 80+ Gold Certified - 10 Years Warranty Replacement",
     "price": 2250000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Gold GX-1000 1000W - Fully Modular - 80+ Gold Certified - 10 Years Warranty Replacement",
     "price": 2950000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Gold GX-1000 ATX 3.0 - 1000W Full Modular - 80+ Gold Certified - ATX 3.0 Compatible - PCIe 5.0 Ready - 10 Years Warranty Replacement",
     "price": 2750000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Gold GX-1000 WHITE ATX 3.0 - 1000W Full Modular - 80+ Gold Certified - ATX 3.0 Compatible - PCIe 5.0 Ready - 10 Years Warranty Replacement",
     "price": 2950000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Gold GX-550 - 550W Full Modular - 80+ Gold Certified - 10 Years Warranty Replacement",
     "price": 1090000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Gold GX-650 - 650W Full Modular - 80+ Gold Certified - 10 Years Warranty Replacement",
     "price": 1290000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Gold GX-750 - 750W Full Modular - 80+ Gold Certified - 10 Years Warranty Replacement",
     "price": 1490000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Gold GX-750 WHITE EDITION - 750W Full Modular - 80+ Gold Certified - 10 Years Warranty Replacement",
     "price": 1950000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Gold GX-850 850W - Fully Modular - 80+ Gold Certified - 10 Years Warranty Replacement",
     "price": 2450000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Gold GX-850 ATX 3.0 - 850W Full Modular - 80+ Gold Certified - ATX 3.0 Compatible - PCIe 5.0 Ready - 10 Years Warranty Replacement",
     "price": 2300000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Gold GX-850 ATX 3.1 - 850W Fully Modular - 80+ Gold Certified - ATX 3.1 Compatible - PCIe 5.1 Ready - 10 Years Warranty Replacement",
     "price": 2070000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Gold GX-850 WHITE ATX 3.0 - 850W Full Modular - 80+ Gold Certified - ATX 3.0 Compatible - PCIe 5.0 Ready - 10 Years Warranty Replacement",
     "price": 2550000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Gold GX-850 WHITE EDITION - 850W Full Modular - 80+ Gold Certified - 10 Years Warranty Replacement",
     "price": 2150000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Gold SGX-500 SFX Series - 500W Full Modular - 80+ Gold Certified - 10 Years Warranty Replacement",
     "price": 1590000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Gold SGX-650 SFX Series - 650W Full Modular - 80+ Gold Certified - 10 Years Warranty Replacement",
     "price": 1790000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic FOCUS GX ATX 3.0 GX-850 850W - Fully Modular - 80+ Gold Certified - ATX 3.0 Compatible - PCIe 5.0 Ready - 10 Years Warranty Replacement",
     "price": 2600000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic FOCUS GX ATX 3.1 GX-1000 1000W - Fully Modular - 80+ Gold Certified - ATX 3.1 Compatible - PCIe 5.1 Ready - 10 Years Warranty Replacement",
     "price": 3150000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic FOCUS GX ATX 3.1 GX-750 750W - Fully Modular - 80+ Gold Certified - ATX 3.1 Compatible - PCIe 5.1 Ready - 10 Years Warranty Replacement",
     "price": 2250000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic FOCUS GX ATX 3.1 GX-850 850W - Fully Modular - 80+ Gold Certified - ATX 3.1 Compatible - PCIe 5.1 Ready - 10 Years Warranty Replacement",
     "price": 2650000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic FOCUS GX White ATX 3.1 GX-1000 1000W - Fully Modular - 80+ Gold Certified - ATX 3.1 Compatible - PCIe 5.1 Ready - 10 Years Warranty Replacement",
     "price": 3350000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic FOCUS GX White ATX 3.1 GX-850 850W - Fully Modular - 80+ Gold Certified - ATX 3.1 Compatible - PCIe 5.1 Ready - 10 Years Warranty Replacement",
     "price": 2850000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Platinum PX-650 - 650W Full Modular - 80+ Platinum Certified - 10 Years Warranty Replacement",
     "price": 1890000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Platinum PX-750 - 750W Full Modular - 80+ Platinum Certified - 10 Years Warranty Replacement",
     "price": 2190000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Platinum PX-850 - 850W Full Modular - 80+ Platinum Certified - 10 Years Warranty Replacement",
     "price": 2490000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Focus Platinum SPX-750 SFX Series - 750W Fully Modular - 80+ Platinum Certified - 10 Years Warranty Replacement",
     "price": 2550000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic G12 GM-650 650W - Semi Modular - 80+ Gold Certified - 5 Years Warranty Replacement",
     "price": 1280000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic G12 GM-750 750W - Semi Modular - 80+ Gold Certified - 5 Years Warranty Replacement",
     "price": 1430000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic G12 GM-850 850W - Semi Modular - 80+ Gold Certified - 5 Years Warranty Replacement",
     "price": 1630000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Fanless Titanium TX-700 - 700W Fully Modular - 80+ Titanium Certified - 12 Years Warranty Replacement",
     "price": 3470000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Gold GX-1000 - 1000W Full Modular - 80+ Gold Certified - 12 Years Warranty Replacement",
     "price": 2890000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Gold GX-1300 - 1300W Full Modular - 80+ Gold Certified - 12 Years Warranty Replacement",
     "price": 3490000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Gold GX-650 - 650W Full Modular - 80+ Gold Certified - 12 Years Warranty Replacement",
     "price": 1990000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Gold GX-750 - 750W Full Modular - 80+ Gold Certified - 12 Years Warranty Replacement",
     "price": 2190000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Gold GX-850 - 850W Full Modular - 80+ Gold Certified - 12 Years Warranty Replacement",
     "price": 2590000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Platinum PX-1000 - 1000W Full Modular - 80+ Platinum Certified - 12 Years Warranty Replacement",
     "price": 3400000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Platinum PX-1300 - 1300W Full Modular - 80+ Platinum Certified - 12 Years Warranty Replacement",
     "price": 3900000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Platinum PX-1600 - 1600W Fully Modular - 80+ Platinum Certified - 12 Years Warranty Replacement",
     "price": 5650000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Platinum PX-1600 ATX 3.0 - 1600W Fully Modular - 80+ Platinum Certified - ATX 3.0 Compatible - PCIe 5.0 Ready - 12 Years Warranty Replacement",
     "price": 6450000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Platinum PX-650 - 650W Full Modular - 80+ Platinum Certified - 12 Years Warranty Replacement",
     "price": 2250000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Platinum PX-750 - 750W Full Modular - 80+ Platinum Certified - 12 Years Warranty Replacement",
     "price": 2600000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Platinum PX-850 - 850W Full Modular - 80+ Platinum Certified - 12 Years Warranty Replacement",
     "price": 3000000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime PX ATX 3 PX-1600 1600W - Fully Modular - 80+ Platinum Certified - ATX3.1 and PCIe 5.1 Ready - 12 Years Warranty Replacement",
     "price": 6750000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime PX ATX 3 PX-2200 2200W - Fully Modular - 80+ Platinum Certified - ATX3.1 and PCIe 5.1 Ready - 12 Years Warranty Replacement",
     "price": 8650000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Titanium TX-1000 - 1000W Full Modular - 80+ TITANIUM Certified - 12 Years Warranty Replacement",
     "price": 4650000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Titanium TX-1300 - 1300W Fully Modular - 80+ Titanium Certified - 12 Years Warranty Replacement",
     "price": 6150000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Titanium TX-1300 ATX 3.0 - 1300W Fully Modular - 80+ Titanium Certified - ATX 3.0 Compatible - PCIe 5.0 Ready - 12 Years Warranty Replacement",
     "price": 7450000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Titanium TX-1600 - 1600W Fully Modular - 80+ Titanium Certified - 12 Years Warranty Replacement",
     "price": 7650000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Titanium TX-1600 ATX 3.0 - 1600W Fully Modular - 80+ Titanium Certified - ATX 3.0 Compatible - PCIe 5.0 Ready - 12 Years Warranty Replacement",
     "price": 8450000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Titanium TX-650 - 650W Full Modular - 80+ TITANIUM Certified - 12 Years Warranty Replacement",
     "price": 2750000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Titanium TX-750 - 750W Full Modular - 80+ TITANIUM Certified - 12 Years Warranty Replacement",
     "price": 3050000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic Prime Titanium TX-850 - 850W Full Modular - 80+ TITANIUM Certified - 12 Years Warranty Replacement",
     "price": 3450000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic PRIME TX ATX 3.1 TX-1300 1300W - Fully Modular - 80+ Titanium Certified - ATX 3.1 Compatible - PCIe 5.1 Ready - 12 Years Warranty Replacement",
     "price": 7350000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic PRIME TX ATX 3.1 TX-1600 1600W - Fully Modular - 80+ Titanium Certified - ATX 3.1 Compatible - PCIe 5.1 Ready - 12 Years Warranty Replacement",
     "price": 8800000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic S12II-450 EVO 450W - 80+ Bronze Certified - 3 Years Warranty Replacement - Retail Box (NO OEM)",
     "price": 690000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic S12III-500 500W - 80+ Bronze Certified - 5 Years Warranty Replacement - Retail Box (NO OEM)",
     "price": 645000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic S12III-550 550W - 80+ Bronze Certified - 5 Years Warranty Replacement - Retail Box (NO OEM)",
     "price": 745000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic S12III-650 650W - 80+ Bronze Certified - 5 Years Warranty Replacement - Retail Box (NO OEM)",
     "price": 960000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic VERTEX GX ATX 3 GX-1000 1000W - Fully Modular - 80+ Gold Certified - ATX 3.1 and PCIe 5.1 Ready - 12 Years Warranty Replacement",
     "price": 3450000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic VERTEX GX ATX 3 GX-1200 1200W - Fully Modular - 80+ Gold Certified - ATX3.1 and PCIe 5.1 Ready - 10 Years Warranty Replacement",
     "price": 3870000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic VERTEX GX-1000 - 1000W Fully Modular - 80+ Gold Certified - ATX 3.0 Compatible - PCIe 5.0 Ready - 10 Years Warranty Replacement",
     "price": 3150000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic VERTEX GX-750 - 750W Fully Modular - 80+ Gold Certified - ATX 3.0 Compatible - PCIe 5.0 Ready - 10 Years Warranty Replacement",
     "price": 2550000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic VERTEX GX-850 - 850W Fully Modular - 80+ Gold Certified - ATX 3.0 Compatible - PCIe 5.0 Ready - 10 Years Warranty Replacement",
     "price": 2850000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic VERTEX PX ATX 3.1 PX-1000 1000W - Fully Modular - 80+ Platinum Certified - ATX 3.1 Compatible - PCIe 5.1 Ready - 12 Years Warranty Replacement",
     "price": 3850000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic VERTEX PX ATX 3.1 PX-1200 1200W - Fully Modular - 80+ Platinum Certified - ATX 3.1 Compatible - PCIe 5.1 Ready - 12 Years Warranty Replacement",
     "price": 4550000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic VERTEX PX-1000 - 1000W Fully Modular - 80+ Platinum Certified - ATX 3.0 Compatible - PCIe 5.0 Ready - 10 Years Warranty Replacement",
     "price": 3450000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic VERTEX PX-1200 - 1200W Fully Modular - 80+ Platinum Certified - ATX 3.0 Compatible - PCIe 5.0 Ready - 10 Years Warranty Replacement",
     "price": 3950000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic VERTEX PX-850 - 850W Fully Modular - 80+ Platinum Certified - ATX 3.0 Compatible - PCIe 5.0 Ready - 10 Years Warranty Replacement",
     "price": 3050000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic VERTEX WHITE EDITION GX-1000 - 1000W Fully Modular - 80+ Gold Certified - ATX 3.0 Compatible - PCIe 5.0 Ready - 10 Years Warranty Replacement",
     "price": 3450000
   },
   {
     "type": "psu",
-    "brand": "ACE",
+    "brand": "SEASONIC",
     "model": "Seasonic VERTEX WHITE EDITION GX-1200 - 1200W Fully Modular - 80+ Gold Certified - ATX 3.0 Compatible - PCIe 5.0 Ready - 10 Years Warranty Replacement",
     "price": 4150000
   },
@@ -115617,103 +115623,103 @@
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 16 GB SSD 1 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 16999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 16 GB SSD 2 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 16 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 19999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 16 GB SSD 4 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 16 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 23999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 16 GB SSD 512 GB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 14999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 32 GB SSD 1 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 20499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 32 GB SSD 2 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 23499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 32 GB SSD 4 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 27499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 32 GB SSD 512 GB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 32 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 18499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 64 GB SSD 1 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 64 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 27499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 64 GB SSD 2 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 64 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 30499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 64 GB SSD 4 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 64 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 34499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 64 GB SSD 512 GB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 64 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 25499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 8 GB SSD 1 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 8 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 14999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 8 GB SSD 2 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 8 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
     "price": 17999000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
+    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 16 GB SSD 2 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 16 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 20999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 16 GB SSD 4 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 16 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 24999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 16 GB SSD 512 GB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 15999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 32 GB SSD 1 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 21499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 32 GB SSD 2 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 24499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 32 GB SSD 4 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 28499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 32 GB SSD 512 GB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 32 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 19499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 64 GB SSD 1 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 64 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 28499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 64 GB SSD 2 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 64 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 31499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 64 GB SSD 4 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 64 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 35499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 64 GB SSD 512 GB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 64 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 26499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 8 GB SSD 1 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 8 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 15999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 8 GB SSD 2 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 8 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 18999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
     "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 8 GB SSD 4 TB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 8 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 21999000
+    "price": 22999000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 8 GB SSD 512 GB RTX3050 Win 11 + OH / Asus V16 V3607VJ-I535B1T-HM / Asus V16 V3607VJ-I535K1T-HM / ASUS GAMING V16 V3607VJ CORE I5 210H 8GB 512GB RTX3050 6GB W11+OHS (Intel Core 5 210H, RAM 8 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Win 11 Home + Office Home) Ready Stock (Matte Black)",
-    "price": 12099000
+    "price": 13099000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Gaming V16 V3607VJ Core 5 210H Memori 8 GB SSD 512 GB RTX3050 Win 11 Pro + OH (Intel Core 5 210H, RAM 8 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 6 GB, LED 16 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 12999000
+    "price": 13999000
   },
   {
     "type": "notebook",
@@ -121767,79 +121773,79 @@
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 16 GB SSD 1 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 13999000
+    "price": 14999000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 16 GB SSD 2 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 16999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 20999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 16 GB SSD 512 GB Win 11 + OH / Asus Vivobook 14 A1404VAP-VIPS5151M / Asus Vivobook 14 A1404VAP-VIPS5152M / Asus Vivobook 14 A1404VAP-VIPS5153M / ASUS VIVOBOOK 14 A1404VAP CORE I5 120U 16GB 512GB W11+OHS (Intel Core 5 120U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Win 11 Home + Office Home) Ready Stock (Quiet Blue, Terra Cotta, Silver)",
-    "price": 10999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 16 GB SSD 512 GB Win 11 Pro + OH (Intel Core 5 120U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 11999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 24 GB SSD 1 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 24 GB, SSD 1 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 15499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 24 GB SSD 2 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 24 GB, SSD 2 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 18499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 24 GB SSD 4 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 24 GB, SSD 4 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 22499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 24 GB SSD 512 GB Win 11 Pro + OH (Intel Core 5 120U, RAM 24 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 13499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 40 GB SSD 1 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 40 GB, SSD 1 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
     "price": 17999000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 21999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 16 GB SSD 512 GB Win 11 + OH / Asus Vivobook 14 A1404VAP-VIPS5151M / Asus Vivobook 14 A1404VAP-VIPS5152M / Asus Vivobook 14 A1404VAP-VIPS5153M / ASUS VIVOBOOK 14 A1404VAP CORE I5 120U 16GB 512GB W11+OHS (Intel Core 5 120U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Win 11 Home + Office Home) Ready Stock (Quiet Blue, Terra Cotta, Silver)",
+    "price": 11599000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 16 GB SSD 512 GB Win 11 Pro + OH (Intel Core 5 120U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 12999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 24 GB SSD 1 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 24 GB, SSD 1 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 16499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 24 GB SSD 2 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 24 GB, SSD 2 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 19499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 24 GB SSD 4 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 24 GB, SSD 4 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 23499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 24 GB SSD 512 GB Win 11 Pro + OH (Intel Core 5 120U, RAM 24 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 14499000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 40 GB SSD 1 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 40 GB, SSD 1 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 18999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
     "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 40 GB SSD 2 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 40 GB, SSD 2 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 20999000
+    "price": 21999000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 40 GB SSD 4 TB Win 11 Pro + OH (Intel Core 5 120U, RAM 40 GB, SSD 4 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 24999000
+    "price": 25999000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook 14 A1404VAP Core 5 120U Memori 40 GB SSD 512 GB Win 11 Pro + OH (Intel Core 5 120U, RAM 40 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 15999000
+    "price": 16999000
   },
   {
     "type": "notebook",
@@ -121875,91 +121881,91 @@
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 16 GB SSD 1 TB Win 11 + OH / Asus Vivobook 14 A1404VAP-VIPS7111M / Asus Vivobook 14 A1404VAP-VIPS7112M / Asus Vivobook 14 A1404VAP-VIPS7113M / ASUS VIVOBOOK 14 A1404VAP CORE I7 150U 16GB 1TB W11+OHS (Intel Core 7 150U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 14 FHD, Win 11 Home + Office Home) Ready Stock (Blue, TerraCotta, Silver)",
-    "price": 14099000
+    "price": 15099000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 16 GB SSD 1 TB Win 11 Pro + OH (Intel Core 7 150U, RAM 16 GB, SSD 1 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 15499000
+    "price": 15999000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 16 GB SSD 2 TB Win 11 Pro + OH (Intel Core 7 150U, RAM 16 GB, SSD 2 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 19499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core 7 150U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 23499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 16 GB SSD 512 GB Win 11 + OH / Asus Vivobook 14 A1404VAP-VIPS7154M / Asus Vivobook 14 A1404VAP-VIPS7155M / Asus Vivobook 14 A1404VAP-VIPS7156M / ASUS VIVOBOOK 14 A1404VAP CORE I7 150U 16GB 512GB W11+OHS (Intel Core 7 150U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Win 11 Home + Office Home) Ready Stock (Blue, TerraCotta, Silver)",
-    "price": 13499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 16 GB SSD 512 GB Win 11 Pro + OH (Intel Core 7 150U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 14499000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 40 GB SSD 1 TB Win 11 Pro + OH (Intel Core 7 150U, RAM 40 GB, SSD 1 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
     "price": 19999000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 40 GB SSD 2 TB Win 11 Pro + OH (Intel Core 7 150U, RAM 40 GB, SSD 2 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 22999000
+    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core 7 150U, RAM 16 GB, SSD 4 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 23999000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 40 GB SSD 4 TB Win 11 Pro + OH (Intel Core 7 150U, RAM 40 GB, SSD 4 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 26999000
+    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 16 GB SSD 512 GB Win 11 + OH / Asus Vivobook 14 A1404VAP-VIPS7154M / Asus Vivobook 14 A1404VAP-VIPS7155M / Asus Vivobook 14 A1404VAP-VIPS7156M / ASUS VIVOBOOK 14 A1404VAP CORE I7 150U 16GB 512GB W11+OHS (Intel Core 7 150U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Win 11 Home + Office Home) Ready Stock (Blue, TerraCotta, Silver)",
+    "price": 14099000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 40 GB SSD 512 GB Win 11 Pro + OH (Intel Core 7 150U, RAM 40 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 17999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 8 GB SSD 1 TB Win 11 Pro + OH (Intel Core 7 150U, RAM 8 GB, SSD 1 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 16 GB SSD 512 GB Win 11 Pro + OH (Intel Core 7 150U, RAM 16 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
     "price": 14999000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 8 GB SSD 2 TB Win 11 Pro + OH (Intel Core 7 150U, RAM 8 GB, SSD 2 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 17999000
-  },
-  {
-    "type": "notebook",
-    "brand": "ASUS",
-    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 8 GB SSD 4 TB Win 11 Pro + OH (Intel Core 7 150U, RAM 8 GB, SSD 4 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 40 GB SSD 1 TB Win 11 Pro + OH (Intel Core 7 150U, RAM 40 GB, SSD 1 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
     "price": 21999000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 40 GB SSD 2 TB Win 11 Pro + OH (Intel Core 7 150U, RAM 40 GB, SSD 2 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 24999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 40 GB SSD 4 TB Win 11 Pro + OH (Intel Core 7 150U, RAM 40 GB, SSD 4 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 29999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 40 GB SSD 512 GB Win 11 Pro + OH (Intel Core 7 150U, RAM 40 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 19999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 8 GB SSD 1 TB Win 11 Pro + OH (Intel Core 7 150U, RAM 8 GB, SSD 1 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 15999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 8 GB SSD 2 TB Win 11 Pro + OH (Intel Core 7 150U, RAM 8 GB, SSD 2 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 18999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
+    "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 8 GB SSD 4 TB Win 11 Pro + OH (Intel Core 7 150U, RAM 8 GB, SSD 4 TB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 22999000
+  },
+  {
+    "type": "notebook",
+    "brand": "ASUS",
     "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 8 GB SSD 512 GB Win 11 + OH / Asus Vivobook 14 A1404VAP-VIPS7851M / Asus Vivobook 14 A1404VAP-VIPS7852M / Asus Vivobook 14 A1404VAP-VIPS7853M / ASUS VIVOBOOK 14 A1404VAP CORE I7 150U 8GB 512GB W11+OHS (Intel Core 7 150U, RAM 8 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Win 11 Home + Office Home) Ready Stock (Blue, TerraCotta, Silver)",
-    "price": 12099000
+    "price": 12999000
   },
   {
     "type": "notebook",
     "brand": "ASUS",
     "model": "Asus Vivobook 14 A1404VAP Core 7 150U Memori 8 GB SSD 512 GB Win 11 Pro + OH (Intel Core 7 150U, RAM 8 GB, SSD 512 GB, Vga Intel Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 12999000
+    "price": 13999000
   },
   {
     "type": "notebook",
@@ -130737,115 +130743,115 @@
     "type": "notebook",
     "brand": "HP",
     "model": "HP 14 Core i3 1315U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 16 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 12400000
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14 Core i3 1315U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 16 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 15400000
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14 Core i3 1315U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 16 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 19400000
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14 Core i3 1315U Memori 16 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 10400000
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14 Core i3 1315U Memori 4 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 4 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 9900000
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14 Core i3 1315U Memori 4 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 4 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
     "price": 12900000
   },
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP 14 Core i3 1315U Memori 4 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 4 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 16900000
+    "model": "HP 14 Core i3 1315U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 16 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 15900000
   },
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP 14 Core i3 1315U Memori 4 GB SSD 512 GB Win 11 + OHS / HP 14-EP0321TU / HP 14-EP0269TU / HP 14 I3 1315 4GB 512GB W11+OHS (Intel Core i3 1315U, RAM 4 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD, Win 11 Home + Office Home Student) Ready Stock (Silver, Silver)",
-    "price": 7050000
+    "model": "HP 14 Core i3 1315U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 16 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 19900000
   },
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP 14 Core i3 1315U Memori 4 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 4 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 7900000
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP 14 Core i3 1315U Memori 8 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "model": "HP 14 Core i3 1315U Memori 16 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
     "price": 10900000
   },
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP 14 Core i3 1315U Memori 8 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "model": "HP 14 Core i3 1315U Memori 4 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 4 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 10900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP 14 Core i3 1315U Memori 4 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 4 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
     "price": 13900000
   },
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP 14 Core i3 1315U Memori 8 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "model": "HP 14 Core i3 1315U Memori 4 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 4 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
     "price": 17900000
   },
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP 14 Core i3 1315U Memori 8 GB SSD 512 GB Win 11 + OHS / HP 14-EP0260TU / HP 14-EP0261TU / HP 14-EP0266TU / HP 14 I3 1315 8GB 512GB W11+OHS (Intel Core i3 1315U, RAM 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD, Win 11 Home + Office Home Student) Ready Stock (Gold, Silver, Silver)",
-    "price": 8000000
+    "model": "HP 14 Core i3 1315U Memori 4 GB SSD 512 GB Win 11 + OHS / HP 14-EP0321TU / HP 14-EP0269TU / HP 14 I3 1315 4GB 512GB W11+OHS (Intel Core i3 1315U, RAM 4 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD, Win 11 Home + Office Home Student) Ready Stock (Silver, Silver)",
+    "price": 7800000
   },
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP 14 Core i3 1315U Memori 8 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "model": "HP 14 Core i3 1315U Memori 4 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 4 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
     "price": 8900000
   },
   {
     "type": "notebook",
     "brand": "HP",
+    "model": "HP 14 Core i3 1315U Memori 8 GB SSD 1 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 11400000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP 14 Core i3 1315U Memori 8 GB SSD 2 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 14400000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP 14 Core i3 1315U Memori 8 GB SSD 4 TB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 18400000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP 14 Core i3 1315U Memori 8 GB SSD 512 GB Win 11 + OHS / HP 14-EP0260TU / HP 14-EP0261TU / HP 14-EP0266TU / HP 14 I3 1315 8GB 512GB W11+OHS (Intel Core i3 1315U, RAM 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD, Win 11 Home + Office Home Student) Ready Stock (Gold, Silver, Silver)",
+    "price": 8400000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP 14 Core i3 1315U Memori 8 GB SSD 512 GB Win 11 Pro + OHS (Intel Core i3 1315U, RAM 8 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 9400000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
     "model": "HP 14 Core Ultra 5 125H Memori 16 GB SSD 1 TB Win 11 Pro + OH (Intel Core Ultra 5 125H, RAM 16 GB, SSD 1 TB, Vga Intel Arc Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 13900000
+    "price": 14400000
   },
   {
     "type": "notebook",
     "brand": "HP",
     "model": "HP 14 Core Ultra 5 125H Memori 16 GB SSD 2 TB Win 11 Pro + OH (Intel Core Ultra 5 125H, RAM 16 GB, SSD 2 TB, Vga Intel Arc Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 16900000
+    "price": 17400000
   },
   {
     "type": "notebook",
     "brand": "HP",
     "model": "HP 14 Core Ultra 5 125H Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core Ultra 5 125H, RAM 16 GB, SSD 4 TB, Vga Intel Arc Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 20900000
+    "price": 21400000
   },
   {
     "type": "notebook",
     "brand": "HP",
     "model": "HP 14 Core Ultra 5 125H Memori 16 GB SSD 512 GB Win 11 + OH / HP 14-EP1188TU / HP 14 ULTRA 5 125H 16GB 512GB W11+OHS (Intel Core Ultra 5 125H, RAM 16 GB, SSD 512 GB, Vga Intel Arc Graphics, LED 14 FHD, Win 11 Home + Office Home) Ready Stock (Silver)",
-    "price": 11100000
+    "price": 11200000
   },
   {
     "type": "notebook",
     "brand": "HP",
     "model": "HP 14 Core Ultra 5 125H Memori 16 GB SSD 512 GB Win 11 Pro + OH (Intel Core Ultra 5 125H, RAM 16 GB, SSD 512 GB, Vga Intel Arc Graphics, LED 14 FHD, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 11900000
+    "price": 12400000
   },
   {
     "type": "notebook",
@@ -130941,31 +130947,31 @@
     "type": "notebook",
     "brand": "HP",
     "model": "HP 14 Ryzen 7 7730U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (AMD Ryzen 7 7730U, RAM 16 GB, SSD 1 TB, Vga AMD Radeon Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 14900000
+    "price": 15400000
   },
   {
     "type": "notebook",
     "brand": "HP",
     "model": "HP 14 Ryzen 7 7730U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (AMD Ryzen 7 7730U, RAM 16 GB, SSD 2 TB, Vga AMD Radeon Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 17900000
+    "price": 18400000
   },
   {
     "type": "notebook",
     "brand": "HP",
     "model": "HP 14 Ryzen 7 7730U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (AMD Ryzen 7 7730U, RAM 16 GB, SSD 4 TB, Vga AMD Radeon Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 21900000
+    "price": 22400000
   },
   {
     "type": "notebook",
     "brand": "HP",
     "model": "HP 14 Ryzen 7 7730U Memori 16 GB SSD 512 GB Win 11 + OHS / HP 14-EM0167AU / HP 14-EM0168AU / HP 14-EM0730AU / HP 14-EM0731AU / HP 14 RYZEN 7 7730 16GB 512GB W11+OHS (AMD Ryzen 7 7730U, RAM 16 GB, SSD 512 GB, Vga AMD Radeon Graphics, LED 14\" FHD, Win 11 Home + Office Home Student) Ready Stock (Gold, Silver, Silver, Gold)",
-    "price": 11900000
+    "price": 12400000
   },
   {
     "type": "notebook",
     "brand": "HP",
     "model": "HP 14 Ryzen 7 7730U Memori 16 GB SSD 512 GB Win 11 Pro + OHS (AMD Ryzen 7 7730U, RAM 16 GB, SSD 512 GB, Vga AMD Radeon Graphics, LED 14\" FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 12900000
+    "price": 13400000
   },
   {
     "type": "notebook",
@@ -134282,8 +134288,38 @@
   {
     "type": "notebook",
     "brand": "HP",
+    "model": "HP OMEN Max 16 Ryzen AI 7 350 Memori 16 GB SSD 1 TB RTX5070Ti Win 11 / HP OMEN MAX 16 RYZEN AI 7 350H 16GB 1TB RTX5070TI 12GB W11 (AMD Ryzen AI 7 350, RAM 16 GB, SSD 1 TB, Vga Geforce RTX5070 Ti 12 GB, LED 16 FHD, Win 11 Home) Ready Stock",
+    "price": 27800000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP OMEN Max 16 Ryzen AI 7 350 Memori 16 GB SSD 1 TB RTX5070Ti Win 11 Pro (AMD Ryzen AI 7 350, RAM 16 GB, SSD 1 TB, Vga Geforce RTX5070 Ti 12 GB, LED 16 FHD, Windows 11 Profesional) Ready Stock",
+    "price": 28900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP OMEN Max 16 Ryzen AI 7 350 Memori 16 GB SSD 2 TB RTX5070Ti Win 11 Pro (AMD Ryzen AI 7 350, RAM 16 GB, SSD 2 TB, Vga Geforce RTX5070 Ti 12 GB, LED 16 FHD, Windows 11 Profesional) Ready Stock",
+    "price": 33900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP OMEN Max 16 Ryzen AI 7 350 Memori 16 GB SSD 4 TB RTX5070Ti Win 11 Pro (AMD Ryzen AI 7 350, RAM 16 GB, SSD 4 TB, Vga Geforce RTX5070 Ti 12 GB, LED 16 FHD, Windows 11 Profesional) Ready Stock",
+    "price": 37900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
     "model": "HP OMEN Max 16 Ryzen AI 7 350 Memori 32 GB SSD 1 TB RTX5070Ti Win 11 + OH / HP OMEN 16-AK0099AX / HP OMEN MAX 16 RYZEN AI 7 350 32GB 1TB RTX5070TI 12GB W11+OHS (AMD Ryzen AI 7 350, RAM 32 GB, SSD 1 TB, Vga Geforce RTX5070 Ti 12 GB, LED 16 2.5K, Win 11 Home + Office Home) Ready Stock",
     "price": 35100000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP OMEN Max 16 Ryzen AI 7 350 Memori 32 GB SSD 1 TB RTX5070Ti Win 11 Pro (AMD Ryzen AI 7 350, RAM 32 GB, SSD 1 TB, Vga Geforce RTX5070 Ti 12 GB, LED 16 FHD, Windows 11 Profesional) Ready Stock",
+    "price": 28900000
   },
   {
     "type": "notebook",
@@ -134294,8 +134330,20 @@
   {
     "type": "notebook",
     "brand": "HP",
+    "model": "HP OMEN Max 16 Ryzen AI 7 350 Memori 32 GB SSD 2 TB RTX5070Ti Win 11 Pro (AMD Ryzen AI 7 350, RAM 32 GB, SSD 2 TB, Vga Geforce RTX5070 Ti 12 GB, LED 16 FHD, Windows 11 Profesional) Ready Stock",
+    "price": 33900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
     "model": "HP OMEN Max 16 Ryzen AI 7 350 Memori 32 GB SSD 2 TB RTX5070Ti Win 11 Pro + OH (AMD Ryzen AI 7 350, RAM 32 GB, SSD 2 TB, Vga Geforce RTX5070 Ti 12 GB, LED 16 2.5K, Windows 11 Profesional + Office Home) Ready Stock",
     "price": 40900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP OMEN Max 16 Ryzen AI 7 350 Memori 32 GB SSD 4 TB RTX5070Ti Win 11 Pro (AMD Ryzen AI 7 350, RAM 32 GB, SSD 4 TB, Vga Geforce RTX5070 Ti 12 GB, LED 16 FHD, Windows 11 Profesional) Ready Stock",
+    "price": 37900000
   },
   {
     "type": "notebook",
@@ -135602,30 +135650,6 @@
   {
     "type": "notebook",
     "brand": "HP",
-    "model": "HP Pavilion Plus 14 OLED Ryzen 7 7840U Memori 16 GB SSD 1 TB Win 11 + OHS / HP Pavilion Plus 14-EY0013AU / HP Pavilion Plus 14-EY0014AU / HP Pavilion Plus 14-EY0015AU (AMD Ryzen 7 7840U, RAM 16 GB, SSD 1 TB, Vga AMD Radeon 780M, LED 14\" 2.8K OLED, Win 11 Home + Office Home Student) Natural Silver, Blue, Tranquil Pink",
-    "price": 13250000
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Pavilion Plus 14 OLED Ryzen 7 7840U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (AMD Ryzen 7 7840U, RAM 16 GB, SSD 1 TB, Vga AMD Radeon 780M, LED 14\" 2.8K OLED, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 14400000
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Pavilion Plus 14 OLED Ryzen 7 7840U Memori 16 GB SSD 2 TB Win 11 Pro + OHS (AMD Ryzen 7 7840U, RAM 16 GB, SSD 2 TB, Vga AMD Radeon 780M, LED 14\" 2.8K OLED, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 16400000
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
-    "model": "HP Pavilion Plus 14 OLED Ryzen 7 7840U Memori 16 GB SSD 4 TB Win 11 Pro + OHS (AMD Ryzen 7 7840U, RAM 16 GB, SSD 4 TB, Vga AMD Radeon 780M, LED 14\" 2.8K OLED, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 17900000
-  },
-  {
-    "type": "notebook",
-    "brand": "HP",
     "model": "HP Pavilion Plus 14 Ryzen 5 7540U Memori 16 GB SSD 1 TB Win 11 Pro + OHS (AMD Ryzen 5 7540U, RAM 16 GB, SSD 1 TB, Vga AMD Radeon 740M Graphics, LED 14\" WUXGA, Win 11 Home + Office Home Student) Ready Stock",
     "price": 12900000
   },
@@ -135718,6 +135742,12 @@
     "brand": "HP",
     "model": "HP Pavilion Plus 14-ew1005TU / HP Pavilion Plus 14-ew1006TU (Intel Core Ultra 7 155H, RAM 32 GB, SSD 1 TB, Vga Intel Arc Graphics, LED 14\" 2.8K OLED VRR, Win 11 Home + Office Home Student) Silver, Blue",
     "price": 16000000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "HP Pavilion Plus 14-EY0013AU / HP Pavilion Plus 14-EY0014AU / HP Pavilion Plus 14-EY0015AU (AMD Ryzen 7 7840U, RAM 16 GB, SSD 1 TB, Vga AMD Radeon 780M, LED 14\" 2.8K OLED, Win 11 Home + Office Home Student) Natural Silver, Blue, Tranquil Pink",
+    "price": 13250000
   },
   {
     "type": "notebook",
@@ -140457,103 +140487,103 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 16 GB SSD 1 TB Win 11 Pro + OH (Intel Core i7 13620H, RAM 16 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 16900000
+    "price": 17900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 16 GB SSD 2 TB Win 11 Pro + OH (Intel Core i7 13620H, RAM 16 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 19900000
+    "price": 20900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 16 GB SSD 4 TB Win 11 Pro + OH (Intel Core i7 13620H, RAM 16 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 23900000
+    "price": 24900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 16 GB SSD 512 GB Win 11 + OH / Lenovo IdeaPad Slim 3 14IRH10 FRID (83K000FRID) / Lenovo IdeaPad Slim 3 14IRH10 FNID (83K000FNID) / Lenovo IdeaPad Slim 3 14IRH10 7GID (83K0007GID) / Lenovo IdeaPad Slim 3 14IRH10 7FID (83K0007FID) / Lenovo IdeaPad Slim 3 14IRH10 C0ID (83K000C0ID) / Lenovo IdeaPad Slim 3 14IRH10 BXID (83K000BXID) / LENOVO IDEAPAD SLIM 3 14 I7 13620H 16GB 512GB W11+OHS (Intel Core i7 13620H, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Win 11 Home + Office Home) Ready Stock (Luna Grey, Cosmic Blue, Luna Grey, Cosmic Blue, Luna Grey, Cosmic Blue)",
-    "price": 13900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 16 GB SSD 512 GB Win 11 Pro + OH (Intel Core i7 13620H, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 16 GB SSD 512 GB Win 11 + OH / Lenovo IdeaPad Slim 3 14IRH10 C0ID (83K000C0ID) / Lenovo IdeaPad Slim 3 14IRH10 BXID (83K000BXID) / Lenovo IdeaPad Slim 3 14IRH10 FRID (83K000FRID) / Lenovo IdeaPad Slim 3 14IRH10 FNID (83K000FNID) / Lenovo IdeaPad Slim 3 14IRH10 7GID (83K0007GID) / Lenovo IdeaPad Slim 3 14IRH10 7FID (83K0007FID) / LENOVO IDEAPAD SLIM 3 14 I7 13620H 16GB 512GB W11+OHS (Intel Core i7 13620H, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Win 11 Home + Office Home) Ready Stock (Luna Grey, Cosmic Blue, Luna Grey, Cosmic Blue, Luna Grey, Cosmic Blue)",
     "price": 14900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 16 GB SSD 512 GB Win 11 Pro + OH (Intel Core i7 13620H, RAM 16 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 15900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
     "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 24 GB SSD 1 TB Win 11 Pro + OH (Intel Core i7 13620H, RAM 24 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 18900000
+    "price": 19900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 24 GB SSD 2 TB Win 11 Pro + OH (Intel Core i7 13620H, RAM 24 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 21900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 24 GB SSD 4 TB Win 11 Pro + OH (Intel Core i7 13620H, RAM 24 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 25900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 24 GB SSD 512 GB Win 11 Pro + OH (Intel Core i7 13620H, RAM 24 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 16900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 32 GB SSD 1 TB Win 11 Pro + OH (Intel Core i7 13620H, RAM 32 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 20900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 32 GB SSD 2 TB Win 11 Pro + OH (Intel Core i7 13620H, RAM 32 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 23900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 32 GB SSD 4 TB Win 11 Pro + OH (Intel Core i7 13620H, RAM 32 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 27900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 32 GB SSD 512 GB Win 11 Pro + OH (Intel Core i7 13620H, RAM 32 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 18900000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 40 GB SSD 1 TB Win 11 Pro + OH (Intel Core i7 13620H, RAM 40 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
     "price": 22900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 24 GB SSD 4 TB Win 11 Pro + OH (Intel Core i7 13620H, RAM 24 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 26900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 24 GB SSD 512 GB Win 11 Pro + OH (Intel Core i7 13620H, RAM 24 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 17900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 32 GB SSD 1 TB Win 11 Pro + OH (Intel Core i7 13620H, RAM 32 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 21900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 32 GB SSD 2 TB Win 11 Pro + OH (Intel Core i7 13620H, RAM 32 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 24900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 32 GB SSD 4 TB Win 11 Pro + OH (Intel Core i7 13620H, RAM 32 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 28900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 32 GB SSD 512 GB Win 11 Pro + OH (Intel Core i7 13620H, RAM 32 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 19900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 40 GB SSD 1 TB Win 11 Pro + OH (Intel Core i7 13620H, RAM 40 GB, SSD 1 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 23900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
     "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 40 GB SSD 2 TB Win 11 Pro + OH (Intel Core i7 13620H, RAM 40 GB, SSD 2 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 25900000
+    "price": 26900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 40 GB SSD 4 TB Win 11 Pro + OH (Intel Core i7 13620H, RAM 40 GB, SSD 4 TB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 29900000
+    "price": 30900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo IdeaPad Slim 3 14IRH10 Core i7 13620H Memori 40 GB SSD 512 GB Win 11 Pro + OH (Intel Core i7 13620H, RAM 40 GB, SSD 512 GB, Vga Intel UHD Graphics, LED 14 WUXGA, Windows 11 Profesional + Office Home) Ready Stock",
-    "price": 20900000
+    "price": 21900000
   },
   {
     "type": "notebook",
@@ -144056,6 +144086,24 @@
   {
     "type": "notebook",
     "brand": "LENOVO",
+    "model": "Lenovo Legion 5i 15IRX10 Core i9 14900HX Memori 32 GB SSD 1 TB RTX5070 Win 11 Pro + OH (Intel Core i9 14900HX, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 15.1 WQXGA OLED 165Hz, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 39900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion 5i 15IRX10 Core i9 14900HX Memori 32 GB SSD 2 TB RTX5070 Win 11 Pro + OH (Intel Core i9 14900HX, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 15.1 WQXGA OLED 165Hz, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 44900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
+    "model": "Lenovo Legion 5i 15IRX10 Core i9 14900HX Memori 32 GB SSD 4 TB RTX5070 Win 11 Pro + OH (Intel Core i9 14900HX, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX5070 8 GB, LED 15.1 WQXGA OLED 165Hz, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 49900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
     "model": "Lenovo Legion 7 16ACHg6-9FID / Lenovo Legion 7 16ACHg6-9SID / Lenovo Legion 7 16ACHg6-FHID (AMD Ryzen 9 5900HX, RAM 32GB, SSD 2TB, Vga Nvidia GeForce RTX 3080 16GB, LED 16\" WQXGA 165Hz, Win 10 Home + Office Home Student)",
     "price": 43400000
   },
@@ -145209,79 +145257,79 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo LOQ 15ARP10E Ryzen 7 170 Memori 16 GB SSD 1 TB RTX3050 Win 11 Pro + OH (AMD Ryzenn 7 170, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 15900000
+    "price": 16900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo LOQ 15ARP10E Ryzen 7 170 Memori 16 GB SSD 2 TB RTX3050 Win 11 Pro + OH (AMD Ryzenn 7 170, RAM 16 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 18900000
+    "price": 19900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo LOQ 15ARP10E Ryzen 7 170 Memori 16 GB SSD 4 TB RTX3050 Win 11 Pro + OH (AMD Ryzenn 7 170, RAM 16 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 22900000
+    "price": 23900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo LOQ 15ARP10E Ryzen 7 170 Memori 16 GB SSD 512 GB RTX3050 Win 11 + OH / Lenovo LOQ 15ARP10E D1ID (83S000D1ID) / LENOVO LOQ 15 RYZEN 7 170 16GB 512GB RTX3050 6GB W11+OHS (AMD Ryzenn 7 170, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 6 GB, LED 15.6 FHD, Win 11 Home + Office Home Student) Ready Stock (Luna Grey)",
-    "price": 12800000
-  },
-  {
-    "type": "notebook",
-    "brand": "LENOVO",
-    "model": "Lenovo LOQ 15ARP10E Ryzen 7 170 Memori 16 GB SSD 512 GB RTX3050 Win 11 Pro + OH (AMD Ryzenn 7 170, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
     "price": 13900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
+    "model": "Lenovo LOQ 15ARP10E Ryzen 7 170 Memori 16 GB SSD 512 GB RTX3050 Win 11 Pro + OH (AMD Ryzenn 7 170, RAM 16 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
+    "price": 14900000
+  },
+  {
+    "type": "notebook",
+    "brand": "LENOVO",
     "model": "Lenovo LOQ 15ARP10E Ryzen 7 170 Memori 32 GB SSD 1 TB RTX3050 Win 11 Pro + OH (AMD Ryzenn 7 170, RAM 32 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 19400000
+    "price": 20400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo LOQ 15ARP10E Ryzen 7 170 Memori 32 GB SSD 2 TB RTX3050 Win 11 Pro + OH (AMD Ryzenn 7 170, RAM 32 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 22400000
+    "price": 23400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo LOQ 15ARP10E Ryzen 7 170 Memori 32 GB SSD 4 TB RTX3050 Win 11 Pro + OH (AMD Ryzenn 7 170, RAM 32 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 26400000
+    "price": 27400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo LOQ 15ARP10E Ryzen 7 170 Memori 32 GB SSD 512 GB RTX3050 Win 11 Pro + OH (AMD Ryzenn 7 170, RAM 32 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 17400000
+    "price": 18400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo LOQ 15ARP10E Ryzen 7 170 Memori 64 GB SSD 1 TB RTX3050 Win 11 Pro + OH (AMD Ryzenn 7 170, RAM 64 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 26400000
+    "price": 27400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo LOQ 15ARP10E Ryzen 7 170 Memori 64 GB SSD 2 TB RTX3050 Win 11 Pro + OH (AMD Ryzenn 7 170, RAM 64 GB, SSD 2 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 29400000
+    "price": 30400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo LOQ 15ARP10E Ryzen 7 170 Memori 64 GB SSD 4 TB RTX3050 Win 11 Pro + OH (AMD Ryzenn 7 170, RAM 64 GB, SSD 4 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 33400000
+    "price": 34400000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo LOQ 15ARP10E Ryzen 7 170 Memori 64 GB SSD 512 GB RTX3050 Win 11 Pro + OH (AMD Ryzenn 7 170, RAM 64 GB, SSD 512 GB, Vga Nvidia Geforce RTX3050 6 GB, LED 15.6 FHD, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 24400000
+    "price": 25400000
   },
   {
     "type": "notebook",
@@ -151557,25 +151605,25 @@
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Yoga 7 14IML9 2in1 Core Ultra 7 155H Memori 16 GB SSD 1 TB Win 11 + OHS / Lenovo Yoga 7 2-in-1 14IML9 GGID (83DJ00GGID) / Lenovo Yoga 7 2-in-1 14IML9 0XID (83DJ000XID) / Lenovo Yoga 7 2-in-1 14IML9 FEID (83DJ00FEID) / LENOVO YOGA 7 2IN1 14 ULTRA 7 155H 16GB 1TB W11+OHS (Intel Core Ultra 7 155H, RAM 16 GB, SSD 1 TB, Vga Intel Arc Graphics, LED 14\" 2.8K OLED Touchscreen, Win 11 Home + Office Home Student) Ready Stock (Tidal Teal, Tidal Teal, Tidal Teal)",
-    "price": 21000000
+    "price": 21700000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Yoga 7 14IML9 2in1 Core Ultra 7 155H Memori 16 GB SSD 1 TB Win 11 Pro + OHS (Intel Core Ultra 7 155H, RAM 16 GB, SSD 1 TB, Vga Intel Arc Graphics, LED 14\" 2.8K OLED Touchscreen, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 21900000
+    "price": 22900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Yoga 7 14IML9 2in1 Core Ultra 7 155H Memori 16 GB SSD 2 TB Win 11 Pro + OHS (Intel Core Ultra 7 155H, RAM 16 GB, SSD 2 TB, Vga Intel Arc Graphics, LED 14\" 2.8K OLED Touchscreen, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 26900000
+    "price": 27900000
   },
   {
     "type": "notebook",
     "brand": "LENOVO",
     "model": "Lenovo Yoga 7 14IML9 2in1 Core Ultra 7 155H Memori 16 GB SSD 4 TB Win 11 Pro + OHS (Intel Core Ultra 7 155H, RAM 16 GB, SSD 4 TB, Vga Intel Arc Graphics, LED 14\" 2.8K OLED Touchscreen, Windows 11 Profesional + Office Home Student) Ready Stock",
-    "price": 30900000
+    "price": 31900000
   },
   {
     "type": "notebook",
@@ -157634,6 +157682,12 @@
   {
     "type": "notebook",
     "brand": "MSI",
+    "model": "MSI Prestige 14 AI Studio C1UDXG (9S7-14N211-084) / MSI Prestige 14 C1UDXG 084ID (Intel Core Ultra 5 125H, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 14\" FHD+ 144Hz, Win 11 Home + Office Home)",
+    "price": 15500000
+  },
+  {
+    "type": "notebook",
+    "brand": "MSI",
     "model": "MSI Prestige 14 AI Studio C1VEG (9S7-14N211-050) (Intel Core Ultra 7 155H, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX4050 6 GB, LED 14\" 2.8K, Win 11 Home + Office Home Student) Stellar Gray",
     "price": 19100000
   },
@@ -157660,12 +157714,6 @@
     "brand": "MSI",
     "model": "MSI Prestige 14 AI+ D3MG Core Ultra 7 355 Memori 32 GB SSD 4 TB Win 11 Pro + OH (Intel Core Ultra 7 355, RAM 32 GB, SSD 4 TB, Vga Intel Graphics, LED 14 WUXGA OLED, Windows 11 Profesional + Office Home) Ready Stock",
     "price": 31900000
-  },
-  {
-    "type": "notebook",
-    "brand": "MSI",
-    "model": "MSI Prestige 14 C1UDXG 084ID (Intel Core Ultra 5 125H, RAM 16 GB, SSD 1 TB, Vga Nvidia Geforce RTX3050 6 GB, LED 14\" FHD+ 144Hz, Win 11 Home + Office Home)",
-    "price": 16700000
   },
   {
     "type": "notebook",

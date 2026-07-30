@@ -218,7 +218,7 @@ export const COMPONENT_BRANDS = {
     "AIGO",
     "ANTEC",
     "ARMAGGEDDON",
-    "ACE",
+    // "ACE",
     "ASUS",
     "BIOSTAR",
     "BASIC",
