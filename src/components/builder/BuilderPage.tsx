@@ -1,4 +1,4 @@
-import { useState } from "preact/hooks";
+import { useState, useEffect } from "preact/hooks";
 import BuilderTable from "./BuilderTable";
 import { useStore } from "@nanostores/preact";
 import {
@@ -9,14 +9,36 @@ import {
 } from "@/store/partStore";
 import type { Part } from "@/type";
 import { db } from "@/firebase/client";
-import { collection, addDoc, serverTimestamp } from "firebase/firestore";
+import {
+  collection,
+  setDoc,
+  addDoc,
+  serverTimestamp,
+  doc,
+} from "firebase/firestore";
 import { useAuth } from "@/hooks/useAuth";
 import { SavePen, SendHorizontal as Send } from "lucide-preact";
+import { setBuildId } from "@/store/partStore";
 
-export default function BuilderPage() {
+export default function BuilderPage({
+  type,
+  buildId,
+}: {
+  type?: "add" | "edit";
+  buildId?: string | null;
+}) {
+  console.log(!!buildId);
   const { user } = useAuth();
   const $parts = useStore(partStore);
   const [isSubmitting, setIsSubmitting] = useState(false);
+
+  useEffect(() => {
+    if (type === "edit" && buildId) {
+      setBuildId(buildId);
+    } else {
+      setBuildId(null);
+    }
+  }, [type, buildId]);
 
   const handleSave = async ({
     buildParts,
@@ -25,31 +47,48 @@ export default function BuilderPage() {
     buildParts: { title: string; description: string; parts: Part[] };
     isPublished: boolean;
   }) => {
-    if (!user) {
+    if (!user?.uid) {
       alert("Please login to save the build");
       return;
     }
 
-    if (!buildParts.title.trim() || !buildParts.title.length) {
-      alert("Please fill in the title and select at least one part");
+    const trimmedTitle = buildParts.title.trim();
+    if (!trimmedTitle) {
+      alert("Please provide a title for the biild");
+      return;
+    }
+
+    if (!buildParts.parts || buildParts.parts.length === 0) {
+      alert("Please provide at least one part for your build");
       return;
     }
 
     setIsSubmitting(true);
 
     try {
-      await addDoc(collection(db, "pcpart_builds"), {
+      const payload = {
+        title: trimmedTitle,
+        description: buildParts.description?.trim() ?? "",
         parts: buildParts.parts,
-        title: buildParts.title,
-        description: buildParts.description,
         isPublished,
         userId: user?.uid ?? "",
         userEmail: user?.email ?? "",
         userName: user?.name ?? "",
         userPhotoUrl: user?.photoURL ?? "",
-        createdAt: serverTimestamp(),
         updatedAt: serverTimestamp(),
-      });
+      };
+
+      const collectionRef = collection(db, "pcpart_builds");
+
+      if (!!buildId) {
+        const docRef = doc(collectionRef, buildId);
+        await setDoc(docRef, payload, { merge: true });
+      } else {
+        await addDoc(collectionRef, {
+          ...payload,
+          createdAt: serverTimestamp(),
+        });
+      }
       resetParts();
       alert("Saved successfully!");
     } catch (error) {
@@ -62,7 +101,9 @@ export default function BuilderPage() {
 
   return (
     <>
-      <h1 class="mb-4 text-5xl font-black tracking-tighter">Builder</h1>
+      <h1 class="mb-4 text-5xl font-black tracking-tighter">
+        {buildId ? "Edit Build" : "Builder"}
+      </h1>
       <BuilderTable />
       <form
         className="flex flex-col gap-4"
@@ -110,7 +151,7 @@ export default function BuilderPage() {
             ) : (
               <>
                 <SavePen size={16} />
-                <span>Save as draft</span>
+                <span>{buildId ? "Update the draft" : "Save as draft"}</span>
               </>
             )}
           </button>
@@ -130,7 +171,7 @@ export default function BuilderPage() {
             ) : (
               <>
                 <Send size={16} />
-                <span>Publish</span>
+                <span>{buildId ? "Update" : "Publish"}</span>
               </>
             )}
           </button>
