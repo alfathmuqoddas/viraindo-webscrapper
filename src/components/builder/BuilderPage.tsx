@@ -27,7 +27,6 @@ export default function BuilderPage({
   type?: "add" | "edit";
   buildId?: string | null;
 }) {
-  console.log(!!buildId);
   const { user } = useAuth();
   const $parts = useStore(partStore);
   const [isSubmitting, setIsSubmitting] = useState(false);

@@ -1,52 +1,53 @@
 ---
 import AppLayout from "@/layout/AppLayout.astro";
 import MainLayout from "@/layout/MainLayout.astro";
-import CompletedBuildsPage from "@/components/completedBuilds/CompletedBuildPage.astro";
-import {query, collection, where, orderBy, limit, getDocs, startAfter, Timestamp, type QueryConstraint} from "firebase/firestore/lite";
-import {dbLite} from "@/firebase/client";
+import { dbLite } from "@/firebase/client";
 import { type TBuild } from "@/type";
+import {collection, query, orderBy, limit, getDocs, where, type Timestamp, type DocumentData, type QueryDocumentSnapshot,type QueryConstraint} from "firebase/firestore/lite"
+import {CompletedBuildPage} from "@/components/completedBuilds/CompletedBuildPage"
 
-const PAGE_SIZE = 12
-const cursorParam = Astro.url.searchParams.get("cursor");
+const PAGE_LIMIT = 12
 
-let builds: (TBuild & { id: string })[] = [];
-let nextCursor = null;
-let error = null;
+let initialBuilds: (TBuild & { id: string })[] = []
+let initialCursorValue: number | string | null = null
+let initialHasMore = true
+let error: any = null
 
 try {
-    const colRef = collection(dbLite, "pcpart_builds");
+    const postRef = collection(dbLite, "pcpart_builds")
 
-    const queryConstraints: QueryConstraint[] = [
-        orderBy("createdAt", "desc"),
+    const constraints: QueryConstraint[] = [
         where("isPublished", "==", true),
-        limit(PAGE_SIZE)
+        orderBy("createdAt", "desc"),
+        limit(PAGE_LIMIT),
     ]
 
-    if (cursorParam) {
-        const millis = parseInt(cursorParam, 10);
-        if (!isNaN(millis)) {
-            const cursorTimestamp = Timestamp.fromMillis(millis);
-            queryConstraints.push(startAfter(cursorTimestamp));
-        }
-    }
+    const q = query(postRef, ...constraints)
+    const snapshot = await getDocs(q)
 
-    const q = query(colRef, ...queryConstraints);
-    const querySnapshot = await getDocs(q);
-
-    builds = querySnapshot.docs.map((doc) => ({
+    initialBuilds = snapshot.docs.map((doc) => ({
         id: doc.id,
         ...(doc.data() as TBuild),
-    }));
+    }))
 
-    if (builds.length === PAGE_SIZE) {
-        const lastItem = builds[builds.length - 1];
+   if (initialBuilds.length > 0) {
+        const lastBuild = initialBuilds[initialBuilds.length - 1];
+        const rawCreatedAt = lastBuild?.createdAt as any;
 
-        if (lastItem.createdAt && typeof lastItem.createdAt.toMillis === "function") {
-            nextCursor = lastItem.createdAt.toMillis();
+        if (rawCreatedAt && typeof rawCreatedAt.toMillis === "function") {
+            initialCursorValue = rawCreatedAt.toMillis();
+        } else if (rawCreatedAt && typeof rawCreatedAt.seconds === "number") {
+            initialCursorValue = rawCreatedAt.seconds * 1000;
+        } else if (typeof rawCreatedAt === "number") {
+            initialCursorValue = rawCreatedAt;
         }
     }
 
+    if (snapshot.docs.length < PAGE_LIMIT) {
+        initialHasMore = false
+    }
 } catch (e) {
+    console.error("Astro SSR Fetch Error:", e)
     error = e instanceof Error ? e.message : "Failed to fetch data";
 }
 
@@ -57,42 +58,11 @@ try {
     <MainLayout>
         <h1 class="mb-4 text-5xl font-black tracking-tighter">Completed Builds</h1>
         {
-            error ? <span>Error: {error}</span> 
-            : 
-            <CompletedBuildsPage builds={builds} server:defer>
-                <div slot="fallback">Loading...</div>
-            </CompletedBuildsPage>
+            error ? (
+                <p class="wrap-break-words">Error: {error}</p>
+            ) : (
+                <CompletedBuildPage initialBuilds={initialBuilds} initialHasMore={initialHasMore} initialCursorValue={initialCursorValue} client:load />
+            )
         }
-        <nav class="mt-8 flex gap-2 w-full justify-center">
-            {/* Go Back / First Page */}
-            <a 
-                id="back-button"
-                href="/completed-builds" 
-                class={`btn btn-primary ${!cursorParam ? "pointer-events-none opacity-50" : ""}`}
-            >
-                Prev
-            </a>
-
-            {/* Next Page */}
-            {nextCursor && (
-                <a 
-                    href={`/completed-builds?cursor=${encodeURIComponent(nextCursor)}`} 
-                    class="btn btn-primary"
-                >
-                    Next
-                </a>
-            )}
-        </nav>
     </MainLayout>
 </AppLayout>
-
-<script>
-    const backButton = document.getElementById("back-button");
-
-    if (backButton) {
-        backButton.addEventListener("click", (e) => {
-            e.preventDefault();
-            history.back()
-        })
-    }
-</script>
