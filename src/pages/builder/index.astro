@@ -1,12 +1,3 @@
 ---
-import AppLayout from "@/layout/AppLayout.astro";
-import MainLayout from "@/layout/MainLayout.astro";
-import BuilderPage from "@/components/builder/BuilderPage";
+return Astro.redirect("/builder/add");
 ---
-<AppLayout>
-    <title slot="head">Builder | PCPART</title>
-    <meta name="description" slot="head" content="Build your own PC by selecting the components you want to use. | PCPART by Alfath Muqoddas" />
-    <MainLayout>
-        <BuilderPage client:load />    
-    </MainLayout>
-</AppLayout>

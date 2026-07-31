@@ -1,0 +1,22 @@
+---
+import AppLayout from "@/layout/AppLayout.astro";
+import MainLayout from "@/layout/MainLayout.astro";
+import BuilderPage from "@/components/builder/BuilderPage";
+
+
+const {type} = Astro.params;
+
+if (type !== "add" && type !== "edit") {
+    return Astro.redirect("/builder/add");
+}
+
+const buildType = type as "add" | "edit";
+const buildId = buildType === 'edit' ? Astro.url.searchParams.get('buildId') : null;
+---
+<AppLayout>
+    <title slot="head">Builder | PCPART</title>
+    <meta name="description" slot="head" content="Build your own PC by selecting the components you want to use. | PCPART by Alfath Muqoddas" />
+    <MainLayout>
+        <BuilderPage type={type} buildId={buildId} client:load />    
+    </MainLayout>
+</AppLayout>
