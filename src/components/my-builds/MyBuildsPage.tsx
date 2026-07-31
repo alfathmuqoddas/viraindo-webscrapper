@@ -16,6 +16,13 @@ import { RemoveMyBuild } from "@/components/my-builds/RemoveMyBuild";
 import type { TBuild } from "@/type";
 import { navigate } from "astro:transitions/client";
 import { formatTimestampDate } from "@/lib/helper";
+import {
+  setParts,
+  setTitle,
+  setDescription,
+  setBuildId,
+} from "@/store/partStore";
+import { Pencil } from "lucide-preact";
 
 export const MyBuildsPage = () => {
   const [builds, setBuilds] = useState<any[]>([]);
@@ -206,7 +213,20 @@ export const MyBuildsPage = () => {
                           timestamp: build?.updatedAt,
                         })}
                       </td>
-                      <td className="p-3 align-middle text-center">
+                      <td className="p-3 flex gap-1 align-middle text-center ">
+                        <button
+                          className="btn btn-sm btn-primary"
+                          id={`edit-build-${build.id}`}
+                          onClick={() => {
+                            setParts(build.parts);
+                            setTitle(build.title);
+                            setDescription(build.description);
+                            setBuildId(build.id);
+                            navigate(`/builder/edit?buildId=${build.id}`);
+                          }}
+                        >
+                          <Pencil size={16} />
+                        </button>
                         <RemoveMyBuild
                           id={build.id}
                           userId={build.userId}
