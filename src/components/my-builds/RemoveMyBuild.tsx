@@ -44,7 +44,7 @@ export const RemoveMyBuild = ({
 
   return (
     <button
-      class="cursor-pointer text-red-500 hover:bg-gray-100 active:bg-gray-100 text-sm p-1.5 rounded-md bg-transparent disabled:cursor-not-allowed disabled:opacity-50 transition-colors"
+      class="btn btn-sm btn-danger"
       onClick={handleClick}
       title="Remove Build"
       aria-label="Remove Build"
