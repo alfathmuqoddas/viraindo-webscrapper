@@ -6,10 +6,11 @@ import { MULTI_SELECTION_TYPES } from "@/lib/constant.mjs";
 export const partStore = persistentAtom<{
   parts: Part[];
   title: string;
+  buildId: string | null;
   description: string;
 }>(
   "selected_parts",
-  { title: "", description: "", parts: [] },
+  { title: "", description: "", buildId: null, parts: [] },
   {
     encode: JSON.stringify,
     decode: JSON.parse,
@@ -46,7 +47,7 @@ export const setParts = (parts: Part[]) => {
 };
 
 export const resetParts = () => {
-  partStore.set({ title: "", description: "", parts: [] });
+  partStore.set({ title: "", description: "", buildId: null, parts: [] });
 };
 
 export const setTitle = (title: string) => {
@@ -57,6 +58,10 @@ export const setDescription = (description: string) => {
   partStore.set({ ...partStore.get(), description });
 };
 
+export const setBuildId = (buildId: string | null) => {
+  partStore.set({ ...partStore.get(), buildId });
+};
+
 export const $totalPrice = computed(partStore, ($s) =>
   ($s?.parts ?? []).reduce((acc, part) => acc + part.price, 0),
 );
@@ -64,3 +69,5 @@ export const $totalPrice = computed(partStore, ($s) =>
 export const $partsGroupedByType = computed(partStore, ($s) =>
   Object.groupBy($s?.parts ?? [], (p) => p.type),
 );
+
+export const $editMode = computed(partStore, ($s) => !!$s?.buildId);
