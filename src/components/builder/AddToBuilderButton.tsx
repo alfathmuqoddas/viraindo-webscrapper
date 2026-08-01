@@ -4,6 +4,7 @@ import { navigate } from "astro:transitions/client";
 import { typeToOmit } from "@/lib/constant.mjs";
 import { useStore } from "@nanostores/preact";
 import { partStore } from "@/store/partStore";
+import { CirclePlus } from "lucide-preact";
 
 export const AddToBuilderButton = ({ part }: { part: PartWithoutId }) => {
   const $parts = useStore(partStore);
@@ -27,12 +28,12 @@ export const AddToBuilderButton = ({ part }: { part: PartWithoutId }) => {
   };
   return (
     <button
-      className="btn btn-sm btn-primary"
+      className="cursor-pointer hover:text-blue-500 active:text-blue-500 p-1"
       onClick={handleClick}
       aria-label="Add to builder"
       title="Add to builder"
     >
-      Add
+      <CirclePlus size={16} />
     </button>
   );
 };

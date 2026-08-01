@@ -1,6 +1,6 @@
 import { useState } from "preact/hooks";
 import { useAuth } from "@/hooks/useAuth";
-import { Trash2 as Trash } from "lucide-preact";
+import { X } from "lucide-preact";
 import { dbLite } from "@/firebase/client";
 import { doc, deleteDoc } from "firebase/firestore/lite";
 
@@ -44,17 +44,17 @@ export const RemoveMyBuild = ({
 
   return (
     <button
-      class="btn btn-sm btn-danger"
+      class="hover:text-red-600 active:text-red-600  text-xs cursor-pointer p-1"
       onClick={handleClick}
       title="Remove Build"
       aria-label="Remove Build"
     >
       {isLoading ? (
         <div className="flex items-center justify-center size-4">
-          <div className="animate-spin rounded-full size-4 border-2 border-red-500 border-t-transparent" />
+          <div className="animate-spin rounded-full size-4 border-2 border-red-600 border-t-transparent" />
         </div>
       ) : (
-        <Trash size={16} />
+        <X size={16} />
       )}
     </button>
   );
