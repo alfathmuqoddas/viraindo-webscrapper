@@ -30,6 +30,10 @@ export async function getStaticPaths() {
   }));
 }
 
+type Props = {
+  brands: string[];
+}
+
 const { type } = Astro.params;
 const { brands } = Astro.props;
 ---
@@ -41,11 +45,11 @@ const { brands } = Astro.props;
     <meta name="robots" slot="head" content="index, follow" />
     <MainLayout>
         <h1 class="mb-4 text-5xl tracking-tighter">Select {type} brand</h1>
-        <ul class="divide-y border bg-white">
-            {brands.map(brand => {
+        <ul class="divide-y divide-gray-300 border border-gray-300 rounded-xl bg-white">
+            {brands?.map(brand => {
                 return (
                 <li class="p-4">
-                  <a class="font-bold tracking-tighter hover:underline active:underline underline-offset-2" href={`${import.meta.env.BASE_URL}products/${type}/${slugify(brand)}`}>{brand}</a>
+                  <a class="uppercase tracking-wider font-medium hover:underline active:underline underline-offset-2" href={`${import.meta.env.BASE_URL}products/${type}/${slugify(brand)}`}>{brand}</a>
                 </li>
                 )
             })}

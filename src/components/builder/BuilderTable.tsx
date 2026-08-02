@@ -20,7 +20,7 @@ export const BuilderTable = () => {
 
   return (
     <>
-      <div className="overflow-x-auto border w-full text-sm">
+      <div className="overflow-x-auto border border-gray-300 rounded-xl w-full text-sm">
         <table className="w-full min-w-xl bg-white">
           <thead>
             <tr className="bg-black text-white text-left uppercase tracking-wider text-xs">
@@ -30,7 +30,7 @@ export const BuilderTable = () => {
               <th className="p-3 w-16 text-center font-bold">Action</th>
             </tr>
           </thead>
-          <tbody className="divide-y divide-black">
+          <tbody className="divide-y divide-gray-300">
             {pcPartsOnly.map((source: Record<string, string>) => {
               const selectedParts = partsGroupedByType?.[source.type] ?? [];
               const hasParts = selectedParts.length > 0;
@@ -46,9 +46,9 @@ export const BuilderTable = () => {
 
               return (
                 <Fragment key={source.type}>
-                  <tr className="font-mono">
+                  <tr className="">
                     <td
-                      className="p-3 font-semibold border-r capitalize align-middle truncate"
+                      className="p-3 font-medium border-gray-300 border-r uppercase tracking-wider align-middle truncate"
                       rowSpan={totalRows}
                     >
                       {source.name}
@@ -56,7 +56,7 @@ export const BuilderTable = () => {
 
                     {hasParts ? (
                       <>
-                        <td className="p-3 align-middle wrap-break-words">
+                        <td className="p-3 align-middle tracking-wide wrap-break-words">
                           {selectedParts[0].model}
                         </td>
                         <td className="p-3 align-middle text-right whitespace-nowrap">
@@ -72,7 +72,7 @@ export const BuilderTable = () => {
                       <>
                         <td className="p-3 align-middle wrap-break-words">
                           <button
-                            className="text-blue-500 hover:underline active:underline underline-offset-2 cursor-pointer"
+                            className="text-blue-500 tracking-wide hover:underline active:underline underline-offset-2 cursor-pointer"
                             onClick={() => navigate(`/products/${source.type}`)}
                           >
                             + Choose {source.name}
@@ -86,7 +86,7 @@ export const BuilderTable = () => {
 
                   {hasParts &&
                     selectedParts.slice(1).map((part) => (
-                      <tr key={part.id} className="font-mono border-t">
+                      <tr key={part.id} className="border-t border-gray-300">
                         <td className="p-3 align-middle wrap-break-words">
                           {part.model}
                         </td>
@@ -100,7 +100,7 @@ export const BuilderTable = () => {
                     ))}
 
                   {showAddAnother && (
-                    <tr className="font-mono border-t">
+                    <tr className="border-t border-gray-300">
                       <td className="p-3 align-middle wrap-break-words">
                         <button
                           className="text-blue-500 hover:underline active:underline underline-offset-2 cursor-pointer"

@@ -45,7 +45,7 @@ export const CommentForm = ({ buildId }: { buildId: string }) => {
 
   if (!user) {
     return (
-      <div className="p-4 bg-gray-50 rounded-md text-sm text-gray-600">
+      <div className="p-4 bg-gray-50 rounded-xl text-sm text-gray-600">
         Please log in to add a comment.
       </div>
     );

@@ -12,9 +12,9 @@ const { buildParts } = Astro.props
 
 const totalPrice = (buildParts ?? []).reduce((acc, part) => acc + part.price, 0);
 ---
-<div class="p-4 rounded-lg shadow bg-white flex flex-col w-full md:w-1/4">
-    <h2 class="font-bold mb-1">Part List</h2>
-    <div class="flex gap-1 items-center">
+<div class="p-4 rounded-lg bg-white flex flex-col w-full md:w-1/4">
+    <h2 class="font-bold tracking-wide uppercase mb-1">Part List</h2>
+    <div class="flex gap-1 items-center mb-2">
         <DuplicateThisBuildButton build={buildParts} client:load />
         <button class="btn btn-sm btn-primary flex-1">
             <Share2 size={16} />
@@ -23,8 +23,8 @@ const totalPrice = (buildParts ?? []).reduce((acc, part) => acc + part.price, 0)
     </div>
     <div class="flex flex-col divide-y divide-gray-300">
         {buildParts.map((part) => (
-            <span class="flex flex-col gap-1 py-2 text-justify">
-                <p class="text-xs text-gray-500">{part.type}</p>
+            <span class="flex flex-col gap-1 py-2">
+                <p class="text-xs uppercase tracking-wider text-gray-500">{part.type}</p>
                 <a href={`https://google.com/search?q=${part.model}`} target="_blank" class="hover:text-blue-500 active:text-blue-500 active:underline active:underline-offset-2 transition-colors duration-150 cursor-pointer font-semibold text-sm">{part.model} 🔍</a>
                 <p class="text-sm">{currencyFormatter.format(part.price)}</p>
             </span>

@@ -14,11 +14,11 @@ export const prerender = true;
   <meta name="robots" slot="head" content="index, follow" />
   <MainLayout>
     <h1 class="mb-4 text-5xl font-black tracking-tighter">PCPART Product List</h1>
-    <ul class="divide-y border bg-white">
+    <ul class="divide-y divide-gray-300 border border-gray-300 rounded-xl bg-white">
       {SOURCES.map(source => {
             return (
             <li class="p-4">
-              <a class="font-bold tracking-tighter hover:underline active:underline underline-offset-2" href={`${import.meta.env.BASE_URL}products/${source.type}`}>{source.name + " " + source.icon}</a>
+              <a class="uppercase font-medium tracking-wider hover:underline active:underline underline-offset-2" href={`${import.meta.env.BASE_URL}products/${source.type}`}>{source.name + " " + source.icon}</a>
             </li>
             )
         })}

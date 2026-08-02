@@ -31,7 +31,7 @@ export const ProductTable = ({ products }: { products?: PartWithoutId[] }) => {
   return (
     <>
       <div className="my-4">
-        <div className="flex items-center bg-white justify-between w-full md:w-64 border">
+        <div className="flex items-center bg-white rounded-md  border-gray-300 justify-between w-full md:w-64 border">
           <input
             type="text"
             value={query}
@@ -45,7 +45,7 @@ export const ProductTable = ({ products }: { products?: PartWithoutId[] }) => {
           <span className="px-2">🔍</span>
         </div>
       </div>
-      <div className="overflow-x-auto border w-full text-sm">
+      <div className="overflow-x-auto border border-gray-300 rounded-xl w-full">
         <table className="w-full min-w-xl bg-white">
           <thead>
             <tr className="bg-black text-white text-left uppercase tracking-wider text-xs">
@@ -55,20 +55,17 @@ export const ProductTable = ({ products }: { products?: PartWithoutId[] }) => {
               <th className="p-3 w-2/12 text-center font-bold">Action</th>
             </tr>
           </thead>
-          <tbody className="divide-y">
+          <tbody className="divide-y divide-gray-300">
             {!filteredProducts || filteredProducts.length === 0 ? (
               <tr className="">
-                <td
-                  colSpan={4}
-                  className="p-3 text-center text-gray-500 font-mono"
-                >
+                <td colSpan={4} className="p-3 text-center text-gray-500">
                   No products found
                 </td>
               </tr>
             ) : (
               filteredProducts.map((p, index) => {
                 return (
-                  <tr key={index} className="font-mono">
+                  <tr key={index} className="">
                     <td className="p-3 align-middle truncate">{index + 1}</td>
                     <td className="p-3 align-middle wrap-break-word">
                       <a
@@ -76,7 +73,7 @@ export const ProductTable = ({ products }: { products?: PartWithoutId[] }) => {
                         target="_blank"
                         rel="noreferrer"
                         title="Search on Google"
-                        class="text-blue-500 hover:underline active:underline underline-offset-2"
+                        class="text-blue-500 hover:underline active:underline tracking-wide underline-offset-2"
                       >
                         {p.model}
                       </a>
