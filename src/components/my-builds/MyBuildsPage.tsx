@@ -155,16 +155,16 @@ export const MyBuildsPage = () => {
               <thead>
                 <tr className="bg-black text-white text-left uppercase tracking-wider text-xs">
                   <th className="p-3 w-[5%] text-center font-bold">No</th>
-                  <th className="p-3 w-[25%] font-bold">Title</th>
+                  <th className="p-3 w-[20%] font-bold">Title</th>
                   <th className="p-3 w-[35%] font-bold">Description</th>
                   <th className="p-3 w-[10%] font-bold">Status</th>
-                  <th className="p-3 w-[12%] text-center font-bold whitespace-nowrap">
+                  <th className="p-3 w-[10%] text-center font-bold whitespace-nowrap">
                     Date Created
                   </th>
-                  <th className="p-3 w-[12%] text-center font-bold whitespace-nowrap">
+                  <th className="p-3 w-[10%] text-center font-bold whitespace-nowrap">
                     Date Edited
                   </th>
-                  <th className="p-3 w-[11%] text-center font-bold whitespace-nowrap">
+                  <th className="p-3 w-[10%] text-center font-bold whitespace-nowrap">
                     Action
                   </th>
                 </tr>
@@ -194,11 +194,15 @@ export const MyBuildsPage = () => {
                       <td className="p-3 align-middle text-sm max-w-xs truncate">
                         {build.description}
                       </td>
-                      <td className="p-3 align-middle text-sm max-w-xs">
+                      <td className="p-3 align-middle max-w-xs">
                         {build.isPublished ? (
-                          <span class="btn btn-sm btn-primary">Published</span>
+                          <span class="text-xs font-medium bg-blue-500 rounded-full px-2 py-1 text-white">
+                            Published
+                          </span>
                         ) : (
-                          <span class="btn btn-sm btn-secondary">Draft</span>
+                          <span class="text-xs font-medium bg-gray-500 rounded-full px-2 py-1 text-white">
+                            Draft
+                          </span>
                         )}
                       </td>
                       <td className="p-3 align-middle text-sm text-center">
@@ -213,25 +217,27 @@ export const MyBuildsPage = () => {
                           timestamp: build?.updatedAt,
                         })}
                       </td>
-                      <td className="p-3 flex gap-1 align-middle text-center ">
-                        <button
-                          className="btn btn-sm btn-primary"
-                          id={`edit-build-${build.id}`}
-                          onClick={() => {
-                            setParts(build.parts);
-                            setTitle(build.title);
-                            setDescription(build.description);
-                            setBuildId(build.id);
-                            navigate(`/builder/edit?buildId=${build.id}`);
-                          }}
-                        >
-                          <Pencil size={16} />
-                        </button>
-                        <RemoveMyBuild
-                          id={build.id}
-                          userId={build.userId}
-                          onSuccess={() => handleRemoveSuccess(build.id)}
-                        />
+                      <td className="p-3 text-center">
+                        <div className="flex items-center justify-center gap-1">
+                          <button
+                            className="hover:text-blue-500 active:text-blue-500 text-xs p-1 cursor-pointer"
+                            id={`edit-build-${build.id}`}
+                            onClick={() => {
+                              setParts(build.parts);
+                              setTitle(build.title);
+                              setDescription(build.description);
+                              setBuildId(build.id);
+                              navigate(`/builder/edit?buildId=${build.id}`);
+                            }}
+                          >
+                            <Pencil size={16} />
+                          </button>
+                          <RemoveMyBuild
+                            id={build.id}
+                            userId={build.userId}
+                            onSuccess={() => handleRemoveSuccess(build.id)}
+                          />
+                        </div>
                       </td>
                     </tr>
                   ))

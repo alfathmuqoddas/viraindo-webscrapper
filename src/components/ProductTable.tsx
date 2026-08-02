@@ -50,9 +50,9 @@ export const ProductTable = ({ products }: { products?: PartWithoutId[] }) => {
           <thead>
             <tr className="bg-black text-white text-left uppercase tracking-wider text-xs">
               <th className="p-3 w-1/12 font-bold">No</th>
-              <th className="p-3 w-6/12 font-bold">Model</th>
+              <th className="p-3 w-7/12 font-bold">Model</th>
               <th className="p-3 w-3/12 font-bold text-right">Price</th>
-              <th className="p-3 w-2/12 text-center font-bold">Action</th>
+              <th className="p-3 w-1/12 text-center font-bold">Action</th>
             </tr>
           </thead>
           <tbody className="divide-y divide-gray-300">
