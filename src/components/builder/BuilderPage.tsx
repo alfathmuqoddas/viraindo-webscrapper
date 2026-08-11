@@ -6,6 +6,7 @@ import {
   setDescription,
   partStore,
   resetParts,
+  $totalPrice,
 } from "@/store/partStore";
 import type { Part } from "@/type";
 import { db } from "@/firebase/client";
@@ -29,6 +30,7 @@ export default function BuilderPage({
 }) {
   const { user } = useAuth();
   const $parts = useStore(partStore);
+  const totalPrice = useStore($totalPrice);
   const [isSubmitting, setIsSubmitting] = useState(false);
 
   useEffect(() => {
@@ -74,6 +76,7 @@ export default function BuilderPage({
         userEmail: user?.email ?? "",
         userName: user?.name ?? "",
         userPhotoUrl: user?.photoURL ?? "",
+        price: totalPrice,
         updatedAt: serverTimestamp(),
       };
 
