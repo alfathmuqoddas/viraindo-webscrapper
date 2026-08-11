@@ -132,8 +132,8 @@ export const CompletedBuildPage = ({
         >
           <option value="latest">Latest</option>
           <option value="oldest">Oldest</option>
-          {/* <option value="highestPrice">Highest Price</option>
-          <option value="lowestPrice">Lowest Price</option> */}
+          <option value="highestPrice">Highest Price</option>
+          <option value="lowestPrice">Lowest Price</option>
         </select>
       </div>
       <div class="grid grid-cols-1 md:grid-cols-4 gap-4 mb-4">

@@ -138,9 +138,6 @@ export const MyBuildsPage = () => {
       ) : (
         <>
           <div className="flex items-end gap-4 justify-between mb-2">
-            <h2>
-              You have {builds.length} build{builds.length === 1 ? "" : "s"}
-            </h2>
             <button
               className="btn btn-primary"
               onClick={() => navigate("/builder")}
@@ -150,7 +147,7 @@ export const MyBuildsPage = () => {
             </button>
           </div>
 
-          <div className="overflow-x-auto border w-full text-sm mb-4">
+          <div className="overflow-x-auto rounded-xl border border-gray-300 w-full text-sm mb-4">
             <table className="w-full min-w-xl bg-white">
               <thead>
                 <tr className="bg-black text-white text-left uppercase tracking-wider text-xs">
@@ -169,7 +166,7 @@ export const MyBuildsPage = () => {
                   </th>
                 </tr>
               </thead>
-              <tbody className="divide-y">
+              <tbody className="divide-y divide-gray-300">
                 {!builds || builds.length === 0 ? (
                   <tr>
                     <td

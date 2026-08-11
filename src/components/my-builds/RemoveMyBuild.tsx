@@ -1,6 +1,6 @@
 import { useState } from "preact/hooks";
 import { useAuth } from "@/hooks/useAuth";
-import { X } from "lucide-preact";
+import { Trash2 as X } from "lucide-preact";
 import { dbLite } from "@/firebase/client";
 import { doc, deleteDoc } from "firebase/firestore/lite";
 

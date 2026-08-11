@@ -3,7 +3,7 @@ import AppLayout from "@/layout/AppLayout.astro";
 import MainLayout from "@/layout/MainLayout.astro";
 import { dbLite } from "@/firebase/client";
 import { type TBuild } from "@/type";
-import {collection, query, orderBy, limit, getDocs, where, type Timestamp, type DocumentData, type QueryDocumentSnapshot,type QueryConstraint} from "firebase/firestore/lite"
+import {collection, query, orderBy, limit, getDocs, where,type QueryConstraint} from "firebase/firestore/lite"
 import {CompletedBuildPage} from "@/components/completedBuilds/CompletedBuildPage"
 
 const PAGE_LIMIT = 12
