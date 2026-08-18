@@ -26,10 +26,9 @@ export const ProductTable = ({ products }: { products?: PartWithoutId[] }) => {
 
   const totalPages = Math.ceil(filteredProducts.length / pageSize);
   const startIndex = (currentPage - 1) * pageSize;
-  const visibleProducts = filteredProducts.slice(
-    startIndex,
-    startIndex + pageSize,
-  );
+  const visibleProducts = filteredProducts
+    .sort((a, b) => a.price - b.price)
+    .slice(startIndex, startIndex + pageSize);
 
   return (
     <div className="space-y-4">
