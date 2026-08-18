@@ -75,8 +75,8 @@ const metaDescription = `Viraindo Webscrapper - ${brandName} ${type}(s) - ${prod
     <MainLayout>
         <div class="mb-4">
           <h1 class="text-5xl tracking-tight">{brandName} {type}</h1>
-          <p>{products.length} item(s) found</p>
+          <p>{products.length} item(s)</p>
         </div>
-        <ProductTable products={products} client:load />
+        <ProductTable products={products} client:visible />
     </MainLayout>
 </AppLayout>
