@@ -1,32 +1,45 @@
 import data from "@/data.json";
+import { slugify } from "@/lib/helper";
 
 export const prerender = true;
 
 export function getStaticPaths() {
-  const pathsMap = new Map();
+  const brandPathsMap = new Map();
+  const allPathsMap = new Map();
 
-  data.forEach((item) => {
+  for (const item of data) {
     const type = item.type.toLowerCase();
-    const brand = item.brand.toLowerCase();
-
-    if (!brand || brand.trim() === "") return;
-
-    const key = `${type}/${brand}`;
-
-    if (!pathsMap.has(key)) {
-      pathsMap.set(key, {
-        params: { type, brand },
+    if (!allPathsMap.has(type)) {
+      allPathsMap.set(type, {
+        params: { type, brand: "all" },
         props: {
-          products: data.filter(
-            (i) =>
-              i.type.toLowerCase() === type && i.brand.toLowerCase() === brand,
-          ),
+          products: [],
         },
       });
     }
-  });
+    allPathsMap.get(type).props.products.push(item);
 
-  return Array.from(pathsMap.values());
+    if (!item.brand) return;
+    const brandSlug = slugify(item.brand);
+    if (!brandSlug) return;
+    const key = `${type}/${brandSlug}`;
+
+    if (!brandPathsMap.has(key)) {
+      brandPathsMap.set(key, {
+        params: { type, brand: brandSlug },
+        props: {
+          products: [],
+        },
+      });
+    }
+
+    brandPathsMap.get(key).props.products.push(item);
+  }
+
+  return [
+    ...Array.from(allPathsMap.values()),
+    ...Array.from(brandPathsMap.values()),
+  ];
 }
 
 export async function GET({ props }) {
