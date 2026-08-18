@@ -1,5 +1,4 @@
 import { useState, useCallback, useEffect } from "preact/hooks";
-import { ArrowUpDown } from "lucide-preact";
 import { type TBuild } from "@/type";
 import {
   collection,
@@ -23,6 +22,12 @@ type TCompletedBuildPageProps = {
   initialCursorValue: number | string | null;
 };
 
+type TCursorParam =
+  | QueryDocumentSnapshot<DocumentData>
+  | Timestamp
+  | string
+  | null;
+
 type TOrder = "latest" | "oldest" | "highestPrice" | "lowestPrice";
 
 const PAGE_LIMIT = 12;
@@ -37,9 +42,9 @@ export const CompletedBuildPage = ({
   const [isLoading, setIsLoading] = useState(false);
   const [hasMore, setHasMore] = useState(initialHasMore);
   const [order, setOrder] = useState<TOrder>("latest");
-  const [cursor, setCursor] = useState<
-    number | string | QueryDocumentSnapshot<DocumentData> | null
-  >(initialCursorValue);
+  const [cursor, setCursor] = useState<number | TCursorParam>(
+    initialCursorValue,
+  );
 
   const fetchBuilds = useCallback(async () => {
     if (isLoading || !hasMore) return;
@@ -50,11 +55,7 @@ export const CompletedBuildPage = ({
 
       const constraints: QueryConstraint[] = [where("isPublished", "==", true)];
 
-      let cursorParam:
-        | QueryDocumentSnapshot<DocumentData>
-        | Timestamp
-        | string
-        | null = null;
+      let cursorParam: TCursorParam = null;
 
       if (typeof cursor === "number") {
         cursorParam = Timestamp.fromMillis(cursor);
@@ -142,7 +143,7 @@ export const CompletedBuildPage = ({
         ))}
       </div>
       <nav className="flex justify-center">
-        {hasMore ? (
+        {hasMore && (
           <button
             onClick={fetchBuilds}
             class="btn btn-primary btn-sm"
@@ -150,8 +151,6 @@ export const CompletedBuildPage = ({
           >
             {isLoading ? "Loading..." : "Load More"}
           </button>
-        ) : (
-          <></>
         )}
       </nav>
     </>

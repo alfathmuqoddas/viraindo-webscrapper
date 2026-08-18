@@ -15,20 +15,33 @@ interface Props {
 export const prerender = true;
 
 export async function getStaticPaths() {
-  const pathsMap = new Map();
+  const brandPathsMap = new Map();
+  const allPathsMap = new Map()
 
   for (const item of data) {
-    if (!item.type || !item.brand) continue;
+    if (!item.type) continue;
 
     const type = item.type.toLowerCase();
-    const brandSlug = slugify(item.brand);
 
+    if (!allPathsMap.has(type)) {
+      allPathsMap.set(type, {
+        params: {type, brand: "all"},
+        props: {
+          brandName: "All Brands",
+          products: [],
+        }
+      })
+    }
+    allPathsMap.get(type).props.products.push(item)
+
+    if (!item.brand) continue;
+    const brandSlug = slugify(item.brand);
     if (!brandSlug) continue;
 
     const key = `${type}/${brandSlug}`;
 
-    if (!pathsMap.has(key)) {
-      pathsMap.set(key, {
+    if (!brandPathsMap.has(key)) {
+      brandPathsMap.set(key, {
         params: { type, brand: brandSlug },
         props: {
           brandName: item.brand,
@@ -38,10 +51,10 @@ export async function getStaticPaths() {
     }
 
     // Push product directly in O(1) time
-    pathsMap.get(key).props.products.push(item);
+    brandPathsMap.get(key).props.products.push(item);
   }
 
-  return Array.from(pathsMap.values()) 
+  return [...Array.from(allPathsMap.values()),...Array.from(brandPathsMap.values())]
 }
 
 const { type } = Astro.params;
