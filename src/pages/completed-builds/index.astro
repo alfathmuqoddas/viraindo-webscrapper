@@ -3,13 +3,13 @@ import AppLayout from "@/layout/AppLayout.astro";
 import MainLayout from "@/layout/MainLayout.astro";
 import { dbLite } from "@/firebase/client";
 import { type TBuild } from "@/type";
-import {collection, query, orderBy, limit, getDocs, where,type QueryConstraint} from "firebase/firestore/lite"
+import {collection, query, orderBy, limit, getDocs, where,type QueryConstraint, Timestamp} from "firebase/firestore/lite"
 import {CompletedBuildPage} from "@/components/completedBuilds/CompletedBuildPage"
 
 const PAGE_LIMIT = 12
 
 let initialBuilds: (TBuild & { id: string })[] = []
-let initialCursorValue: number | string | null = null
+let initialCursorValue: number | null = null
 let initialHasMore = true
 let error: any = null
 
@@ -31,17 +31,21 @@ try {
     }))
 
    if (initialBuilds.length > 0) {
-        const lastBuild = initialBuilds[initialBuilds.length - 1];
-        const rawCreatedAt = lastBuild?.createdAt as any;
+    const lastBuild = initialBuilds[initialBuilds.length - 1];
+    const rawCreatedAt = lastBuild?.createdAt as any;
 
-        if (rawCreatedAt && typeof rawCreatedAt.toMillis === "function") {
-            initialCursorValue = rawCreatedAt.toMillis();
-        } else if (rawCreatedAt && typeof rawCreatedAt.seconds === "number") {
-            initialCursorValue = rawCreatedAt.seconds * 1000;
-        } else if (typeof rawCreatedAt === "number") {
-            initialCursorValue = rawCreatedAt;
-        }
+    if (rawCreatedAt instanceof Timestamp) {
+      initialCursorValue = rawCreatedAt.toMillis();
+    } else if (rawCreatedAt && typeof rawCreatedAt.toMillis === "function") {
+      initialCursorValue = rawCreatedAt.toMillis();
+    } else if (rawCreatedAt && typeof rawCreatedAt.seconds === "number") {
+      initialCursorValue = rawCreatedAt.seconds * 1000;
+    } else if (typeof rawCreatedAt === "number") {
+      initialCursorValue = rawCreatedAt;
+    } else if (typeof rawCreatedAt === "string") {
+      initialCursorValue = new Date(rawCreatedAt).getTime();
     }
+  }
 
     if (snapshot.docs.length < PAGE_LIMIT) {
         initialHasMore = false
@@ -61,7 +65,7 @@ try {
             error ? (
                 <p class="wrap-break-words">Error: {error}</p>
             ) : (
-                <CompletedBuildPage initialBuilds={initialBuilds} initialHasMore={initialHasMore} initialCursorValue={initialCursorValue} client:load />
+                <CompletedBuildPage initialBuilds={initialBuilds} initialHasMore={initialHasMore} initialCursorValue={initialCursorValue} client:idle />
             )
         }
     </MainLayout>

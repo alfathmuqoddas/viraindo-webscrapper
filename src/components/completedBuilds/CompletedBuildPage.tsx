@@ -1,4 +1,4 @@
-import { useState, useCallback, useEffect } from "preact/hooks";
+import { useState, useCallback, useEffect, useRef } from "preact/hooks";
 import { type TBuild } from "@/type";
 import {
   collection,
@@ -46,72 +46,95 @@ export const CompletedBuildPage = ({
     initialCursorValue,
   );
 
-  const fetchBuilds = useCallback(async () => {
-    if (isLoading || !hasMore) return;
-    setIsLoading(true);
+  const isInitialMount = useRef(true);
 
-    try {
-      const postRef = collection(dbLite, "pcpart_builds");
+  const fetchBuilds = useCallback(
+    async (isReset = false, currentOrder = order, currentCursor = cursor) => {
+      if (isLoading) return;
+      setIsLoading(true);
 
-      const constraints: QueryConstraint[] = [where("isPublished", "==", true)];
+      try {
+        const postRef = collection(dbLite, "pcpart_builds");
 
-      let cursorParam: TCursorParam = null;
+        const constraints: QueryConstraint[] = [
+          where("isPublished", "==", true),
+        ];
 
-      if (typeof cursor === "number") {
-        cursorParam = Timestamp.fromMillis(cursor);
-      } else {
-        cursorParam = cursor;
+        switch (currentOrder) {
+          case "latest":
+            constraints.push(orderBy("createdAt", "desc"));
+            break;
+          case "oldest":
+            constraints.push(orderBy("createdAt", "asc"));
+            break;
+          case "highestPrice":
+            constraints.push(orderBy("price", "desc"));
+            break;
+          case "lowestPrice":
+            constraints.push(orderBy("price", "asc"));
+            break;
+          default:
+            constraints.push(orderBy("createdAt", "desc"));
+        }
+
+        if (currentCursor && !isReset) {
+          let cursorParam: TCursorParam = null;
+
+          if (typeof currentCursor === "number") {
+            cursorParam = Timestamp.fromMillis(currentCursor);
+          } else {
+            cursorParam = currentCursor;
+          }
+
+          if (cursorParam) {
+            constraints.push(startAfter(cursorParam));
+          }
+        }
+
+        constraints.push(limit(PAGE_LIMIT));
+
+        const q = query(postRef, ...constraints);
+        const snapshot = await getDocs(q);
+
+        const newBuilds = snapshot.docs.map((doc) => ({
+          id: doc.id,
+          ...(doc.data() as TBuild),
+        }));
+
+        if (isReset) {
+          setBuilds(newBuilds);
+        } else {
+          setBuilds((prev) => [...prev, ...newBuilds]);
+        }
+
+        const lastSnapshot = snapshot.docs[snapshot.docs.length - 1];
+        setCursor(lastSnapshot || null);
+
+        if (snapshot.docs.length < PAGE_LIMIT) {
+          setHasMore(false);
+        } else {
+          setHasMore(true);
+        }
+      } catch (e) {
+        console.error(e);
+        alert("Failed to fetch data");
+      } finally {
+        setIsLoading(false);
       }
-
-      switch (order) {
-        case "latest":
-          constraints.push(orderBy("createdAt", "desc"));
-          break;
-        case "oldest":
-          constraints.push(orderBy("createdAt", "asc"));
-          break;
-        case "highestPrice":
-          constraints.push(orderBy("price", "desc"));
-          break;
-        case "lowestPrice":
-          constraints.push(orderBy("price", "asc"));
-          break;
-        default:
-          constraints.push(orderBy("createdAt", "desc"));
-      }
-
-      if (cursor) {
-        constraints.push(startAfter(cursor));
-      }
-
-      constraints.push(limit(PAGE_LIMIT));
-
-      const q = query(postRef, ...constraints);
-      const snapshot = await getDocs(q);
-
-      const newBuilds = snapshot.docs.map((doc) => ({
-        id: doc.id,
-        ...(doc.data() as TBuild),
-      }));
-
-      setBuilds((prev) => [...prev, ...newBuilds]);
-
-      const lastSnapshot = snapshot.docs[snapshot.docs.length - 1];
-      setCursor(lastSnapshot);
-
-      if (snapshot.docs.length < PAGE_LIMIT) {
-        setHasMore(false);
-      }
-    } catch (e) {
-      console.error(e);
-      alert("Failed to fetch data");
-    } finally {
-      setIsLoading(false);
-    }
-  }, [cursor, hasMore, isLoading]);
+    },
+    [cursor, order, isLoading],
+  );
 
   useEffect(() => {
-    fetchBuilds();
+    if (isInitialMount.current) {
+      isInitialMount.current = false;
+      return; // Skip fetch on initial SSR mount!
+    }
+
+    // Reset pagination state and fetch fresh sorted data from Page 1
+    setHasMore(true);
+    setCursor(null);
+    fetchBuilds(true, order, null);
   }, [order]);
 
   return (
@@ -145,7 +168,7 @@ export const CompletedBuildPage = ({
       <nav className="flex justify-center">
         {hasMore && (
           <button
-            onClick={fetchBuilds}
+            onClick={() => fetchBuilds(false)}
             class="btn btn-primary btn-sm"
             disabled={isLoading}
           >
