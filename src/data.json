@@ -6506,8 +6506,8 @@
   {
     "type": "storage",
     "brand": "ADATA",
-    "model": "ADATA XPG GAMMIX S70 BLADE 1TB PCIe Gen4x4 - R 7400MB/S W 5500MB/S - AGAMMIXS70B-1T-CS",
-    "price": 4050000
+    "model": "ADATA XPG GAMMIX S70 BLADE 1TB PCIe Gen4x4 - R 7400MB/S W 5500MB/S - AGAMMIXS70B-1T-CS (Ready Stock)",
+    "price": 3100000
   },
   {
     "type": "storage",
@@ -12908,8 +12908,8 @@
   {
     "type": "storage",
     "brand": "V-GEN",
-    "model": "V-GeN SSD M.2 1TB",
-    "price": 3190000
+    "model": "V-GeN SSD M.2 1TB (Ready Stock)",
+    "price": 2980000
   },
   {
     "type": "storage",
@@ -12926,8 +12926,8 @@
   {
     "type": "storage",
     "brand": "V-GEN",
-    "model": "V-GeN SSD M.2 512GB",
-    "price": 1605000
+    "model": "V-GeN SSD M.2 512GB (Ready Stock)",
+    "price": 1490000
   },
   {
     "type": "storage",
@@ -12969,7 +12969,7 @@
     "type": "storage",
     "brand": "V-GEN",
     "model": "V-Gen SSD M.2 NVMe PCIe Gen3 x4 1TB - Hyper Series (Ready Stock)",
-    "price": 3180000
+    "price": 2980000
   },
   {
     "type": "storage",
@@ -13010,8 +13010,8 @@
   {
     "type": "storage",
     "brand": "V-GEN",
-    "model": "V-Gen SSD M.2 NVMe PCIe Gen3 x4 512GB - Hyper Series",
-    "price": 1670000
+    "model": "V-Gen SSD M.2 NVMe PCIe Gen3 x4 512GB - Hyper Series (Ready Stock)",
+    "price": 1490000
   },
   {
     "type": "storage",
@@ -13286,7 +13286,25 @@
   {
     "type": "storage",
     "brand": "WD",
+    "model": "WD BLACK SN7100S NVMe SSD 512GB M.2 2242 PCIe Gen4 x4 - Hi Speed (Ready Stock)",
+    "price": 2400000
+  },
+  {
+    "type": "storage",
+    "brand": "WD",
+    "model": "WD BLACK SN7100S NVMe SSD 512GB M.2 2280 PCIe Gen4 x4 - Hi Speed (Ready Stock)",
+    "price": 2400000
+  },
+  {
+    "type": "storage",
+    "brand": "WD",
     "model": "WD Black SN720 SSD M.2 2280 NVMe PCIe Gen3x4 512GB - Hi Speed (Ready Stock)",
+    "price": 1790000
+  },
+  {
+    "type": "storage",
+    "brand": "WD",
+    "model": "WD Black SN730 SSD M.2 2280 NVMe PCIe Gen3x4 512GB - Hi Speed (Ready Stock)",
     "price": 1790000
   },
   {
@@ -47290,6 +47308,30 @@
     "brand": "APPLE",
     "model": "Apple Mac Mini M4 Pro MCX44 / MCX44ID / APPLE MAC MINI M4 PRO 16C GPU 24GB 512GB 10C CPU WHT -MCX44ID (Apple M4 Pro 10-core CPU, 16-core GPU, RAM 24GB, 512GB SSD, Mac OS) Silver",
     "price": 22800000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "APPLE",
+    "model": "Apple Mac Mini M5 Pro (Apple M5 Pro 15-core CPU, 16-core GPU, RAM 24GB, 512GB SSD, Mac OS) Ready Stock",
+    "price": 39900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "APPLE",
+    "model": "Apple Mac Mini M6 (Apple M6 12-core CPU, 12-core GPU, RAM 16GB, 512GB SSD, Mac OS) Ready Stock",
+    "price": 24900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "APPLE",
+    "model": "Apple Mac Mini M6 (Apple M6 12-core CPU, 12-core GPU, RAM 24GB, 512GB SSD, Mac OS) Ready Stock",
+    "price": 32900000
+  },
+  {
+    "type": "pc-branded",
+    "brand": "APPLE",
+    "model": "Apple Mac Mini M6 MHQK4 (Apple M6 12-core CPU, 12-core GPU, RAM 16GB, 256GB SSD, Mac OS) Ready Stock (Silver)",
+    "price": 19900000
   },
   {
     "type": "pc-branded",
@@ -147094,6 +147136,162 @@
     "brand": "LENOVO",
     "model": "Lenovo Slim 1 3DID (AMD Athlon Silver 3050E, RAM 4 GB, SSD 256 GB, Vga Ati Radeon Graphics, LED 11.6\", Windows 10)",
     "price": 5250000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 16 GB SSD 1 TB Touchscreen Win 11 Pro (AMD Ryzen 7 8840HS, RAM 16 GB, SSD 1 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": 16900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 16 GB SSD 1 TB Touchscreen Win 11 Pro + OH (AMD Ryzen 7 8840HS, RAM 16 GB, SSD 1 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 17900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 16 GB SSD 2 TB Touchscreen Win 11 Pro (AMD Ryzen 7 8840HS, RAM 16 GB, SSD 2 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": 19900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 16 GB SSD 2 TB Touchscreen Win 11 Pro + OH (AMD Ryzen 7 8840HS, RAM 16 GB, SSD 2 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 20900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 16 GB SSD 4 TB Touchscreen Win 11 Pro (AMD Ryzen 7 8840HS, RAM 16 GB, SSD 4 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": 23900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 16 GB SSD 4 TB Touchscreen Win 11 Pro + OH (AMD Ryzen 7 8840HS, RAM 16 GB, SSD 4 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 24900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 16 GB SSD 512 GB Touchscreen Win 11 (AMD Ryzen 7 8840HS, RAM 16 GB, SSD 512 GB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Win 11 Home) Ready Stock",
+    "price": 13600000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 16 GB SSD 512 GB Touchscreen Win 11 + OH (AMD Ryzen 7 8840HS, RAM 16 GB, SSD 512 GB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Win 11 Home + Office Home) Ready Stock",
+    "price": 14900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 16 GB SSD 512 GB Touchscreen Win 11 Pro (AMD Ryzen 7 8840HS, RAM 16 GB, SSD 512 GB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": 14900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 16 GB SSD 512 GB Touchscreen Win 11 Pro + OH (AMD Ryzen 7 8840HS, RAM 16 GB, SSD 512 GB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 15900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 32 GB SSD 1 TB Touchscreen Win 11 Pro (AMD Ryzen 7 8840HS, RAM 32 GB, SSD 1 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": 20900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 32 GB SSD 1 TB Touchscreen Win 11 Pro + OH (AMD Ryzen 7 8840HS, RAM 32 GB, SSD 1 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 21900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 32 GB SSD 2 TB Touchscreen Win 11 Pro (AMD Ryzen 7 8840HS, RAM 32 GB, SSD 2 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": 23900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 32 GB SSD 2 TB Touchscreen Win 11 Pro + OH (AMD Ryzen 7 8840HS, RAM 32 GB, SSD 2 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 24900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 32 GB SSD 4 TB Touchscreen Win 11 Pro (AMD Ryzen 7 8840HS, RAM 32 GB, SSD 4 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": 27900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 32 GB SSD 4 TB Touchscreen Win 11 Pro + OH (AMD Ryzen 7 8840HS, RAM 32 GB, SSD 4 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 28900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 32 GB SSD 512 GB Touchscreen Win 11 Pro (AMD Ryzen 7 8840HS, RAM 32 GB, SSD 512 GB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": 18900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 32 GB SSD 512 GB Touchscreen Win 11 Pro + OH (AMD Ryzen 7 8840HS, RAM 32 GB, SSD 512 GB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 19900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 64 GB SSD 1 TB Touchscreen Win 11 Pro (AMD Ryzen 7 8840HS, RAM 64 GB, SSD 1 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": 28900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 64 GB SSD 1 TB Touchscreen Win 11 Pro + OH (AMD Ryzen 7 8840HS, RAM 64 GB, SSD 1 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 29900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 64 GB SSD 2 TB Touchscreen Win 11 Pro (AMD Ryzen 7 8840HS, RAM 64 GB, SSD 2 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": 31900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 64 GB SSD 2 TB Touchscreen Win 11 Pro + OH (AMD Ryzen 7 8840HS, RAM 64 GB, SSD 2 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 32900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 64 GB SSD 4 TB Touchscreen Win 11 Pro (AMD Ryzen 7 8840HS, RAM 64 GB, SSD 4 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": 35900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 64 GB SSD 4 TB Touchscreen Win 11 Pro + OH (AMD Ryzen 7 8840HS, RAM 64 GB, SSD 4 TB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 36900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 64 GB SSD 512 GB Touchscreen Win 11 Pro (AMD Ryzen 7 8840HS, RAM 64 GB, SSD 512 GB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional) Ready Stock",
+    "price": 26900000
+  },
+  {
+    "type": "notebook",
+    "brand": "HP",
+    "model": "Lenovo Slim 3 15AHP10 Ryzen 7 8840HS Memori 64 GB SSD 512 GB Touchscreen Win 11 Pro + OH (AMD Ryzen 7 8840HS, RAM 64 GB, SSD 512 GB, Vga AMD Radeon 780M, LED 15.3 WUXGA Touchscreen, Windows 11 Profesional + Office Home) Ready Stock",
+    "price": 27900000
   },
   {
     "type": "notebook",
