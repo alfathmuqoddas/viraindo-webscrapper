@@ -8,11 +8,13 @@ import { SOURCES, COMPONENT_BRANDS } from "./constant.mts";
  * "Cooler Master"  →  "COOLER MASTER"
  */
 function normaliseText(text: string) {
-  return text
-    .replace(/[^a-z0-9\s]/gi, "") // delete everything except letters, digits and spaces
-    .replace(/\s+/g, " ") // collapse multiple spaces
-    .trim()
-    .toUpperCase();
+  return (
+    text
+      .replace(/[^a-z0-9\s]/gi, "") // delete everything except letters, digits and spaces
+      // .replace(/\s+/g, " ") // collapse multiple spaces
+      .trim()
+      .toUpperCase()
+  );
 }
 
 /**
